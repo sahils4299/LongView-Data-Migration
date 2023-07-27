@@ -1,0 +1,948 @@
+property_id,requested_by,access_contact,tenancy_id,summary,details,status,quote_request_creditor_ids,work_order_creditor_id
+rps_lng-HDO110012,Tenancy,Tenancy,rps_lng-RPT191545,URGENT Roof Leak from Ducting Heating Vent Ceiling,URGENT Roof Leak from Ducting Heating Vent Ceiling,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO110018,Agency,Agency,,Carpet drying ongoing leaks,Carpet drying ongoing leaks,WorkOrder,,rps_lng-HDO19001480
+rps_lng-HDO110018,Agency,Agency,,Balcony Leak to bedroom- Waterproof membrane,Balcony Leak to bedroom- Waterproof membrane,WorkOrder,,rps_lng-WES19000038
+rps_lng-HDO110018,Agency,Agency,,Leak detection test,Leak detection test,WorkOrder,,rps_lng-WES19000025
+rps_lng-HDO110018,Agency,Agency,,Water Leak Detection,Water Leak Detection,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO110018,Agency,Agency,,Water leak in bedroom,Water leak in bedroom,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO110018,Agency,Agency,,Carpet drying for one bedroom,Carpet drying for one bedroom,WorkOrder,,rps_lng-HDO19001480
+rps_lng-HDO110030,Tenancy,Tenancy,rps_lng-RPT191242,Garage Door not Secure,Garage Door not Secure,WorkOrder,,rps_lng-HDO19002005
+rps_lng-HDO110030,Tenancy,Tenancy,rps_lng-RPT191242,Rangehood Filter Replacement,Rangehood Filter Replacement,WorkOrder,,rps_lng-DRE21000029
+rps_lng-HDO110030,Tenancy,Tenancy,rps_lng-RPT191242,Garage roller door jamming,Garage roller door jamming,WorkOrder,,
+rps_lng-HDO110030,Tenancy,Tenancy,rps_lng-RPT191242,Roof leak,Roof leak,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO110030,Tenancy,Tenancy,rps_lng-RPT191242,Ducted Heating,Ducted Heating,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO110259,Agency,Agency,,Shower Head Crack,Shower Head Crack,WorkOrder,,rps_lng-HDO19001076
+rps_lng-HDO110259,Agency,Agency,,119/270 Carpet Clean - Reimbursement,119/270 Carpet Clean - Reimbursement,WorkOrder,,rps_lng-DRE21000004
+rps_lng-HDO110259,Agency,Agency,,HWS Leak,HWS Leak,WorkOrder,,rps_lng-HDO19001076
+rps_lng-HDO110259,Tenancy,Tenancy,rps_lng-RPT195250,120/270 Springvale - Tap,120/270 Springvale - Tap,WorkOrder,,rps_lng-HDO13002392
+rps_lng-HDO110259,Tenancy,Tenancy,rps_lng-RPT196018,120/270 Springvale - Elect HWS,120/270 Springvale - Elect HWS,WorkOrder,,rps_lng-HDO12003003
+rps_lng-HDO110259,Tenancy,Tenancy,rps_lng-RPT196018,120/270 Springvale - power point,120/270 Springvale - power point,WorkOrder,,rps_lng-HDO12003003
+rps_lng-HDO110259,Agency,Agency,,Insurance excess - leak,Insurance excess - leak,WorkOrder,,
+rps_lng-HDO110259,Agency,Agency,,Leak into apt 121,Leak into apt 121,WorkOrder,,rps_lng-HDO14002397
+rps_lng-HDO110259,Agency,Agency,,120/270 Springvale rd - Blinds,120/270 Springvale rd - Blinds,WorkOrder,,rps_lng-HDO13002453
+rps_lng-HDO110259,Agency,Agency,,120/270 Springvale - Mould,120/270 Springvale - Mould,WorkOrder,,
+rps_lng-HDO110259,Tenancy,Tenancy,rps_lng-RPT197984,120/270 Springvale - No hot water,120/270 Springvale - No hot water,WorkOrder,,rps_lng-HDO12003003
+rps_lng-HDO120003,Agency,Agency,,Garage Cornice,Garage Cornice,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO120003,Agency,Agency,,separate toilet flush mech broken,separate toilet flush mech broken,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120003,Agency,Agency,,Fan to be installed - Alfresco,Fan to be installed - Alfresco,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO120003,Agency,Agency,,Many genreal maintanence,Many genreal maintanence,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO120003,Agency,Agency,,Verve - FLy screens,Verve - FLy screens,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO120003,Agency,Agency,,New Dishlex Dishwasher,New Dishlex Dishwasher,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO120009,Agency,Agency,,"Garden, Carpet & Touch Ups","Garden, Carpet & Touch Ups",WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO120009,Tenancy,Tenancy,rps_lng-RPT190002,Light switch faulty and globe stuck,Light switch faulty and globe stuck,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO120009,Agency,Agency,,Ducted System repair,Ducted System repair,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO120018,Agency,Agency,,Pet Damage Bond Claim,Pet Damage Bond Claim,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO120018,Agency,Agency,,BOND CLAIM - pet damage,BOND CLAIM - pet damage,WorkOrder,,rps_lng-HDO19002574
+rps_lng-HDO120018,Tenancy,Tenancy,rps_lng-RPT191323,Bedroom - Shower may be leaking into main bedroom,Bedroom - Shower may be leaking into main bedroom,WorkOrder,,
+rps_lng-HDO120018,Tenancy,Tenancy,rps_lng-RPT191323,Garage Door,Garage Door,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO120018,Agency,Agency,,Hallway door,Hallway door,WorkOrder,,rps_lng-HDO20000602
+rps_lng-HDO120018,Tenancy,Tenancy,rps_lng-RPT191323,Garage door handle,Garage door handle,WorkOrder,,rps_lng-JAM20000086
+rps_lng-HDO120018,Agency,Agency,,Leaking hot water uinit,Leaking hot water uinit,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120033,Agency,Agency,,Render Rust Mark & Sliding Door,Render Rust Mark & Sliding Door,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120033,Agency,Agency,,Stove Top/Oven Power Loss,Stove Top/Oven Power Loss,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO120033,Agency,Agency,,Bathtub Tap,Bathtub Tap,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120033,Tenancy,Tenancy,rps_lng-HDO210194,"Taps, Remotes & Lock","Taps, Remotes & Lock",WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120033,Agency,Agency,,heater issues,heater issues,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO120033,Agency,Agency,,bathroom taps dripping,bathroom taps dripping,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120056,Agency,Agency,,Fly Screen Barrel,Fly Screen Barrel,WorkOrder,,rps_lng-CVA21002453
+rps_lng-HDO120056,Agency,Agency,,"HWS, Stove, Toilet replacement","HWS, Stove, Toilet replacement",WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO120056,Tenancy,Tenancy,rps_lng-RPT191550,"No Hot Water, Gas Burner & Toilet Flush Button","No Hot Water, Gas Burner & Toilet Flush Button",WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO120056,Tenancy,Tenancy,rps_lng-RPT191550,"Heating and Cooling, and gas burner","Heating and Cooling, and gas burner",WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO120056,Agency,Agency,,Termite Warranty Inspection,Termite Warranty Inspection,WorkOrder,,rps_lng-WES19000012
+rps_lng-HDO120056,Tenancy,Tenancy,rps_lng-RPT191550,Heating/Cooling Error Codes,Heating/Cooling Error Codes,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO120056,Agency,Agency,,leak under sink,leak under sink,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120069,Agency,Agency,,AC service/repair,AC service/repair,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO120069,Agency,Agency,,Ceiling repairs,Ceiling repairs,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO120069,Agency,Agency,,Water Ingress from bath and shower,Water Ingress from bath and shower,WorkOrder,,rps_lng-HDO18002155
+rps_lng-HDO120069,Tenancy,Tenancy,rps_lng-HDO190069,PLease quote on leak repairs,PLease quote on leak repairs,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO120069,Agency,Agency,,The tenant has reported that the laundry sink is l,The tenant has reported that the laundry sink is l,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO120074,Agency,Agency,,Whole to be patched,Whole to be patched,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO120074,Tenancy,Tenancy,rps_lng-RPT191402,Stove plates do not work+ bathroom tap,Stove plates do not work+ bathroom tap,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO120077,Agency,Agency,,Ducted system not working,Ducted system not working,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO120077,Agency,Agency,,Light Switch,Light Switch,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO120077,Tenancy,Tenancy,rps_lng-RPT191580,Dishwasher Repair,Dishwasher Repair,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO120081,Agency,Agency,,Dishwasher repair,Dishwasher repair,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO120081,Agency,Agency,,- Cook top attendance fail,- Cook top attendance fail,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO120081,Agency,Agency,,Instalttion of cooktop,Instalttion of cooktop,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO120081,Tenancy,Tenancy,rps_lng-RPT190900,Leaking Laundry Pipe and Taps,Leaking Laundry Pipe and Taps,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120081,Agency,Agency,,Repair Dishwasher,Repair Dishwasher,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO120081,Agency,Agency,,Stove top-,Stove top-,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO120081,Agency,Agency,,Bench stone cut to fit new stove,Bench stone cut to fit new stove,WorkOrder,,rps_lng-WES19000007
+rps_lng-HDO120091,Agency,Agency,,Hot water system repair,Hot water system repair,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO120091,Agency,Agency,,Hot water system repairs,Hot water system repairs,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO120091,Agency,Agency,,Hot Water Service Replacement,Hot Water Service Replacement,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO120091,Tenancy,Tenancy,rps_lng-HDO200825,Hot Water System Intermittent,Hot Water System Intermittent,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO120091,Tenancy,Tenancy,rps_lng-HDO200825,Light Switch Repair,Light Switch Repair,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO120110,Agency,Agency,,Evaporative Cooling,Evaporative Cooling,WorkOrder,,rps_lng-DRE19000104
+rps_lng-HDO120110,Agency,Agency,,Door hinge repair- toilet upstairs,Door hinge repair- toilet upstairs,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO120110,Agency,Agency,,Dishwasher & Powder room pipe,Dishwasher & Powder room pipe,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO120135,Agency,Agency,,Cooktop Electric Installation,Cooktop Electric Installation,WorkOrder,,rps_lng-HDO21001564
+rps_lng-HDO120135,Agency,Agency,,Blinds,Blinds,WorkOrder,,rps_lng-HDO19002574
+rps_lng-HDO120135,Tenancy,Tenancy,rps_lng-HDO200039,Oven,Oven,WorkOrder,,rps_lng-HDO14000933
+rps_lng-HDO120135,Tenancy,Tenancy,rps_lng-RPT191658,"Carpet to be cleaned/dried - 2/140 McKinnon Road, ","Carpet to be cleaned/dried - 2/140 McKinnon Road, ",WorkOrder,,rps_lng-HDO14000920
+rps_lng-HDO120135,Tenancy,Tenancy,rps_lng-RPT191658,"Water Leak- 2/140 McKinnon Road, McKinnon","Water Leak- 2/140 McKinnon Road, McKinnon",WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO120135,Tenancy,Tenancy,rps_lng-RPT191658,"Bathroom Light Switch - 2/140 McKinnon Road, McKin","Bathroom Light Switch - 2/140 McKinnon Road, McKin",WorkOrder,,rps_lng-HDO14000933
+rps_lng-HDO120135,Tenancy,Tenancy,rps_lng-RPT191658,"Towel Rail & Toilet Seat- 2/140 McKinnon Road, McK","Towel Rail & Toilet Seat- 2/140 McKinnon Road, McK",WorkOrder,,rps_lng-HDO14000957
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT191764,13/272 Albert -Dishwasher door repai,13/272 Albert -Dishwasher door repai,WorkOrder,,rps_lng-HDO12001460
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT191764,Dishwasher,Dishwasher,WorkOrder,,rps_lng-HDO12001460
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,13/272 Albert Road - Outside light,13/272 Albert Road - Outside light,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,13/272 Albert Road -Window winder and door handle,13/272 Albert Road -Window winder and door handle,WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,13/272 Albert Street -Door handle & Exhuast fan,13/272 Albert Street -Door handle & Exhuast fan,WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,13/272 Albert Street- Loose Window,13/272 Albert Street- Loose Window,WorkOrder,,rps_lng-HDO12001407
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert Street, Brunswick East - URGENT - Re","13/272 Albert Street, Brunswick East - URGENT - Re",WorkOrder,,rps_lng-HDO12001407
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 ALbert Street, Brunswick- 5 faulty lights","13/272 ALbert Street, Brunswick- 5 faulty lights",WorkOrder,,rps_lng-HDO16000984
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick- General repairs","13/272 Albert St, Brunswick- General repairs",WorkOrder,,rps_lng-HDO15001021
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,13/272 Albert St Brunswick- Blind Repair,13/272 Albert St Brunswick- Blind Repair,WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert Street, Brunswick- Leaking kitchen t","13/272 Albert Street, Brunswick- Leaking kitchen t",WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - Leaking toilet","13/272 Albert St, Brunswick - Leaking toilet",WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - Blind","13/272 Albert St, Brunswick - Blind",WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - Blind repair","13/272 Albert St, Brunswick - Blind repair",WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - Balcony door","13/272 Albert St, Brunswick - Balcony door",WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - window winder","13/272 Albert St, Brunswick - window winder",WorkOrder,,rps_lng-HDO13000971
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - exhaust fan repair","13/272 Albert St, Brunswick - exhaust fan repair",WorkOrder,,rps_lng-HDO12001431
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - toilet blocked","13/272 Albert St, Brunswick - toilet blocked",WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,"13/272 Albert St, Brunswick - Lock repair","13/272 Albert St, Brunswick - Lock repair",WorkOrder,,rps_lng-HDO12001407
+rps_lng-HDO120337,Tenancy,Tenancy,rps_lng-RPT192056,Carpet quote,Carpet quote,WorkOrder,,rps_lng-HDO12001452
+rps_lng-HDO120463,Agency,Agency,,BOND CLAIM,BOND CLAIM,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO120463,Tenancy,Tenancy,rps_lng-HDO200253,Miscellaneous,Miscellaneous,WorkOrder,,
+rps_lng-HDO120463,Agency,Agency,,Bathroom Light & Hot Water,Bathroom Light & Hot Water,WorkOrder,,
+rps_lng-HDO120463,Agency,Agency,,LED light,LED light,WorkOrder,,
+rps_lng-HDO120463,Tenancy,Tenancy,rps_lng-RPT193171,OKE-531558 - 282 Blyth - Replace Oven element,OKE-531558 - 282 Blyth - Replace Oven element,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO120466,Agency,Agency,,Smoke alarm would randomly beep,Smoke alarm would randomly beep,WorkOrder,,
+rps_lng-HDO120466,Agency,Agency,,Mould on Bathroom Ceiling,Mould on Bathroom Ceiling,WorkOrder,,
+rps_lng-HDO120466,Tenancy,Tenancy,rps_lng-RPT193230,5/82 Blyth Street - Smoke Alarm Service URGENT,5/82 Blyth Street - Smoke Alarm Service URGENT,WorkOrder,,rps_lng-HDO17001377
+rps_lng-HDO120467,Agency,Agency,,Settings on the oven are not working,Settings on the oven are not working,WorkOrder,,
+rps_lng-HDO120467,Tenancy,Tenancy,rps_lng-HDO200565,LL Completed,LL Completed,WorkOrder,,
+rps_lng-HDO120467,Tenancy,Tenancy,rps_lng-HDO200565,Remote not opening gate access/exit via car,Remote not opening gate access/exit via car,WorkOrder,,
+rps_lng-HDO120467,Tenancy,Tenancy,rps_lng-HDO200565,The gate that allows us to drive out of the block ,The gate that allows us to drive out of the block ,WorkOrder,,
+rps_lng-HDO120467,Tenancy,Tenancy,rps_lng-RPT192830,FDP-296205 - 6/82 Blyth Street - Kitchen/meals Sin,FDP-296205 - 6/82 Blyth Street - Kitchen/meals Sin,WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO120468,Tenancy,Tenancy,rps_lng-HDO190767,ceiling cracks,ceiling cracks,WorkOrder,,
+rps_lng-HDO120468,Tenancy,Tenancy,rps_lng-HDO190767,toilet seat and flush,toilet seat and flush,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-HDO200801,Stairs dislodged from staircase,Stairs dislodged from staircase,WorkOrder,,rps_lng-CVA21001816
+rps_lng-HDO120470,Agency,Agency,,Front Door Lock,Front Door Lock,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-RPT193172,Miscellaneous,Miscellaneous,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-RPT193172,Lights or Electricity,Lights or Electricity,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-RPT193172,Toilet seat detached,Toilet seat detached,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-RPT193172,Loose mixer tap,Loose mixer tap,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-RPT193172,Loose mixer tap,Loose mixer tap,WorkOrder,,
+rps_lng-HDO120470,Agency,Agency,,Loose Kitchen Tap,Loose Kitchen Tap,WorkOrder,,
+rps_lng-HDO120470,Agency,Agency,,11/82 Blyth Street - Front Gate,11/82 Blyth Street - Front Gate,WorkOrder,,
+rps_lng-HDO120470,Agency,Agency,,Front Gate,Front Gate,WorkOrder,,
+rps_lng-HDO120470,Agency,Agency,,Rust in Water,Rust in Water,WorkOrder,,
+rps_lng-HDO120470,Tenancy,Tenancy,rps_lng-RPT193172,New Remote,New Remote,WorkOrder,,rps_lng-HDO18000911
+rps_lng-HDO120471,Agency,Agency,,Flickering Lights,Flickering Lights,WorkOrder,,
+rps_lng-HDO120471,Agency,Agency,,downlights,downlights,WorkOrder,,
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6/270 Springvale - carpet,6/270 Springvale - carpet,WorkOrder,,rps_lng-HDO08001850
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6/270 Springvale - Burst HWS,6/270 Springvale - Burst HWS,WorkOrder,,rps_lng-HDO14002397
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6/270 Springvale - Bath drain,6/270 Springvale - Bath drain,WorkOrder,,rps_lng-HDO14002397
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6.270 Springvale road - Routine inspection issues,6.270 Springvale road - Routine inspection issues,WorkOrder,,
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6/270 Springvale - towel rail,6/270 Springvale - towel rail,WorkOrder,,
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6/270 Springvale - Air Cond,6/270 Springvale - Air Cond,WorkOrder,,rps_lng-HDO13002418
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT195689,6/270 springvale - cleaning/steam clean,6/270 springvale - cleaning/steam clean,WorkOrder,,rps_lng-HDO08001927
+rps_lng-HDO120650,Agency,Agency,,6/270 Springvale - Bathroom,6/270 Springvale - Bathroom,WorkOrder,,rps_lng-HDO18002089
+rps_lng-HDO120650,Agency,Agency,,6/270 Springvale -Bathroom & Laundry Exhaust fans,6/270 Springvale -Bathroom & Laundry Exhaust fans,WorkOrder,,rps_lng-HDO12003003
+rps_lng-HDO120650,Agency,Agency,,Safety awareness - Cladding,Safety awareness - Cladding,WorkOrder,,
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT198312,6/270 Springvale road - bathroom door handle,6/270 Springvale road - bathroom door handle,WorkOrder,,
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT198312,6/270 Springvale - Leak in bedroom/carpet,6/270 Springvale - Leak in bedroom/carpet,WorkOrder,,rps_lng-HDO08001850
+rps_lng-HDO120650,Tenancy,Tenancy,rps_lng-RPT198312,6/270 Springvale Rd - double glazing,6/270 Springvale Rd - double glazing,WorkOrder,,
+rps_lng-HDO130001,Agency,Agency,,Leak in laundry trough,Leak in laundry trough,WorkOrder,,
+rps_lng-HDO130001,Tenancy,Tenancy,rps_lng-RPT191586,gutter blockage,gutter blockage,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130001,Tenancy,Tenancy,rps_lng-RPT191586,Water meter tap won't shut off,Water meter tap won't shut off,WorkOrder,,
+rps_lng-HDO130025,Agency,Agency,,Ensuite Toilet Leak into Garage,Ensuite Toilet Leak into Garage,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO130025,Agency,Agency,,Tree Trim,Tree Trim,WorkOrder,,rps_lng-WES20000011
+rps_lng-HDO130025,Agency,Agency,,Front Garden Tap & Ensuite Cistern,Front Garden Tap & Ensuite Cistern,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO130025,Agency,Agency,,Drain Stop Stuck,Drain Stop Stuck,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130025,Agency,Agency,,Upstairs Toilet Float,Upstairs Toilet Float,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO130025,Agency,Agency,,Rangehood Replacement,Rangehood Replacement,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO130025,Agency,Agency,,Gas Stove Top Click & Rangehood Rattle,Gas Stove Top Click & Rangehood Rattle,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO130025,Tenancy,Tenancy,rps_lng-RPT190823,AC switching back on,AC switching back on,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO130025,Tenancy,Tenancy,rps_lng-RPT190823,Front door latch,Front door latch,WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO130025,Tenancy,Tenancy,rps_lng-RPT190823,Service call out,Service call out,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO130025,Agency,Agency,,gas stove constantly clicking,gas stove constantly clicking,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO130025,Agency,Agency,,Garage Door,Garage Door,WorkOrder,,rps_lng-HDO19001515
+rps_lng-HDO130025,Tenancy,Tenancy,rps_lng-RPT190823,Blocked Drain,Blocked Drain,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130025,Tenancy,Tenancy,rps_lng-RPT190823,Air Conditioner Service/Repair,Air Conditioner Service/Repair,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO130026,Tenancy,Tenancy,rps_lng-JAM200027,Duplicate task,Duplicate task,WorkOrder,,
+rps_lng-HDO130026,Tenancy,Tenancy,rps_lng-RPT191527,Shower heads and Sink Drainage,Shower heads and Sink Drainage,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130027,Agency,Agency,,Quote for replacement Kitchen Window,Quote for replacement Kitchen Window,WorkOrder,,rps_lng-WES19000014
+rps_lng-HDO130042,Agency,Agency,,Oven door not closing,Oven door not closing,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO130049,Agency,Agency,,BOND CLAIM,BOND CLAIM,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO130049,Tenancy,Tenancy,rps_lng-RPT190960,Quotes - repair mouldy ceiling from roof leak,Quotes - repair mouldy ceiling from roof leak,WorkOrder,,rps_lng-JAM20000086
+rps_lng-HDO130049,Agency,Agency,,Leak in bedroom ceiling,Leak in bedroom ceiling,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130049,Agency,Agency,,taps - laundry & bathroom,taps - laundry & bathroom,WorkOrder,,rps_lng-HDO18000994
+rps_lng-HDO130049,Tenancy,Tenancy,rps_lng-RPT190960,Shower Leakages,Shower Leakages,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO130049,Agency,Agency,,Bathroom leak,Bathroom leak,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO130073,Agency,Agency,,Blind Replacement,Blind Replacement,WorkOrder,,
+rps_lng-HDO130073,Agency,Agency,,Oven Repair,Oven Repair,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO130073,Agency,Agency,,Rendering Overhand works - 2nd 50%,Rendering Overhand works - 2nd 50%,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO130073,Agency,Agency,,Rendering Overhand works,Rendering Overhand works,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO130073,Agency,Agency,,A/C Replacement,A/C Replacement,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO130073,Agency,Agency,,Living Room A/C,Living Room A/C,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO130073,Agency,Agency,,Render plus Overhang,Render plus Overhang,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO130073,Agency,Agency,,Shower Head & Touch Ups,Shower Head & Touch Ups,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130073,Agency,Agency,,Bedroom Split System Error 458,Bedroom Split System Error 458,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO130073,Agency,Agency,,Repair door handle & fence,Repair door handle & fence,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO130073,Agency,Agency,,Render reapir,Render reapir,WorkOrder,,rps_lng-WES19000022
+rps_lng-HDO130073,Agency,Agency,,Render removal,Render removal,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO130075,Agency,Agency,,Carpet Patch,Carpet Patch,WorkOrder,,
+rps_lng-HDO130075,Agency,Agency,,Garden Tidy Up,Garden Tidy Up,WorkOrder,,rps_lng-WES20000011
+rps_lng-HDO130075,Agency,Agency,,Touch Ups & Painting,Touch Ups & Painting,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO130075,Agency,Agency,,General,General,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130075,Agency,Agency,,annual gutter clean,annual gutter clean,WorkOrder,,
+rps_lng-HDO130075,Agency,Agency,,water leak inside property,water leak inside property,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130077,Tenancy,Tenancy,rps_lng-HDO211080,Stove Top Gas Leak by Valve,Stove Top Gas Leak by Valve,WorkOrder,,rps_lng-JAM22000014
+rps_lng-HDO130077,Agency,Agency,,Report of blocked laundry trough,Report of blocked laundry trough,WorkOrder,,rps_lng-CVA21002238
+rps_lng-HDO130077,Agency,Agency,,Laundry Sink,Laundry Sink,WorkOrder,,rps_lng-CVA21002238
+rps_lng-HDO130077,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO130077,Tenancy,Tenancy,rps_lng-HDO211080,Front Security Door,Front Security Door,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO130077,Agency,Agency,,Leak & Slow Drainage,Leak & Slow Drainage,WorkOrder,,rps_lng-HDO19001848
+rps_lng-HDO130077,Agency,Agency,,Rekey Deadbolts,Rekey Deadbolts,WorkOrder,,rps_lng-CVA21002453
+rps_lng-HDO130077,Tenancy,Tenancy,rps_lng-RPT191100,Dishwasher,Dishwasher,WorkOrder,,
+rps_lng-HDO130077,Agency,Agency,,Duct Cleaning,Duct Cleaning,WorkOrder,,rps_lng-HDO08001946
+rps_lng-HDO130077,Tenancy,Tenancy,rps_lng-RPT191100,Gutter Cleaning,Gutter Cleaning,WorkOrder,,rps_lng-HDO15002958
+rps_lng-HDO130077,Tenancy,Tenancy,rps_lng-RPT191100,Ducted Heating & Gas Burner,Ducted Heating & Gas Burner,WorkOrder,,rps_lng-HDO19001288
+rps_lng-HDO130078,Agency,Agency,,"Paiting, Render, Touch Ups - Balance","Paiting, Render, Touch Ups - Balance",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO130078,Agency,Agency,,Vacate Clean,Vacate Clean,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO130078,Agency,Agency,,Roof Leak through Bathroom Exhaust,Roof Leak through Bathroom Exhaust,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130078,Tenancy,Tenancy,rps_lng-RPT190949,Rangehood & Dishwasher Replacement,Rangehood & Dishwasher Replacement,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130078,Agency,Agency,,BUILDER - carpet/wall damage from toilet leak,BUILDER - carpet/wall damage from toilet leak,WorkOrder,,
+rps_lng-HDO130078,Tenancy,Tenancy,rps_lng-RPT190949,Flood/toilet drying,Flood/toilet drying,WorkOrder,,rps_lng-WES20000008
+rps_lng-HDO130078,Agency,Agency,,Gutter leak - toilet leak - EBM Insurance,Gutter leak - toilet leak - EBM Insurance,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130078,Agency,Agency,,Downstairs Split system fault,Downstairs Split system fault,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO130078,Agency,Agency,,Leak in ceiling & Gutter cleaning + Seal,Leak in ceiling & Gutter cleaning + Seal,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO130078,Agency,Agency,,Hallyway and Kitchen downlights fusing,Hallyway and Kitchen downlights fusing,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO130078,Tenancy,Tenancy,rps_lng-RPT190949,Repair leak in split system,Repair leak in split system,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO130082,Tenancy,Tenancy,rps_lng-RPT190437,OC Sewerage complaint,OC Sewerage complaint,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130095,Tenancy,Tenancy,rps_lng-RPT192062,Washing Machine,Washing Machine,WorkOrder,,rps_lng-HDO12001519
+rps_lng-HDO130095,Tenancy,Tenancy,rps_lng-RPT192062,Simpson Dryer Service,Simpson Dryer Service,WorkOrder,,rps_lng-HDO12001519
+rps_lng-HDO130095,Tenancy,Tenancy,rps_lng-RPT192604,Hall downlight,Hall downlight,WorkOrder,,rps_lng-HDO16001050
+rps_lng-HDO130095,Tenancy,Tenancy,rps_lng-RPT192604,Rangehood,Rangehood,WorkOrder,,rps_lng-HDO14000888
+rps_lng-HDO130095,Tenancy,Tenancy,rps_lng-RPT193379,Leaking Kitchen Tap,Leaking Kitchen Tap,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO130095,Agency,Agency,,Carpet Repairs,Carpet Repairs,WorkOrder,,rps_lng-HDO16001022
+rps_lng-HDO130095,Tenancy,Tenancy,rps_lng-RPT193379,Down lights not working,Down lights not working,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Water ingress issue","716/601 Sydney Rd, Brunswick - Water ingress issue",WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick East - Balcony water ","716/601 Sydney Rd, Brunswick East - Balcony water ",WorkOrder,,rps_lng-HDO14000957
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Maintenance","716/601 Sydney Rd, Brunswick - Maintenance",WorkOrder,,rps_lng-HDO14000957
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Ensuite tap","716/601 Sydney Rd, Brunswick - Ensuite tap",WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Roller blind","716/601 Sydney Rd, Brunswick - Roller blind",WorkOrder,,rps_lng-HDO14000957
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Balcony repair","716/601 Sydney Rd, Brunswick - Balcony repair",WorkOrder,,rps_lng-HDO13000971
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Letter box keys","716/601 Sydney Rd, Brunswick - Letter box keys",WorkOrder,,rps_lng-HDO12001407
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Quote","716/601 Sydney Rd, Brunswick - Quote",WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Repairs to door and","716/601 Sydney Rd, Brunswick - Repairs to door and",WorkOrder,,rps_lng-HDO13000971
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192236,"716/601 Sydney Rd, Brunswick - Misc items","716/601 Sydney Rd, Brunswick - Misc items",WorkOrder,,rps_lng-HDO13000971
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"Lights - Transformer - 716/601 Sydney Road, Brunsw","Lights - Transformer - 716/601 Sydney Road, Brunsw",WorkOrder,,rps_lng-HDO16001050
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - URGENT oven not wor","716/601 Sydney Rd, Brunswick - URGENT oven not wor",WorkOrder,,rps_lng-HDO16001002
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - Exhaust fans not wo","716/601 Sydney Rd, Brunswick - Exhaust fans not wo",WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - Blind repair","716/601 Sydney Rd, Brunswick - Blind repair",WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - Leaking kitchen hos","716/601 Sydney Rd, Brunswick - Leaking kitchen hos",WorkOrder,,rps_lng-HDO15001035
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - Hot water","716/601 Sydney Rd, Brunswick - Hot water",WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - Blind repair","716/601 Sydney Rd, Brunswick - Blind repair",WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT192539,"716/601 Sydney Rd, Brunswick - Astro turf & letter","716/601 Sydney Rd, Brunswick - Astro turf & letter",WorkOrder,,rps_lng-HDO14000957
+rps_lng-HDO130136,Tenancy,Tenancy,rps_lng-RPT193231,OT - 716601 Sydney - Kind request for flyscreens,OT - 716601 Sydney - Kind request for flyscreens,WorkOrder,,rps_lng-HDO14000957
+rps_lng-HDO140013,Agency,Agency,,Touch Ups,Touch Ups,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO140013,Agency,Agency,,Kitchen Cornices,Kitchen Cornices,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO140013,Agency,Agency,,Garden Mulch,Garden Mulch,WorkOrder,,rps_lng-WES20000062
+rps_lng-HDO140013,Tenancy,Tenancy,rps_lng-RPT190312,AC split system,AC split system,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO140013,Agency,Agency,,Solar Hot Water,Solar Hot Water,WorkOrder,,rps_lng-HDO16002429
+rps_lng-HDO140013,Agency,Agency,,Reapir or replace entry door lock,Reapir or replace entry door lock,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO140013,Tenancy,Tenancy,rps_lng-RPT190312,Hot Water System inconsistent,Hot Water System inconsistent,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO140013,Owner,Owner,,Toilet door handle- requires tighenting,Toilet door handle- requires tighenting,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO140025,Agency,Agency,,Bedroom Ceiling Leak,Bedroom Ceiling Leak,WorkOrder,,
+rps_lng-HDO140025,Agency,Agency,,Loose PowerPoints,Loose PowerPoints,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO140025,Tenancy,Tenancy,rps_lng-RPT191388,Light Fittings,Light Fittings,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO140025,Agency,Agency,,OC/BUILDER - water damage to building,OC/BUILDER - water damage to building,WorkOrder,,
+rps_lng-HDO140025,Agency,Agency,,Shower head broken,Shower head broken,WorkOrder,,rps_lng-CHA19000082
+rps_lng-HDO140038,Agency,Agency,,Back sliding door lock,Back sliding door lock,WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO140038,Agency,Agency,,Verve - Repairs,Verve - Repairs,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO140038,Agency,Agency,,Potential leak detection,Potential leak detection,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO140043,Agency,Agency,,Heating & Cooling Service + Loose Ducts,Heating & Cooling Service + Loose Ducts,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO140043,Agency,Agency,,Electrical & Gas Safety Check + Ceiling Ducts,Electrical & Gas Safety Check + Ceiling Ducts,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO140043,Agency,Agency,,General Repairs,General Repairs,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO140043,Agency,Agency,,Shower Head Replacement,Shower Head Replacement,WorkOrder,,
+rps_lng-HDO140043,Tenancy,Tenancy,rps_lng-RPT191300,Shower leaking,Shower leaking,WorkOrder,,rps_lng-HDO20002032
+rps_lng-HDO140043,Agency,Agency,,Oven,Oven,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO140043,Agency,Agency,,Potential Leak,Potential Leak,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO140050,Agency,Agency,,Ducted heating would not turn on,Ducted heating would not turn on,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO140050,Tenancy,Tenancy,rps_lng-RPT190076,Water Leak from Solar,Water Leak from Solar,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO140050,Tenancy,Tenancy,rps_lng-RPT190076,Oven turns off after 5 minutes,Oven turns off after 5 minutes,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO140067,Tenancy,Tenancy,rps_lng-RPT191577,"Door Locks - Front, Garage & Laundry","Door Locks - Front, Garage & Laundry",WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO140067,Agency,Agency,,Shower Head Fallen,Shower Head Fallen,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO140070,Tenancy,Tenancy,rps_lng-RPT191371,Dishwasher Replacement,Dishwasher Replacement,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO140070,Tenancy,Tenancy,rps_lng-RPT191371,Bathroom Leak,Bathroom Leak,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO140070,Agency,Agency,,Electrical & Gas Safety Check,Electrical & Gas Safety Check,WorkOrder,,rps_lng-HDO19001102
+rps_lng-HDO140070,Tenancy,Tenancy,rps_lng-RPT191371,Garage fluro,Garage fluro,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO140070,Agency,Agency,,Replacement quote- Oven,Replacement quote- Oven,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO140070,Agency,Agency,,Garage door repair quote,Garage door repair quote,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO140070,Tenancy,Tenancy,rps_lng-RPT191371,URGENT - Gas ducted heating not working,URGENT - Gas ducted heating not working,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO150002,Agency,Agency,,Oven issues,Oven issues,WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO150002,Agency,Agency,,general elec/applicances,general elec/applicances,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO150002,Agency,Agency,,Dishwasher,Dishwasher,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO150002,Agency,Agency,,Dishwasher Inital visit,Dishwasher Inital visit,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO150002,Tenancy,Tenancy,rps_lng-RPT190836,Dishwasher Blade & Oven Seal,Dishwasher Blade & Oven Seal,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO150002,Tenancy,Tenancy,rps_lng-RPT190836,Laundry door hinges,Laundry door hinges,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150002,Tenancy,Tenancy,rps_lng-RPT190836,Drainage Issues,Drainage Issues,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150025,Tenancy,Tenancy,rps_lng-JAM200019,Toilet fan not working,Toilet fan not working,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO150025,Agency,Agency,,rangehood,rangehood,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO150025,Tenancy,Tenancy,rps_lng-JAM200019,Electrical range hood and fan,Electrical range hood and fan,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO150025,Tenancy,Tenancy,rps_lng-RPT191297,Toilet blockage has reoccured,Toilet blockage has reoccured,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150025,Agency,Agency,,URGENT Blocked Toilet,URGENT Blocked Toilet,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150025,Tenancy,Tenancy,rps_lng-RPT191297,Toilet fan not working,Toilet fan not working,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO150025,Tenancy,Tenancy,rps_lng-RPT191297,Antenna not connecting,Antenna not connecting,WorkOrder,,rps_lng-WES19000008
+rps_lng-HDO150056,Agency,Agency,,Few maintenance-,Few maintenance-,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150056,Agency,Agency,,Window Repair,Window Repair,WorkOrder,,rps_lng-WES19000006
+rps_lng-HDO150056,Tenancy,Tenancy,rps_lng-RPT191036,Toilet seat tighten and toilet roller holder repai,Toilet seat tighten and toilet roller holder repai,WorkOrder,,rps_lng-HDO19001281
+rps_lng-HDO150061,Tenancy,Tenancy,rps_lng-RPT190458,Study light fitting not functional,Study light fitting not functional,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO150061,Tenancy,Tenancy,rps_lng-RPT190458,Dishwasher rotating blades are loose,Dishwasher rotating blades are loose,WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO150061,Tenancy,Tenancy,rps_lng-RPT190458,Oven is not heating,Oven is not heating,WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO150061,Agency,Agency,,Appliance technician site attendance,Appliance technician site attendance,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO150061,Tenancy,Tenancy,rps_lng-RPT190458,Kitchen Hob-,Kitchen Hob-,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO150061,Agency,Agency,,Tap Mixer repair,Tap Mixer repair,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO150088,Agency,Agency,,Oven & Stove Top,Oven & Stove Top,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO150088,Agency,Agency,,Ensuite & Main Bathroom Shower Leak,Ensuite & Main Bathroom Shower Leak,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO150088,Agency,Agency,,Shower Leak & Exhaust Fans,Shower Leak & Exhaust Fans,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO150088,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO150088,Agency,Agency,,Down lights & No Heating,Down lights & No Heating,WorkOrder,,rps_lng-HDO19001417
+rps_lng-HDO150088,Agency,Agency,,"Shower Leak, Water Damage & Mould Investigation","Shower Leak, Water Damage & Mould Investigation",WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150088,Agency,Agency,,Down lights not working,Down lights not working,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO150088,Agency,Agency,,INV-2324 - 54 Laurimar - Emergency - a blocked or ,INV-2324 - 54 Laurimar - Emergency - a blocked or ,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO150095,Tenancy,Tenancy,rps_lng-RPT192455,CLV-965 - BOND :22/30 Leonard Crescent - Once over,CLV-965 - BOND :22/30 Leonard Crescent - Once over,WorkOrder,,rps_lng-HDO15001008
+rps_lng-HDO150095,Tenancy,Tenancy,rps_lng-RPT192455,"22/30 Leonard Cres, Ascot Vale - Front door handle","22/30 Leonard Cres, Ascot Vale - Front door handle",WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO150095,Tenancy,Tenancy,rps_lng-RPT192455,"22/30 Leonard Cres, Ascot Vale - Floor clean","22/30 Leonard Cres, Ascot Vale - Floor clean",WorkOrder,,rps_lng-HDO14000987
+rps_lng-HDO150143,Agency,Agency,,Pest control investigation,Pest control investigation,WorkOrder,,rps_lng-HDO19001214
+rps_lng-HDO150143,Agency,Agency,,Leak Under Sink,Leak Under Sink,WorkOrder,,rps_lng-HDO19004396
+rps_lng-HDO150143,Agency,Agency,,Dishwasher is not running properly,Dishwasher is not running properly,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO150143,Tenancy,Tenancy,rps_lng-RPT192605,Annual smoke alarm check,Annual smoke alarm check,WorkOrder,,rps_lng-HDO17001377
+rps_lng-HDO150143,Tenancy,Tenancy,rps_lng-RPT192605,Change locks,Change locks,WorkOrder,,rps_lng-HDO12001495
+rps_lng-HDO150163,Tenancy,Tenancy,rps_lng-RPT192676,Bathroom & Rangehood Light,Bathroom & Rangehood Light,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO150163,Agency,Agency,,Roller Blind Siezed,Roller Blind Siezed,WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO150163,Agency,Agency,,BUILDER - water leak to bathroom door/wardrobe,BUILDER - water leak to bathroom door/wardrobe,WorkOrder,,
+rps_lng-HDO150163,Agency,Agency,,no hot water Rinnai B26 Infinity,no hot water Rinnai B26 Infinity,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO150163,Agency,Agency,,Leaking drain from RGI - builder?,Leaking drain from RGI - builder?,WorkOrder,,
+rps_lng-HDO160062,Agency,Agency,,Water leak laundry pipe,Water leak laundry pipe,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO160062,Agency,Agency,,Trim down back hedges,Trim down back hedges,WorkOrder,,rps_lng-WES19000021
+rps_lng-HDO160062,Tenancy,Tenancy,rps_lng-RPT191119,Light Switch,Light Switch,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO160062,Tenancy,Tenancy,rps_lng-RPT191119,Water metre issue,Water metre issue,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO160097,Agency,Agency,,Plaster missing from bedroom wall,Plaster missing from bedroom wall,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO160097,Agency,Agency,,"BOND CLAIM - PORCHING, cleaning","BOND CLAIM - PORCHING, cleaning",WorkOrder,,rps_lng-HDO19004738
+rps_lng-HDO160097,Tenancy,Tenancy,rps_lng-RPT192716,AEMG-1787 - G05A/5 Zenith Rise - Bathroom toilet r,AEMG-1787 - G05A/5 Zenith Rise - Bathroom toilet r,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO160114,Tenancy,Tenancy,rps_lng-RPT192771,Leak from Toilet,Leak from Toilet,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO160114,Agency,Agency,,exhaust fans,exhaust fans,WorkOrder,,rps_lng-HDO16001050
+rps_lng-HDO170028,Agency,Agency,,Laundry Benchtop Adjustment - Hinge,Laundry Benchtop Adjustment - Hinge,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO170028,Agency,Agency,,Ducted Heating turning off,Ducted Heating turning off,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO170028,Agency,Agency,,Oven Smoking,Oven Smoking,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO170028,Agency,Agency,,Back secuirty door lock,Back secuirty door lock,WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO170028,Tenancy,Tenancy,rps_lng-RPT191020,Central Heating,Central Heating,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO170028,Agency,Agency,,Fence Repair/Repalcement,Fence Repair/Repalcement,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO170028,Agency,Agency,,BNP-101521 - 16 Maude - As per email from PM,BNP-101521 - 16 Maude - As per email from PM,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170028,Agency,Agency,,Locks to be reapired,Locks to be reapired,WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO170028,Agency,Agency,,Leaking pipe in kitchen,Leaking pipe in kitchen,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO170034,Agency,Agency,,Precision Lock Smiths- WOP,Precision Lock Smiths- WOP,WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO170040,Tenancy,Tenancy,rps_lng-HDO210165,Dishwasher Leak & Toilet Roll Holder,Dishwasher Leak & Toilet Roll Holder,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170040,Agency,Agency,,Door Realignment,Door Realignment,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO170040,Agency,Agency,,Cold Water Tap,Cold Water Tap,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170040,Agency,Agency,,Alfresco Ceiling,Alfresco Ceiling,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO170050,Agency,Agency,,Water Damage Hallway & Master Bedroom Window,Water Damage Hallway & Master Bedroom Window,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-HDO190919,Wet window sill & beeping garage,Wet window sill & beeping garage,WorkOrder,,
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT192859,Screen Door,Screen Door,WorkOrder,,
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT192859,Noisy heater,Noisy heater,WorkOrder,,rps_lng-HDO17001363
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT192859,"44 Kerrabee Drive, Mernda - heater repair","44 Kerrabee Drive, Mernda - heater repair",WorkOrder,,rps_lng-HDO17001363
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT192859,"44 Kerrabee Drive, Mernda - Kitchen Sink Leak","44 Kerrabee Drive, Mernda - Kitchen Sink Leak",WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT193134,BNP-99559 - 44 Kerrabee - Bathroom,BNP-99559 - 44 Kerrabee - Bathroom,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT193134,BNP-99313 - 44 Kerrabee - Solar Hot Water Leaking,BNP-99313 - 44 Kerrabee - Solar Hot Water Leaking,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT193134,BNP-99559 - 44 Kerrabee - Bathroom Wall Mould / Sh,BNP-99559 - 44 Kerrabee - Bathroom Wall Mould / Sh,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT193134,AEM-295481 - 44 Kerrabee Drive - Shower Seal Repai,AEM-295481 - 44 Kerrabee Drive - Shower Seal Repai,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170050,Tenancy,Tenancy,rps_lng-RPT193134,AEM-277104 - 44 Kerrabee Drive - Ensuite Shower sc,AEM-277104 - 44 Kerrabee Drive - Ensuite Shower sc,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170051,Tenancy,Tenancy,rps_lng-RPT193017,GVPM-5708 - 40 Lehmanns - item removal,GVPM-5708 - 40 Lehmanns - item removal,WorkOrder,,rps_lng-HDO18000980
+rps_lng-HDO170051,Tenancy,Tenancy,rps_lng-RPT193017,OT - 40 Lehmanns - Service Ducted Heating,OT - 40 Lehmanns - Service Ducted Heating,WorkOrder,,rps_lng-HDO18000954
+rps_lng-HDO170051,Tenancy,Tenancy,rps_lng-RPT193017,BNP-99312 - 40 Lehmanns - Bathroom Shower Broken n,BNP-99312 - 40 Lehmanns - Bathroom Shower Broken n,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170052,Tenancy,Tenancy,rps_lng-RPT192861,Suspected Burst Hot Water System - Urgent,Suspected Burst Hot Water System - Urgent,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170052,Agency,Agency,,Ongoing leaks,Ongoing leaks,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170052,Agency,Agency,,Mould from water damage,Mould from water damage,WorkOrder,,rps_lng-HDO19001497
+rps_lng-HDO170052,Agency,Agency,,Rectification works,Rectification works,WorkOrder,,rps_lng-HDO19004528
+rps_lng-HDO170052,Agency,Agency,,Water Leak Upstairs Bathroom,Water Leak Upstairs Bathroom,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170052,Tenancy,Tenancy,rps_lng-RPT192861,BNP-99805 - 10 Lawn - Water blockage in Bathroom &,BNP-99805 - 10 Lawn - Water blockage in Bathroom &,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170052,Tenancy,Tenancy,rps_lng-RPT192861,"10 Lawn Walk, Mernda - Blockage upstairs","10 Lawn Walk, Mernda - Blockage upstairs",WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170053,Agency,Agency,,Garage Door Not Closing,Garage Door Not Closing,WorkOrder,,rps_lng-HDO19002005
+rps_lng-HDO170053,Agency,Agency,,Kitchen Tap Loose,Kitchen Tap Loose,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170053,Agency,Agency,,Exhaust fan,Exhaust fan,WorkOrder,,
+rps_lng-HDO170053,Agency,Agency,,miscellaneous,miscellaneous,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO170053,Agency,Agency,,Split System Replacement,Split System Replacement,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO170053,Agency,Agency,,Split system error,Split system error,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO170053,Tenancy,Tenancy,rps_lng-RPT193419,Loose Kitchen Tap,Loose Kitchen Tap,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170053,Agency,Agency,,Kitchen mixer tap split,Kitchen mixer tap split,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO170053,Agency,Agency,,Ensuite Shower Leaking to downstairs toilet,Ensuite Shower Leaking to downstairs toilet,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170053,Agency,Agency,,laundry fan and downlights,laundry fan and downlights,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO170053,Agency,Agency,,Upstairs toilet leaks,Upstairs toilet leaks,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170053,Agency,Agency,,Toilet pump,Toilet pump,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO170053,Agency,Agency,,Gragae door,Gragae door,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO170053,Agency,Agency,,Garage Door,Garage Door,WorkOrder,,rps_lng-HDO19001515
+rps_lng-HDO170053,Agency,Agency,,BNP-101429 - 12 Lawn - Gas leak coming from meter,BNP-101429 - 12 Lawn - Gas leak coming from meter,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170054,Agency,Agency,,roof leak,roof leak,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170054,Tenancy,Tenancy,rps_lng-RPT192863,Air Conditioner error,Air Conditioner error,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO170054,Agency,Agency,,Water Rain bird system,Water Rain bird system,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170054,Agency,Agency,,base of shower cracked,base of shower cracked,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170054,Tenancy,Tenancy,rps_lng-RPT192863,Water Rainbird system,Water Rainbird system,WorkOrder,,rps_lng-HDO18000954
+rps_lng-HDO170054,Tenancy,Tenancy,rps_lng-RPT192863,Split System Service,Split System Service,WorkOrder,,rps_lng-HDO17001363
+rps_lng-HDO170054,Tenancy,Tenancy,rps_lng-RPT192863,electrical burning,electrical burning,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO170054,Tenancy,Tenancy,rps_lng-RPT192863,split system air co,split system air co,WorkOrder,,rps_lng-HDO17001412
+rps_lng-HDO170067,Tenancy,Tenancy,rps_lng-RPT192875,Shower,Shower,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170067,Tenancy,Tenancy,rps_lng-RPT192875,Front door lock not locking,Front door lock not locking,WorkOrder,,rps_lng-HDO19005924
+rps_lng-HDO170067,Agency,Agency,,garage door opener,garage door opener,WorkOrder,,
+rps_lng-HDO170067,Tenancy,Tenancy,rps_lng-RPT192875,Front Door,Front Door,WorkOrder,,
+rps_lng-HDO170067,Tenancy,Tenancy,rps_lng-RPT192875,OT - 226/92-96 ALBERT STREET - Security/entry Fron,OT - 226/92-96 ALBERT STREET - Security/entry Fron,WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO170067,Tenancy,Tenancy,rps_lng-RPT192875,Front door,Front door,WorkOrder,,rps_lng-HDO12001436
+rps_lng-HDO170068,Tenancy,Tenancy,rps_lng-RPT193227,Multiple Req,Multiple Req,WorkOrder,,rps_lng-HDO18000926
+rps_lng-HDO170069,Agency,Agency,,Electrical issues - bathroom switch & dishwasher,Electrical issues - bathroom switch & dishwasher,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-HDO191327,sliding door lock,sliding door lock,WorkOrder,,rps_lng-HDO19005924
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-RPT192877,Front door,Front door,WorkOrder,,
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-RPT192877,AEM-295476 - 419/92-96 ALBERT STREET - Door Repair,AEM-295476 - 419/92-96 ALBERT STREET - Door Repair,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-RPT192877,OT - 419/92-96 ALBERT STREET - Security/entry Fron,OT - 419/92-96 ALBERT STREET - Security/entry Fron,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-RPT193215,DEA-14314 - 41992-96 Albert - Kitchen Dishwasher E,DEA-14314 - 41992-96 Albert - Kitchen Dishwasher E,WorkOrder,,rps_lng-HDO14000888
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-RPT193215,GVPM-5703 - 419/92-96 Albert - Toilet Bowl (pan) S,GVPM-5703 - 419/92-96 Albert - Toilet Bowl (pan) S,WorkOrder,,rps_lng-HDO18000980
+rps_lng-HDO170069,Tenancy,Tenancy,rps_lng-RPT193215,AEMG-1816 - 419/92-96 Albert Street - Front door d,AEMG-1816 - 419/92-96 Albert Street - Front door d,WorkOrder,,rps_lng-HDO17001477
+rps_lng-HDO170073,Agency,Agency,,Touch Ups,Touch Ups,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO170073,Agency,Agency,,Bathroom fan not working,Bathroom fan not working,WorkOrder,,rps_lng-HDO16001050
+rps_lng-HDO170073,Tenancy,Tenancy,rps_lng-RPT193025,toilet roll holder requires replacement,toilet roll holder requires replacement,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO170073,Tenancy,Tenancy,rps_lng-RPT193025,toilet seat replacement,toilet seat replacement,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170073,Tenancy,Tenancy,rps_lng-RPT193025,Replacement of Carpet,Replacement of Carpet,WorkOrder,,rps_lng-HDO16001022
+rps_lng-HDO170073,Tenancy,Tenancy,rps_lng-RPT193025,Plumbing - blockage in bathroom sink,Plumbing - blockage in bathroom sink,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170074,Tenancy,Tenancy,rps_lng-RPT192882,FDP-412432 - 9.01/234-240 Barkly - Leaking Toilet ,FDP-412432 - 9.01/234-240 Barkly - Leaking Toilet ,WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO170074,Tenancy,Tenancy,rps_lng-RPT192882,AEM-307398 - 9.01/234-240 BARKLY ST - Kitchen Cupb,AEM-307398 - 9.01/234-240 BARKLY ST - Kitchen Cupb,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170075,Agency,Agency,,BOND CLAIM - Rebecca/painting,BOND CLAIM - Rebecca/painting,WorkOrder,,
+rps_lng-HDO170075,Agency,Agency,,pipe leaking under hand basin,pipe leaking under hand basin,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170075,Agency,Agency,,Blocked toilet,Blocked toilet,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170075,Agency,Agency,,Blocked drains,Blocked drains,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO170079,Tenancy,Tenancy,rps_lng-RPT192887,OT - 188 Epping - Kitchenmeals Broken,OT - 188 Epping - Kitchenmeals Broken,WorkOrder,,
+rps_lng-HDO170080,Agency,Agency,,Vacate Clean,Vacate Clean,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-HDO200255,bathroom fan,bathroom fan,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT192888,Repair carpet,Repair carpet,WorkOrder,,rps_lng-HDO12001538
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT192888,Vacate Clean - Tenant cost,Vacate Clean - Tenant cost,WorkOrder,,rps_lng-HDO15001008
+rps_lng-HDO170080,Agency,Agency,,Broken Garage Key,Broken Garage Key,WorkOrder,,
+rps_lng-HDO170080,Agency,Agency,,Water damage on the ceiling,Water damage on the ceiling,WorkOrder,,
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,FDP-385816 - 103/88 Epping - HOT WATER STILL INTER,FDP-385816 - 103/88 Epping - HOT WATER STILL INTER,WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,OT - 103/88 Epping Road - Bathroom Basin/vanity Dr,OT - 103/88 Epping Road - Bathroom Basin/vanity Dr,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,AEM-280991 - 103/88 EPPING RD - General Maintenanc,AEM-280991 - 103/88 EPPING RD - General Maintenanc,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,OT - 103/88 EPPING RD - Bathroom Shower,OT - 103/88 EPPING RD - Bathroom Shower,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,AEM-280992 - 103/88 EPPING RD - Maintenance Repair,AEM-280992 - 103/88 EPPING RD - Maintenance Repair,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,OT - 103/88 EPPING RD - Bathroom Lighting/fan Exha,OT - 103/88 EPPING RD - Bathroom Lighting/fan Exha,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,OT - 103/88 EPPING RD - Outdoor Letterbox Broken,OT - 103/88 EPPING RD - Outdoor Letterbox Broken,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,OT - 103/88 EPPING RD - Deck/Balcony Back Deck/Bal,OT - 103/88 EPPING RD - Deck/Balcony Back Deck/Bal,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,OT - 103/88 EPPING RD - Toilet Toilet bowl (pan) S,OT - 103/88 EPPING RD - Toilet Toilet bowl (pan) S,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,"103/88 Epping Road, Epping - Dishwasher repair","103/88 Epping Road, Epping - Dishwasher repair",WorkOrder,,rps_lng-HDO14000888
+rps_lng-HDO170080,Tenancy,Tenancy,rps_lng-RPT193082,"103/88 Epping Road, Epping - Sliding door handle r","103/88 Epping Road, Epping - Sliding door handle r",WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170081,Tenancy,Tenancy,rps_lng-RPT192889,ASB-380295 - 203/88 Epping - Multiple Requests,ASB-380295 - 203/88 Epping - Multiple Requests,WorkOrder,,rps_lng-HDO18000926
+rps_lng-HDO170081,Tenancy,Tenancy,rps_lng-RPT192889,AEM-267488 - 203/88 EPPING RD - Roof Leak Repairs,AEM-267488 - 203/88 EPPING RD - Roof Leak Repairs,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170081,Tenancy,Tenancy,rps_lng-RPT192889,"203/88 Epping Road, Epping - Water leaking into Ra","203/88 Epping Road, Epping - Water leaking into Ra",WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170090,Agency,Agency,,Pest Control,Pest Control,WorkOrder,,
+rps_lng-HDO170090,Tenancy,Tenancy,rps_lng-RPT192897,Service AC,Service AC,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO170181,Agency,Agency,,toilets,toilets,WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO170181,Agency,Agency,,Gas Leak,Gas Leak,WorkOrder,,rps_lng-HDO19001288
+rps_lng-HDO170181,Agency,Agency,,Light,Light,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO170181,Agency,Agency,,Garden clean up,Garden clean up,WorkOrder,,rps_lng-HDO19006010
+rps_lng-HDO170181,Agency,Agency,,Heater not working,Heater not working,WorkOrder,,rps_lng-HDO17002857
+rps_lng-HDO170181,Agency,Agency,,Garage Door,Garage Door,WorkOrder,,rps_lng-HDO19002205
+rps_lng-HDO170181,Agency,Agency,,Heater replacement,Heater replacement,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO170181,Agency,Agency,,Further stormdrain clearing,Further stormdrain clearing,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO170181,Agency,Agency,,Pipe blockage investigation & heater repair,Pipe blockage investigation & heater repair,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO170181,Agency,Agency,,TV antenna,TV antenna,WorkOrder,,rps_lng-CVA21002487
+rps_lng-HDO170181,Agency,Agency,,Heater,Heater,WorkOrder,,rps_lng-HDO21001136
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,Oven not heating,Oven not heating,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,OAR-802216 - 885 Centre - Kitchen Dishwasher Stall,OAR-802216 - 885 Centre - Kitchen Dishwasher Stall,WorkOrder,,rps_lng-HDO16001002
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,FDP-446934 - 885 Centre - Toilet Cistern Two toile,FDP-446934 - 885 Centre - Toilet Cistern Two toile,WorkOrder,,rps_lng-HDO13000942
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,885 Centre Road - Fence repair,885 Centre Road - Fence repair,WorkOrder,,
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,AEMG-1788 - 885 Centre Road  - Outdoor Personal Ga,AEMG-1788 - 885 Centre Road  - Outdoor Personal Ga,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,OKE-V-1636 - 885 Centre Road  - Oven not heating,OKE-V-1636 - 885 Centre Road  - Oven not heating,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO170181,Tenancy,Tenancy,rps_lng-RPT193022,885 Centre Road -Gate only opening one side,885 Centre Road -Gate only opening one side,WorkOrder,,rps_lng-HDO17001366
+rps_lng-HDO170201,Agency,Agency,,Duct Clean,Duct Clean,WorkOrder,,rps_lng-HDO08001946
+rps_lng-HDO170201,Tenancy,Tenancy,rps_lng-RPT193050,Gas duct heating system,Gas duct heating system,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO170201,Tenancy,Tenancy,rps_lng-RPT193050,Ceiling Fan not working,Ceiling Fan not working,WorkOrder,,rps_lng-HDO16001050
+rps_lng-HDO170201,Tenancy,Tenancy,rps_lng-RPT193050,outside drain blocked - YVW attended,outside drain blocked - YVW attended,WorkOrder,,
+rps_lng-HDO170201,Agency,Agency,,front drain overflowing,front drain overflowing,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO170201,Agency,Agency,,water leaking under the kitchen sink,water leaking under the kitchen sink,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO170201,Tenancy,Tenancy,rps_lng-RPT193050,Bathroom Bath Shower head h,Bathroom Bath Shower head h,WorkOrder,,rps_lng-HDO18000926
+rps_lng-HDO170201,Tenancy,Tenancy,rps_lng-RPT193050,Repairs to fan ligh,Repairs to fan ligh,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO170201,Tenancy,Tenancy,rps_lng-RPT193050, Bedroom 2 Electricity, Bedroom 2 Electricity,WorkOrder,,rps_lng-HDO17001386
+rps_lng-HDO180004,Agency,Agency,,NBN Battery issue - tenant attending,NBN Battery issue - tenant attending,WorkOrder,,
+rps_lng-HDO180011,Tenancy,Tenancy,rps_lng-HDO211449,Storm Drainage,Storm Drainage,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO180011,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO180011,Agency,Agency,,Pesisting Ensuite Fan Rattle & Garage Roof Leak,Pesisting Ensuite Fan Rattle & Garage Roof Leak,Open,,
+rps_lng-HDO180011,Agency,Agency,,Ensuite Exhaust Fan,Ensuite Exhaust Fan,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO180011,Agency,Agency,,"Skirting Board, Sink & Shower Heads","Skirting Board, Sink & Shower Heads",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO180015,Agency,Agency,,"Blinds, balcony clean and paint wall - TT damages","Blinds, balcony clean and paint wall - TT damages",WorkOrder,,rps_lng-HDO20000602
+rps_lng-HDO180015,Tenancy,Tenancy,rps_lng-HDO190420,Second apartment key,Second apartment key,WorkOrder,,rps_lng-HDO12002949
+rps_lng-HDO180015,Agency,Agency,,New fob,New fob,WorkOrder,,rps_lng-HDO17002776
+rps_lng-HDO180015,Agency,Agency,,Shower handle - Repair,Shower handle - Repair,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO180015,Tenancy,Tenancy,rps_lng-HDO200562,blind issues,blind issues,WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO180015,Agency,Agency,,Oven Handle,Oven Handle,WorkOrder,,rps_lng-HDO19001281
+rps_lng-HDO180018,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO180018,Agency,Agency,,Toilet Seat & Dishwasher,Toilet Seat & Dishwasher,WorkOrder,,
+rps_lng-HDO180020,Tenancy,Tenancy,rps_lng-RPT191005,Shower Taps,Shower Taps,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO180020,Agency,Agency,,Ducted heater issue 2020,Ducted heater issue 2020,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO180020,Tenancy,Tenancy,rps_lng-RPT191005,Gas Ducted Heating system reset error,Gas Ducted Heating system reset error,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO180020,Tenancy,Tenancy,rps_lng-RPT191005,Secuirty door lock- key replacement,Secuirty door lock- key replacement,WorkOrder,,rps_lng-HDO19002247
+rps_lng-HDO180020,Tenancy,Tenancy,rps_lng-RPT191005,Garage Roller Door Remote Not Working,Garage Roller Door Remote Not Working,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO180021,Agency,Agency,,"Gutters, Taps, Clothesline & Blind","Gutters, Taps, Clothesline & Blind",WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO180021,Tenancy,Tenancy,rps_lng-RPT190996,Oven Replacement,Oven Replacement,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO180021,Agency,Agency,,gas heater service - Brivis Buffalo,gas heater service - Brivis Buffalo,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO180021,Tenancy,Tenancy,rps_lng-RPT190996,Lights or Electricity,Lights or Electricity,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO180021,Tenancy,Tenancy,rps_lng-RPT190996,Oven element,Oven element,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO180021,Agency,Agency,,Toilet not Filling Up,Toilet not Filling Up,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO180021,Agency,Agency,,Motion Sensor,Motion Sensor,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO180021,Agency,Agency,,Toilet bowl low water level,Toilet bowl low water level,WorkOrder,,
+rps_lng-HDO180021,Agency,Agency,,Front motion sensor is faulty,Front motion sensor is faulty,WorkOrder,,
+rps_lng-HDO180021,Tenancy,Tenancy,rps_lng-RPT190996,Entry Motion Light,Entry Motion Light,WorkOrder,,
+rps_lng-HDO190005,Agency,Agency,,Solar Panel Leak,Solar Panel Leak,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190005,Agency,Agency,,Electrical & Gas Safety Check plus touch ups,Electrical & Gas Safety Check plus touch ups,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO190005,Agency,Agency,,Roof Leak,Roof Leak,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO190005,Agency,Agency,,Kitchen Tap - Repair,Kitchen Tap - Repair,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190005,Tenancy,Tenancy,rps_lng-RPT191352,Dishswasher  & Oven repair,Dishswasher  & Oven repair,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO190032,Agency,Agency,,Touch Up,Touch Up,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190065,Agency,Agency,,broken blinds and door lock,broken blinds and door lock,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190066,Agency,Agency,,Key replacements,Key replacements,WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO190066,Agency,Agency,,toilet seat loose in bowl - internal fittings,toilet seat loose in bowl - internal fittings,WorkOrder,,rps_lng-JAM20000086
+rps_lng-HDO190071,Tenancy,Tenancy,rps_lng-HDO200055,General Aircon Service,General Aircon Service,WorkOrder,,rps_lng-HDO19001873
+rps_lng-HDO190071,Agency,Agency,,New mailbox key,New mailbox key,WorkOrder,,
+rps_lng-HDO190072,Agency,Agency,,end of tenancy repairs,end of tenancy repairs,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190072,Agency,Agency,,gas door closer leaking oil,gas door closer leaking oil,WorkOrder,,rps_lng-HDO19004528
+rps_lng-HDO190072,Agency,Agency,,Cleaning,Cleaning,WorkOrder,,rps_lng-HDO19001115
+rps_lng-HDO190072,Tenancy,Tenancy,rps_lng-HDO200929,Loose Toilet Seat,Loose Toilet Seat,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO190091,Agency,Agency,,Letterbox Key,Letterbox Key,WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO190099,Agency,Agency,,NBN Battery,NBN Battery,WorkOrder,,
+rps_lng-HDO190099,Agency,Agency,,BOND CLAIM,BOND CLAIM,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO190099,Agency,Agency,,Oven handle,Oven handle,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190111,Agency,Agency,,blind quote,blind quote,WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO190111,Agency,Agency,,mould issue,mould issue,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO190111,Tenancy,Tenancy,rps_lng-RPT191529,Tenant Damaged Dryer door handle,Tenant Damaged Dryer door handle,WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO190111,Agency,Agency,,Front door lock,Front door lock,WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO190116,Agency,Agency,,Touch Ups + Electrical Safety Check,Touch Ups + Electrical Safety Check,WorkOrder,,
+rps_lng-HDO190116,Agency,Agency,,"Sliding door getting stuck, door handle loose","Sliding door getting stuck, door handle loose",WorkOrder,,rps_lng-HDO19005833
+rps_lng-HDO190128,Agency,Agency,,Roll blind in bedroom,Roll blind in bedroom,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190128,Agency,Agency,,Bathroom Door handle repair,Bathroom Door handle repair,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190133,Agency,Agency,,Parking Fine,Parking Fine,WorkOrder,,rps_lng-HDO19001325
+rps_lng-HDO190133,Agency,Agency,,Additional Key/Fob,Additional Key/Fob,WorkOrder,,rps_lng-HDO19001325
+rps_lng-HDO190134,Agency,Agency,,"Bathroom Vanity, Window Leak & Small Jobs","Bathroom Vanity, Window Leak & Small Jobs",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190134,Agency,Agency,,Bedroom Door handle,Bedroom Door handle,WorkOrder,,rps_lng-HDO19001281
+rps_lng-HDO190159,Agency,Agency,,Caulking bathroom & Shower,Caulking bathroom & Shower,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190164,Agency,Agency,,Touch Ups,Touch Ups,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190164,Agency,Agency,,Blind issue,Blind issue,WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO190164,Agency,Agency,,WARRANTY CLAIM - Induction cook top - Bellini,WARRANTY CLAIM - Induction cook top - Bellini,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190164,Agency,Agency,,blind and door handle,blind and door handle,WorkOrder,,rps_lng-HDO20000602
+rps_lng-HDO190164,Agency,Agency,,Shower drains blocked,Shower drains blocked,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO190164,Agency,Agency,,BOND CLAIM - cleaning,BOND CLAIM - cleaning,WorkOrder,,rps_lng-HDO19004738
+rps_lng-HDO190164,Agency,Agency,,Replace Cook top,Replace Cook top,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190164,Tenancy,Tenancy,rps_lng-RPT191604,Cook top not working,Cook top not working,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190182,Agency,Agency,,Toilet seat not secure,Toilet seat not secure,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190200,Agency,Agency,,BOND CLAIM ISSUES - email from owner,BOND CLAIM ISSUES - email from owner,WorkOrder,,
+rps_lng-HDO190200,Agency,Agency,,Leak in hallway adjacent to bathroom,Leak in hallway adjacent to bathroom,WorkOrder,,rps_lng-HDO19001086
+rps_lng-HDO190203,Agency,Agency,,Bathroom Light,Bathroom Light,WorkOrder,,
+rps_lng-HDO190203,Tenancy,Tenancy,rps_lng-RPT191338,Front Door Apartment Unit,Front Door Apartment Unit,WorkOrder,,rps_lng-HDO19001169
+rps_lng-HDO190222,Agency,Agency,,BOND CLAIM - full vacate clean,BOND CLAIM - full vacate clean,WorkOrder,,rps_lng-WES19000033
+rps_lng-HDO190222,Agency,Agency,,leaking mixer tap bathroom,leaking mixer tap bathroom,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO190222,Agency,Agency,,Bathroom downlight not working,Bathroom downlight not working,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190222,Agency,Agency,,Repairs around property,Repairs around property,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190233,Agency,Agency,,Blind won't stay down,Blind won't stay down,WorkOrder,,rps_lng-HDO12001411
+rps_lng-HDO190233,Agency,Agency,,Full easy property clean,Full easy property clean,WorkOrder,,rps_lng-HDO19001472
+rps_lng-HDO190252,Agency,Agency,,Key + Fob Order,Key + Fob Order,WorkOrder,,rps_lng-CVA21002615
+rps_lng-HDO190252,Agency,Agency,,Oven display not working - tenant damage,Oven display not working - tenant damage,WorkOrder,,rps_lng-HDO20000457
+rps_lng-HDO190255,Agency,Agency,,Cleaning + Bedhead & Mattress,Cleaning + Bedhead & Mattress,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO190255,Agency,Agency,,Door Pump Leak,Door Pump Leak,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190255,Agency,Agency,,Bed Frame Removal/Moving,Bed Frame Removal/Moving,WorkOrder,,rps_lng-WES20000062
+rps_lng-HDO190255,Tenancy,Tenancy,rps_lng-HDO210019,Power Point,Power Point,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190262,Agency,Agency,,Key & Letter Box Order,Key & Letter Box Order,WorkOrder,,rps_lng-HDO12002949
+rps_lng-HDO190262,Agency,Agency,,Reaplacement Fob,Reaplacement Fob,WorkOrder,,rps_lng-CVA21002615
+rps_lng-HDO190262,Tenancy,Tenancy,rps_lng-RPT191601,Blind won't roll,Blind won't roll,WorkOrder,,rps_lng-HDO19004465
+rps_lng-HDO190262,Tenancy,Tenancy,rps_lng-RPT191601,Bathroom Down Light,Bathroom Down Light,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190265,Agency,Agency,,Carpet Replacement & Repairs,Carpet Replacement & Repairs,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO190269,Agency,Agency,,Kitchen mixer tap,Kitchen mixer tap,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190269,Agency,Agency,,Gas Meter Leak,Gas Meter Leak,WorkOrder,,
+rps_lng-HDO190269,Agency,Agency,,Tree Suckers,Tree Suckers,WorkOrder,,rps_lng-WES19000024
+rps_lng-HDO190269,Agency,Agency,,Tree Suckers,Tree Suckers,WorkOrder,,rps_lng-WES19000024
+rps_lng-HDO190269,Tenancy,Tenancy,rps_lng-RPT191354,Hot water not reaching over 35 degrees,Hot water not reaching over 35 degrees,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190286,Tenancy,Tenancy,rps_lng-JAM200079,Front Door Pump Mechanism,Front Door Pump Mechanism,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190286,Tenancy,Tenancy,rps_lng-JAM200079,"Dryer, tap","Dryer, tap",WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO190288,Agency,Agency,,BOND CLAIM - Miaomiao & Ji En,BOND CLAIM - Miaomiao & Ji En,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO190288,Agency,Agency,,Couch steam clean,Couch steam clean,WorkOrder,,rps_lng-WES19000013
+rps_lng-HDO190288,Agency,Agency,,Washing machine & refridgerator,Washing machine & refridgerator,WorkOrder,,rps_lng-HDO19001835
+rps_lng-HDO190288,Agency,Agency,,BOND CLAIM Shirley Minty cleaning and other,BOND CLAIM Shirley Minty cleaning and other,WorkOrder,,rps_lng-WES19000013
+rps_lng-HDO190321,Tenancy,Tenancy,rps_lng-RPT190634,Security chain on front door,Security chain on front door,WorkOrder,,rps_lng-JAM20000086
+rps_lng-HDO190351,Agency,Agency,,15 Stoneyfell Rd - exposed wires,15 Stoneyfell Rd - exposed wires,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190351,Agency,Agency,,"bedroom door handle, remote and mail box","bedroom door handle, remote and mail box",WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO190351,Agency,Agency,,Toilet seats- Repalcement/reapir,Toilet seats- Repalcement/reapir,WorkOrder,,rps_lng-HDO19001281
+rps_lng-HDO190351,Agency,Agency,,Gardening before tenants moved in,Gardening before tenants moved in,WorkOrder,,rps_lng-WES19000009
+rps_lng-HDO190351,Tenancy,Tenancy,rps_lng-RPT190242,New remote to be repromagged at property,New remote to be repromagged at property,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO190351,Tenancy,Tenancy,rps_lng-RPT190242,Bathroom Cabinet shelf,Bathroom Cabinet shelf,WorkOrder,,rps_lng-HDO19001281
+rps_lng-HDO190386,Tenancy,Tenancy,rps_lng-COS190028,Damage to Laundry Wall,Damage to Laundry Wall,WorkOrder,,
+rps_lng-HDO190386,Tenancy,Tenancy,rps_lng-COS190028,Fallen Tree in Backyard,Fallen Tree in Backyard,WorkOrder,,
+rps_lng-HDO190386,Tenancy,Tenancy,rps_lng-COS190028,Wrong Wired Powerpoint,Wrong Wired Powerpoint,WorkOrder,,rps_lng-HDO18002179
+rps_lng-HDO190386,Tenancy,Tenancy,rps_lng-COS190028,Leaking Roof,Leaking Roof,WorkOrder,,rps_lng-HDO15002958
+rps_lng-HDO190386,Agency,Agency,,BNP-101998 - 14 Stephen - Plumbing Issues,BNP-101998 - 14 Stephen - Plumbing Issues,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO190386,Agency,Agency,,MJES-A104 - 14 Stephen - Electrical Items,MJES-A104 - 14 Stephen - Electrical Items,WorkOrder,,rps_lng-HDO18002179
+rps_lng-HDO190386,Agency,Agency,,A/C Plaster & Water Stain,A/C Plaster & Water Stain,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190386,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO190386,Agency,Agency,,A/C Service,A/C Service,Open,,
+rps_lng-HDO190386,Agency,Agency,,Gas safety certificate,Gas safety certificate,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO190386,Agency,Agency,,"Gutters, Trees & Removal","Gutters, Trees & Removal",WorkOrder,,rps_lng-VAD22000038
+rps_lng-HDO190386,Agency,Agency,,Taps & Toilet,Taps & Toilet,WorkOrder,,rps_lng-CVA21004144
+rps_lng-HDO190405,Agency,Agency,,Gas Safety Check,Gas Safety Check,Open,,
+rps_lng-HDO190405,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO190405,Agency,Agency,,Leaking Tap,Leaking Tap,WorkOrder,,
+rps_lng-HDO190405,Agency,Agency,,power points,power points,WorkOrder,,
+rps_lng-HDO190405,Agency,Agency,,hot plates,hot plates,WorkOrder,,
+rps_lng-HDO190405,Agency,Agency,,URGENT - hot water pipe,URGENT - hot water pipe,WorkOrder,,rps_lng-HDO14002397
+rps_lng-HDO190423,Tenancy,Tenancy,rps_lng-HDO190117,Gas Smell - URGENT,Gas Smell - URGENT,WorkOrder,,rps_lng-HDO19001288
+rps_lng-HDO190423,Agency,Agency,,Gas Rectification Works,Gas Rectification Works,OwnerAttending,,
+rps_lng-HDO190423,Agency,Agency,,Balcony Works - Waterproofing & Seal,Balcony Works - Waterproofing & Seal,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO190423,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO190423,Agency,Agency,,A/C Split System Service,A/C Split System Service,WorkOrder,,rps_lng-DRE19000076
+rps_lng-HDO190423,Agency,Agency,,Recurrent Leaks,Recurrent Leaks,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO190423,Agency,Agency,,A/C Leak Paint Job,A/C Leak Paint Job,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190423,Agency,Agency,,Mould Patch on Ceiling,Mould Patch on Ceiling,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO190423,Agency,Agency,,Leak - Back door,Leak - Back door,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO190423,Tenancy,Tenancy,rps_lng-HDO200701,Removal & Disposal of Tree,Removal & Disposal of Tree,WorkOrder,,rps_lng-HDO21001478
+rps_lng-HDO190423,Tenancy,Tenancy,rps_lng-HDO200701,Issue with HWS,Issue with HWS,WorkOrder,,rps_lng-CVA21002238
+rps_lng-HDO190423,Tenancy,Tenancy,rps_lng-HDO200701,Window Frame,Window Frame,WorkOrder,,
+rps_lng-HDO190423,Tenancy,Tenancy,rps_lng-HDO200701,Balcony Door Leaking,Balcony Door Leaking,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190424,Tenancy,Tenancy,rps_lng-HDO190111,Broken Towel Holder,Broken Towel Holder,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190424,Tenancy,Tenancy,rps_lng-HDO190111,Stove Top & Possible Gas Leak,Stove Top & Possible Gas Leak,WorkOrder,,rps_lng-HDO16001000
+rps_lng-HDO190424,Agency,Agency,,Dishwasher,Dishwasher,Open,,
+rps_lng-HDO190424,Agency,Agency,,Toilet Seat & Kitchen Sink Leak,Toilet Seat & Kitchen Sink Leak,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO190424,Agency,Agency,,Gas Stove Top - Stoppage & Smell,Gas Stove Top - Stoppage & Smell,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO190424,Agency,Agency,,Heating & Cooling Service Repairs,Heating & Cooling Service Repairs,WorkOrder,,rps_lng-DRE19000076
+rps_lng-HDO190424,Agency,Agency,,Kitchen Power Outage,Kitchen Power Outage,WorkOrder,,
+rps_lng-HDO190424,Agency,Agency,,Slow Drainage - Ensuite Shower & Toilets,Slow Drainage - Ensuite Shower & Toilets,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO190424,Tenancy,Tenancy,rps_lng-HDO211033,NO Power - URGENT,NO Power - URGENT,WorkOrder,,rps_lng-HDO18002179
+rps_lng-HDO190424,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO190424,Agency,Agency,,General Works,General Works,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190431,Agency,Agency,,Garage Service,Garage Service,WorkOrder,,rps_lng-HDO19002005
+rps_lng-HDO190431,Agency,Agency,,Shower Leak,Shower Leak,WorkOrder,,
+rps_lng-HDO190431,Agency,Agency,,Rangehood,Rangehood,WorkOrder,,
+rps_lng-HDO190431,Agency,Agency,,Ducted Heating,Ducted Heating,WorkOrder,,rps_lng-DRE21000027
+rps_lng-HDO190431,Tenancy,Tenancy,rps_lng-HDO190359,Front security door,Front security door,WorkOrder,,rps_lng-HDO19002113
+rps_lng-HDO190431,Agency,Agency,,Hole in kitchen ceiling,Hole in kitchen ceiling,WorkOrder,,
+rps_lng-HDO190431,Agency,Agency,,Pest control,Pest control,WorkOrder,,
+rps_lng-HDO190672,Agency,Agency,,Gutter & Roof Tile Replacement,Gutter & Roof Tile Replacement,OwnerAttending,,
+rps_lng-HDO190672,Agency,Agency,,Roof Leak Reccurence,Roof Leak Reccurence,WorkOrder,,rps_lng-HDO19001203
+rps_lng-HDO190672,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,Open,,
+rps_lng-HDO190672,Agency,Agency,,Insurance Claim - Roof Leak & Water Damage,Insurance Claim - Roof Leak & Water Damage,WorkOrder,,
+rps_lng-HDO190672,Agency,Agency,,Roof Repair & Clean,Roof Repair & Clean,WorkOrder,,rps_lng-HDO19001203
+rps_lng-HDO190672,Agency,Agency,,Mould Inspection,Mould Inspection,Open,,
+rps_lng-HDO190672,Agency,Agency,,"Rotten Frames, Mould & Water Damage","Rotten Frames, Mould & Water Damage",Open,,
+rps_lng-HDO190672,Agency,Agency,,"Power Point, Front Lock, Paint Peel, Hinge","Power Point, Front Lock, Paint Peel, Hinge",WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO190679,Agency,Agency,,Main Bathroom Regrout,Main Bathroom Regrout,WorkOrder,,rps_lng-CVA21004222
+rps_lng-HDO190679,Agency,Agency,,Carpet Replacement,Carpet Replacement,WorkOrder,,rps_lng-HDO19001693
+rps_lng-HDO190679,Agency,Agency,,Shower Leak - Back Bedroom,Shower Leak - Back Bedroom,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190679,Agency,Agency,,Shower Regrout,Shower Regrout,WorkOrder,,rps_lng-CVA21004222
+rps_lng-HDO190679,Agency,Agency,,Ensuite Shower Leak,Ensuite Shower Leak,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190679,Agency,Agency,,Faulty RCD - Electrical Safety Check,Faulty RCD - Electrical Safety Check,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190679,Agency,Agency,,Heater Error Code,Heater Error Code,WorkOrder,,rps_lng-HDO19001493
+rps_lng-HDO190679,Agency,Agency,,Roof Leak,Roof Leak,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190679,Agency,Agency,,Dishwasher Replacement,Dishwasher Replacement,WorkOrder,,rps_lng-DRE21000021
+rps_lng-HDO190679,Agency,Agency,,WATER HEATER,WATER HEATER,WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO190679,Agency,Agency,,Dishwasher,Dishwasher,WorkOrder,,rps_lng-JAM20000137
+rps_lng-HDO190679,Agency,Agency,,solar panels leaking,solar panels leaking,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190680,Agency,Agency,,Lights not functioning,Lights not functioning,WorkOrder,,rps_lng-HDO19001406
+rps_lng-HDO190680,Agency,Agency,,Gas Safety Rectification,Gas Safety Rectification,OwnerAttending,,
+rps_lng-HDO190680,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO190680,Agency,Agency,,Front Security Door Lock,Front Security Door Lock,WorkOrder,,rps_lng-CVA21002453
+rps_lng-HDO190680,Agency,Agency,,Front Flyscreen Lock and Toilet Seat,Front Flyscreen Lock and Toilet Seat,WorkOrder,,rps_lng-HDO20002252
+rps_lng-HDO190919,Agency,Agency,,Quote to replace heat damaged laminate to cupboard,Quote to replace heat damaged laminate to cupboard,WorkOrder,,rps_lng-HDO20000602
+rps_lng-HDO190919,Tenancy,Tenancy,rps_lng-HDO190778,Maintenance items,Maintenance items,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO190919,Tenancy,Tenancy,rps_lng-HDO190778,Miscellaneous,Miscellaneous,WorkOrder,,
+rps_lng-HDO190919,Tenancy,Tenancy,rps_lng-HDO190778,Something is Leaking,Something is Leaking,WorkOrder,,
+rps_lng-HDO190919,Tenancy,Tenancy,rps_lng-HDO190778,Miscellaneous,Miscellaneous,WorkOrder,,
+rps_lng-HDO190919,Tenancy,Tenancy,rps_lng-HDO190778,One of my Appliances is acting up,One of my Appliances is acting up,WorkOrder,,
+rps_lng-HDO190919,Tenancy,Tenancy,rps_lng-HDO190778,Leaking toilet and towel rail,Leaking toilet and towel rail,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190919,Agency,Agency,,Split System,Split System,WorkOrder,,rps_lng-HDO20001257
+rps_lng-HDO190919,Agency,Agency,,Flushing mechanism,Flushing mechanism,WorkOrder,,rps_lng-HDO19001288
+rps_lng-HDO190919,Agency,Agency,,Leak,Leak,WorkOrder,,rps_lng-HDO19004001
+rps_lng-HDO190919,Agency,Agency,,Toilet & Shower Leaking,Toilet & Shower Leaking,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190919,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO190919,Agency,Agency,,Leaking Window & Ceiling,Leaking Window & Ceiling,Open,,
+rps_lng-HDO190919,Agency,Agency,,Kitchen Cabinetry,Kitchen Cabinetry,WorkOrder,,rps_lng-HDO20000602
+rps_lng-HDO190919,Agency,Agency,,Garage tube lighting,Garage tube lighting,WorkOrder,,rps_lng-HDO16001050
+rps_lng-HDO190919,Agency,Agency,,Garden Maintenance,Garden Maintenance,WorkOrder,,rps_lng-SAN21000024
+rps_lng-HDO190919,Agency,Agency,,Garage Remote Investigation,Garage Remote Investigation,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO190949,Tenancy,Tenancy,rps_lng-HDO190782,Oven not working,Oven not working,WorkOrder,,rps_lng-HDO18002075
+rps_lng-HDO190952,Tenancy,Tenancy,rps_lng-HDO191264,Garage Roller Door Replacement,Garage Roller Door Replacement,WorkOrder,,rps_lng-JAM21000034
+rps_lng-HDO190952,Agency,Agency,,NBN Connection Issue,NBN Connection Issue,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO190952,Tenancy,Tenancy,rps_lng-HDO191264,Light bulb holders broken in bedroom.,Light bulb holders broken in bedroom.,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO190952,Tenancy,Tenancy,rps_lng-HDO191264,NBN internal wiring faulty,NBN internal wiring faulty,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO190952,Tenancy,Tenancy,rps_lng-HDO191264,Dishlex Dishwasher,Dishlex Dishwasher,WorkOrder,,rps_lng-HDO19001782
+rps_lng-HDO190952,Agency,Agency,,Gas heater,Gas heater,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190952,Agency,Agency,,Garage key/remote,Garage key/remote,WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO190970,Agency,Agency,,Key/Swipe/Remote,Key/Swipe/Remote,WorkOrder,,rps_lng-HDO19001539
+rps_lng-HDO190970,Agency,Agency,,Electrical safety certificate,Electrical safety certificate,Open,,
+rps_lng-HDO190970,Agency,Agency,,Apparment key fob,Apparment key fob,WorkOrder,,rps_lng-HDO14002417
+rps_lng-HDO190985,Agency,Agency,,BOND CLAIM,BOND CLAIM,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO190985,Agency,Agency,,END OF LEASE - owner maintenance,END OF LEASE - owner maintenance,WorkOrder,,
+rps_lng-HDO190985,Agency,Agency,,BUILDER - Shower drain issue,BUILDER - Shower drain issue,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190985,Agency,Agency,,window frame and fluro light,window frame and fluro light,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO190864,leaking toilet,leaking toilet,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190985,Agency,Agency,,Oven Clean,Oven Clean,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO190985,Agency,Agency,,Garden Clean,Garden Clean,WorkOrder,,rps_lng-HDO21000024
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO200740,laundry trough flooding through - previous tenants,laundry trough flooding through - previous tenants,WorkOrder,,rps_lng-HDO20002032
+rps_lng-HDO190985,Agency,Agency,,Dishwasher,Dishwasher,WorkOrder,,rps_lng-HDO14002395
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO200740,Plumbing maintenance,Plumbing maintenance,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO200740,Windows,Windows,WorkOrder,,
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO200740,Bedroom door + window,Bedroom door + window,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190985,Agency,Agency,,Lawn mow,Lawn mow,WorkOrder,,
+rps_lng-HDO190985,Agency,Agency,,Door Handle & Touch Ups,Door Handle & Touch Ups,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190985,Agency,Agency,,Touch Ups,Touch Ups,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190985,Agency,Agency,,Mouldy Board Replacement,Mouldy Board Replacement,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO210264,Kitchen & Bathroom Leak & Pests,Kitchen & Bathroom Leak & Pests,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190985,Tenancy,Tenancy,rps_lng-HDO210264,Sliding Door & Rubbish,Sliding Door & Rubbish,WorkOrder,,rps_lng-WES19000032
+rps_lng-HDO190994,Agency,Agency,,Tampered with door,Tampered with door,WorkOrder,,rps_lng-HDO19005924
+rps_lng-HDO190994,Agency,Agency,,Front door replacement and wall repairs,Front door replacement and wall repairs,WorkOrder,,
+rps_lng-HDO190994,Agency,Agency,,Change of locks,Change of locks,WorkOrder,,rps_lng-HDO19005924
+rps_lng-HDO190994,Agency,Agency,,Mowing,Mowing,WorkOrder,,rps_lng-WES19000021
+rps_lng-HDO190994,Agency,Agency,,Gas Safety Check,Gas Safety Check,Open,,
+rps_lng-HDO190994,Agency,Agency,,Gas Smell by Gas Meter,Gas Smell by Gas Meter,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190994,Agency,Agency,,Pest Control - Spiders & Mice,Pest Control - Spiders & Mice,Open,,
+rps_lng-HDO190994,Agency,Agency,,Antenna Repair,Antenna Repair,WorkOrder,,rps_lng-CVA21001982
+rps_lng-HDO190994,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,Open,,
+rps_lng-HDO190994,Agency,Agency,,Insurance Claim - Reopen,Insurance Claim - Reopen,OwnerAttending,,
+rps_lng-HDO190994,Agency,Agency,,Garage Door,Garage Door,WorkOrder,,rps_lng-HDO09001040
+rps_lng-HDO190994,Tenancy,Tenancy,rps_lng-HDO200688,Mice in the roof,Mice in the roof,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO190994,Agency,Agency,,Alfresco Water Damage,Alfresco Water Damage,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO190994,Tenancy,Tenancy,rps_lng-HDO200688,Antenna Replacement,Antenna Replacement,WorkOrder,,
+rps_lng-HDO190994,Tenancy,Tenancy,rps_lng-HDO200688,remote controls for garage,remote controls for garage,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO191048,Agency,Agency,,BOND CLAIM - cleaning quotes,BOND CLAIM - cleaning quotes,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO191048,Agency,Agency,,BOND CLAIM - Front Garden Quote,BOND CLAIM - Front Garden Quote,WorkOrder,,
+rps_lng-HDO191048,Agency,Agency,,GLENVILLE - Front door lock,GLENVILLE - Front door lock,WorkOrder,,
+rps_lng-HDO191048,Agency,Agency,,GLENVILL - garage motor,GLENVILL - garage motor,WorkOrder,,
+rps_lng-HDO191048,Agency,Agency,,GLENVILL Evap cooling and heating - BUILDERS,GLENVILL Evap cooling and heating - BUILDERS,WorkOrder,,
+rps_lng-HDO191048,Agency,Agency,,Rental Photography,Rental Photography,WorkOrder,,rps_lng-HDO19005948
+rps_lng-HDO191048,Agency,Agency,,TV Aerial,TV Aerial,WorkOrder,,rps_lng-CVA21001982
+rps_lng-HDO191048,Agency,Agency,,Electrical & Gas Safety Check + Plumbing,Electrical & Gas Safety Check + Plumbing,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO191048,Agency,Agency,,Cooling Thermostat,Cooling Thermostat,WorkOrder,,rps_lng-DRE21000027
+rps_lng-HDO191048,Agency,Agency,,Front Garden Tap Leak,Front Garden Tap Leak,WorkOrder,,rps_lng-HDO19001340
+rps_lng-HDO191255,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,WorkOrder,,rps_lng-SAN22000095
+rps_lng-HDO191255,Agency,Agency,,ESM Defect,ESM Defect,WorkOrder,,rps_lng-HDO16000967
+rps_lng-HDO191255,Agency,Agency,,Toilet Leak,Toilet Leak,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO191256,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,WorkOrder,,rps_lng-SAN22000095
+rps_lng-HDO191256,Agency,Agency,,"Toilet Drainage, Laundry Hot Water & Leak","Toilet Drainage, Laundry Hot Water & Leak",WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO191257,Tenancy,Tenancy,rps_lng-HDO191278,Shower Screen,Shower Screen,WorkOrder,,
+rps_lng-HDO191257,Tenancy,Tenancy,rps_lng-HDO210262,Blocked Drain & Toilet,Blocked Drain & Toilet,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO191257,Tenancy,Tenancy,rps_lng-HDO210262,Toilet/Vanity Issues,Toilet/Vanity Issues,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO191257,Tenancy,Tenancy,rps_lng-HDO210262,Lock Issues,Lock Issues,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO191257,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,WorkOrder,,rps_lng-SAN22000095
+rps_lng-HDO191257,Agency,Agency,,Sink & Toilet Drainage,Sink & Toilet Drainage,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO191272,Agency,Agency,,Pest Control - Wasps,Pest Control - Wasps,WorkOrder,,rps_lng-HDO18000912
+rps_lng-HDO191272,Agency,Agency,,Car port,Car port,WorkOrder,,
+rps_lng-HDO191272,Tenancy,Tenancy,rps_lng-HDO191308,Garden and mixer tap,Garden and mixer tap,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO191273,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,WorkOrder,,rps_lng-SAN22000095
+rps_lng-HDO191273,Agency,Agency,,Bedroom Ceiling Leak,Bedroom Ceiling Leak,WorkOrder,,
+rps_lng-HDO200073,Agency,Agency,,Vacate Clean,Vacate Clean,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO200097,Agency,Agency,,High Water Usage Inspection,High Water Usage Inspection,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO200097,Agency,Agency,,Cold Water Tap Laundry,Cold Water Tap Laundry,WorkOrder,,rps_lng-HDO20002252
+rps_lng-HDO200097,Agency,Agency,,Loose Door Handles,Loose Door Handles,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200097,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200097,Agency,Agency,,Dishwasher Leak,Dishwasher Leak,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO200099,Tenancy,Tenancy,rps_lng-DRE200046,Exhaust fan,Exhaust fan,WorkOrder,,rps_lng-HDO14000933
+rps_lng-HDO200099,Tenancy,Tenancy,rps_lng-DRE200046,Door Knob,Door Knob,WorkOrder,,rps_lng-CHA20000006
+rps_lng-HDO200099,Tenancy,Tenancy,rps_lng-DRE200046,Miscellaneous,Miscellaneous,WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO200099,Tenancy,Tenancy,rps_lng-HDO200704,Bushes on path to entryway are severely overgrown.,Bushes on path to entryway are severely overgrown.,WorkOrder,,
+rps_lng-HDO200102,Agency,Agency,,Electrical Box Repair,Electrical Box Repair,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200102,Agency,Agency,,Oven Noise,Oven Noise,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO200102,Agency,Agency,,Garage Door Service,Garage Door Service,WorkOrder,,rps_lng-HDO19002005
+rps_lng-HDO200102,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200102,Tenancy,Tenancy,rps_lng-HDO220556,Main Toilet Blockage,Main Toilet Blockage,WorkOrder,,
+rps_lng-HDO200103,Agency,Agency,,Shower Leak,Shower Leak,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO200103,Tenancy,Tenancy,rps_lng-HDO200329,Powerpoint Issue,Powerpoint Issue,WorkOrder,,rps_lng-HDO18002179
+rps_lng-HDO200107,Agency,Agency,,MOULD bedroom 2 from water leak,MOULD bedroom 2 from water leak,WorkOrder,,
+rps_lng-HDO200107,Agency,Agency,,Bath tub crack - Owner attending,Bath tub crack - Owner attending,WorkOrder,,
+rps_lng-HDO200107,Agency,Agency,,water leak bedroom 2,water leak bedroom 2,WorkOrder,,
+rps_lng-HDO200107,Agency,Agency,,tv antenna,tv antenna,WorkOrder,,
+rps_lng-HDO200123,Agency,Agency,,Painting,Painting,QuoteRequest,,
+rps_lng-HDO200123,Tenancy,Tenancy,rps_lng-HDO200338,Bedroom Door Hinges,Bedroom Door Hinges,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200123,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200123,Agency,Agency,,Cleaning Reimbursement,Cleaning Reimbursement,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200166,Agency,Agency,,Shadecloth,Shadecloth,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Oven Heating,Oven Heating,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO200166,Agency,Agency,,Garage Motor Beeping,Garage Motor Beeping,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Mulching of Gravel,Mulching of Gravel,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Water Marks & Concrete Crack,Water Marks & Concrete Crack,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Blind issue,Blind issue,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,BUILDER - AHB - Toilet blocked,BUILDER - AHB - Toilet blocked,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Screen doors - owner,Screen doors - owner,WorkOrder,,
+rps_lng-HDO200166,Agency,Agency,,Concreting - owners,Concreting - owners,WorkOrder,,
+rps_lng-HDO200184,Tenancy,Tenancy,rps_lng-HDO200310,Elec Issue/Isoltaed Power Issue,Elec Issue/Isoltaed Power Issue,WorkOrder,,rps_lng-HDO18002179
+rps_lng-HDO200184,Tenancy,Tenancy,rps_lng-HDO200310,Damaged Gate from Strong Winds,Damaged Gate from Strong Winds,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200184,Tenancy,Tenancy,rps_lng-HDO200310,Leaking Laundry Taps,Leaking Laundry Taps,WorkOrder,,rps_lng-HDO19001076
+rps_lng-HDO200184,Tenancy,Tenancy,rps_lng-HDO200310,Electricity Issue,Electricity Issue,WorkOrder,,rps_lng-HDO18002179
+rps_lng-HDO200190,Agency,Agency,,Kitchen Tap,Kitchen Tap,WorkOrder,,
+rps_lng-HDO200190,Tenancy,Tenancy,rps_lng-HDO200350,Lights & Switches,Lights & Switches,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO200230,Agency,Agency,,BUILDER AHB - roof leak in garage,BUILDER AHB - roof leak in garage,WorkOrder,,
+rps_lng-HDO200230,Agency,Agency,,BUILDER AHB - Roof leak lounge room,BUILDER AHB - Roof leak lounge room,WorkOrder,,
+rps_lng-HDO200230,Agency,Agency,,BUILDER AHB - leak under ktichen sink,BUILDER AHB - leak under ktichen sink,WorkOrder,,
+rps_lng-HDO200230,Agency,Agency,,BUILDER AHB -  no mail box keys,BUILDER AHB -  no mail box keys,WorkOrder,,
+rps_lng-HDO200230,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200230,Agency,Agency,,Garage Render,Garage Render,WorkOrder,,
+rps_lng-HDO200230,Agency,Agency,,Bees,Bees,WorkOrder,,
+rps_lng-HDO200230,Agency,Agency,,Security Door Installation Deposit,Security Door Installation Deposit,WorkOrder,,rps_lng-VAD22000036
+rps_lng-HDO200277,Agency,Agency,,Gas Safety Check,Gas Safety Check,Open,,
+rps_lng-HDO200277,Agency,Agency,,Vine Prune/Removal,Vine Prune/Removal,WorkOrder,,rps_lng-HDO17002854
+rps_lng-HDO200277,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200277,Agency,Agency,,Bedroom Leak,Bedroom Leak,WorkOrder,,
+rps_lng-HDO200277,Agency,Agency,,Shower Leak Repairs,Shower Leak Repairs,WorkOrder,,rps_lng-HDO21002273
+rps_lng-HDO200278,Agency,Agency,,Gas Heater Glass,Gas Heater Glass,WorkOrder,,
+rps_lng-HDO200278,Agency,Agency,,No Hot Water,No Hot Water,WorkOrder,,rps_lng-HDO18002137
+rps_lng-HDO200278,Agency,Agency,,Leaking Toilet Cistern,Leaking Toilet Cistern,WorkOrder,,rps_lng-HDO19004377
+rps_lng-HDO200278,Agency,Agency,,Cistern Replacement,Cistern Replacement,WorkOrder,,rps_lng-HDO18002137
+rps_lng-HDO200278,Agency,Agency,,Oven Replacement,Oven Replacement,WorkOrder,,rps_lng-HDO18002137
+rps_lng-HDO200278,Agency,Agency,,Cracked/Chipped Window,Cracked/Chipped Window,WorkOrder,,rps_lng-HDO19002680
+rps_lng-HDO200278,Agency,Agency,,Leaking Radiator,Leaking Radiator,WorkOrder,,rps_lng-HDO18002137
+rps_lng-HDO200354,Tenancy,Tenancy,rps_lng-HDO210243,Garage Door Service,Garage Door Service,WorkOrder,,rps_lng-HDO19002005
+rps_lng-HDO200354,Agency,Agency,,Electrical Safety Rectifications,Electrical Safety Rectifications,OwnerAttending,,
+rps_lng-HDO200354,Agency,Agency,,Rejoin Carpet Split,Rejoin Carpet Split,WorkOrder,,rps_lng-HDO19002574
+rps_lng-HDO200354,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200421,Agency,Agency,,Remove and Attach Bath Spout,Remove and Attach Bath Spout,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO200421,Agency,Agency,,Minor Repairs,Minor Repairs,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200421,Agency,Agency,,Pest Control - Mice,Pest Control - Mice,WorkOrder,,rps_lng-HDO15002945
+rps_lng-HDO200421,Agency,Agency,,Allianz Insurance,Allianz Insurance,WorkOrder,,
+rps_lng-HDO200421,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200421,Agency,Agency,,"Bathtub Tiles, Resultant Water Damage & Roof","Bathtub Tiles, Resultant Water Damage & Roof",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200421,Agency,Agency,,Carpet Replacement,Carpet Replacement,WorkOrder,,rps_lng-HDO19002574
+rps_lng-HDO200421,Agency,Agency,,"Bathtub, Silicon, Carpet","Bathtub, Silicon, Carpet",WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO200421,Agency,Agency,,Bedroom Leak Sanitisation,Bedroom Leak Sanitisation,WorkOrder,,rps_lng-HDO19001480
+rps_lng-HDO200421,Agency,Agency,,"Bathroom, Gutter, Roof, Water Leak","Bathroom, Gutter, Roof, Water Leak",WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO200421,Tenancy,Tenancy,rps_lng-HDO201092,Kitchen Sink,Kitchen Sink,WorkOrder,,rps_lng-CVA21002238
+rps_lng-HDO200421,Tenancy,Tenancy,rps_lng-HDO201092,Plumbing Issues,Plumbing Issues,WorkOrder,,rps_lng-CVA21002238
+rps_lng-HDO200421,Tenancy,Tenancy,rps_lng-HDO201092,PowerPoint Issue,PowerPoint Issue,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO200422,Agency,Agency,,Full Clean,Full Clean,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO200422,Agency,Agency,,Garden Trim & Weed,Garden Trim & Weed,WorkOrder,,rps_lng-HDO19002404
+rps_lng-HDO200423,Agency,Agency,,Clean Property,Clean Property,WorkOrder,,rps_lng-SAN21000010
+rps_lng-HDO200423,Agency,Agency,,CARPET,CARPET,WorkOrder,,rps_lng-CVA21002570
+rps_lng-HDO200423,Agency,Agency,,POLICE WOP - Change of Locks,POLICE WOP - Change of Locks,WorkOrder,,rps_lng-HDO12002949
+rps_lng-HDO200423,Agency,Agency,,NBN Installation,NBN Installation,WorkOrder,,
+rps_lng-HDO200423,Tenancy,Tenancy,rps_lng-HDO220395,Outdoor Light Repair,Outdoor Light Repair,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO200423,Agency,Agency,,Rear Garden Trim,Rear Garden Trim,WorkOrder,,rps_lng-HDO17002854
+rps_lng-HDO200423,Agency,Agency,,General Maintence & Hot Water Leak,General Maintence & Hot Water Leak,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO200434,Agency,Agency,,Green Bin,Green Bin,WorkOrder,,
+rps_lng-HDO200434,Agency,Agency,,Ceiling Leak,Ceiling Leak,WorkOrder,,
+rps_lng-HDO200439,Agency,Agency,,Window & Door Repairs,Window & Door Repairs,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200439,Agency,Agency,,Shower Tiles,Shower Tiles,OwnerAttending,,
+rps_lng-HDO200439,Agency,Agency,,Tree Trim,Tree Trim,OwnerAttending,,
+rps_lng-HDO200439,Agency,Agency,,Lights & Earth Stake Repair,Lights & Earth Stake Repair,WorkOrder,,rps_lng-VAD22000033
+rps_lng-HDO200439,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO200439,Agency,Agency,,Door Handles & Floor Vinyl,Door Handles & Floor Vinyl,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200439,Agency,Agency,,Floor Vinyl,Floor Vinyl,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO200439,Tenancy,Tenancy,rps_lng-HDO210015,No Power Half of House,No Power Half of House,WorkOrder,,rps_lng-HDO16001035
+rps_lng-HDO200439,Tenancy,Tenancy,rps_lng-HDO210015,Range hood and ceiling fan,Range hood and ceiling fan,WorkOrder,,rps_lng-DRE20000110
+rps_lng-HDO200439,Agency,Agency,,"Shower Door, Kitchen Sink Leak & Roller Blind","Shower Door, Kitchen Sink Leak & Roller Blind",WorkOrder,,rps_lng-HDO19004177
+rps_lng-HDO200439,Agency,Agency,,Bedroom Blind Replacement,Bedroom Blind Replacement,WorkOrder,,rps_lng-HDO19004177
+rps_lng-HDO210004,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,OwnerAttending,,
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,A/C Installation & Electrical Works,A/C Installation & Electrical Works,Open,,
+rps_lng-HDO210004,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210004,Agency,Agency,,Door Handles,Door Handles,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO210004,Agency,Agency,,Traces of Termite,Traces of Termite,WorkOrder,,rps_lng-HDO15002945
+rps_lng-HDO210004,Agency,Agency,,Hot water system repairs,Hot water system repairs,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,Wind from the storm broke the side gate,Wind from the storm broke the side gate,WorkOrder,,
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,Outside Drain Overflow,Outside Drain Overflow,WorkOrder,,rps_lng-HDO19001076
+rps_lng-HDO210004,Agency,Agency,,Gas Heater Service,Gas Heater Service,WorkOrder,,rps_lng-HDO20000588
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,emergency repair  gas leak,emergency repair  gas leak,WorkOrder,,rps_lng-HDO20000588
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,Shower Skirting,Shower Skirting,WorkOrder,,
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,Side Gate,Side Gate,WorkOrder,,
+rps_lng-HDO210004,Tenancy,Tenancy,rps_lng-HDO210020,2nd Bedroom Power Point,2nd Bedroom Power Point,WorkOrder,,
+rps_lng-HDO210004,Agency,Agency,,HWS Pilot Light,HWS Pilot Light,WorkOrder,,rps_lng-HDO19001076
+rps_lng-HDO210040,Agency,Agency,,Painting of Water Damage from Leak,Painting of Water Damage from Leak,WorkOrder,,
+rps_lng-HDO210040,Agency,Agency,,Oven Malfuction,Oven Malfuction,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO210040,Agency,Agency,,Roof Leak & Garden Tap,Roof Leak & Garden Tap,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO210040,Agency,Agency,,Small Maintenance,Small Maintenance,WorkOrder,,
+rps_lng-HDO210041,Agency,Agency,,Bathtub Reinstallation,Bathtub Reinstallation,OwnerAttending,,
+rps_lng-HDO210041,Agency,Agency,,Bathtub Leak Report,Bathtub Leak Report,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO210041,Agency,Agency,,Dishwasher,Dishwasher,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO210041,Agency,Agency,,Cockroach Treatment,Cockroach Treatment,WorkOrder,,rps_lng-HDO19005792
+rps_lng-HDO210041,Agency,Agency,,Ducted Heating Not Working,Ducted Heating Not Working,WorkOrder,,
+rps_lng-HDO210041,Agency,Agency,,Repair to hot water system,Repair to hot water system,WorkOrder,,rps_lng-HDO21000174
+rps_lng-HDO210041,Tenancy,Tenancy,rps_lng-HDO211229,Evap Cooling,Evap Cooling,WorkOrder,,rps_lng-HDO17002857
+rps_lng-HDO210041,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210045,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,Open,,
+rps_lng-HDO210045,Agency,Agency,,Front Garden Tap Burst,Front Garden Tap Burst,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO210045,Tenancy,Tenancy,rps_lng-HDO210342,Garage Door,Garage Door,WorkOrder,,
+rps_lng-HDO210070,Tenancy,Tenancy,rps_lng-HDO210547,Oven Repairs,Oven Repairs,WorkOrder,,rps_lng-HDO19001246
+rps_lng-HDO210070,Tenancy,Tenancy,rps_lng-HDO210547,Bathroom Door,Bathroom Door,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210070,Agency,Agency,,Blind Installation Adjacent Front Door,Blind Installation Adjacent Front Door,WorkOrder,,
+rps_lng-HDO210070,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210113,Agency,Agency,,Gas Safety Rectification,Gas Safety Rectification,OwnerAttending,,
+rps_lng-HDO210113,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210113,Agency,Agency,,NBN Connection,NBN Connection,WorkOrder,,
+rps_lng-HDO210113,Agency,Agency,,Termite Inspection,Termite Inspection,WorkOrder,,rps_lng-HDO22001619
+rps_lng-HDO210140,Agency,Agency,,Laundry Light - Electrical Safety,Laundry Light - Electrical Safety,Open,,
+rps_lng-HDO210140,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210190,Agency,Agency,,Slow Draining Toilets Upstairs,Slow Draining Toilets Upstairs,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO210190,Agency,Agency,,Shower Leak,Shower Leak,WorkOrder,,
+rps_lng-HDO210190,Agency,Agency,,"Fly Screen, Windows & Grout","Fly Screen, Windows & Grout",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO210190,Agency,Agency,,Fly Screens & Cleaning,Fly Screens & Cleaning,WorkOrder,,
+rps_lng-HDO210190,Agency,Agency,,Gas Safety Check,Gas Safety Check,WorkOrder,,rps_lng-HDO22004027
+rps_lng-HDO210190,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,WorkOrder,,rps_lng-DRE19000090
+rps_lng-HDO210190,Agency,Agency,,Shower Screen Leak,Shower Screen Leak,Open,,
+rps_lng-HDO210190,Agency,Agency,,Front Door Key Cut,Front Door Key Cut,Open,,
+rps_lng-HDO210193,Agency,Agency,,Gas safety certificate,Gas safety certificate,Open,,
+rps_lng-HDO210193,Agency,Agency,,Shower Hose Leak,Shower Hose Leak,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO210193,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210193,Agency,Agency,,Carpet Clean and wall marks,Carpet Clean and wall marks,WorkOrder,,rps_lng-HDO18002118
+rps_lng-HDO210236,Agency,Agency,,Cracked Cooktop Assessment,Cracked Cooktop Assessment,WorkOrder,,rps_lng-HDO19001439
+rps_lng-HDO210236,Agency,Agency,,Toilet Smell Investigation,Toilet Smell Investigation,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO210236,Agency,Agency,,Electrical Safety Check,Electrical Safety Check,WorkOrder,,rps_lng-SAN22000095
+rps_lng-HDO210236,Agency,Agency,,Balcony Door,Balcony Door,WorkOrder,,
+rps_lng-HDO210239,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210239,Tenancy,Tenancy,rps_lng-HDO210956,Defect Works - Laundry Ceiling & Bathroom Silicone,Defect Works - Laundry Ceiling & Bathroom Silicone,WorkOrder,,rps_lng-HDO19001406
+rps_lng-HDO210267,Agency,Agency,,Storage Cage Break In,Storage Cage Break In,OwnerAttending,,
+rps_lng-HDO210267,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210268,Agency,Agency,,Living Room Blind & Ensuite Door,Living Room Blind & Ensuite Door,OwnerAttending,,
+rps_lng-HDO210268,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210326,Agency,Agency,,Hot Water System Repair,Hot Water System Repair,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO210326,Agency,Agency,,Replace Faulty PowerPoints & Downlight,Replace Faulty PowerPoints & Downlight,WorkOrder,,rps_lng-HDO19001421
+rps_lng-HDO210326,Agency,Agency,,Electrical Safety Rectifications,Electrical Safety Rectifications,Open,,
+rps_lng-HDO210326,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210326,Agency,Agency,,Garage Remote Replacement,Garage Remote Replacement,WorkOrder,,
+rps_lng-HDO210328,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210343,Tenancy,Tenancy,rps_lng-HDO211237,Defects - Toilet,Defects - Toilet,Open,,
+rps_lng-HDO210369,Tenancy,Tenancy,rps_lng-HDO211378,Front Door Handle & Lock Repair,Front Door Handle & Lock Repair,WorkOrder,,rps_lng-CHA19000037
+rps_lng-HDO210369,Tenancy,Tenancy,rps_lng-HDO211378,Toilet valves faulty,Toilet valves faulty,WorkOrder,,rps_lng-HDO19001147
+rps_lng-HDO210369,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210381,Agency,Agency,,Carpet Replacement,Carpet Replacement,QuoteRequest,rps_lng-HDO19002574,
+rps_lng-HDO210381,Agency,Agency,,Bedroom Mould Inspection,Bedroom Mould Inspection,WorkOrder,,rps_lng-HDO19001497
+rps_lng-HDO210381,Agency,Agency,,Bedroom Carpet - Drying,Bedroom Carpet - Drying,WorkOrder,,rps_lng-HDO19001480
+rps_lng-HDO210381,Agency,Agency,,Bedroom Water Leak Recurrence,Bedroom Water Leak Recurrence,OwnerAttending,,
+rps_lng-HDO210381,Agency,Agency,,Combined electrical and gas safety certificates,Combined electrical and gas safety certificates,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210381,Agency,Agency,,Bedroom Leak & Shower Head,Bedroom Leak & Shower Head,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO210387,Agency,Agency,,Smoke Alarm Beeping,Smoke Alarm Beeping,WorkOrder,,rps_lng-HDO19001188
+rps_lng-HDO210387,Agency,Agency,,Leaking Laundry Tap,Leaking Laundry Tap,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210387,Agency,Agency,,Fence Replacement,Fence Replacement,WorkOrder,,rps_lng-HDO23002103
+rps_lng-HDO210387,Agency,Agency,,Fence Deposit,Fence Deposit,WorkOrder,,rps_lng-HDO23002103
+rps_lng-HDO210387,Agency,Agency,,Plant Removal,Plant Removal,WorkOrder,,
+rps_lng-HDO210387,Agency,Agency,,Wet Patches,Wet Patches,WorkOrder,,rps_lng-HDO21001573
+rps_lng-HDO210387,Agency,Agency,,"Painting, Roof, Gutters & Handle Repairs","Painting, Roof, Gutters & Handle Repairs",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO210387,Agency,Agency,,Top Up Clean & Gardening,Top Up Clean & Gardening,WorkOrder,,
+rps_lng-HDO210496,Agency,Agency,,Dishwasher,Dishwasher,OwnerAttending,,
+rps_lng-HDO210496,Agency,Agency,,Window Panes & Balcony Leak,Window Panes & Balcony Leak,Open,,
+rps_lng-HDO210496,Agency,Agency,,Oven Element,Oven Element,WorkOrder,,
+rps_lng-HDO210496,Agency,Agency,,Front Door Lock,Front Door Lock,WorkOrder,,
+rps_lng-HDO210496,Agency,Agency,,Tree Branch Fallen,Tree Branch Fallen,WorkOrder,,
+rps_lng-HDO210496,Agency,Agency,,Gas Safety Rectification Works,Gas Safety Rectification Works,WorkOrder,,
+rps_lng-HDO210496,Agency,Agency,,Gas Safety,Gas Safety,WorkOrder,,rps_lng-CVA21002238
+rps_lng-HDO210496,Agency,Agency,,Roof Leak & Rotten Timber,Roof Leak & Rotten Timber,WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO210496,Agency,Agency,,"Door Handle, Windows, Laundry Tap, HWS & TV Cable","Door Handle, Windows, Laundry Tap, HWS & TV Cable",WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210496,Agency,Agency,,Dog Door,Dog Door,WorkOrder,,
+rps_lng-HDO210496,Agency,Agency,,Electrical and Gas Safety,Electrical and Gas Safety,WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210506,Agency,Agency,,"Bathroom Silicon, Locks & Tracks","Bathroom Silicon, Locks & Tracks",WorkOrder,,rps_lng-DRE19000036
+rps_lng-HDO210506,Agency,Agency,,Fly Screen Installation,Fly Screen Installation,WorkOrder,,
+rps_lng-HDO210506,Agency,Agency,,"Towel Rail, Hot Water Tap, Breach Test","Towel Rail, Hot Water Tap, Breach Test",WorkOrder,,rps_lng-VAD21000019
+rps_lng-HDO210506,Agency,Agency,,Recommissioned heater,Recommissioned heater,WorkOrder,,rps_lng-DRE19000076
+rps_lng-HDO210506,Agency,Agency,,Heater Repair,Heater Repair,WorkOrder,,rps_lng-DRE19000076
+rps_lng-HDO210506,Agency,Agency,,Garage Door Replacement,Garage Door Replacement,WorkOrder,,rps_lng-HDO19002005
+rps_lng-HDO210506,Tenancy,Tenancy,rps_lng-HDO211710,Heating Error,Heating Error,WorkOrder,,rps_lng-DRE19000104
+rps_lng-HDO210506,Tenancy,Tenancy,rps_lng-HDO211710,Reinstating Flyscreens,Reinstating Flyscreens,WorkOrder,,rps_lng-HDO21001981
+rps_lng-HDO210534,Agency,Agency,,Garden Trim,Garden Trim,WorkOrder,,rps_lng-HDO19002404
+rps_lng-HDO220099,Agency,Agency,,Termite Check,Termite Check,WorkOrder,,rps_lng-HDO20002103
+rps_lng-HDO220099,Agency,Agency,,Front Door Lock,Front Door Lock,WorkOrder,,
+rps_lng-HDO220099,Agency,Agency,,Hot Water System,Hot Water System,WorkOrder,,
+rps_lng-HDO220099,Agency,Agency,,"Letterbox Key, Opticomm & Antennae Installation","Letterbox Key, Opticomm & Antennae Installation",WorkOrder,,
+rps_lng-HDO220108,Agency,Agency,,External Holes & TV Point,External Holes & TV Point,WorkOrder,,
+rps_lng-HDO220108,Agency,Agency,,Mice,Mice,WorkOrder,,rps_lng-HDO19004467
+rps_lng-HDO220108,Agency,Agency,,"Cleaning, Bins & Letter Box Key","Cleaning, Bins & Letter Box Key",WorkOrder,,
+rps_lng-HDO220108,Agency,Agency,,Mice Recurrence,Mice Recurrence,WorkOrder,,rps_lng-HDO19004467
+rps_lng-HDO220108,Agency,Agency,,Wardrobe Handles & Towel Rails,Wardrobe Handles & Towel Rails,WorkOrder,,

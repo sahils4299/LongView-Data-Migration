@@ -1,0 +1,4 @@
+ownership_id,name,abn,gst_registered,withhold_type,withhold_amount,withhold_reason,increase_withhold_amount,contact_1_id,contact_2_id,contact_1_create_statements,contact_1_send_statement_by,contact_2_send_statement_by,contact_1_statement_style,contact_2_statement_style,contact_1_type,contact_2_type,contact_[n]_payment_method,contact_[n]_cheque_pay_to,contact_[n]_account_name,contact_[n]_account_bsb,contact_[n]_account_no,contact_[n]_eft_reference,contact_[n]_payment_amount,tag_[group name],fee_[fee id]
+rps_lng-RPT130077,Stephen Wood,,,,,,,rps_lng-HDO13000435,rps_lng-HDO13000436,True,Email,,Basic,,Owner,,,,,,,,,,
+rps_lng-RPT180011,Bill Enright,,,,,,,rps_lng-HDO18000283,,True,Email,,Basic,,Owner,,,,,,,,,,
+rps_lng-RPT180034,Peter Koopman,,,,,,,rps_lng-HDO18000321,rps_lng-HDO18000322,True,Email,,Basic,,Owner,,,,,,,,,,

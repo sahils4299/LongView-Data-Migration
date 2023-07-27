@@ -1,0 +1,1029 @@
+invoice_type,property_id,creditor_id,tenancy_id,entered_date,due_date,creditor_reference,is_priority,line_1_account_code,line_1_description,line_1_amount_due,line_1_gst_due,line_1_amount_paid
+Creditor,rps_lng-CVA210023,rps_lng-CVA21001869,rps_lng-HDO211377,2022-07-20,2022-07-26,Replacement of hot water service,,,,2178.0,0,0
+Tenancy,rps_lng-CVA210023,,rps_lng-HDO211377,2022-05-26,2022-08-25,Repair to courtyard door and holders in laundry,,,,0.0,0,0
+Creditor,rps_lng-CVA210032,rps_lng-HDO19001188,rps_lng-CVA210538,2022-11-28,2023-01-03,Electrical and Gas Safety,,,,528.0,0,0
+Creditor,rps_lng-CVA210032,rps_lng-CVA21001869,rps_lng-CVA210538,2022-02-04,2022-02-04,Investigate roof leak,,,,318.18,0,0
+Tenancy,rps_lng-CVA210032,rps_lng-CVA21001869,rps_lng-CVA210538,2022-01-11,2022-01-24,Repair to roof leak,,,,231.55,0,0
+Creditor,rps_lng-CVA210032,rps_lng-DRE19000036,rps_lng-CVA210538,2021-04-01,2022-07-08,Repair to window in master bedroom,,,,847.0,0,0
+Creditor,rps_lng-CVA210066,rps_lng-HDO19001147,rps_lng-HDO210209,2021-10-13,2021-10-25,Kitchen - sink repair,,,,114.7,0,0
+Creditor,rps_lng-CVA210066,rps_lng-HDO19001147,rps_lng-HDO210209,2021-09-20,2021-10-01,Water Pipes,,,,158.4,0,0
+Tenancy,rps_lng-CVA210066,rps_lng-CVA21002081,rps_lng-HDO210209,2021-02-23,2021-03-10,Beam repair BIR & main switch panel cover fixing,,,,148.5,0,0
+Tenancy,rps_lng-CVA210066,rps_lng-SAN22000095,rps_lng-HDO220335,2023-02-10,2023-04-11,Bedroom Light Switch,,,,0.0,0,0
+Creditor,rps_lng-CVA210066,rps_lng-VAD21000019,rps_lng-HDO220335,2022-03-17,2022-10-14,Gas and Electrical Checks,,,,0.0,0,0
+Creditor,rps_lng-CVA210067,rps_lng-HDO19001188,rps_lng-CVA210093,2023-04-05,2023-06-01,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210067,rps_lng-DRE19000036,rps_lng-CVA210093,2021-09-17,2022-02-08,Water Damage Repairs,,,,3063.5,0,0
+Creditor,rps_lng-CVA210068,rps_lng-WES20000008,rps_lng-HDO210202,2022-03-04,2022-04-22,Flooded Carpets,,,,1760.55,0,0
+Creditor,rps_lng-CVA210068,rps_lng-WES20000008,rps_lng-HDO210202,2022-01-28,2022-04-22,Wet Carpets,,,,0.0,0,0
+Creditor,rps_lng-CVA210068,rps_lng-VAD21000019,rps_lng-HDO220375,2022-04-04,2022-10-14,Gas & Electrical Checks,,,,0.0,0,0
+Creditor,rps_lng-CVA210071,rps_lng-SAN22000095,rps_lng-HDO210133,2022-06-24,2022-07-11,Wall Heater,,,,601.26,0,0
+Creditor,rps_lng-CVA210071,rps_lng-VAD21000019,rps_lng-HDO210133,2022-01-04,2022-02-17,Main Bedroom Blinds,,,,143.0,0,0
+Tenancy,rps_lng-CVA210071,rps_lng-CVA21002081,rps_lng-HDO210133,2021-03-01,2021-03-18,Window not closing and letterbox not locking,,,,242.0,0,0
+Tenancy,rps_lng-CVA210071,rps_lng-CVA21001869,rps_lng-HDO210133,2021-02-25,2021-03-10,Shower head issue & toilet leak and noise,,,,257.68,0,0
+Creditor,rps_lng-CVA210072,rps_lng-HDO19001147,rps_lng-CVA210520,2022-04-01,2022-04-01,Investigate urgent hot water leak,,,,400.18,0,0
+Creditor,rps_lng-CVA210072,rps_lng-WES20000008,rps_lng-CVA210520,2022-03-04,2022-03-21,Burst HWS - Please Dry carpets again,,,,2093.3,0,0
+Creditor,rps_lng-CVA210072,rps_lng-HDO19001147,rps_lng-CVA210520,2022-02-01,2022-02-01,Install new inlet valve,,,,89.03,0,0
+Creditor,rps_lng-CVA210072,rps_lng-HDO19001147,rps_lng-CVA210520,2022-02-01,2022-02-01,Hot Water Service,,,,1574.27,0,0
+Creditor,rps_lng-CVA210072,rps_lng-HDO19001147,rps_lng-CVA210520,2022-01-27,2022-01-27,Burst Hot Water System,,,,462.0,0,0
+Creditor,rps_lng-CVA210072,rps_lng-WES20000008,rps_lng-CVA210520,2022-01-27,2022-03-21,Flooded / Wet Carpets,,,,0.0,0,0
+Creditor,rps_lng-CVA210072,rps_lng-HDO20001090,rps_lng-HDO221153,2022-09-09,2022-09-09,Key,,,,50.0,0,0
+Creditor,rps_lng-CVA210072,rps_lng-VAD21000019,rps_lng-HDO221153,2022-08-22,2022-10-28,Electrical and Gas Safety,,,,481.8,0,0
+Creditor,rps_lng-CVA210073,rps_lng-HDO19001188,rps_lng-CVA210416,2023-04-05,2023-05-01,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210073,rps_lng-HDO18002179,rps_lng-CVA210416,2022-03-02,2022-03-15,Electrical / lighting issues,,,,188.35,0,0
+Creditor,rps_lng-CVA210073,rps_lng-VAD21000019,rps_lng-CVA210416,2021-09-21,2021-09-28,Heater Bracket Repairs,,,,152.2,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001869,rps_lng-CVA210414,2023-01-06,2023-01-30,Gutter Cleaning,,,,380.6,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001869,rps_lng-CVA210414,2022-10-27,2022-11-07,Repair to water pooling on front window frame,,,,220.0,0,0
+Tenancy,rps_lng-CVA210117,,rps_lng-CVA210414,2022-09-30,2022-10-28,Replacement of fence between us & 49,,,,0.0,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001869,rps_lng-CVA210414,2022-08-15,2022-09-07,Repair to hot water in bathroom,,,,547.25,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001869,rps_lng-CVA210414,2022-06-09,2022-07-12,Gutter cleaning,,,,629.75,0,0
+Creditor,rps_lng-CVA210117,rps_lng-JAM21000053,rps_lng-CVA210414,2021-12-16,2022-01-04,Ongoing garden maintenance,,,,130.0,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001869,rps_lng-CVA210414,2021-11-25,2021-12-22,Gutter cleaning,,,,673.76,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001999,rps_lng-CVA210414,2021-08-23,2021-08-23,Garden Maintenance & Green Waste Removal,,,,135.3,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21002429,rps_lng-CVA210414,2021-08-04,2021-08-25,Issue with rodent droppings,,,,319.0,0,0
+Creditor,rps_lng-CVA210117,rps_lng-VAD21000019,rps_lng-CVA210414,2021-07-13,2021-08-13,General repairs & electrical/gas certificates,,,,1031.4,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001999,rps_lng-CVA210414,2021-07-05,2021-07-05,Garden Maintenance - General,,,,157.3,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001999,rps_lng-CVA210414,2021-05-06,2021-05-06,Garden Maintenance - General,,,,115.5,0,0
+Tenancy,rps_lng-CVA210117,rps_lng-HDO19006017,rps_lng-CVA210414,2021-03-10,2021-03-10,Garden Maintenance - General,,,,115.5,0,0
+Creditor,rps_lng-CVA210117,rps_lng-CVA21001890,rps_lng-CVA210414,2021-02-02,2021-03-22,Repair to dishwasher,,,,99.0,0,0
+Tenancy,rps_lng-CVA210117,rps_lng-HDO19006017,rps_lng-CVA210414,2021-02-02,2021-02-02,Garden Maintenance,,,,115.5,0,0
+Tenancy,rps_lng-CVA210117,rps_lng-HDO19006017,rps_lng-CVA210414,2021-01-29,2021-01-29,Garden Maintenance,,,,115.5,0,0
+Creditor,rps_lng-CVA210118,rps_lng-CVA21002204,rps_lng-CVA210247,2022-12-08,2023-01-31,Removal of tree,,,,0.0,0,0
+Creditor,rps_lng-CVA210118,rps_lng-CVA21002081,rps_lng-CVA210247,2022-11-11,2023-05-04,Repair to window/door,,,,2200.0,0,0
+Creditor,rps_lng-CVA210118,rps_lng-CVA21001939,rps_lng-CVA210247,2022-08-16,2022-10-20,Gutter cleaning,,,,425.0,0,0
+Creditor,rps_lng-CVA210118,rps_lng-HDO17002839,rps_lng-CVA210247,2022-01-04,2022-01-11,Key for bathroom window,,,,152.9,0,0
+Creditor,rps_lng-CVA210118,rps_lng-VAD21000019,rps_lng-CVA210247,2021-10-01,2022-09-06,"Elec/gas checks, new oven, rangehood & exhaust fan",,,,2189.1,0,0
+Creditor,rps_lng-CVA210118,rps_lng-HAW21000001,rps_lng-CVA210247,2021-03-29,2021-04-07,Repair to exhuast fan,,,,242.0,0,0
+Tenancy,rps_lng-CVA210118,rps_lng-CVA21002006,rps_lng-CVA210247,2021-01-20,2021-01-20,measurements for oven,,,,95.0,0,0
+Creditor,rps_lng-CVA210153,rps_lng-HDO19001188,rps_lng-CVA210164,2023-04-05,2023-04-27,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210153,rps_lng-HDO19001147,rps_lng-CVA210164,2022-10-04,2022-10-26,Toilet Running Water,,,,305.25,0,0
+Creditor,rps_lng-CVA210153,rps_lng-VAD21000019,rps_lng-CVA210164,2021-09-30,2021-10-25,General repairs,,,,128.7,0,0
+Tenancy,rps_lng-CVA210157,rps_lng-VAD21000019,rps_lng-CVA210234,2021-08-03,2021-08-11,Leak in window,,,,0.0,0,0
+Creditor,rps_lng-CVA210167,rps_lng-HDO19001147,rps_lng-CVA210069,2022-09-19,2022-11-11,Blocked Toilet,,,,171.6,0,0
+Creditor,rps_lng-CVA210167,rps_lng-DRE19000076,rps_lng-CVA210069,2022-09-05,2022-09-05,Inspected Panel Heater,,,,198.0,0,0
+Creditor,rps_lng-CVA210167,rps_lng-SAN22000095,rps_lng-CVA210069,2022-08-03,2022-08-24,Bathroom Light,,,,236.06,0,0
+Creditor,rps_lng-CVA210167,rps_lng-DRE19000076,rps_lng-CVA210069,2022-08-03,2022-08-24,Heating Service,,,,528.0,0,0
+Creditor,rps_lng-CVA210171,rps_lng-HDO19001188,rps_lng-CVA210243,2023-04-05,2023-05-23,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210171,rps_lng-HDO21001981,rps_lng-CVA210243,2022-03-07,2022-03-28,Bathroom Ceiling Repaint,,,,825.0,0,0
+Creditor,rps_lng-CVA210173,rps_lng-HDO19001439,rps_lng-CVA210487,2021-08-05,2021-12-21,Oven seal is broken,,,,286.0,0,0
+Creditor,rps_lng-CVA210180,rps_lng-CVA21002238,rps_lng-HDO220640,2022-10-14,2022-11-07,Repair to bathroom taps,,,,650.65,0,0
+Tenancy,rps_lng-CVA210180,,rps_lng-HDO220640,2022-09-08,2022-11-22,Switchboard upgrade,,,,0.0,0,0
+Creditor,rps_lng-CVA210180,rps_lng-HDO19002005,rps_lng-HDO220640,2022-06-30,2022-08-26,Repair to garage door,,,,220.0,0,0
+Creditor,rps_lng-CVA210180,rps_lng-CVA21002081,rps_lng-HDO220640,2022-06-01,2022-06-24,Repair to phone point & toilet seat,,,,165.0,0,0
+Tenancy,rps_lng-CVA210180,rps_lng-CVA21002500,rps_lng-HDO220640,2022-06-01,2022-08-23,Repair to tiles & grout,,,,0.0,0,0
+Creditor,rps_lng-CVA210180,rps_lng-VAD21000019,rps_lng-HDO220640,2022-06-01,2022-09-13,Electrical/gas checks & repair to powerpoint,,,,0.0,0,0
+Creditor,rps_lng-CVA210180,rps_lng-CVA21001882,rps_lng-HDO220640,2022-06-01,2022-06-06,Service to split systems,,,,231.0,0,0
+Creditor,rps_lng-CVA210185,rps_lng-HDO16001050,rps_lng-CVA210401,2022-04-25,2022-04-29,Light switch broken,,,,211.2,0,0
+Tenancy,rps_lng-CVA210185,rps_lng-CVA21001869,rps_lng-CVA210401,2021-02-08,2021-02-15,itchen tap lifting from sink,,,,305.25,0,0
+Creditor,rps_lng-CVA210185,rps_lng-VAD21000019,rps_lng-HDO221031,2022-07-25,2022-10-28,Electrical and Gas Safety,,,,481.8,0,0
+Creditor,rps_lng-CVA210194,rps_lng-HDO19001147,rps_lng-CVA210537,2023-05-16,2023-06-14,Toilet Leak,,,,279.4,0,0
+Creditor,rps_lng-CVA210194,rps_lng-HDO19001147,rps_lng-CVA210537,2022-05-19,2022-06-03,Blocked Dishwasher,,,,257.4,0,0
+Creditor,rps_lng-CVA210194,rps_lng-VAD21000019,rps_lng-CVA210537,2022-02-18,2022-03-01,Saftey Checks,,,,0.0,0,0
+Tenancy,rps_lng-CVA210194,rps_lng-HDO19001147,rps_lng-CVA210537,2021-10-21,2021-11-19,Toilet - blockage repair,,,,0.0,0,0
+Creditor,rps_lng-CVA210194,rps_lng-HDO19001493,rps_lng-CVA210537,2021-06-29,2021-07-09,Ducted Heating not working,,,,566.5,0,0
+Creditor,rps_lng-CVA210211,rps_lng-HDO21001704,rps_lng-CVA210408,2022-11-09,2022-12-13,Hallway door,,,,143.0,0,0
+Creditor,rps_lng-CVA210211,rps_lng-CVA21002238,rps_lng-CVA210408,2021-11-23,2021-11-23,Leaking Hot Water System,,,,308.0,0,0
+Tenancy,rps_lng-CVA210272,rps_lng-JAM20000164,rps_lng-CVA210047,2021-11-01,2021-11-04,EXIT - Change of Locks,,,,259.6,0,0
+Creditor,rps_lng-CVA210325,rps_lng-HDO19006017,rps_lng-CVA210364,2021-07-28,2021-07-28,Garden Maintenance,,,,184.8,0,0
+Tenancy,rps_lng-CVA210325,,rps_lng-CVA210364,2021-07-27,2021-07-27,sink blocked by plug which won't come out,,,,0.0,0,0
+Creditor,rps_lng-CVA210325,rps_lng-CVA21001999,rps_lng-CVA210364,2021-04-22,2021-04-22,Garden Maintenance - Genera,,,,187.0,0,0
+Tenancy,rps_lng-CVA210325,rps_lng-CVA21001999,rps_lng-CVA210364,2021-03-15,2021-03-15,Garden Maintenance - General,,,,165.0,0,0
+Tenancy,rps_lng-CVA210325,rps_lng-CVA21001999,rps_lng-CVA210364,2021-01-31,2021-01-28,Garden Maintenance - General,,,,209.0,0,0
+Tenancy,rps_lng-CVA210325,rps_lng-HDO19006017,rps_lng-CVA210364,2021-01-29,2021-01-29,Garden Maintenance,,,,165.0,0,0
+Tenancy,rps_lng-CVA210325,rps_lng-HDO21001673,rps_lng-HDO220686,2023-04-05,2023-04-17,End of Lease clean / wipe over,,,,0.0,0,0
+Creditor,rps_lng-CVA210325,rps_lng-HDO19001147,rps_lng-HDO220686,2022-12-30,2022-12-30,Replace Dishwasher,,,,1665.68,0,0
+Creditor,rps_lng-CVA210325,rps_lng-HDO19001147,rps_lng-HDO220686,2022-11-23,2022-12-13,Roof leak & Dishwasher,,,,343.2,0,0
+Creditor,rps_lng-CVA210325,rps_lng-DRE19000036,rps_lng-HDO220686,2022-06-23,2023-01-25,Entry Maintenance,,,,247.5,0,0
+Creditor,rps_lng-CVA210383,rps_lng-HDO19001188,rps_lng-CVA210098,2023-02-09,2023-03-15,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-CVA210383,rps_lng-HDO19001147,rps_lng-CVA210098,2022-09-19,2022-10-13,Toilet,,,,260.98,0,0
+Creditor,rps_lng-CVA210383,rps_lng-HDO19001076,rps_lng-CVA210098,2021-10-19,2021-11-18,HWS replacement,,,,1485.0,0,0
+Creditor,rps_lng-CVA210383,rps_lng-HDO19001147,rps_lng-CVA210098,2021-10-15,2021-10-25,Hot Water system investigation,,,,184.8,0,0
+Creditor,rps_lng-CVA210384,rps_lng-HDO21001573,rps_lng-CVA210099,2023-06-23,2023-06-29,Gas Safety Check,,,,385.0,0,0
+Creditor,rps_lng-CVA210384,rps_lng-HDO19001188,rps_lng-CVA210099,2023-02-09,2023-03-24,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-CVA210384,rps_lng-CVA21002453,rps_lng-CVA210099,2022-10-04,2022-12-01,Front Door lock,,,,317.0,0,0
+Creditor,rps_lng-CVA210384,rps_lng-SAN22000095,rps_lng-CVA210099,2022-09-19,2022-10-07,Bathroom Light Fitting,,,,323.07,0,0
+Creditor,rps_lng-CVA210384,rps_lng-VAD21000019,rps_lng-CVA210099,2022-02-24,2022-03-21,Routine Inspection Maintenance,,,,386.37,0,0
+Creditor,rps_lng-CVA210384,rps_lng-HDO19001147,rps_lng-CVA210099,2021-10-22,2021-12-08,Bathroom - sink blockage repairs,,,,323.26,0,0
+Creditor,rps_lng-CVA210384,rps_lng-HDO19004377,rps_lng-CVA210099,2021-09-02,2021-09-06,Kitchen Tap Leak,,,,257.96,0,0
+Creditor,rps_lng-CVA210385,rps_lng-HDO19001188,rps_lng-CVA210100,2023-02-09,2023-03-14,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-CVA210385,rps_lng-HDO19005924,rps_lng-CVA210100,2022-10-19,2022-10-21,Front Door Lock,,,,275.0,0,0
+Tenancy,rps_lng-CVA210385,rps_lng-DRE19000036,rps_lng-CVA210100,2022-05-12,2023-04-11,Sanding & Painting Window Sills,,,,0.0,0,0
+Creditor,rps_lng-CVA210385,rps_lng-HDO19001147,rps_lng-CVA210100,2021-10-30,2021-11-24,Kitchen - gas smell,,,,712.0,0,0
+Creditor,rps_lng-CVA210385,rps_lng-DRE19000036,rps_lng-CVA210100,2021-09-17,2022-01-27,Window & Ceiling Painting,,,,1606.0,0,0
+Creditor,rps_lng-CVA210385,rps_lng-CVA21001869,rps_lng-CVA210100,2021-05-21,2021-06-07,Hot Water Tap in Kitchen constantly leaking,,,,638.0,0,0
+Creditor,rps_lng-CVA210385,rps_lng-CVA21002250,rps_lng-CVA210100,2021-05-11,2021-07-14,Cornice in bedroom fallen off,,,,550.0,0,0
+Creditor,rps_lng-CVA210389,rps_lng-HDO19001188,rps_lng-CVA210102,2023-02-14,2023-05-18,Combined electrical and gas safety certificates,,,,528.0,0,0
+Tenancy,rps_lng-CVA210389,rps_lng-HDO19001147,rps_lng-CVA210102,2021-10-25,2021-11-18,HWS replacement,,,,2739.0,0,0
+Creditor,rps_lng-CVA210389,rps_lng-HDO19001147,rps_lng-CVA210102,2021-10-20,2021-11-03,HWS repair,,,,184.8,0,0
+Creditor,rps_lng-CVA210391,rps_lng-HDO21001573,rps_lng-HDO210865,2023-06-27,2023-06-29,Gas Safety Check,,,,385.0,0,0
+Creditor,rps_lng-CVA210391,rps_lng-HDO19001188,rps_lng-HDO210865,2023-02-22,2023-03-16,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-CVA210397,rps_lng-DRE19000036,rps_lng-CVA210105,2021-02-22,2021-04-12,Cracks in walls,,,,1034.0,0,0
+Tenancy,rps_lng-CVA210397,rps_lng-CVA21001869,rps_lng-CVA210105,2021-01-27,2021-02-02,Shower leak,,,,342.1,0,0
+Creditor,rps_lng-CVA210398,rps_lng-CVA21002081,rps_lng-CVA210106,2021-07-05,2021-07-14,Door Maintenance,,,,176.0,0,0
+Creditor,rps_lng-CVA210401,rps_lng-HDO19001188,rps_lng-HDO210580,2023-02-09,2023-03-01,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-CVA210401,rps_lng-CVA21002250,rps_lng-HDO210580,2022-07-28,2022-07-28,Supply and install new new dryer,,,,770.0,0,0
+Creditor,rps_lng-CVA210401,rps_lng-CVA21002250,rps_lng-HDO210580,2022-04-26,2022-07-12,General Maintenance,,,,566.5,0,0
+Tenancy,rps_lng-CVA210401,,rps_lng-HDO210580,2022-01-19,2022-01-19,My window is broken,,,,0.0,0,0
+Tenancy,rps_lng-CVA210401,rps_lng-DRE20000110,rps_lng-HDO210580,2021-08-06,2022-04-26,Electrical Safety Check,,,,0.0,0,0
+Creditor,rps_lng-CVA210401,rps_lng-CVA21002250,rps_lng-HDO210580,2021-06-21,2021-06-23,Handle for bath/shower is not secured,,,,444.95,0,0
+Tenancy,rps_lng-CVA210401,rps_lng-CVA21002250,rps_lng-HDO210580,2021-06-09,2021-06-23,Windows not sealed and other maint,,,,0.0,0,0
+Tenancy,rps_lng-CVA210406,,rps_lng-CVA210584,2021-10-11,2021-10-29,Bathroom - leak investigation,,,,0.0,0,0
+Creditor,rps_lng-CVA210406,rps_lng-HDO21001362,rps_lng-CVA210584,2021-05-06,2021-05-06,Problem with shower and toilet seat,,,,418.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-CHA19000037,rps_lng-CVA210254,2023-05-11,2023-05-26,Urgent Lock Repair,,,,211.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-HDO19001188,rps_lng-CVA210254,2023-04-05,2023-05-23,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-SAN22000095,rps_lng-CVA210254,2023-04-03,2023-04-20,Faulty Power Point,,,,0.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-HDO19002574,rps_lng-CVA210254,2023-02-01,2023-03-20,Replacement of carpet in bedroom,,,,1589.99,0,0
+Tenancy,rps_lng-CVA210417,rps_lng-HDO21001673,rps_lng-CVA210254,2023-01-23,2023-04-03,Carpet cleaning,,,,0.0,0,0
+Tenancy,rps_lng-CVA210417,rps_lng-CVA21001869,rps_lng-CVA210254,2023-01-18,2023-04-03,Investigation into water leak,,,,0.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-CVA21001869,rps_lng-CVA210254,2022-09-26,2022-10-20,Repair to pipes leaking in Kitchen,,,,220.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-DRE19000036,rps_lng-CVA210254,2022-07-05,2022-09-15,"Repair to bathroom cupboard, silicone & cupboard",,,,1262.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-CVA21001869,rps_lng-CVA210254,2022-06-02,2022-08-18,Replacement of kitchen tap,,,,576.95,0,0
+Creditor,rps_lng-CVA210417,rps_lng-DRE19000036,rps_lng-CVA210254,2022-03-29,2022-06-01,Repair to blind & towel rail,,,,190.3,0,0
+Tenancy,rps_lng-CVA210417,,rps_lng-CVA210254,2022-02-09,2022-03-23,Trap door/ceiling pannel has fallen in common area,,,,0.0,0,0
+Creditor,rps_lng-CVA210417,rps_lng-CVA21001869,rps_lng-CVA210254,2021-07-12,2021-11-09,Investigation into hot water issue,,,,447.7,0,0
+Creditor,rps_lng-CVA210420,rps_lng-HDO08001895,rps_lng-CVA210114,2022-11-25,2023-01-28,Replacement of dishwasher,,,,1435.0,0,0
+Creditor,rps_lng-CVA210420,rps_lng-VAD21000019,rps_lng-CVA210114,2021-08-06,2021-08-06,Bathroom Heater,,,,447.0,0,0
+Tenancy,rps_lng-CVA210420,,rps_lng-CVA210114,2021-08-03,2022-05-13,Replacement of bathroom light,,,,0.0,0,0
+Creditor,rps_lng-CVA210420,rps_lng-VAD21000019,rps_lng-CVA210114,2021-06-23,2021-08-06,Elec/gas certifcates,,,,437.8,0,0
+Creditor,rps_lng-CVA210426,rps_lng-DRE19000036,rps_lng-CVA210207,2021-10-12,2021-10-29,EXIT - Wall repairs,,,,324.5,0,0
+Tenancy,rps_lng-CVA210426,rps_lng-HDO21000430,rps_lng-CVA210207,2021-02-11,2021-02-11, fix rubber seal on pans,,,,630.3,0,0
+Creditor,rps_lng-CVA210426,rps_lng-VAD21000019,rps_lng-HDO211594,2022-04-05,2023-01-16,Gas & Electrical checks,,,,0.0,0,0
+Creditor,rps_lng-CVA210426,rps_lng-SAN22000095,rps_lng-HDO220740,2023-03-23,2023-03-23,Replacement of RCD,,,,0.0,0,0
+Creditor,rps_lng-CVA210426,rps_lng-HDO19001147,rps_lng-HDO220740,2023-01-27,2023-02-02,Shower has no hot water,,,,461.47,0,0
+Creditor,rps_lng-CVA210426,rps_lng-DRE19000036,rps_lng-HDO220740,2023-01-23,2023-03-30,General Maintenance,,,,297.0,0,0
+Creditor,rps_lng-CVA210426,rps_lng-JAM20000164,rps_lng-HDO220740,2022-10-19,2022-10-26,Front Door to Apartment,,,,220.0,0,0
+Tenancy,rps_lng-CVA210429,rps_lng-HDO19001219,rps_lng-CVA210576,2021-01-25,2021-01-21,SUPPLY AND CODE 1 REMOTE CONTROL,,,,150.0,0,0
+Creditor,rps_lng-CVA210434,rps_lng-CVA21002250,rps_lng-CVA210240,2021-01-21,2021-03-31,Peeling paint and mould on blinds,,,,770.0,0,0
+Tenancy,rps_lng-CVA210435,,rps_lng-CVA210120,2021-11-30,2022-05-26,Exterior painting,,,,0.0,0,0
+Creditor,rps_lng-CVA210435,rps_lng-VAD21000019,rps_lng-CVA210120,2021-11-30,2022-10-31,Gutter cleaning & electrical/gas checks,,,,0.0,0,0
+Creditor,rps_lng-CVA210436,rps_lng-VAD21000019,rps_lng-CVA210612,2021-11-05,2021-11-16,Electrical Safety,,,,218.9,0,0
+Creditor,rps_lng-CVA210436,rps_lng-CVA21001816,rps_lng-CVA210612,2021-10-20,2021-11-15,Front Door,,,,165.0,0,0
+Creditor,rps_lng-CVA210436,rps_lng-HDO18002179,rps_lng-CVA210612,2021-05-02,2021-05-19,Other - Rangehood no longer works advised 8 days a,,,,440.0,0,0
+Creditor,rps_lng-CVA210436,rps_lng-HDO18002179,rps_lng-CVA210612,2021-04-25,2021-04-27,No power,,,,363.0,0,0
+Tenancy,rps_lng-CVA210436,rps_lng-CVA21002484,rps_lng-CVA210612,2021-02-08,2021-02-25,Bathroom/laundry extraction fan broken,,,,539.0,0,0
+Tenancy,rps_lng-CVA210436,rps_lng-CVA21002238,rps_lng-CVA210612,2021-01-13,2021-01-29,Repair bathroom taps fallen off,,,,184.8,0,0
+Creditor,rps_lng-CVA210439,rps_lng-JAM20000164,rps_lng-HDO221292,2022-12-06,2023-02-06,Storage cage lock,,,,0.0,0,0
+Creditor,rps_lng-CVA210440,rps_lng-CVA21001869,rps_lng-CVA210481,2021-05-04,2021-08-12,Water pressue issue in shower,,,,193.87,0,0
+Tenancy,rps_lng-CVA210440,rps_lng-CVA21002238,rps_lng-CVA210481,2021-02-16,2021-02-16,blocked kitchen sink,,,,184.8,0,0
+Creditor,rps_lng-CVA210459,rps_lng-VAD21000019,rps_lng-HDO210795,2021-12-22,2022-04-14,Repair to kitchen tap,,,,261.6,0,0
+Creditor,rps_lng-CVA210459,rps_lng-VAD21000019,rps_lng-HDO210795,2021-08-03,2021-08-11,Gas safety checks & toilet repair,,,,437.8,0,0
+Creditor,rps_lng-CVA210465,rps_lng-HDO19001188,rps_lng-CVA210531,2023-04-05,2023-05-22,Electrical Safety Check,,,,253.0,0,0
+Creditor,rps_lng-CVA210491,rps_lng-HDO08001895,rps_lng-CVA210356,2021-12-21,2021-12-21,Installation of Bosch Dishwasher,,,,632.5,0,0
+Creditor,rps_lng-CVA210491,rps_lng-HDO08001895,rps_lng-CVA210356,2021-11-12,2021-12-02,Kitchen - dishwasher repair,,,,632.5,0,0
+Creditor,rps_lng-CVA210491,rps_lng-CVA21002238,rps_lng-CVA210356,2021-07-05,2021-07-15,URGENT Toilet,,,,321.2,0,0
+Creditor,rps_lng-CVA210491,rps_lng-CVA21002238,rps_lng-HDO230052,2023-02-22,2023-02-28,Leaking HWS,,,,357.5,0,0
+Creditor,rps_lng-CVA210513,rps_lng-DRE19000036,rps_lng-HDO220891,2022-10-03,2022-10-26,Bedroom Door Handle,,,,215.6,0,0
+Creditor,rps_lng-CVA210513,rps_lng-VAD21000019,rps_lng-HDO220891,2022-07-29,2022-09-15,Electrical and Gas Safety,,,,481.8,0,0
+Creditor,rps_lng-CVA210513,rps_lng-DRE19000076,rps_lng-HDO220891,2022-07-19,2022-08-03,Remote & A/C Service,,,,429.0,0,0
+Creditor,rps_lng-CVA210542,rps_lng-HDO18002118,rps_lng-CVA210209,2021-12-08,2021-12-21,Vacate Wipe Over,,,,180.0,0,0
+Creditor,rps_lng-CVA210579,rps_lng-HDO19001188,rps_lng-CVA210286,2023-04-05,2023-06-07,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210610,rps_lng-CVA21004237,rps_lng-CVA210320,2021-10-25,2021-10-25,Repair chip in laundry door,,,,387.2,0,0
+Creditor,rps_lng-CVA210610,rps_lng-CVA21001869,rps_lng-CVA210320,2021-05-19,2021-07-13,Powder Room Toilet Blocked,,,,925.38,0,0
+Creditor,rps_lng-CVA210610,rps_lng-HDO22002848,rps_lng-HDO211510,2022-11-25,2022-12-14,Urgent Bond Clean,,,,346.5,0,0
+Creditor,rps_lng-CVA210616,rps_lng-HDO19001188,rps_lng-HDO220102,2022-11-10,2023-04-03,Gas Safety,,,,0.0,0,0
+Creditor,rps_lng-CVA210616,rps_lng-VAD21000019,rps_lng-HDO220102,2022-04-01,2022-08-19,Electrical and Gas Safety,,,,437.8,0,0
+Creditor,rps_lng-CVA210616,rps_lng-CVA21002081,rps_lng-HDO220102,2022-01-31,2022-02-16,Bedroom Balcony Door,,,,154.0,0,0
+Creditor,rps_lng-CVA210647,rps_lng-HDO19001342,rps_lng-CVA210449,2021-03-22,2021-04-12,3 out of 4 stove top burners not working,,,,165.0,0,0
+Creditor,rps_lng-CVA210647,rps_lng-HDO19001147,rps_lng-HDO210935,2022-01-28,2022-03-03,Leaking Pipe,,,,211.2,0,0
+Creditor,rps_lng-CVA210647,rps_lng-HDO19001188,rps_lng-HDO221070,2023-04-05,2023-04-27,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-CVA210647,rps_lng-HDO19001147,rps_lng-HDO221070,2023-03-22,2023-03-30,Washing Machine,,,,994.13,0,0
+Creditor,rps_lng-HDO080004,rps_lng-HDO19001188,rps_lng-RPT191479,2023-04-05,2023-05-19,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO080004,rps_lng-VAD21000019,rps_lng-RPT191479,2021-08-09,2021-09-28,Toilet Exhaust fan,,,,225.5,0,0
+Tenancy,rps_lng-HDO080004,rps_lng-DRE19000036,rps_lng-RPT191479,2021-02-19,2021-02-19,"Resecure and repair the alfresco cornice, repaint.",,,,361.35,0,0
+Tenancy,rps_lng-HDO080004,rps_lng-DRE19000036,rps_lng-RPT191479,2019-10-29,2019-12-02,bathroom door handle and fly screen door,,,,393.8,0,0
+Creditor,rps_lng-HDO080019,rps_lng-HDO19001188,rps_lng-HDO200373,2023-04-05,2023-07-04,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO080019,rps_lng-HDO19001147,rps_lng-HDO200373,2023-03-11,2023-03-30,Leaking Toilet,,,,335.5,0,0
+Creditor,rps_lng-HDO080019,rps_lng-HDO19001147,rps_lng-HDO200373,2022-07-21,2022-08-03,No Hot Water,,,,384.45,0,0
+Creditor,rps_lng-HDO080019,rps_lng-HDO19001147,rps_lng-HDO200373,2021-06-09,2021-08-03,Base of toilet is leaking,,,,279.4,0,0
+Tenancy,rps_lng-HDO080019,rps_lng-WES20000152,rps_lng-HDO200373,2020-07-06,2021-05-14,Stove sparking & DW error,,,,0.0,0,0
+Tenancy,rps_lng-HDO080019,rps_lng-HDO19003293,rps_lng-RPT191532,2019-08-21,2019-08-21," Dishwasher Inlet, Stovetop & Toilet Cistern",,,,0.0,0,0
+Tenancy,rps_lng-HDO080019,rps_lng-HDO19003293,rps_lng-RPT191532,2019-08-16,2019-08-19,HWS Replacement,,,,1705.0,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO19001188,rps_lng-HDO200885,2023-04-05,2023-07-04,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO090003,rps_lng-VAD21000019,rps_lng-HDO200885,2022-10-31,2022-10-31,Installed new sheet of plaster,,,,1081.51,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO22001674,rps_lng-HDO200885,2022-09-28,2022-09-28,Install residential opener with belt rail,,,,650.0,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO22001674,rps_lng-HDO200885,2022-06-02,2022-06-14,Garage Door Service,,,,141.9,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO19001493,rps_lng-HDO200885,2022-05-25,2022-08-03,Urgent Heating Fault,,,,269.5,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO18002052,rps_lng-HDO200885,2022-01-05,2022-01-05,Garage Door Handle,,,,220.0,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO18000912,rps_lng-HDO200885,2021-10-06,2022-01-27,Pest control,,,,539.0,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO18002179,rps_lng-HDO200885,2021-08-10,2021-09-27,Oven not heating up,,,,247.45,0,0
+Creditor,rps_lng-HDO090003,rps_lng-VAD21000019,rps_lng-HDO200885,2021-08-10,2021-09-28,Bathroom windows not opening,,,,250.25,0,0
+Creditor,rps_lng-HDO090003,rps_lng-HDO19002152,rps_lng-HDO200885,2021-08-10,2021-08-30,Ducted Heating Service,,,,215.0,0,0
+Tenancy,rps_lng-HDO090003,,rps_lng-HDO200885,2021-08-03,2021-08-10,miscellaneous,,,,0.0,0,0
+Tenancy,rps_lng-HDO090003,rps_lng-HDO19003549,rps_lng-HDO200885,2021-01-28,2021-02-01,Oven glass,,,,170.5,0,0
+Tenancy,rps_lng-HDO090003,rps_lng-DRE19000036,rps_lng-HDO200885,2020-11-30,2021-02-10,Various Items,,,,654.5,0,0
+Tenancy,rps_lng-HDO090003,rps_lng-HDO19001076,rps_lng-HDO200885,2020-11-30,2021-05-14,Plumbing Items,,,,0.0,0,0
+Tenancy,rps_lng-HDO090003,rps_lng-COS19000051,rps_lng-HDO200885,2020-11-30,2021-02-12,AC in Lounge & Bedroom,,,,2860.0,0,0
+Tenancy,rps_lng-HDO090003,rps_lng-HDO18002052,rps_lng-RPT191419,2019-05-02,2019-05-13,Repair Front Door Handle,,,,187.0,0,0
+Tenancy,rps_lng-HDO090030,,rps_lng-HDO200582,2023-01-09,2023-04-12,Lawn Mowing,,,,0.0,0,0
+Creditor,rps_lng-HDO090030,rps_lng-HDO19001188,rps_lng-HDO200582,2023-01-05,2023-02-23,Electrical and Gas Safety,,,,528.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO19001078,rps_lng-HDO200582,2022-12-20,2023-04-12,Change of all locks,,,,0.0,0,0
+Creditor,rps_lng-HDO090030,rps_lng-HDO19002152,rps_lng-HDO200582,2022-07-12,2022-07-12,Investigate Gas Ducted Heater,,,,215.0,0,0
+Creditor,rps_lng-HDO090030,rps_lng-HDO19001493,rps_lng-HDO200582,2022-04-28,2022-06-23,Ducted heating not working,,,,2550.0,0,0
+Creditor,rps_lng-HDO090030,rps_lng-WES19000016,rps_lng-HDO200582,2021-07-15,2021-07-15,Annual Termite Inspection,,,,220.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-WES19000016,rps_lng-HDO200582,2020-08-19,2020-09-04,Termite Inspection,,,,220.0,0,0
+Tenancy,rps_lng-HDO090030,,rps_lng-RPT190814,2020-04-08,2020-09-17,Miscellaneous,,,,0.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO19001086,rps_lng-RPT190814,2019-12-19,2020-01-30,22 Prairie Place - Shower leak and basin taps,,,,0.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO19004177,rps_lng-RPT190814,2019-12-19,2020-01-24,22 Prairie Place - Blinds,,,,0.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-DRE19000036,rps_lng-RPT190814,2019-12-19,2020-01-28,22 Prairie Place - Door handles,,,,369.05,0,0
+Tenancy,rps_lng-HDO090030,,rps_lng-RPT190814,2019-06-05,2019-06-05,Replacement of Bathroom items,,,,0.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO19004177,rps_lng-RPT190814,2019-06-04,2019-08-26,Rear Door Blind & Roof Leak,,,,0.0,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO19001658,rps_lng-RPT190814,2019-05-09,2019-05-15,Garage door not working,,,,214.99,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO19001086,rps_lng-RPT190814,2019-04-01,2019-04-01,Biskon Plumbing- Bathroom works,,,,1975.05,0,0
+Tenancy,rps_lng-HDO090030,rps_lng-HDO18000957,rps_lng-RPT190814,2018-04-05,2018-04-06, INV-0952 - 22 Prairie - Toilet Cistern,,,,236.5,0,0
+Creditor,rps_lng-HDO100024,rps_lng-HDO19001188,rps_lng-RPT190766,2023-04-05,2023-06-02,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO110042,rps_lng-DRE19000076,rps_lng-HDO190051,2023-05-19,2023-05-25,Ducted Heating Service,,,,350.0,0,0
+Creditor,rps_lng-HDO110042,rps_lng-HDO19001188,rps_lng-HDO190051,2023-04-05,2023-06-13,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO110042,rps_lng-HDO19003293,rps_lng-HDO190051,2022-10-18,2022-11-09,Hot Water System + Animal in Ceiling,,,,473.0,0,0
+Creditor,rps_lng-HDO110042,rps_lng-VAD21000019,rps_lng-HDO190051,2021-08-04,2021-08-11,Front door not latching,,,,143.0,0,0
+Creditor,rps_lng-HDO110042,rps_lng-HDO19001340,rps_lng-HDO190051,2020-10-06,2021-04-16,Blocked Laundry Sink,,,,0.0,0,0
+Creditor,rps_lng-HDO110043,rps_lng-HDO19001188,rps_lng-RPT191230,2023-04-05,2023-05-18,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO110043,rps_lng-HDO19003293,rps_lng-RPT191230,2022-10-13,2022-10-27,Potential Water leak,,,,396.0,0,0
+Creditor,rps_lng-HDO110043,rps_lng-HDO19002152,rps_lng-RPT191230,2022-01-26,2022-03-24,Air Conditioning,,,,215.0,0,0
+Tenancy,rps_lng-HDO110043,rps_lng-HDO19002152,rps_lng-RPT191230,2021-02-23,2021-02-23,Changeover Heater,,,,2500.0,0,0
+Tenancy,rps_lng-HDO110043,rps_lng-HDO19001847,rps_lng-RPT191230,2021-02-16,2021-02-23,Heater not working,,,,210.0,0,0
+Creditor,rps_lng-HDO110043,rps_lng-DRE19000036,rps_lng-RPT191230,2021-02-16,2021-04-23,Blind chain & range hood filter,,,,317.9,0,0
+Tenancy,rps_lng-HDO120008,rps_lng-HDO08001895,rps_lng-RPT190649,2021-07-01,2021-07-13,Dishwasher not functioning correctly,,,,0.0,0,0
+Tenancy,rps_lng-HDO120008,rps_lng-HDO19001421,rps_lng-RPT190649,2019-07-29,2019-08-30,Light in the bedroom keeps blowing bulbs.,,,,169.4,0,0
+Tenancy,rps_lng-HDO120008,rps_lng-HDO19001340,rps_lng-RPT190649,2019-05-27,2019-09-02,Kitchen & Laundry taps,,,,0.0,0,0
+Creditor,rps_lng-HDO120044,rps_lng-DRE19000036,rps_lng-RPT191104,2023-06-21,2023-06-21,Install New Screen Door,,,,645.0,0,0
+Creditor,rps_lng-HDO120044,rps_lng-HDO19001188,rps_lng-RPT191104,2023-04-05,2023-05-31,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO120044,rps_lng-DRE19000036,rps_lng-RPT191104,2023-01-09,2023-02-09,back Sliding Door & Shower hinge repair,,,,173.25,0,0
+Tenancy,rps_lng-HDO120044,rps_lng-DRE19000036,rps_lng-RPT191104,2019-11-06,2020-02-20,Various maintenance items,,,,1380.5,0,0
+Tenancy,rps_lng-HDO120053,rps_lng-HDO19001147,rps_lng-RPT190027,2021-11-05,2021-11-18,Bathroom - showerhead leak repair,,,,0.0,0,0
+Creditor,rps_lng-HDO120053,rps_lng-HDO17002818,rps_lng-RPT190027,2021-05-06,2021-05-26,Garage Doors,,,,750.0,0,0
+Creditor,rps_lng-HDO120053,rps_lng-DRE19000036,rps_lng-RPT190027,2021-03-01,2021-05-18,Replace Silicone,,,,214.5,0,0
+Creditor,rps_lng-HDO120053,rps_lng-HDO19006010,rps_lng-RPT190027,2021-01-22,2021-04-15,Tree Branches,,,,330.0,0,0
+Tenancy,rps_lng-HDO120053,rps_lng-DRE19000036,rps_lng-RPT190027,2020-09-22,2021-02-10,leaking ensuite shower- quote,,,,0.0,0,0
+Tenancy,rps_lng-HDO120053,,rps_lng-RPT190027,2020-02-21,2020-04-15,Pest Control - Termite inspection,,,,0.0,0,0
+Tenancy,rps_lng-HDO120053,,rps_lng-RPT190027,2019-12-18,2020-07-21,Garden tan bark,,,,0.0,0,0
+Tenancy,rps_lng-HDO120053,rps_lng-HDO19001493,rps_lng-RPT190027,2019-08-19,2020-04-01,Ducted Heating Servicing,,,,258.5,0,0
+Tenancy,rps_lng-HDO120053,rps_lng-HDO19001340,rps_lng-RPT190027,2019-07-08,2019-08-12,Water Leak,,,,0.0,0,0
+Creditor,rps_lng-HDO120064,rps_lng-HDO19001188,rps_lng-RPT190138,2023-02-16,2023-03-10,Electrical safety certificate,,,,253.0,0,0
+Tenancy,rps_lng-HDO120064,rps_lng-HDO19001835,rps_lng-RPT190138,2019-07-19,2019-07-19,Oven Parts Approved,,,,0.0,0,0
+Tenancy,rps_lng-HDO120064,rps_lng-HDO19001835,rps_lng-RPT190138,2019-06-25,2019-07-19,Oven not heating,,,,0.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-HDO19003293,rps_lng-HDO211235,2023-06-21,2023-07-14,Leaking Kitchen Tap Repairs,,,,209.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-HDO22002285,rps_lng-HDO211235,2023-03-06,2023-03-06,"Gas, Electrical and Smoke Alarms Safety Check",,,,385.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-DRE19000076,rps_lng-HDO211235,2023-01-16,2023-02-01,Air-Conditioning Service,,,,275.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-HDO19003293,rps_lng-HDO211235,2022-05-30,2022-05-31,Urgent - No Hot Water,,,,385.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-HDO19001078,rps_lng-RPT190305,2021-09-27,2021-09-28,Front Door Lock,,,,594.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-HDO19005948,rps_lng-RPT190305,2021-08-19,2021-08-25,Professional Photos,,,,143.0,0,0
+Creditor,rps_lng-HDO120111,rps_lng-HDO18002118,rps_lng-RPT190305,2021-08-09,2021-10-19,Exit Maintenance/Drawings on walls,,,,484.0,0,0
+Creditor,rps_lng-HDO120330,rps_lng-HDO22001798,rps_lng-HDO210581,2022-08-24,2022-09-02,Living Room Roller Blind Repair,,,,88.0,0,0
+Creditor,rps_lng-HDO120330,rps_lng-HDO22002507,rps_lng-HDO210581,2022-08-09,2022-08-23,Blind issue and toilet seat cover,,,,150.0,0,0
+Tenancy,rps_lng-HDO120330,,rps_lng-HDO210581,2022-04-26,2022-05-06,2x Key Swipes,,,,107.01,0,0
+Creditor,rps_lng-HDO120330,rps_lng-HDO19001493,rps_lng-HDO210581,2021-06-03,2021-06-03,fan motor,,,,1351.5,0,0
+Creditor,rps_lng-HDO120330,rps_lng-HDO19001102,rps_lng-HDO210581,2021-05-21,2021-10-14,Safety Checks + Handyman,,,,0.0,0,0
+Creditor,rps_lng-HDO130008,rps_lng-HDO19002941,rps_lng-HDO200807,2021-05-24,2021-06-17,Front garden,,,,1089.0,0,0
+Tenancy,rps_lng-HDO130008,rps_lng-HDO19003293,rps_lng-HDO200807,2021-03-04,2021-03-15,Ensuite toilet - Won’t stop leaking water,,,,209.0,0,0
+Tenancy,rps_lng-HDO130008,rps_lng-HDO19003293,rps_lng-HDO200807,2021-01-22,2021-01-28,Drainage issue,,,,330.0,0,0
+Tenancy,rps_lng-HDO130008,rps_lng-COS19000051,rps_lng-HDO200807,2020-10-27,2020-11-10,Split system not turning on,,,,385.0,0,0
+Tenancy,rps_lng-HDO130008,rps_lng-HDO19004177,rps_lng-RPT190693,2019-07-31,2019-08-07,"Clothesline, Blind & Oven Handle",,,,0.0,0,0
+Tenancy,rps_lng-HDO130008,rps_lng-HDO19001421,rps_lng-RPT190693,2019-07-05,2019-07-30,Lights & Exhaust Fans,,,,0.0,0,0
+Creditor,rps_lng-HDO130027,rps_lng-DRE19000076,rps_lng-HDO230169,2023-04-14,2023-04-17,Inspected Wall Split System.,,,,275.0,0,0
+Creditor,rps_lng-HDO130027,rps_lng-HDO21001704,rps_lng-HDO230169,2023-04-14,2023-05-15,Bath Tap Repairs,,,,151.8,0,0
+Creditor,rps_lng-HDO130027,rps_lng-HDO19001188,rps_lng-HDO230169,2023-04-05,2023-05-18,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO130027,rps_lng-HDO21001673,rps_lng-HDO230169,2023-02-24,2023-02-28,Minor Clean,,,,165.0,0,0
+Creditor,rps_lng-HDO130045,rps_lng-HDO23002113,rps_lng-HDO211264,2023-07-06,2023-07-11,Wipe Over Clean,,,,250.0,0,0
+Creditor,rps_lng-HDO130045,rps_lng-HDO19002152,rps_lng-HDO211264,2022-07-05,2022-07-05,Install New Split System,,,,2550.0,0,0
+Creditor,rps_lng-HDO130045,rps_lng-HDO19002152,rps_lng-HDO211264,2022-05-24,2022-05-24,Changeover Split System,,,,500.0,0,0
+Creditor,rps_lng-HDO130045,rps_lng-HDO19002152,rps_lng-HDO211264,2022-04-26,2022-05-03,A/C Service,,,,215.0,0,0
+Creditor,rps_lng-HDO130045,rps_lng-VAD21000019,rps_lng-HDO211264,2022-04-12,2022-09-12,Gas & Electrical Compliance,,,,0.0,0,0
+Tenancy,rps_lng-HDO130045,rps_lng-HDO19001340,rps_lng-RPT190260,2020-10-04,2020-11-02,Blocked Kitchen Sink,,,,200.0,0,0
+Tenancy,rps_lng-HDO130045,rps_lng-HDO19003293,rps_lng-RPT190260,2020-07-10,2020-08-26,Leaking under bathroom sink,,,,110.0,0,0
+Tenancy,rps_lng-HDO130045,rps_lng-HDO19003293,rps_lng-RPT190260,2019-10-22,2019-10-31,leak under the kitchen sink,,,,110.0,0,0
+Tenancy,rps_lng-HDO130072,rps_lng-HDO19004377,rps_lng-HDO190003,2020-06-24,2021-03-16,Not water only luke warm in both showers,,,,0.0,0,0
+Tenancy,rps_lng-HDO130072,rps_lng-HDO19003549,rps_lng-HDO190003,2019-11-01,2020-05-28,dishwasher issue,,,,0.0,0,0
+Tenancy,rps_lng-HDO130072,rps_lng-HDO18000979,rps_lng-HDO190003,2019-04-01,2019-05-30,Re-affix towel rail & check wardrobe door rollers,,,,530.2,0,0
+Tenancy,rps_lng-HDO130072,rps_lng-HDO13002453,rps_lng-HDO190003,2019-03-19,2019-03-22,Repair Storage Cage,,,,264.0,0,0
+Tenancy,rps_lng-HDO130072,rps_lng-HDO19001868,rps_lng-HDO190003,2019-03-07,2019-03-13,Urgent Vacate Clean,,,,0.0,0,0
+Creditor,rps_lng-HDO140002,rps_lng-HDO19001493,rps_lng-HDO190847,2021-07-22,2021-09-22,A/C Initial Investigation,,,,0.0,0,0
+Tenancy,rps_lng-HDO140002,rps_lng-HDO19001340,rps_lng-RPT191515,2019-03-01,2019-09-05,Toilet blocked,,,,0.0,0,0
+Tenancy,rps_lng-HDO140002,rps_lng-HDO19001340,rps_lng-RPT191515,2019-02-23,2019-04-04,INV-2325 - 12 Southdown - Ensuite URGENT,,,,392.7,0,0
+Creditor,rps_lng-HDO140009,rps_lng-HDO19001188,rps_lng-RPT190209,2023-04-05,2023-05-31,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO140009,rps_lng-VAD21000019,rps_lng-RPT190209,2022-02-07,2022-02-25,Leaking Dishwasher,,,,277.0,0,0
+Tenancy,rps_lng-HDO140009,rps_lng-DRE19000036,rps_lng-RPT190209,2019-11-28,2019-12-10,Attempted break in,,,,434.5,0,0
+Creditor,rps_lng-HDO140017,rps_lng-VAD21000019,rps_lng-HDO211384,2022-04-12,2022-08-03,Gas & Electrical Compliance,,,,0.0,0,0
+Tenancy,rps_lng-HDO140017,rps_lng-DRE19000036,rps_lng-RPT191394,2020-12-02,2021-02-08,Grout issues,,,,93.5,0,0
+Tenancy,rps_lng-HDO140024,rps_lng-HDO19001873,rps_lng-HDO190421,2021-03-22,2021-05-24,Heater not turning on,,,,0.0,0,0
+Tenancy,rps_lng-HDO140024,rps_lng-HDO19001340,rps_lng-HDO190421,2019-08-26,2019-12-04,HWS Replacement,,,,0.0,0,0
+Tenancy,rps_lng-HDO140024,rps_lng-HDO19001873,rps_lng-RPT190730,2019-06-20,2019-06-20,Central Heating periodically stops,,,,0.0,0,0
+Creditor,rps_lng-HDO140044,rps_lng-HDO19003293,rps_lng-HDO210227,2023-06-15,2023-07-07,Plumbing,,,,407.0,0,0
+Creditor,rps_lng-HDO140044,rps_lng-HDO19003293,rps_lng-HDO210227,2022-10-04,2022-10-10,Tap & Toilet Seat,,,,286.0,0,0
+Creditor,rps_lng-HDO140044,rps_lng-WES20000011,rps_lng-HDO210227,2021-04-30,2021-05-04,Lawns to be mowed & edged,,,,132.0,0,0
+Creditor,rps_lng-HDO140044,rps_lng-DRE19000036,rps_lng-HDO210227,2021-04-27,2021-05-14,Windows not opening,,,,190.3,0,0
+Tenancy,rps_lng-HDO140044,rps_lng-WES20000011,rps_lng-RPT191243,2020-01-16,2020-02-24,yuccas,,,,275.0,0,0
+Tenancy,rps_lng-HDO140044,rps_lng-HDO16001000,rps_lng-RPT191243,2019-05-09,2019-05-23,BNP-101908 - 15 Bandon - Solar Panels,,,,400.95,0,0
+Creditor,rps_lng-HDO150004,rps_lng-HDO22004027,rps_lng-RPT190045,2023-06-28,2023-07-10,Gas Safety Check,,,,290.0,0,0
+Creditor,rps_lng-HDO150004,rps_lng-HDO19001188,rps_lng-RPT190045,2023-04-05,2023-06-28,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO150004,rps_lng-HDO19001147,rps_lng-RPT190045,2023-03-24,2023-06-22,Kitchen Tap Repairs,,,,215.6,0,0
+Creditor,rps_lng-HDO150004,rps_lng-VAD21000019,rps_lng-RPT190045,2021-12-08,2022-05-26,Door Bell,,,,484.9,0,0
+Tenancy,rps_lng-HDO150004,,rps_lng-RPT190045,2020-08-10,2021-01-04,BUILDER - bedroom light fitting issue,,,,0.0,0,0
+Tenancy,rps_lng-HDO150004,,rps_lng-RPT190045,2020-07-14,2020-08-10,SMOKE ALARM has water leaking from it,,,,0.0,0,0
+Tenancy,rps_lng-HDO150004,rps_lng-HDO19001421,rps_lng-RPT190045,2019-09-16,2019-09-30,Tenant electric shock from tap water,,,,184.8,0,0
+Creditor,rps_lng-HDO150011,rps_lng-HDO19001188,rps_lng-RPT190359,2023-04-05,2023-05-01,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO150011,rps_lng-HDO19001493,rps_lng-RPT190359,2022-11-09,2022-11-09,Gas Ducted Heating Investigation,,,,269.5,0,0
+Creditor,rps_lng-HDO150011,rps_lng-VAD21000019,rps_lng-RPT190359,2022-05-24,2022-06-29,General Maintenance,,,,583.05,0,0
+Creditor,rps_lng-HDO150011,rps_lng-HDO19001493,rps_lng-RPT190359,2022-05-24,2022-08-01,Air-conditioning Service,,,,839.9,0,0
+Tenancy,rps_lng-HDO150011,rps_lng-HDO19003293,rps_lng-RPT190359,2019-08-02,2019-08-09,Leak near the water meter,,,,0.0,0,0
+Creditor,rps_lng-HDO150017,rps_lng-HDO19001188,rps_lng-RPT190782,2023-04-05,2023-05-22,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO150022,rps_lng-HDO19004437,rps_lng-HDO190418,2019-08-22,2019-08-22,Carpet Steam Clean,,,,0.0,0,0
+Tenancy,rps_lng-HDO150030,rps_lng-HDO19003549,rps_lng-HDO191216,2020-02-06,2021-03-04,Rangehood light and fan,,,,170.5,0,0
+Creditor,rps_lng-HDO150030,rps_lng-DRE19000036,rps_lng-HDO210366,2021-03-22,2021-05-17,Various maintenance,,,,393.8,0,0
+Creditor,rps_lng-HDO150030,rps_lng-HDO19001188,rps_lng-HDO220587,2023-02-23,2023-04-03,Combined electrical and gas safety certificates,,,,528.0,0,0
+Tenancy,rps_lng-HDO150030,,rps_lng-RPT191570,2019-08-22,2019-08-22,Opticon Install,,,,0.0,0,0
+Creditor,rps_lng-HDO150038,rps_lng-CVA21004419,rps_lng-RPT191455,2023-02-17,2023-02-17,Electrical and Gas Safety Check,,,,0.0,0,0
+Creditor,rps_lng-HDO150038,rps_lng-HDO19003293,rps_lng-RPT191455,2022-11-24,2022-12-10,Toilet Repairs,,,,403.7,0,0
+Creditor,rps_lng-HDO150038,rps_lng-DRE21000033,rps_lng-RPT191455,2021-05-29,2021-06-28,Garage door test,,,,285.0,0,0
+Tenancy,rps_lng-HDO150038,rps_lng-WES19000037,rps_lng-RPT191455,2019-12-18,2019-12-20,A/C not working,,,,907.5,0,0
+Tenancy,rps_lng-HDO150038,rps_lng-DRE19000036,rps_lng-RPT191455,2019-09-19,2019-12-20,Blinds & Fly Screen Repair/Replacement,,,,902.0,0,0
+Creditor,rps_lng-HDO150046,rps_lng-HDO19001188,rps_lng-CHA190010,2022-12-02,2022-12-23,Electrical and Gas Safety,,,,528.0,0,0
+Tenancy,rps_lng-HDO150046,,rps_lng-CHA190010,2021-10-09,2022-02-02,"Repair to dishwasher, tank and shower",,,,0.0,0,0
+Tenancy,rps_lng-HDO150046,,rps_lng-CHA190010,2020-11-27,2020-12-22,Plumbing maintenance,,,,0.0,0,0
+Tenancy,rps_lng-HDO150046,,rps_lng-CHA190010,2019-12-22,2021-10-29,1/1A Teague: A/C not cooling enough,,,,0.0,0,0
+Creditor,rps_lng-HDO150053,rps_lng-SAN21000109,rps_lng-HDO191196,2021-12-01,2021-12-01,Supply and Install Rinnai B26 Hot Water Service,,,,1899.0,0,0
+Tenancy,rps_lng-HDO150053,,rps_lng-HDO191196,2021-12-01,2022-07-12,Leaking Hot Water System,,,,0.0,0,0
+Creditor,rps_lng-HDO150053,rps_lng-HDO16002429,rps_lng-HDO191196,2021-11-10,2022-02-11,HWS - leaking on top of roof,,,,330.0,0,0
+Tenancy,rps_lng-HDO150053,rps_lng-HDO19001751,rps_lng-RPT191093,2019-10-21,2019-10-21,Repair & adjust bathroom door,,,,88.0,0,0
+Tenancy,rps_lng-HDO150053,rps_lng-HDO16001000,rps_lng-RPT191093,2019-06-06,2019-06-06,Solar Panel Leak,,,,0.0,0,0
+Creditor,rps_lng-HDO160004,rps_lng-HDO19001188,rps_lng-HDO200832,2023-04-05,2023-04-27,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO160004,rps_lng-HDO19001147,rps_lng-HDO200832,2021-10-06,2021-10-06,Investigate a faulty/leaking sink mixer tap,,,,275.0,0,0
+Creditor,rps_lng-HDO160004,rps_lng-COS19000051,rps_lng-HDO200832,2021-06-01,2021-06-01,Vent above air con making noise issue,,,,594.0,0,0
+Tenancy,rps_lng-HDO160004,rps_lng-CHA19000037,rps_lng-HDO200832,2020-11-30,2021-01-04,Cut key for front deadlock door,,,,0.0,0,0
+Tenancy,rps_lng-HDO160004,rps_lng-CHA19000037,rps_lng-RPT190235,2021-02-22,2021-02-22,Deadlock Repair & Key,,,,0.0,0,0
+Tenancy,rps_lng-HDO160004,rps_lng-HDO14002395,rps_lng-RPT190235,2020-02-17,2020-06-02,dishwasher issue - tenant resolved?,,,,0.0,0,0
+Tenancy,rps_lng-HDO160004,rps_lng-HDO19001281,rps_lng-RPT190235,2019-09-30,2019-10-14,Door bell-,,,,155.0,0,0
+Tenancy,rps_lng-HDO160004,rps_lng-HDO19001439,rps_lng-RPT190235,2019-09-30,2019-10-21,Range hood,,,,0.0,0,0
+Creditor,rps_lng-HDO160007,rps_lng-VAD21000019,rps_lng-HDO190953,2022-05-16,2022-05-27,Light Switch in Bathroom,,,,234.0,0,0
+Tenancy,rps_lng-HDO160007,rps_lng-HDO19001421,rps_lng-HDO190953,2020-11-02,2020-12-18,Lights or Electricity,,,,0.0,0,0
+Tenancy,rps_lng-HDO160007,rps_lng-HDO19001421,rps_lng-HDO190953,2020-11-02,2020-12-08,Lights or Electricity,,,,132.0,0,0
+Tenancy,rps_lng-HDO160007,rps_lng-HDO18002075,rps_lng-HDO190953,2020-04-23,2020-05-28,LED lights in bedroom,,,,0.0,0,0
+Tenancy,rps_lng-HDO160007,rps_lng-HDO19001873,rps_lng-HDO190953,2019-12-23,2020-01-20,Airconditioning,,,,150.0,0,0
+Tenancy,rps_lng-HDO160007,rps_lng-HDO19001421,rps_lng-HDO190953,2019-11-24,2019-12-02,Bathroom Switch Not Working,,,,170.5,0,0
+Creditor,rps_lng-HDO160007,rps_lng-HDO19001188,rps_lng-HDO221848,2023-04-05,2023-05-01,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO160007,rps_lng-HDO19002117,rps_lng-RPT190513,2019-11-14,2019-11-14,Fly screen doors,,,,720.0,0,0
+Tenancy,rps_lng-HDO160020,,rps_lng-RPT190228,2021-04-28,2022-08-03,Glass on oven door has shattered,,,,0.0,0,0
+Tenancy,rps_lng-HDO160020,,rps_lng-RPT190228,2020-06-11,2020-07-01,Security door,,,,0.0,0,0
+Tenancy,rps_lng-HDO160020,rps_lng-HDO19001340,rps_lng-RPT190228,2020-06-07,2020-06-11,no hot water,,,,0.0,0,0
+Creditor,rps_lng-HDO160024,rps_lng-HDO19001188,rps_lng-HDO211301,2023-04-05,2023-07-07,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO160024,rps_lng-VAD21000019,rps_lng-HDO211301,2021-12-05,2022-01-04,Break In - Damaged Doors,,,,1516.5,0,0
+Creditor,rps_lng-HDO160024,rps_lng-HDO19002747,rps_lng-HDO211301,2021-11-03,2021-11-03,Gardening service,,,,220.0,0,0
+Creditor,rps_lng-HDO160035,rps_lng-HDO19001147,rps_lng-HDO210661,2023-05-26,2023-06-14,Hot Water Leak Repairs,,,,279.4,0,0
+Creditor,rps_lng-HDO160035,rps_lng-VAD21000019,rps_lng-HDO210661,2022-04-05,2022-10-14,Gas & Electrical Checks,,,,0.0,0,0
+Creditor,rps_lng-HDO160035,rps_lng-VAD21000019,rps_lng-HDO210661,2021-08-02,2021-09-17,Lights,,,,2168.0,0,0
+Tenancy,rps_lng-HDO160035,rps_lng-HDO09001040,rps_lng-RPT190993,2019-10-31,2019-10-31,Garage Motor Replacement,,,,0.0,0,0
+Tenancy,rps_lng-HDO160035,rps_lng-HDO09001040,rps_lng-RPT190993,2019-07-03,2019-09-23,Garage Roller Door,,,,319.0,0,0
+Creditor,rps_lng-HDO160048,rps_lng-HDO19001188,rps_lng-RPT191372,2023-04-05,2023-06-01,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO160048,rps_lng-HDO21001573,rps_lng-RPT191372,2021-07-22,2021-07-27,No hot water,,,,278.96,0,0
+Creditor,rps_lng-HDO160048,rps_lng-HDO19001847,rps_lng-RPT191372,2021-07-02,2021-08-31,Heater not working - needs service,,,,225.0,0,0
+Creditor,rps_lng-HDO160048,rps_lng-CVA21002500,rps_lng-RPT191372,2021-06-04,2021-09-03,Shower leaking into hall - quote,,,,863.5,0,0
+Tenancy,rps_lng-HDO160061,rps_lng-JAM20000086,rps_lng-HDO190784,2020-06-24,2020-07-09,toilet seat repair,,,,104.5,0,0
+Tenancy,rps_lng-HDO160061,rps_lng-HDO18002075,rps_lng-HDO200294,2020-07-09,2020-07-20,LED lights,,,,0.0,0,0
+Tenancy,rps_lng-HDO160061,,rps_lng-HDO200294,2020-07-09,2021-01-04,Fob Order - Binks & Assc.,,,,0.0,0,0
+Creditor,rps_lng-HDO160061,rps_lng-VAD21000019,rps_lng-HDO210764,2022-01-10,2022-01-18,Electrical Issues,,,,218.0,0,0
+Creditor,rps_lng-HDO160061,rps_lng-VAD21000019,rps_lng-HDO210764,2021-07-01,2021-08-03,Electrical and Gas Safety,,,,437.8,0,0
+Tenancy,rps_lng-HDO160061,rps_lng-HDO19001421,rps_lng-RPT190374,2019-09-16,2019-09-16,Hot water unit,,,,225.5,0,0
+Tenancy,rps_lng-HDO160061,rps_lng-HDO19001086,rps_lng-RPT190374,2019-08-13,2019-08-13,Repair hot water service.,,,,0.0,0,0
+Tenancy,rps_lng-HDO160061,rps_lng-DRE19000036,rps_lng-RPT190374,2019-08-12,2019-12-20,Quote - Repair/repalcement,,,,0.0,0,0
+Tenancy,rps_lng-HDO160061,rps_lng-HDO19001086,rps_lng-RPT190374,2019-04-01,2019-04-01,Hot Water - Not working,,,,0.0,0,0
+Creditor,rps_lng-HDO170001,rps_lng-VAD21000019,rps_lng-HDO190783,2022-06-22,2022-07-12,Toilet Door Handle,,,,327.75,0,0
+Creditor,rps_lng-HDO170001,rps_lng-VAD21000019,rps_lng-HDO190783,2022-05-03,2022-10-14,Electrical and Gas Safety,,,,602.8,0,0
+Tenancy,rps_lng-HDO170001,rps_lng-HDO19004377,rps_lng-HDO190783,2020-06-02,2020-06-14,Bathroom sink tap is not turning off,,,,155.65,0,0
+Tenancy,rps_lng-HDO170001,rps_lng-HDO19004359,rps_lng-HDO190783,2019-10-18,2019-11-06,"Lawns, broken window & leaking fascia",,,,0.0,0,0
+Creditor,rps_lng-HDO170001,rps_lng-CVA21002238,rps_lng-HDO220882,2023-05-11,2023-06-01,Toilet Leak / Gas Compliance,,,,236.5,0,0
+Creditor,rps_lng-HDO170001,rps_lng-HDO19001188,rps_lng-HDO220882,2023-03-02,2023-04-27,Gas safety certificate,,,,396.0,0,0
+Tenancy,rps_lng-HDO170001,rps_lng-HDO19001873,rps_lng-RPT190835,2019-06-19,2019-07-15,Ducted Heating System - Reset and Weakening,,,,0.0,0,0
+Tenancy,rps_lng-HDO170001,rps_lng-HDO16001000,rps_lng-RPT190835,2019-06-05,2019-06-05,Laundry Sink Leak,,,,0.0,0,0
+Tenancy,rps_lng-HDO170001,rps_lng-HDO19001177,rps_lng-RPT190835,2019-05-29,2019-06-28,Rear door not locking,,,,0.0,0,0
+Creditor,rps_lng-HDO170004,rps_lng-HDO19001147,rps_lng-HDO230249,2023-05-29,2023-06-14,Dishwasher Repairs,,,,246.4,0,0
+Creditor,rps_lng-HDO170004,rps_lng-HDO19005948,rps_lng-RPT190515,2022-02-01,2022-06-03,Professional Photos,,,,143.0,0,0
+Creditor,rps_lng-HDO170004,rps_lng-HDO08001895,rps_lng-RPT190515,2021-07-07,2021-07-16,Re-attach oven,,,,192.5,0,0
+Tenancy,rps_lng-HDO170004,rps_lng-HDO19001340,rps_lng-RPT190515,2020-09-02,2020-11-25,BUILDER - HERMITAGE HOMES - roof leak,,,,0.0,0,0
+Creditor,rps_lng-HDO170008,rps_lng-VAD21000019,rps_lng-HDO190799,2022-05-02,2022-06-03,Kitchen light,,,,224.8,0,0
+Tenancy,rps_lng-HDO170008,,rps_lng-HDO190799,2021-07-03,2021-08-11,"Garage, back laundry & bedroom doors",,,,363.0,0,0
+Creditor,rps_lng-HDO170008,rps_lng-HDO19001102,rps_lng-HDO190799,2021-05-21,2021-10-29,Electrical and Gas Safety,,,,462.0,0,0
+Tenancy,rps_lng-HDO170008,rps_lng-JAM20000137,rps_lng-HDO190799,2021-02-10,2021-02-25,Oven/Grill Element not working,,,,253.0,0,0
+Tenancy,rps_lng-HDO170008,rps_lng-HDO19001421,rps_lng-RPT190175,2019-04-08,,Downlight in dining room,,,,158.4,0,0
+Creditor,rps_lng-HDO170011,rps_lng-HDO19001245,rps_lng-HDO210356,2022-06-09,2022-07-22,Appliance Repairs,,,,135.0,0,0
+Creditor,rps_lng-HDO170011,rps_lng-HDO22001674,rps_lng-HDO210356,2022-06-09,2022-06-23,Garage Door,,,,207.9,0,0
+Creditor,rps_lng-HDO170011,rps_lng-SAN22000025,rps_lng-HDO210356,2022-01-18,2022-01-18,Install Evaporative Cooling,,,,205.0,0,0
+Creditor,rps_lng-HDO170011,rps_lng-HDO19002152,rps_lng-HDO210356,2021-12-01,2021-12-21,Air-conditioner not working,,,,365.0,0,0
+Creditor,rps_lng-HDO170011,rps_lng-HDO19001147,rps_lng-HDO210356,2021-10-06,2021-10-11,Toilet blockage,,,,184.8,0,0
+Creditor,rps_lng-HDO170011,rps_lng-HDO19002941,rps_lng-HDO210356,2021-04-20,2021-04-28,Mowing of Lawns,,,,176.0,0,0
+Creditor,rps_lng-HDO170011,rps_lng-HDO19003293,rps_lng-HDO210356,2021-04-12,2021-04-13,No hot water,,,,121.0,0,0
+Tenancy,rps_lng-HDO170020,rps_lng-HDO19001169,rps_lng-RPT191113,2019-05-31,2019-06-14,Front door doesn't lock,,,,0.0,0,0
+Creditor,rps_lng-HDO170028,rps_lng-HDO19001188,rps_lng-HDO220516,2023-02-08,2023-02-28,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO170028,rps_lng-HDO21001573,rps_lng-HDO220516,2022-06-23,2022-07-06,Gas Leak Detection & Pipe Reaplacement,,,,2971.1,0,0
+Tenancy,rps_lng-HDO170231,rps_lng-HDO20000488,rps_lng-HDO190008,2020-04-17,2020-04-23,Cleaning,,,,0.0,0,0
+Tenancy,rps_lng-HDO170231,rps_lng-DRE19000036,rps_lng-HDO200181,2020-05-07,2020-07-28,wardrobe shelf and tap handles,,,,0.0,0,0
+Creditor,rps_lng-HDO170231,rps_lng-HDO19001188,rps_lng-HDO210319,2023-04-05,2023-07-04,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO170235,rps_lng-HDO21001704,rps_lng-HDO200022,2022-08-10,2022-12-13,Apartment Door difficult to open and close,,,,0.0,0,0
+Tenancy,rps_lng-HDO170235,rps_lng-HDO18002075,rps_lng-HDO200022,2020-04-15,2020-06-08,LED lights,,,,0.0,0,0
+Creditor,rps_lng-HDO180001,rps_lng-HDO19001188,rps_lng-HDO200233,2023-04-05,2023-05-31,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO180001,rps_lng-JAM20000086,rps_lng-HDO200233,2020-06-02,2021-01-04,general,,,,0.0,0,0
+Creditor,rps_lng-HDO180002,rps_lng-DRE19000076,rps_lng-RPT190192,2022-07-21,2022-07-22,Heater Service,,,,275.0,0,0
+Tenancy,rps_lng-HDO180002,,rps_lng-RPT190192,2021-03-29,2021-03-29,Gas leak,,,,0.0,0,0
+Tenancy,rps_lng-HDO180002,,rps_lng-RPT190192,2020-08-26,2020-09-07,Lights or Electricity,,,,0.0,0,0
+Tenancy,rps_lng-HDO180002,,rps_lng-RPT190192,2020-08-25,2020-09-07,Mould bedroom,,,,0.0,0,0
+Tenancy,rps_lng-HDO180002,,rps_lng-RPT190192,2020-08-25,2020-09-07,Mould bathroom,,,,0.0,0,0
+Tenancy,rps_lng-HDO180002,,rps_lng-RPT190192,2020-08-25,2020-09-02,Stove constantly sparking,,,,0.0,0,0
+Tenancy,rps_lng-HDO180002,,rps_lng-RPT190192,2019-07-17,2020-09-07,Roller Shutter,,,,0.0,0,0
+Tenancy,rps_lng-HDO180002,rps_lng-HDO19001177,rps_lng-RPT190192,2019-07-09,2019-07-09,Vacate Clean & Gardening,,,,0.0,0,0
+Tenancy,rps_lng-HDO180003,rps_lng-DRE19000036,rps_lng-HDO190584,2019-09-11,2019-10-29,Rangehood filter,,,,0.0,0,0
+Tenancy,rps_lng-HDO180003,,rps_lng-HDO190584,2019-08-29,2019-09-02,Washing dryer not heating,,,,154.0,0,0
+Tenancy,rps_lng-HDO180003,rps_lng-HDO19001835,rps_lng-HDO190584,2019-08-29,2019-09-26,Dryer,,,,0.0,0,0
+Tenancy,rps_lng-HDO180003,rps_lng-DRE19000036,rps_lng-HDO190584,2019-08-21,2019-09-11,Maintenance,,,,260.71,0,0
+Tenancy,rps_lng-HDO180003,rps_lng-HDO19001102,rps_lng-HDO190584,2019-08-15,2019-09-26,Smoke alarm checks,,,,0.0,0,0
+Tenancy,rps_lng-HDO180003,,rps_lng-HDO190584,2019-08-14,2019-09-11,Rangehood not Working; Oven light is broken,,,,0.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-HDO18002118,rps_lng-HDO200840,2021-11-30,2021-12-15,Exit - Final Inspection Clean,,,,440.0,0,0
+Tenancy,rps_lng-HDO180003,rps_lng-DRE19000036,rps_lng-HDO200840,2020-11-25,2020-12-11,Shower screen,,,,93.5,0,0
+Creditor,rps_lng-HDO180003,rps_lng-HDO19002574,rps_lng-HDO220146,2023-01-15,2023-01-15,Supply Carpets,,,,570.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-HDO18002118,rps_lng-HDO220146,2023-01-05,2023-01-21,Urgent Clean,,,,330.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-HDO19001188,rps_lng-HDO220146,2022-12-02,2023-03-23,Gas Safety,,,,330.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-WES20000008,rps_lng-HDO220146,2022-04-27,2022-05-27,Wet Carpets,,,,0.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-HDO19004377,rps_lng-HDO220146,2022-04-21,2022-05-27,Roof Leak,,,,0.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-VAD21000019,rps_lng-HDO220146,2022-04-05,2022-10-14,Gas & Electrical checks,,,,0.0,0,0
+Creditor,rps_lng-HDO180003,rps_lng-CHA19000037,rps_lng-HDO230024,2023-01-13,2023-02-14,Key Change,,,,220.0,0,0
+Tenancy,rps_lng-HDO180003,rps_lng-WES19000012,rps_lng-RPT190271,2019-08-12,2019-09-26,Pest Control,,,,0.0,0,0
+Creditor,rps_lng-HDO180012,rps_lng-HDO19003293,rps_lng-HDO220419,2023-06-09,2023-06-26,Ensuite Shower Tap Repairs,,,,198.0,0,0
+Creditor,rps_lng-HDO180012,rps_lng-HDO22001674,rps_lng-HDO220419,2022-12-07,2022-12-29,Garage Door,,,,715.0,0,0
+Creditor,rps_lng-HDO180012,rps_lng-VAD21000019,rps_lng-HDO220419,2022-04-26,2022-06-15,Gas and Electric Checks,,,,0.0,0,0
+Tenancy,rps_lng-HDO180012,rps_lng-HDO19005948,rps_lng-RPT190498,2022-02-04,2022-02-22,Professional Photos,,,,0.0,0,0
+Creditor,rps_lng-HDO180012,rps_lng-DRE19000036,rps_lng-RPT190498,2021-03-17,2021-06-25,2nd shower leak,,,,8173.0,0,0
+Tenancy,rps_lng-HDO180012,rps_lng-HDO19003293,rps_lng-RPT190498,2020-10-13,2020-10-29,Water leaking from shower to bedroom,,,,121.0,0,0
+Tenancy,rps_lng-HDO180012,rps_lng-HDO19003293,rps_lng-RPT190498,2020-05-18,2020-06-11,Toilet leaking,,,,0.0,0,0
+Tenancy,rps_lng-HDO180012,rps_lng-HDO16001000,rps_lng-RPT190498,2019-06-05,2019-06-05,Hot Warm Service warm water,,,,0.0,0,0
+Creditor,rps_lng-HDO180028,rps_lng-HDO19001188,rps_lng-RPT190888,2023-04-04,2023-07-07,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO180030,rps_lng-HDO23000139,rps_lng-HDO200970,2023-01-05,2023-01-14,Entry Lawn Mow,,,,108.9,0,0
+Creditor,rps_lng-HDO180030,rps_lng-HDO19001188,rps_lng-HDO200970,2022-12-02,2023-02-08,Electrical and Gas Safety,,,,528.0,0,0
+Creditor,rps_lng-HDO180030,rps_lng-VAD21000019,rps_lng-HDO200970,2021-08-15,2022-01-18,Front yard - letterbox repair,,,,561.0,0,0
+Creditor,rps_lng-HDO180030,rps_lng-HDO19003549,rps_lng-HDO200970,2021-03-25,2021-06-23,Other - Burning smell when use dishwasher,,,,647.5,0,0
+Tenancy,rps_lng-HDO180030,rps_lng-HDO19003293,rps_lng-HDO200970,2020-12-21,2021-01-13,Have no hot water,,,,132.0,0,0
+Tenancy,rps_lng-HDO180030,rps_lng-DRE19000036,rps_lng-HDO200970,2020-12-11,2021-03-30,Sliding door is hard to open/laundry tap loose,,,,304.15,0,0
+Creditor,rps_lng-HDO180030,rps_lng-DRE19000036,rps_lng-HDO230018,2023-03-17,2023-03-30,Laundry Door,,,,123.75,0,0
+Tenancy,rps_lng-HDO180030,rps_lng-HDO19002117,rps_lng-RPT190516,2019-03-28,2019-06-24,New Security Doors,,,,0.0,0,0
+Creditor,rps_lng-HDO180055,rps_lng-HDO19001188,rps_lng-HDO200265,2023-02-06,2023-02-21,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO180055,rps_lng-VAD21000019,rps_lng-HDO200265,2022-07-22,2022-07-22,Handyman works,,,,343.45,0,0
+Creditor,rps_lng-HDO180055,rps_lng-JAM22000013,rps_lng-HDO200265,2022-05-23,2022-07-12,AC replacement,,,,3980.0,0,0
+Creditor,rps_lng-HDO180055,rps_lng-HDO20001930,rps_lng-HDO200265,2022-03-04,2022-04-01,Air Conditioner Fault,,,,220.0,0,0
+Tenancy,rps_lng-HDO180055,rps_lng-HDO19004377,rps_lng-HDO200265,2020-06-22,2020-07-23,possible water leak/downpipe issue,,,,0.0,0,0
+Tenancy,rps_lng-HDO180055,rps_lng-HDO19001493,rps_lng-HDO200265,2020-06-19,2020-10-28,AC Services,,,,0.0,0,0
+Tenancy,rps_lng-HDO180055,,rps_lng-RPT193274,2018-09-18,2019-02-15,Dishwaher,,,,0.0,0,0
+Tenancy,rps_lng-HDO180055,rps_lng-HDO14000888,rps_lng-RPT193274,2018-09-01,2018-12-12,DEA-13979 - 71A Rowan - Kitchenmeals Dishwasher No,,,,220.0,0,0
+Creditor,rps_lng-HDO180056,rps_lng-HDO19001340,rps_lng-HDO190107,2021-05-24,2021-06-09,Ensuite basin pipe & roof solar hot water system,,,,242.0,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-HDO19001340,rps_lng-HDO190107,2020-09-17,2020-10-28,Toilet Flush,,,,132.0,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-HDO14002395,rps_lng-HDO190107,2020-04-06,2020-06-04,oven door shattered,,,,0.0,0,0
+Tenancy,rps_lng-HDO180056,,rps_lng-HDO190107,2020-02-06,2021-06-01,BUILDER - AHB cracks & mail box,,,,0.0,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-HDO19001340,rps_lng-HDO190107,2019-10-29,2019-11-01,Toilet seat broken,,,,178.2,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-DRE19000036,rps_lng-HDO190107,2019-07-16,2019-08-26,Bathrooom Crack Wall/Tile Joint,,,,0.0,0,0
+Creditor,rps_lng-HDO180056,rps_lng-SAN22000052,rps_lng-HDO210698,2022-03-15,2022-03-15,Garage Door Repair,,,,220.0,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-VAD21000019,rps_lng-HDO210698,2022-02-08,2022-06-03,Hole in Wall From Door Handle,,,,0.0,0,0
+Creditor,rps_lng-HDO180056,rps_lng-SAN21000139,rps_lng-HDO210698,2021-12-21,2021-12-21,Disassembled Door Repairs,,,,300.0,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-CHA19000037,rps_lng-HDO210698,2021-08-17,2021-08-20,Front Door Lock,,,,0.0,0,0
+Creditor,rps_lng-HDO180056,rps_lng-CHA19000037,rps_lng-HDO210698,2021-07-05,2021-07-15,Garage door lock & window locks,,,,433.0,0,0
+Tenancy,rps_lng-HDO180056,rps_lng-WES19000013,rps_lng-HDO210698,2021-06-21,2021-06-21,Once off clean and rubbish removal,,,,440.0,0,0
+Creditor,rps_lng-HDO180056,rps_lng-VAD21000019,rps_lng-HDO210698,2021-06-10,2021-09-09,Electrical and Gas Safety,,,,602.8,0,0
+Creditor,rps_lng-HDO190007,rps_lng-HDO19001188,rps_lng-HDO201019,2023-04-04,2023-06-28,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190007,rps_lng-HDO18002052,rps_lng-HDO201019,2022-09-28,2022-09-28,Front Door Handle,,,,198.0,0,0
+Tenancy,rps_lng-HDO190007,rps_lng-HDO19001078,rps_lng-HDO201019,2022-09-27,2022-09-27,Front Door Handle,,,,198.0,0,0
+Creditor,rps_lng-HDO190007,rps_lng-SAN22000095,rps_lng-HDO201019,2022-07-05,2022-07-13,Power Point,,,,370.92,0,0
+Creditor,rps_lng-HDO190009,rps_lng-DRE19000076,rps_lng-HDO200358,2023-06-22,2023-07-05,Heating & A/C Service Repairs,,,,495.0,0,0
+Tenancy,rps_lng-HDO190009,rps_lng-HDO19001188,rps_lng-HDO200358,2023-04-04,2023-07-06,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190009,rps_lng-SAN22000052,rps_lng-HDO200358,2022-07-05,2023-01-18,Garage Door Service,,,,660.0,0,0
+Creditor,rps_lng-HDO190009,rps_lng-VAD21000019,rps_lng-HDO200358,2022-06-27,2022-07-13,Hot Water & Heating Issue,,,,277.0,0,0
+Tenancy,rps_lng-HDO190009,rps_lng-JAM20000086,rps_lng-RPT191549,2020-06-15,2020-06-15,BOND CLAIM - garden & plugs,,,,0.0,0,0
+Tenancy,rps_lng-HDO190009,rps_lng-HDO18002118,rps_lng-RPT191549,2020-06-12,2020-06-16,BOND CLAIM - cleaning,,,,0.0,0,0
+Tenancy,rps_lng-HDO190009,rps_lng-HDO19001340,rps_lng-RPT191549,2020-01-23,2020-06-29,toilet flush buttons,,,,0.0,0,0
+Tenancy,rps_lng-HDO190009,rps_lng-HDO19001493,rps_lng-RPT191549,2020-01-23,2020-01-01,Ducted heating and A/C,,,,0.0,0,0
+Tenancy,rps_lng-HDO190038,,rps_lng-HDO190029,2020-09-29,2020-10-06,DW,,,,0.0,0,0
+Tenancy,rps_lng-HDO190038,rps_lng-HDO19003293,rps_lng-HDO190029,2020-05-19,2020-06-10,2 toilets leaking & DW not working,,,,264.0,0,0
+Tenancy,rps_lng-HDO190038,rps_lng-DRE19000036,rps_lng-HDO190029,2020-04-28,2020-05-25,ceiling painting,,,,654.5,0,0
+Tenancy,rps_lng-HDO190038,rps_lng-DRE19000036,rps_lng-HDO190029,2020-02-21,2020-04-25,water damage to garage ceiling,,,,2486.0,0,0
+Creditor,rps_lng-HDO190063,rps_lng-HDO19001188,rps_lng-HDO190387,2023-04-04,2023-04-04,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190063,rps_lng-HDO22004214,rps_lng-HDO190387,2022-12-20,2022-12-20,Roof Inspection Report,,,,495.0,0,0
+Creditor,rps_lng-HDO190063,rps_lng-SAN21000079,rps_lng-HDO190387,2021-10-29,2021-10-29,Water Leak and Roof Gutter Repairs,,,,1500.0,0,0
+Tenancy,rps_lng-HDO190063,,rps_lng-HDO190387,2021-06-15,2021-07-20,Tiles on front pillars,,,,0.0,0,0
+Creditor,rps_lng-HDO190063,rps_lng-CVA21001869,rps_lng-HDO190387,2021-05-14,2021-11-05,Broken flick mixer,,,,410.58,0,0
+Creditor,rps_lng-HDO190063,rps_lng-DRE19000036,rps_lng-HDO190387,2021-05-14,2021-08-27,Tiles on front pillars,,,,4785.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO08001910,rps_lng-HDO190387,2021-01-14,2021-01-14,Diamond Security Door,,,,385.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO08001910,rps_lng-HDO190387,2020-10-27,2021-01-14,Broken Bind in lounge,,,,352.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19003293,rps_lng-HDO190387,2020-05-06,2020-06-11,Rectify garage flooding,,,,0.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19003293,rps_lng-HDO190387,2020-04-07,2020-04-30,Further garage flooding,,,,385.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO20001123,rps_lng-HDO190387,2020-04-07,2020-07-13,Lounge room split sys,,,,0.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19003293,rps_lng-HDO190387,2020-03-05,2020-04-07,Garage Flooding,,,,220.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-DRE19000036,rps_lng-HDO190387,2019-09-10,2019-11-26,General Maintenance & Rectification,,,,5665.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19004505,rps_lng-HDO190387,2019-08-22,2019-08-22,Rekey/Barrel,,,,0.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19004359,rps_lng-HDO190387,2019-07-31,2019-08-22,Gerenal Maintenance & Investigation,,,,465.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19001873,rps_lng-HDO190387,2019-07-31,2019-08-15,A/C Leak repair,,,,0.0,0,0
+Tenancy,rps_lng-HDO190063,rps_lng-HDO19003293,rps_lng-RPT190439,2019-07-24,2019-07-31,Roof Leak in Garage,,,,0.0,0,0
+Creditor,rps_lng-HDO190067,rps_lng-HDO19003293,rps_lng-HDO221802,2023-02-23,2023-03-09,Blocked Toilet,,,,381.7,0,0
+Creditor,rps_lng-HDO190067,rps_lng-DRE19000036,rps_lng-HDO221802,2023-02-23,2023-03-23,Lounge room blinds,,,,350.9,0,0
+Creditor,rps_lng-HDO190067,rps_lng-HDO19001188,rps_lng-RPT190936,2022-12-16,2023-03-01,Electrical and Gas Safety,,,,528.0,0,0
+Creditor,rps_lng-HDO190067,rps_lng-WES20000011,rps_lng-RPT190936,2022-12-15,2022-12-22,Gutter cleaning & Weeding,,,,286.0,0,0
+Creditor,rps_lng-HDO190067,rps_lng-CVA21002500,rps_lng-RPT190936,2022-09-21,2022-09-21,Shower repair,,,,1298.0,0,0
+Creditor,rps_lng-HDO190067,rps_lng-HDO19003293,rps_lng-RPT190936,2022-04-12,2022-06-03,Pressure Test Pipes,,,,429.0,0,0
+Creditor,rps_lng-HDO190067,rps_lng-DRE19000036,rps_lng-RPT190936,2022-02-04,2022-04-13,Maintenance Quote,,,,962.5,0,0
+Creditor,rps_lng-HDO190067,rps_lng-VAD21000019,rps_lng-RPT190936,2021-05-03,2021-08-11,Various maintenance,,,,176.0,0,0
+Tenancy,rps_lng-HDO190067,rps_lng-DRE19000036,rps_lng-RPT190936,2020-09-16,2020-12-07,Shower door seal & door bell camera,,,,201.3,0,0
+Tenancy,rps_lng-HDO190067,rps_lng-HDO19003293,rps_lng-RPT190936,2020-03-10,2020-03-13,Possible water leak,,,,154.0,0,0
+Tenancy,rps_lng-HDO190067,rps_lng-HDO19002747,rps_lng-RPT190936,2019-05-13,2019-09-05,Trimming of shrubs,,,,0.0,0,0
+Tenancy,rps_lng-HDO190067,rps_lng-HDO19001281,rps_lng-RPT190936,2019-01-11,2019-01-17,Repair sliding door,,,,160.0,0,0
+Tenancy,rps_lng-HDO190075,,rps_lng-HDO200504,2020-07-26,2020-08-27,TV point,,,,0.0,0,0
+Tenancy,rps_lng-HDO190075,rps_lng-DRE19000076,rps_lng-HDO211190,2023-05-03,2023-05-03,General Service of Bonaire Ducted System,,,,275.0,0,0
+Creditor,rps_lng-HDO190075,rps_lng-DRE19000076,rps_lng-HDO211190,2023-04-28,2023-05-02,Ducted Heating Service,,,,275.0,0,0
+Creditor,rps_lng-HDO190075,rps_lng-VAD21000019,rps_lng-HDO211190,2022-04-12,2022-10-14,Gas & Electrical Compliance,,,,0.0,0,0
+Creditor,rps_lng-HDO190076,rps_lng-CHA19000037,rps_lng-RPT190899,2023-06-21,2023-06-28,Front Door Lock Repair,,,,357.99,0,0
+Creditor,rps_lng-HDO190076,rps_lng-HDO19002574,rps_lng-RPT190899,2023-05-10,2023-06-30,Supply New Carpet  - Balance,,,,2515.0,0,0
+Creditor,rps_lng-HDO190076,rps_lng-HDO19001188,rps_lng-RPT190899,2023-04-04,2023-07-10,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190076,rps_lng-HDO22001674,rps_lng-RPT190899,2022-06-22,2022-06-27,Garage Door Service,,,,240.9,0,0
+Creditor,rps_lng-HDO190076,rps_lng-HDO19002133,rps_lng-RPT190899,2020-11-13,2021-04-30,Overhanging tree branches,,,,429.0,0,0
+Tenancy,rps_lng-HDO190076,rps_lng-HDO19002710,rps_lng-RPT190899,2019-05-13,2019-05-13,Nature strip restoration,,,,431.82,0,0
+Tenancy,rps_lng-HDO190083,rps_lng-HDO19001188,rps_lng-RPT190145,2023-04-04,2023-06-07,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190083,rps_lng-DRE19000036,rps_lng-RPT190145,2022-12-08,2023-01-19,Towel Rail,,,,173.25,0,0
+Creditor,rps_lng-HDO190083,rps_lng-CVA21001889,rps_lng-RPT190145,2022-11-04,2022-12-27,Blind Quote,,,,1021.7,0,0
+Creditor,rps_lng-HDO190083,rps_lng-HDO19001147,rps_lng-RPT190145,2022-09-30,2022-10-13,Dishwasher Issue,,,,228.8,0,0
+Tenancy,rps_lng-HDO190083,,rps_lng-RPT190145,2022-05-11,2022-05-11,Hot Water playing up,,,,0.0,0,0
+Creditor,rps_lng-HDO190083,rps_lng-VAD21000019,rps_lng-RPT190145,2022-01-11,2022-10-07,Toilet Seat,,,,362.96,0,0
+Creditor,rps_lng-HDO190083,rps_lng-HDO18002179,rps_lng-RPT190145,2021-07-23,2021-08-18,Replacement of oven and range hood,,,,1260.0,0,0
+Creditor,rps_lng-HDO190083,rps_lng-DRE19000036,rps_lng-RPT190145,2021-04-15,2021-04-23,Shower leaking from under tiles,,,,4873.0,0,0
+Tenancy,rps_lng-HDO190083,rps_lng-HDO19001340,rps_lng-RPT190145,2020-07-14,2020-07-17,Shower drain is blocked.,,,,0.0,0,0
+Tenancy,rps_lng-HDO190083,rps_lng-DRE19000036,rps_lng-RPT190145,2020-02-05,2020-04-02,Shower grout,,,,0.0,0,0
+Tenancy,rps_lng-HDO190083,rps_lng-HDO19001968,rps_lng-RPT190145,2019-06-26,2019-08-20,Garage Remote,,,,0.0,0,0
+Tenancy,rps_lng-HDO190083,rps_lng-HDO19001421,rps_lng-RPT190145,2019-05-27,2019-06-14,Half of lights not functioning,,,,0.0,0,0
+Tenancy,rps_lng-HDO190090,rps_lng-HDO19004377,rps_lng-HDO200656,2020-10-20,2020-10-28,Bath Repairs & Outlet Replacement,,,,402.82,0,0
+Tenancy,rps_lng-HDO190090,rps_lng-HDO19004377,rps_lng-HDO200656,2020-09-07,2020-09-15,URGENT - water leak to bedroom,,,,300.85,0,0
+Tenancy,rps_lng-HDO190090,rps_lng-HDO19003293,rps_lng-RPT190690,2020-01-07,2020-01-28,Bedroom Leak,,,,0.0,0,0
+Tenancy,rps_lng-HDO190090,rps_lng-DRE19000036,rps_lng-RPT190690,2019-11-21,2020-10-28,Towel rail needs to be fix,,,,0.0,0,0
+Tenancy,rps_lng-HDO190090,rps_lng-HDO19001340,rps_lng-RPT190690,2019-04-16,2019-05-01,Toilet Constantly Running & Door Repair,,,,231.0,0,0
+Creditor,rps_lng-HDO190091,rps_lng-HDO19001188,rps_lng-HDO230234,2023-04-04,2023-05-01,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO190115,rps_lng-HDO21001704,rps_lng-HDO230649,2023-06-13,2023-06-22,Dent to Garage wall,,,,0.0,0,0
+Creditor,rps_lng-HDO190122,rps_lng-HDO19001188,rps_lng-RPT191227,2023-02-03,2023-03-03,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO190122,rps_lng-CVA21001869,rps_lng-RPT191227,2021-08-05,2021-08-25,Bathroom tap snapped off,,,,944.08,0,0
+Tenancy,rps_lng-HDO190122,rps_lng-HDO19002941,rps_lng-RPT191227,2021-06-04,2021-06-29,Garden Works - QUOTE,,,,0.0,0,0
+Tenancy,rps_lng-HDO190122,,rps_lng-RPT191227,2021-04-28,2021-05-27,Leak in garage and alfresco,,,,198.0,0,0
+Tenancy,rps_lng-HDO190122,rps_lng-HDO19001493,rps_lng-RPT191227,2020-08-07,2020-08-12,Further heating issue,,,,0.0,0,0
+Tenancy,rps_lng-HDO190122,rps_lng-HDO19001493,rps_lng-RPT191227,2020-07-13,2020-07-31,Heating stopped working,,,,0.0,0,0
+Tenancy,rps_lng-HDO190126,rps_lng-DRE19000036,rps_lng-HDO190002,2020-01-23,2020-01-29,Glass shower door off hinges,,,,0.0,0,0
+Tenancy,rps_lng-HDO190126,rps_lng-HDO19004177,rps_lng-HDO190002,2019-06-17,2019-11-28,Shower Water Guard and Silicon,,,,0.0,0,0
+Tenancy,rps_lng-HDO190126,rps_lng-HDO19001188,rps_lng-WES200030,2023-04-04,2023-06-13,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO190126,rps_lng-HDO19004377,rps_lng-WES200030,2022-04-04,2022-07-12,No Hot Water,,,,0.0,0,0
+Tenancy,rps_lng-HDO190126,rps_lng-DRE19000036,rps_lng-WES200030,2020-09-22,2021-08-18,Fence leaning,,,,0.0,0,0
+Tenancy,rps_lng-HDO190140,rps_lng-HDO19003293,rps_lng-HDO190076,2019-06-25,2019-07-02,General Plumbing Maintenance,,,,0.0,0,0
+Tenancy,rps_lng-HDO190140,rps_lng-HDO19001281,rps_lng-HDO190076,2019-06-07,2019-06-20,General Maintenance,,,,0.0,0,0
+Creditor,rps_lng-HDO190140,rps_lng-HDO19001188,rps_lng-HDO210836,2023-02-03,2023-02-28,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO190140,rps_lng-HDO19001583,rps_lng-HDO210836,2021-10-14,2021-10-27,Oven repairs,,,,187.0,0,0
+Creditor,rps_lng-HDO190140,rps_lng-HDO19001147,rps_lng-HDO210836,2021-08-25,2021-09-13,Cook Top Repairs,,,,237.6,0,0
+Creditor,rps_lng-HDO190140,rps_lng-DRE19000036,rps_lng-HDO210836,2021-08-13,2021-09-16,Stove top/shower handle/kitchen handle,,,,249.15,0,0
+Creditor,rps_lng-HDO190172,rps_lng-HDO19001102,rps_lng-HDO191247,2021-04-09,2021-12-09,Gas & electrical safety check,,,,0.0,0,0
+Tenancy,rps_lng-HDO190172,rps_lng-WES20000011,rps_lng-HDO191247,2021-02-24,2021-02-26,Tenants - garden quotes sent to TT 26/2/21,,,,0.0,0,0
+Creditor,rps_lng-HDO190172,rps_lng-HDO19003293,rps_lng-HDO210460,2022-09-15,2022-09-21,Plumbing Maintenance,,,,836.0,0,0
+Creditor,rps_lng-HDO190172,rps_lng-DRE19000104,rps_lng-HDO210460,2021-05-18,2021-05-28,Heating & Cooling,,,,250.0,0,0
+Creditor,rps_lng-HDO190172,rps_lng-HDO19004177,rps_lng-HDO210460,2021-04-29,2021-05-21,Front letter box,,,,176.0,0,0
+Tenancy,rps_lng-HDO190172,rps_lng-HDO19003293,rps_lng-RPT190454,2019-09-10,2019-09-13,HWS Leak,,,,0.0,0,0
+Tenancy,rps_lng-HDO190172,rps_lng-WES19000009,rps_lng-RPT190454,2019-03-18,2019-03-18,Completed grout cleaning,,,,180.0,0,0
+Creditor,rps_lng-HDO190173,rps_lng-CVA21004361,rps_lng-HDO190464,2022-11-14,2022-12-27,Gutter clean,,,,270.1,0,0
+Creditor,rps_lng-HDO190173,rps_lng-HDO19001147,rps_lng-HDO190464,2022-10-27,2022-11-02,Emergency Call Out,,,,484.0,0,0
+Creditor,rps_lng-HDO190173,rps_lng-HDO19001147,rps_lng-HDO190464,2021-07-19,2021-08-15,issue with the cooktop,,,,403.15,0,0
+Creditor,rps_lng-HDO190173,rps_lng-CVA21001869,rps_lng-HDO190464,2021-07-13,2022-09-07,as stove/bathtub drain/kitchen tap,,,,0.0,0,0
+Creditor,rps_lng-HDO190173,rps_lng-VAD21000019,rps_lng-HDO190464,2021-05-27,2021-07-13,Electrical and Gas Safety,,,,602.8,0,0
+Creditor,rps_lng-HDO190173,rps_lng-DRE19000036,rps_lng-HDO190464,2021-05-27,2021-08-25,Back garage door,,,,201.3,0,0
+Tenancy,rps_lng-HDO190173,rps_lng-DRE19000036,rps_lng-HDO221857,2023-01-12,2023-03-30,General Maintenance,,,,0.0,0,0
+Tenancy,rps_lng-HDO190173,rps_lng-HDO23002113,rps_lng-HDO230664,2023-06-19,2023-06-19,Rubbish Removal,,,,250.0,0,0
+Creditor,rps_lng-HDO190174,rps_lng-HDO23000336,rps_lng-HDO200846,2022-11-10,2023-01-27,Main bathroom shower leaking,,,,1495.0,0,0
+Creditor,rps_lng-HDO190174,rps_lng-HDO19001429,rps_lng-HDO200846,2022-02-28,2022-02-28,Fencing works,,,,1232.0,0,0
+Creditor,rps_lng-HDO190174,rps_lng-CVA21001869,rps_lng-HDO200846,2021-06-24,2021-07-02,Kitchen tap is loose,,,,0.0,0,0
+Creditor,rps_lng-HDO190174,rps_lng-CVA21002484,rps_lng-HDO200846,2021-06-24,2021-07-12,Few lights not working,,,,253.0,0,0
+Tenancy,rps_lng-HDO190174,rps_lng-DRE19000036,rps_lng-HDO200846,2020-12-23,2021-01-22,Water through door & garage door,,,,196.9,0,0
+Tenancy,rps_lng-HDO190174,rps_lng-DRE19000036,rps_lng-HDO200846,2020-11-13,2020-11-27,Side gate/globes/back door,,,,639.11,0,0
+Tenancy,rps_lng-HDO190174,rps_lng-HDO19001421,rps_lng-RPT191562,2020-07-15,2020-07-24,Garage door light sparking & door bell,,,,0.0,0,0
+Tenancy,rps_lng-HDO190174,rps_lng-HDO19001493,rps_lng-RPT191562,2020-07-10,2020-07-31,Heater not blowng hot air,,,,0.0,0,0
+Tenancy,rps_lng-HDO190174,rps_lng-HDO19001751,rps_lng-RPT191562,2019-10-21,2019-10-21,Laundry door needs to be repaired & glued,,,,110.0,0,0
+Creditor,rps_lng-HDO190175,rps_lng-HDO19005948,rps_lng-RPT191547,2022-01-19,2022-01-27,Professional Photos,,,,143.0,0,0
+Tenancy,rps_lng-HDO190183,rps_lng-HDO19003293,rps_lng-RPT190821,2020-05-31,2021-05-28,Shower head is split,,,,0.0,0,0
+Creditor,rps_lng-HDO190184,rps_lng-HDO19001188,rps_lng-HDO221299,2023-02-03,2023-02-21, Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO190184,rps_lng-HDO19002205,rps_lng-HDO221299,2022-09-16,2022-10-05,Garage Remotes,,,,308.0,0,0
+Tenancy,rps_lng-HDO190184,rps_lng-VAD21000039,rps_lng-RPT190370,2021-09-16,2021-09-16,Install New Dishwasher,,,,698.0,0,0
+Tenancy,rps_lng-HDO190184,rps_lng-HDO16001000,rps_lng-RPT190370,2019-08-05,2019-08-05,Shower blockage,,,,423.5,0,0
+Tenancy,rps_lng-HDO190184,rps_lng-HDO19001086,rps_lng-RPT190370,2019-05-09,2019-05-13,Plumbing issues,,,,0.0,0,0
+Tenancy,rps_lng-HDO190190,rps_lng-HDO19001493,rps_lng-HDO190844,2020-08-05,2020-08-12,No heating -,,,,0.0,0,0
+Tenancy,rps_lng-HDO190190,rps_lng-DRE19000036,rps_lng-HDO190844,2019-11-22,2019-12-12,deadbolt,,,,223.3,0,0
+Tenancy,rps_lng-HDO190190,rps_lng-HDO19001835,rps_lng-RPT190440,2019-07-19,2019-07-30,Oven & Dishwasher,,,,0.0,0,0
+Tenancy,rps_lng-HDO190194,rps_lng-HDO19001493,rps_lng-HDO190599,2020-06-10,2020-07-02,Ducted heating,,,,0.0,0,0
+Tenancy,rps_lng-HDO190194,rps_lng-HDO19001340,rps_lng-HDO190599,2019-08-02,2019-08-26,Water Damage and Fallen Blind,,,,0.0,0,0
+Creditor,rps_lng-HDO190194,rps_lng-HDO19001188,rps_lng-HDO200630,2023-04-04,2023-06-07,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190194,rps_lng-HDO21001704,rps_lng-HDO200630,2023-02-09,2023-03-29,Wndow Winder Repairs,,,,145.2,0,0
+Creditor,rps_lng-HDO190194,rps_lng-VAD21000019,rps_lng-HDO200630,2022-02-14,2022-03-30,Carpet Nails,,,,185.37,0,0
+Creditor,rps_lng-HDO190194,rps_lng-CVA21001982,rps_lng-HDO200630,2021-05-31,2021-06-18,TV Antenna not working,,,,324.0,0,0
+Creditor,rps_lng-HDO190194,rps_lng-DRE19000036,rps_lng-HDO200630,2021-05-31,2021-10-14,Blinds not working,,,,654.5,0,0
+Tenancy,rps_lng-HDO190194,rps_lng-HDO19002574,rps_lng-HDO200630,2020-12-07,2020-12-07,Flooring Installation,,,,1080.0,0,0
+Creditor,rps_lng-HDO190201,rps_lng-SAN22000095,rps_lng-RPT190732,2023-05-10,2023-06-16,Electrical Work,,,,0.0,0,0
+Creditor,rps_lng-HDO190201,rps_lng-HDO21001704,rps_lng-RPT190732,2023-04-18,2023-05-12,Replace Shower Head,,,,149.16,0,0
+Creditor,rps_lng-HDO190201,rps_lng-HDO19001188,rps_lng-RPT190732,2023-04-04,2023-06-01,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190201,rps_lng-HDO19002137,rps_lng-RPT190732,2023-01-16,2023-02-07,Pest Spray,,,,280.0,0,0
+Creditor,rps_lng-HDO190201,rps_lng-DRE19000036,rps_lng-RPT190732,2022-10-11,2023-01-30,Laundry Door Step Quote,,,,895.0,0,0
+Creditor,rps_lng-HDO190201,rps_lng-HDO19001893,rps_lng-RPT190732,2022-06-21,2022-10-19,Oven Repairs,,,,276.0,0,0
+Creditor,rps_lng-HDO190201,rps_lng-HDO20002016,rps_lng-RPT190732,2022-02-10,2022-02-10,Fence Paling Posts & Capping,,,,677.38,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO20002016,rps_lng-RPT190732,2021-03-12,2021-06-01,Side fence leaning,,,,0.0,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO19004377,rps_lng-RPT190732,2020-08-10,2020-08-13,solar panel leaking,,,,0.0,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO19004377,rps_lng-RPT190732,2020-04-23,2020-05-05,broken laundry tap,,,,0.0,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO19001340,rps_lng-RPT190732,2020-01-14,2020-02-07,"mixer tap, toilet, seat, roof tiles",,,,0.0,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO19001835,rps_lng-RPT190732,2019-06-24,2019-06-24,Dishwasher repair,,,,284.9,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO19001421,rps_lng-RPT190732,2019-05-29,2019-05-29,Oven Repair,,,,332.2,0,0
+Tenancy,rps_lng-HDO190201,rps_lng-HDO19001835,rps_lng-RPT190732,2019-04-08,2019-04-26,Dishwasher error code,,,,217.8,0,0
+Creditor,rps_lng-HDO190214,rps_lng-HDO19001147,rps_lng-HDO190423,2023-03-20,2023-04-07,Burst Pipe Investigation,,,,658.75,0,0
+Creditor,rps_lng-HDO190214,rps_lng-DRE19000076,rps_lng-HDO190423,2022-12-21,2022-12-26,A/C Service,,,,614.9,0,0
+Creditor,rps_lng-HDO190214,rps_lng-DRE19000036,rps_lng-HDO190423,2022-12-05,2023-02-17,Back Bedroom Screen,,,,215.6,0,0
+Creditor,rps_lng-HDO190214,rps_lng-HDO19001746,rps_lng-HDO190423,2021-09-13,2021-09-15,Shattered Glass Door,,,,1013.0,0,0
+Creditor,rps_lng-HDO190214,rps_lng-VAD21000019,rps_lng-HDO190423,2021-09-02,2021-09-09,Frosted Glass Film,,,,323.0,0,0
+Creditor,rps_lng-HDO190214,rps_lng-HDO19003549,rps_lng-HDO190423,2021-07-19,2021-07-19,nstallation of Euro Oven EO60MSX - remaining 50%,,,,740.0,0,0
+Creditor,rps_lng-HDO190214,rps_lng-COS19000051,rps_lng-HDO190423,2021-06-29,2021-07-27,heating and cooling servicing,,,,275.0,0,0
+Creditor,rps_lng-HDO190214,rps_lng-HDO19003549,rps_lng-HDO190423,2021-06-29,2021-07-12,Oven not working properly,,,,740.0,0,0
+Tenancy,rps_lng-HDO190214,rps_lng-JAM20000137,rps_lng-HDO190423,2020-08-24,2020-09-22,Oven not heating up,,,,264.0,0,0
+Tenancy,rps_lng-HDO190214,,rps_lng-HDO190423,2020-03-16,2020-10-28,Ducted heating service & evap cooling,,,,0.0,0,0
+Tenancy,rps_lng-HDO190214,,rps_lng-HDO190423,2019-09-23,2019-09-23,Mainteance,,,,0.0,0,0
+Tenancy,rps_lng-HDO190214,rps_lng-HDO19003293,rps_lng-HDO190423,2019-08-15,2019-10-10,Overflowing water in toilet,,,,0.0,0,0
+Tenancy,rps_lng-HDO190214,,rps_lng-HDO190423,2019-08-15,2020-09-11,Oven doorseal is broken,,,,0.0,0,0
+Tenancy,rps_lng-HDO190214,rps_lng-WES19000023,rps_lng-HDO190423,2019-08-13,2019-08-13,Garden tidy up-,,,,275.0,0,0
+Tenancy,rps_lng-HDO190214,rps_lng-HDO19001281,rps_lng-HDO190423,2019-08-06,2019-08-12,Attach door,,,,90.0,0,0
+Tenancy,rps_lng-HDO190214,rps_lng-DRE19000036,rps_lng-RPT190509,2019-07-15,2019-07-15,Damage repair,,,,1183.05,0,0
+Tenancy,rps_lng-HDO190214,rps_lng-WES19000013,rps_lng-RPT190509,2019-05-22,2019-06-12,Full house clean,,,,687.5,0,0
+Tenancy,rps_lng-HDO190223,,rps_lng-RPT190642,2020-09-09,2020-09-14,Gas smell at the meter,,,,0.0,0,0
+Tenancy,rps_lng-HDO190223,rps_lng-HDO19003890,rps_lng-RPT190642,2019-10-31,2021-03-30,leak in the hot water system,,,,0.0,0,0
+Tenancy,rps_lng-HDO190247,,rps_lng-RPT191033,2020-10-15,2020-10-16,door handles/carpet/cracks/floor boards,,,,0.0,0,0
+Tenancy,rps_lng-HDO190247,rps_lng-HDO19001147,rps_lng-RPT191033,2020-02-18,2020-02-18,HWS replacement,,,,1402.0,0,0
+Tenancy,rps_lng-HDO190247,rps_lng-HDO19001340,rps_lng-RPT191033,2020-01-08,2020-01-08,Fluctuations is hot water,,,,0.0,0,0
+Tenancy,rps_lng-HDO190247,rps_lng-HDO19001147,rps_lng-RPT191033,2019-11-29,2020-01-08,"Not hot water, pilot light keeps going out",,,,0.0,0,0
+Tenancy,rps_lng-HDO190264,rps_lng-HDO19001188,rps_lng-HDO210106,2023-04-05,2023-06-01,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO190264,rps_lng-JAM21000001,rps_lng-HDO210106,2021-12-02,2022-07-12,Carpet Bugs,,,,0.0,0,0
+Creditor,rps_lng-HDO190264,rps_lng-HDO08001895,rps_lng-HDO210106,2021-11-04,2022-01-21,Kitchen - dishwasher repair,,,,170.5,0,0
+Creditor,rps_lng-HDO190264,rps_lng-HDO19001493,rps_lng-HDO210106,2021-09-23,2021-09-23,Supplied & Installed Air Pressure,,,,440.0,0,0
+Creditor,rps_lng-HDO190264,rps_lng-HDO19001493,rps_lng-HDO210106,2021-08-31,2021-09-14,Ducted Heating,,,,209.0,0,0
+Creditor,rps_lng-HDO190264,rps_lng-HDO20001306,rps_lng-HDO210106,2021-08-31,2021-09-08,HWS playing up - not enough hot water,,,,1869.38,0,0
+Creditor,rps_lng-HDO190264,rps_lng-HDO20001306,rps_lng-HDO210106,2021-04-15,2021-04-30,Kitchen tap leaking,,,,696.08,0,0
+Creditor,rps_lng-HDO190264,rps_lng-CHA19000095,rps_lng-HDO210106,2021-02-26,2021-04-09,2 x broken windows,,,,390.94,0,0
+Tenancy,rps_lng-HDO190264,,rps_lng-RPT190229,2019-07-22,2020-12-30,Dishwasher Not Getting Water,,,,0.0,0,0
+Tenancy,rps_lng-HDO190264,rps_lng-HDO09001040,rps_lng-RPT190229,2019-07-22,2019-11-06,Auto Garage Door Not Working,,,,0.0,0,0
+Tenancy,rps_lng-HDO190264,rps_lng-HDO16001000,rps_lng-RPT190229,2019-07-22,2019-09-18,Heating Control & Dishwasher,,,,385.0,0,0
+Tenancy,rps_lng-HDO190264,rps_lng-HDO19001177,rps_lng-RPT190229,2019-07-09,2019-07-09,Dishwasher Installation,,,,0.0,0,0
+Tenancy,rps_lng-HDO190264,,rps_lng-RPT190229,2019-06-18,2019-08-08,Smoke Alarms,,,,0.0,0,0
+Tenancy,rps_lng-HDO190264,rps_lng-HDO16001000,rps_lng-RPT190229,2019-05-03,2019-05-23,BNP-101915 - 10 Lakewood - Ensuite,,,,324.5,0,0
+Tenancy,rps_lng-HDO190267,rps_lng-HDO19004377,rps_lng-RPT191381,2020-07-18,2021-03-30,HWS,,,,0.0,0,0
+Tenancy,rps_lng-HDO190267,,rps_lng-RPT191381,2020-01-14,2020-01-31,trees,,,,0.0,0,0
+Tenancy,rps_lng-HDO190267,rps_lng-HDO19003890,rps_lng-RPT191381,2019-07-22,2019-08-16,URGENT HWS not working,,,,0.0,0,0
+Creditor,rps_lng-HDO190289,rps_lng-HDO19001188,rps_lng-RPT191548,2023-04-05,2023-07-10,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190289,rps_lng-DRE19000036,rps_lng-RPT191548,2023-02-09,2023-02-09,Install New Clothesline Chord,,,,240.0,0,0
+Creditor,rps_lng-HDO190289,rps_lng-DRE19000036,rps_lng-RPT191548,2023-01-13,2023-01-13,Inspect Front Door Lock,,,,123.75,0,0
+Creditor,rps_lng-HDO190289,rps_lng-DRE19000036,rps_lng-RPT191548,2022-11-09,2022-12-21,Front door lock,,,,453.2,0,0
+Creditor,rps_lng-HDO190289,rps_lng-VAD21000019,rps_lng-RPT191548,2022-03-09,2022-04-22,Lighting Issues,,,,242.05,0,0
+Creditor,rps_lng-HDO190289,rps_lng-DRE19000036,rps_lng-RPT191548,2022-02-18,2022-03-11,Blind Change Repairs,,,,254.65,0,0
+Creditor,rps_lng-HDO190289,rps_lng-CVA21002539,rps_lng-RPT191548,2020-10-13,2021-04-07,Gutters need cleaning & leak in garage,,,,180.0,0,0
+Tenancy,rps_lng-HDO190289,rps_lng-HDO19001873,rps_lng-RPT191548,2019-12-03,2019-12-10,Replacement of A/C,,,,2000.0,0,0
+Tenancy,rps_lng-HDO190289,rps_lng-DRE19000036,rps_lng-RPT191548,2019-11-13,2020-01-22,Blind repair,,,,0.0,0,0
+Tenancy,rps_lng-HDO190289,rps_lng-HDO19004177,rps_lng-RPT191548,2019-08-26,2019-10-22,Leaking shower head,,,,165.0,0,0
+Creditor,rps_lng-HDO190329,rps_lng-HDO19001188,rps_lng-RPT190311,2023-02-07,2023-02-28,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO190329,rps_lng-HDO19001147,rps_lng-RPT190311,2022-10-05,2022-10-05,Install new dishwasher,,,,1155.0,0,0
+Creditor,rps_lng-HDO190329,rps_lng-HDO22002691,rps_lng-RPT190311,2022-08-22,2022-08-22,Compressor for heating and cooling,,,,220.0,0,0
+Creditor,rps_lng-HDO190329,rps_lng-DRE19000076,rps_lng-RPT190311,2022-08-01,2022-08-29,Ducted Heating Service,,,,275.0,0,0
+Creditor,rps_lng-HDO190329,rps_lng-HDO19001147,rps_lng-RPT190311,2022-08-01,2022-08-26,Dishwasher not draining,,,,171.6,0,0
+Tenancy,rps_lng-HDO190329,rps_lng-HDO19001340,rps_lng-RPT190311,2020-07-23,2020-07-28,Burst hot water connection bathroom handbasin,,,,0.0,0,0
+Tenancy,rps_lng-HDO190329,,rps_lng-RPT190311,2020-04-14,2020-05-04,fence,,,,0.0,0,0
+Tenancy,rps_lng-HDO190329,rps_lng-DRE19000036,rps_lng-RPT190311,2019-12-16,2020-03-30,32 Hemsley Dr: Handyman Repairs,,,,0.0,0,0
+Tenancy,rps_lng-HDO190329,rps_lng-HDO19001421,rps_lng-RPT190311,2019-12-16,2020-02-28,32 Hemsley: Electrical,,,,0.0,0,0
+Tenancy,rps_lng-HDO190354,rps_lng-CHA20000006,rps_lng-HDO200062,2020-10-08,2020-11-05,Door,,,,182.6,0,0
+Tenancy,rps_lng-HDO190354,rps_lng-DRE19000036,rps_lng-HDO200062,2020-07-01,2020-07-24,Door and sealing,,,,0.0,0,0
+Tenancy,rps_lng-HDO190354,rps_lng-HDO19001956,rps_lng-HDO200062,2020-02-12,2020-03-13,Venetian Blinds,,,,0.0,0,0
+Tenancy,rps_lng-HDO190354,rps_lng-VAD21000015,rps_lng-HDO210181,2021-04-01,2021-06-08,Muiltiple items,,,,0.0,0,0
+Creditor,rps_lng-HDO190398,rps_lng-HDO18002118,rps_lng-HDO190097,2022-09-09,2022-09-09,Cleaning,,,,275.0,0,0
+Tenancy,rps_lng-HDO190398,rps_lng-DRE19000036,rps_lng-HDO190097,2019-08-18,2019-11-27,Slight water leaking through front and back door,,,,0.0,0,0
+Tenancy,rps_lng-HDO190398,rps_lng-HDO15001041,rps_lng-HDO190097,2019-07-17,2019-07-29,Letter Box Key,,,,159.5,0,0
+Creditor,rps_lng-HDO190398,rps_lng-CVA21004419,rps_lng-HDO221271,2023-03-21,2023-03-21,Full Service,,,,396.0,0,0
+Creditor,rps_lng-HDO190398,rps_lng-HDO19001188,rps_lng-HDO221271,2023-02-07,2023-04-28,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO190398,rps_lng-HDO19001344,rps_lng-HDO221271,2022-09-21,2022-09-21,Keys,,,,55.5,0,0
+Tenancy,rps_lng-HDO190507,rps_lng-VAD21000019,rps_lng-HDO190215,2021-11-19,2022-10-06,Various Items - Quote,,,,0.0,0,0
+Creditor,rps_lng-HDO190510,rps_lng-CVA21002265,rps_lng-HDO210324,2021-04-23,2021-05-12,Electrcial,,,,209.0,0,0
+Creditor,rps_lng-HDO190510,rps_lng-HDO19001439,rps_lng-HDO210324,2021-04-15,2021-05-05,Gas burner not staying alight,,,,495.0,0,0
+Tenancy,rps_lng-HDO190511,rps_lng-HDO19001188,rps_lng-HDO210532,2023-02-10,2023-02-24,Smoke alarms beeping,,,,0.0,0,0
+Creditor,rps_lng-HDO190511,rps_lng-HDO19002055,rps_lng-HDO210532,2022-06-28,2022-08-22,Fridge repairs,,,,295.0,0,0
+Creditor,rps_lng-HDO190529,rps_lng-SAN22000095,rps_lng-HDO200768,2023-03-01,2023-03-28,Install Exhaust Fan,,,,0.0,0,0
+Creditor,rps_lng-HDO190529,rps_lng-VAD21000019,rps_lng-HDO200768,2021-11-18,2021-12-24,Kitchen cuttlery draw has fallen apartment,,,,213.45,0,0
+Creditor,rps_lng-HDO190539,rps_lng-HDO19001147,rps_lng-HDO200956,2023-06-02,2023-06-19,No Hot Water Investigation,,,,550.83,0,0
+Creditor,rps_lng-HDO190539,rps_lng-HDO19001188,rps_lng-HDO200956,2023-04-17,2023-05-23,Electrical Safety Check,,,,253.0,0,0
+Creditor,rps_lng-HDO190539,rps_lng-HDO21001704,rps_lng-HDO200956,2023-02-22,2023-03-07,Hanging Bracker of cupboards,,,,147.84,0,0
+Creditor,rps_lng-HDO190539,rps_lng-VAD21000019,rps_lng-HDO200956,2021-04-27,2021-04-29,Bathroom exhaust fan and door handle,,,,319.0,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO19001782,rps_lng-SAN210008,2023-05-16,2023-07-10,Wine Fridge Repairs,,,,0.0,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO19004791,rps_lng-SAN210008,2022-08-16,2022-08-16,Attended to service call - motor capacitors faulty,,,,316.25,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO19003549,rps_lng-SAN210008,2022-05-05,2022-05-05,Oven repair 50% balance,,,,1088.95,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO19003549,rps_lng-SAN210008,2022-02-11,2022-02-11,Oven repair 50% deposit,,,,1088.95,0,0
+Creditor,rps_lng-HDO190542,rps_lng-SAN21000143,rps_lng-SAN210008,2021-12-22,2021-12-22,Mattress,,,,5000.0,0,0
+Creditor,rps_lng-HDO190542,rps_lng-SAN21000143,rps_lng-SAN210008,2021-12-22,2021-12-22,3 Seater Sofas,,,,16000.0,0,0
+Creditor,rps_lng-HDO190542,rps_lng-VAD21000019,rps_lng-SAN210008,2021-12-17,2022-09-08,Toilet Repairs,,,,298.25,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO19003549,rps_lng-SAN210008,2021-12-17,2022-03-02,Dryer Repairs,,,,687.9,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO08001895,rps_lng-SAN210008,2021-12-10,2021-12-10,Oven Repair - remaining 50%,,,,1144.25,0,0
+Creditor,rps_lng-HDO190542,rps_lng-VAD21000019,rps_lng-SAN210008,2021-11-17,2021-11-17,Plumbing works,,,,434.75,0,0
+Creditor,rps_lng-HDO190542,rps_lng-SAN21000073,rps_lng-SAN210008,2021-10-26,2021-10-26,Carpet Shampoo & Steam Clean,,,,250.0,0,0
+Creditor,rps_lng-HDO190542,rps_lng-VAD21000019,rps_lng-SAN210008,2021-10-22,2022-02-28,Safety Checks and other works,,,,0.0,0,0
+Creditor,rps_lng-HDO190542,rps_lng-HDO19003549,rps_lng-SAN210008,2021-10-13,2021-11-04,Oven is nt working,,,,1144.25,0,0
+Creditor,rps_lng-HDO190548,rps_lng-HDO19001188,rps_lng-HDO200641,2023-03-09,2023-03-29,Combined electrical and gas safety certificates,,,,528.0,0,0
+Tenancy,rps_lng-HDO190549,,rps_lng-HDO221154,2022-11-08,2023-01-25,New fob request,,,,0.0,0,0
+Creditor,rps_lng-HDO190549,rps_lng-HDO19003549,rps_lng-HDO221154,2022-09-29,2022-10-11,Dishwasher,,,,170.5,0,0
+Creditor,rps_lng-HDO190552,rps_lng-HDO22004027,rps_lng-HDO221242,2023-06-23,2023-07-05,Gas Safety Check,,,,319.0,0,0
+Tenancy,rps_lng-HDO190581,rps_lng-HDO13000942,rps_lng-HDO210018,2021-02-16,2021-02-23,Plumbing Maintenance,,,,253.0,0,0
+Creditor,rps_lng-HDO190581,rps_lng-DRE19000036,rps_lng-HDO210018,2021-02-16,2021-05-17,General Maintenance,,,,356.4,0,0
+Tenancy,rps_lng-HDO190581,rps_lng-CVA21001800,rps_lng-HDO210018,2021-02-04,2021-04-29,Balcony Glass,,,,0.0,0,0
+Creditor,rps_lng-HDO190587,rps_lng-HDO20000501,rps_lng-HDO210334,2022-08-29,2022-09-14,Possible carpet moth,,,,313.5,0,0
+Tenancy,rps_lng-HDO190587,,rps_lng-HDO210334,2021-04-01,2021-05-18,Laundry taps,,,,0.0,0,0
+Tenancy,rps_lng-HDO190592,,rps_lng-HDO221870,2023-06-29,2023-06-29,Vacuum,,,,0.0,0,0
+Creditor,rps_lng-HDO190592,rps_lng-HDO19001188,rps_lng-HDO221870,2023-04-21,2023-05-17,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190592,rps_lng-HDO21001704,rps_lng-HDO221870,2023-02-17,2023-05-10,Re-plaster & Paint Ceiling,,,,1089.0,0,0
+Creditor,rps_lng-HDO190592,rps_lng-HDO22002894,rps_lng-HDO221870,2023-01-24,2023-02-23,Rangehood Replacement,,,,768.9,0,0
+Creditor,rps_lng-HDO190608,rps_lng-SAN22000095,rps_lng-HDO221039,2023-06-22,2023-06-22,Wall Light Replacement,,,,0.0,0,0
+Creditor,rps_lng-HDO190608,rps_lng-HDO21001981,rps_lng-HDO221039,2023-06-21,2023-06-21,Balcony Door & Tiles - Balance,,,,1309.0,0,0
+Creditor,rps_lng-HDO190608,rps_lng-HDO21001981,rps_lng-HDO221039,2022-08-26,2022-08-26,Balcony Door & Tiles - Deposit Only,,,,1309.0,0,0
+Creditor,rps_lng-HDO190628,rps_lng-HDO21001704,rps_lng-HDO221578,2023-05-19,2023-07-04,Window Winder,,,,138.6,0,0
+Creditor,rps_lng-HDO190628,rps_lng-HDO21001573,rps_lng-HDO221578,2023-04-05,2023-04-05,Plumbing Repairs,,,,660.0,0,0
+Creditor,rps_lng-HDO190628,rps_lng-HDO21001573,rps_lng-HDO221578,2022-11-30,2023-04-04,Toilet and Laundry taps,,,,407.0,0,0
+Creditor,rps_lng-HDO190630,rps_lng-DRE19000076,rps_lng-HDO200831,2022-03-09,2022-05-23,Air con not working,,,,198.0,0,0
+Creditor,rps_lng-HDO190630,rps_lng-VAD21000019,rps_lng-HDO200831,2022-02-23,2022-05-31,General maintenance,,,,457.55,0,0
+Creditor,rps_lng-HDO190630,rps_lng-VAD21000019,rps_lng-HDO200831,2021-05-07,2021-05-14,General Maintenance,,,,259.75,0,0
+Creditor,rps_lng-HDO190634,rps_lng-HDO21001704,rps_lng-HDO191065,2023-05-18,2023-05-18,Install New Drain Pump to Dishwasher,,,,220.0,0,0
+Creditor,rps_lng-HDO190634,rps_lng-HDO21001704,rps_lng-HDO191065,2023-02-21,2023-03-08,Shower Screen,,,,310.2,0,0
+Creditor,rps_lng-HDO190634,rps_lng-HDO19001895,rps_lng-HDO191065,2022-05-26,2022-12-10,Urgent - Ducted heating unit not,,,,858.0,0,0
+Tenancy,rps_lng-HDO190634,rps_lng-SAN21000010,rps_lng-HDO191065,2022-01-10,2023-04-11,Urgent Carpet drying and cleaning,,,,0.0,0,0
+Tenancy,rps_lng-HDO190634,rps_lng-HDO19001895,rps_lng-HDO191065,2021-11-18,2022-05-14,Heatin/Aircon Unit not workign again,,,,0.0,0,0
+Tenancy,rps_lng-HDO190634,rps_lng-HDO19001895,rps_lng-HDO191065,2021-07-07,2021-10-27,URGENT Ducted Heating,,,,0.0,0,0
+Tenancy,rps_lng-HDO190634,rps_lng-HDO19001895,rps_lng-HDO191065,2021-04-19,2021-04-29,Ducted heater not heating,,,,0.0,0,0
+Tenancy,rps_lng-HDO190634,rps_lng-HDO19001895,rps_lng-HDO191065,2021-01-21,2021-02-04,faultt air con return visit,,,,0.0,0,0
+Tenancy,rps_lng-HDO190634,rps_lng-HDO19001895,rps_lng-HDO191065,2020-12-24,2020-12-24,AMG Airconditioning,,,,3127.3,0,0
+Creditor,rps_lng-HDO190685,rps_lng-HDO19001188,rps_lng-HDO190414,2023-03-31,2023-05-23,Gas safety certificate,,,,396.0,0,0
+Creditor,rps_lng-HDO190685,rps_lng-HDO19001147,rps_lng-HDO190414,2023-03-30,2023-04-07,Hot Water System Leak,,,,252.95,0,0
+Creditor,rps_lng-HDO190917,rps_lng-HDO19001188,rps_lng-HDO190718,2023-04-05,2023-05-19,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190959,rps_lng-DRE19000076,rps_lng-HDO221599,2023-01-23,2023-01-23,Aircon Repairs,,,,1815.0,0,0
+Creditor,rps_lng-HDO190959,rps_lng-DRE19000076,rps_lng-HDO221599,2022-12-30,2023-01-06,Air Con not working,,,,275.0,0,0
+Creditor,rps_lng-HDO190984,rps_lng-HDO19001188,rps_lng-HDO190910,2023-02-14,2023-05-04,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO190984,rps_lng-HDO19001493,rps_lng-HDO190910,2022-08-01,2022-08-22,Cooling system leaking onto roof,,,,269.5,0,0
+Creditor,rps_lng-HDO190984,rps_lng-HDO19002152,rps_lng-HDO190910,2021-11-17,2022-01-25,Heater Service,,,,365.0,0,0
+Creditor,rps_lng-HDO190984,rps_lng-HDO19002113,rps_lng-HDO190910,2021-03-04,2021-04-15,Screen door quote,,,,750.0,0,0
+Tenancy,rps_lng-HDO190984,,rps_lng-HDO190910,2020-04-28,2020-04-29,kitchen sink,,,,0.0,0,0
+Tenancy,rps_lng-HDO190984,,rps_lng-HDO190910,2019-12-10,2020-01-01,Evaporative Cooling,,,,0.0,0,0
+Tenancy,rps_lng-HDO190984,rps_lng-HDO22004027,rps_lng-HDO230724,2023-06-29,2023-07-12,Gas Safety Check,,,,290.0,0,0
+Tenancy,rps_lng-HDO190995,rps_lng-DRE19000036,rps_lng-HDO191007,2020-01-07,2020-04-01,Security Door Quote,,,,808.5,0,0
+Creditor,rps_lng-HDO190995,rps_lng-VAD21000019,rps_lng-HDO201013,2022-01-14,2022-02-01,Exposed Nails in Carpet,,,,143.0,0,0
+Creditor,rps_lng-HDO190995,rps_lng-HDO19001147,rps_lng-HDO201013,2021-10-12,2021-11-03,Laundry - water leak investigation,,,,325.6,0,0
+Creditor,rps_lng-HDO190995,rps_lng-HDO19001188,rps_lng-HDO220998,2023-04-05,2023-04-27,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO190995,rps_lng-HDO19002137,rps_lng-HDO220998,2023-02-07,2023-03-07,Pest Control,,,,280.0,0,0
+Creditor,rps_lng-HDO190995,rps_lng-VAD21000019,rps_lng-HDO220998,2022-08-12,2022-10-19,Entry Repairs,,,,1145.5,0,0
+Tenancy,rps_lng-HDO190995,rps_lng-HDO18002052,rps_lng-HDO220998,2022-08-01,2022-08-11,Change of Locks,,,,682.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-HDO22004027,rps_lng-HDO190944,2023-06-30,2023-07-14,Gas Safety Check,,,,290.0,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-HDO19001188,rps_lng-HDO190944,2023-03-28,2023-05-31,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2022-10-18,2022-11-07,Roof repair and paint internally,,,,535.0,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2022-09-19,2022-10-11,Investigate Leak,,,,0.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2022-05-04,2022-07-20,Shower hose and laundry sink,,,,276.1,0,0
+Creditor,rps_lng-HDO191014,rps_lng-HDO21001981,rps_lng-HDO190944,2022-01-13,2022-02-11,Light Covers & kitchen sink leak,,,,440.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2021-12-13,2021-12-13,Bathroom flooring/dining room ceiling & Skirting,,,,3388.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2021-09-15,2021-11-05,Dampness in ceiling/damage,,,,4609.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-CVA21002238,rps_lng-HDO190944,2021-08-12,2021-08-31,Leak Investigation,,,,198.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-HDO19001583,rps_lng-HDO190944,2021-04-20,2021-09-29,Dishwasher is not working,,,,800.0,0,0
+Creditor,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2021-01-20,2021-04-20,Front Door Lock,,,,190.3,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-HDO19001583,rps_lng-HDO190944,2020-11-25,2021-01-12,Dishwasher,,,,121.0,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2020-07-01,2020-11-20,Door trim in laundry and door stop,,,,352.0,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-DRE19000036,rps_lng-HDO190944,2020-04-27,2020-05-12,Light fitting need resecuring,,,,154.55,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-HDO19001147,rps_lng-HDO190944,2020-04-27,2020-05-01,URGENT: Water leak,,,,0.0,0,0
+Tenancy,rps_lng-HDO191014,rps_lng-HDO19004528,rps_lng-HDO190944,2019-12-31,2020-01-24,Letter Box damaged by truck,,,,0.0,0,0
+Creditor,rps_lng-HDO191133,rps_lng-VAD21000019,rps_lng-HDO200026,2022-04-21,2022-06-29,Shower head & Door Handle,,,,309.75,0,0
+Tenancy,rps_lng-HDO191133,rps_lng-WES20000011,rps_lng-HDO200026,2020-02-06,2020-02-06,Watering system,,,,385.0,0,0
+Creditor,rps_lng-HDO191133,rps_lng-HDO15001023,rps_lng-HDO230048,2023-02-28,2023-02-28,Repaid Urgent Gas Escape,,,,198.0,0,0
+Creditor,rps_lng-HDO191133,rps_lng-HDO19001188,rps_lng-HDO230048,2023-02-14,2023-02-28,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO191134,rps_lng-HDO19001497,rps_lng-HDO200327,2023-04-21,2023-05-05,Mould treatment and exhaust fans,,,,544.5,0,0
+Creditor,rps_lng-HDO191134,rps_lng-HDO19001188,rps_lng-HDO200327,2023-04-12,2023-07-04,Electrical Safety Check,,,,253.0,0,0
+Creditor,rps_lng-HDO191134,rps_lng-DRE19000036,rps_lng-HDO200327,2023-03-17,2023-04-06,Blind Chain,,,,123.75,0,0
+Creditor,rps_lng-HDO191134,rps_lng-CVA21002238,rps_lng-HDO200327,2023-03-17,2023-03-30,Leak in ensuite,,,,236.5,0,0
+Tenancy,rps_lng-HDO191134,rps_lng-HDO19001583,rps_lng-HDO200327,2023-02-07,2023-03-30,Dishwasher not working,,,,0.0,0,0
+Creditor,rps_lng-HDO191134,rps_lng-JAM20000164,rps_lng-HDO200327,2023-01-30,2023-02-01,Front Door Lock,,,,220.0,0,0
+Tenancy,rps_lng-HDO191134,rps_lng-HDO17002815,rps_lng-HDO200327,2023-01-30,2023-03-02,Stove replacement,,,,0.0,0,0
+Creditor,rps_lng-HDO191134,rps_lng-CVA21001803,rps_lng-HDO200327,2022-12-19,2023-01-11,Dishwasher Repairs,,,,165.0,0,0
+Tenancy,rps_lng-HDO191134,rps_lng-HDO19001497,rps_lng-HDO200327,2022-12-19,2023-02-09,Mould in ensuite,,,,0.0,0,0
+Tenancy,rps_lng-HDO191134,rps_lng-HDO19003549,rps_lng-HDO200327,2021-02-05,2021-01-05,Remaining Balance from #00052103,,,,647.5,0,0
+Tenancy,rps_lng-HDO191134,rps_lng-HDO19003549,rps_lng-HDO200327,2020-11-19,2021-01-07,Dishwasher not working,,,,647.5,0,0
+Tenancy,rps_lng-HDO191134,rps_lng-DRE19000036,rps_lng-HDO200327,2020-08-18,2020-12-23,Supply and install curtains,,,,1001.0,0,0
+Creditor,rps_lng-HDO191147,rps_lng-HDO19001188,rps_lng-HDO191101,2023-04-05,2023-05-22,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO191147,rps_lng-DRE19000036,rps_lng-HDO191101,2022-09-26,2022-10-11,General Repairs,,,,415.8,0,0
+Creditor,rps_lng-HDO191147,rps_lng-HDO18002179,rps_lng-HDO191101,2022-03-17,2022-06-01,Electrical issues (lights),,,,268.46,0,0
+Creditor,rps_lng-HDO191147,rps_lng-VAD21000019,rps_lng-HDO191101,2021-08-25,2021-08-25,Handyman Job - Subsequent Hour,,,,88.0,0,0
+Creditor,rps_lng-HDO191147,rps_lng-VAD21000019,rps_lng-HDO191101,2021-08-12,2021-08-25,Handyman jobs,,,,256.0,0,0
+Creditor,rps_lng-HDO191147,rps_lng-COS19000051,rps_lng-HDO191101,2021-05-27,2021-07-01,Heating not working properly,,,,357.5,0,0
+Creditor,rps_lng-HDO191230,rps_lng-VAD21000019,rps_lng-CHA190047,2022-08-01,2022-09-15,General Maintenance,,,,252.0,0,0
+Creditor,rps_lng-HDO191230,rps_lng-HDO22004027,rps_lng-HDO230311,2023-06-27,2023-07-14,Gas Safety Check,,,,290.0,0,0
+Creditor,rps_lng-HDO191230,rps_lng-HDO21001704,rps_lng-HDO230311,2023-03-22,2023-06-22,Entry Maintenance,,,,1173.04,0,0
+Creditor,rps_lng-HDO191230,rps_lng-HDO19001188,rps_lng-HDO230311,2023-03-07,2023-06-05,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO191279,rps_lng-HDO19001147,rps_lng-HDO221539,2023-04-20,2023-05-02,Kitchen Tap,,,,410.8,0,0
+Creditor,rps_lng-HDO191279,rps_lng-HDO19001188,rps_lng-HDO221539,2023-02-07,2023-03-01,Combined electrical and gas safety certificates,,,,528.0,0,0
+Tenancy,rps_lng-HDO200014,rps_lng-HDO19003549,rps_lng-HDO200134,2021-03-16,2021-03-30,Oven not heating,,,,192.5,0,0
+Creditor,rps_lng-HDO200014,rps_lng-HDO19004445,rps_lng-HDO220561,2022-09-21,2022-09-21,Pressure jetter truck to clear blockage,,,,330.0,0,0
+Creditor,rps_lng-HDO200014,rps_lng-HDO19004445,rps_lng-HDO220561,2022-07-12,2022-08-01,Plumbing works,,,,220.0,0,0
+Creditor,rps_lng-HDO200014,rps_lng-VAD21000019,rps_lng-HDO220561,2022-04-21,2022-05-31,Gas & Electrical Checks,,,,0.0,0,0
+Tenancy,rps_lng-HDO200075,,rps_lng-JAM200013,2020-11-30,2021-06-01,AC service/Quotes,,,,0.0,0,0
+Tenancy,rps_lng-HDO200075,,rps_lng-JAM200013,2020-08-07,2021-06-01,BUILDERS - range hood switch,,,,0.0,0,0
+Tenancy,rps_lng-HDO200075,rps_lng-HDO20000526,rps_lng-JAM200013,2020-05-01,2020-06-29,heater not working,,,,0.0,0,0
+Creditor,rps_lng-HDO200076,rps_lng-HDO20002103,rps_lng-HDO210938,2023-05-02,2023-05-02,Pest Inspection,,,,190.0,0,0
+Creditor,rps_lng-HDO200076,rps_lng-HDO21001704,rps_lng-HDO210938,2023-04-13,2023-07-10,General Maintenance Quote,,,,595.1,0,0
+Creditor,rps_lng-HDO200076,rps_lng-DRE19000076,rps_lng-HDO210938,2022-10-20,2022-11-03,Ducted Heater Issue,,,,275.0,0,0
+Creditor,rps_lng-HDO200076,rps_lng-VAD21000019,rps_lng-HDO210938,2022-05-12,2022-11-08,Garage Leak & Laundry Door Repairs,,,,382.8,0,0
+Creditor,rps_lng-HDO200076,rps_lng-VAD21000019,rps_lng-HDO210938,2022-04-05,2022-09-15,Gas & Electrical checks,,,,0.0,0,0
+Tenancy,rps_lng-HDO200076,,rps_lng-JAM200014,2020-11-10,2021-06-01,Pest Control,,,,0.0,0,0
+Tenancy,rps_lng-HDO200076,rps_lng-HDO19001873,rps_lng-JAM200014,2020-05-25,2020-07-22,Braemar Ducted heating not working,,,,0.0,0,0
+Creditor,rps_lng-HDO200179,rps_lng-HDO19001202,rps_lng-HDO200614,2022-11-14,2023-04-26,General Repairs,,,,496.1,0,0
+Creditor,rps_lng-HDO200179,rps_lng-COS19000051,rps_lng-HDO200614,2021-06-29,2021-07-16,Heating not working properly,,,,586.3,0,0
+Tenancy,rps_lng-HDO200179,rps_lng-HDO18002179,rps_lng-HDO200614,2021-05-25,2021-05-25,Heating,,,,450.45,0,0
+Creditor,rps_lng-HDO200194,rps_lng-VAD21000019,rps_lng-HDO200511,2021-10-29,2021-11-25,Bad weather knocked one of the fences over causing,,,,154.5,0,0
+Tenancy,rps_lng-HDO200287,,rps_lng-HDO200612,2020-11-30,2021-02-10,Tile residue,,,,0.0,0,0
+Tenancy,rps_lng-HDO200296,rps_lng-HDO19001340,rps_lng-HDO200638,2021-04-30,2021-04-30,hot water discharging water,,,,198.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-DRE19000036,rps_lng-HDO210541,2022-07-09,2022-10-05,Shower door Not closing correctly,,,,261.8,0,0
+Creditor,rps_lng-HDO200296,rps_lng-VAD21000019,rps_lng-HDO210541,2022-04-12,2022-09-07,Gas & Electrical Compliance,,,,0.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-HDO12002998,rps_lng-HDO210541,2021-11-07,2021-11-10,Backdoor lock repair,,,,132.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-VAD21000019,rps_lng-HDO210541,2021-11-01,2021-12-20,Backyard - branch removal SES,,,,316.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-HDO19001340,rps_lng-HDO210541,2021-08-05,2021-08-17,Hot Water System - Water isn’t very hot,,,,0.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-DRE19000076,rps_lng-HDO221263,2023-05-10,2023-05-16,A/C Service - Split System,,,,275.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-HDO22002894,rps_lng-HDO221263,2023-04-13,2023-05-11,Bedroom Light Issue,,,,143.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-HDO15002945,rps_lng-HDO221263,2023-04-13,2023-04-17,Mice - Pest Control,,,,330.0,0,0
+Creditor,rps_lng-HDO200296,rps_lng-HDO19001147,rps_lng-HDO221263,2023-02-06,2023-02-16,Leaking Hot System,,,,295.68,0,0
+Creditor,rps_lng-HDO200296,rps_lng-VAD21000019,rps_lng-HDO221263,2022-10-11,2022-10-11,"Door/jamb, painted shaved areas",,,,188.85,0,0
+Creditor,rps_lng-HDO200300,rps_lng-HDO19001188,rps_lng-HDO220684,2023-04-04,2023-05-04,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO200325,rps_lng-HDO12001503,rps_lng-HDO200808,2021-04-19,2021-04-19,Dishwasher repairs,,,,0.0,0,0
+Tenancy,rps_lng-HDO200365,rps_lng-DRE19000036,rps_lng-HDO201029,2021-02-03,2021-03-01,Doors and Locks,,,,440.55,0,0
+Tenancy,rps_lng-HDO200365,rps_lng-HDO19001147,rps_lng-HDO201029,2021-01-12,2021-01-25,Shower in ensuite,,,,249.51,0,0
+Creditor,rps_lng-HDO200391,rps_lng-CVA21004419,rps_lng-HDO230152,2023-03-07,2023-03-07,Full Compliance Checks,,,,0.0,0,0
+Creditor,rps_lng-HDO200434,rps_lng-HDO19001188,rps_lng-HDO220250,2023-04-04,2023-06-06,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-SAN22000025,rps_lng-HDO210305,2022-06-08,2022-06-15,Electrical Issues,,,,560.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-HDO22001401,rps_lng-HDO210305,2022-05-24,2022-05-24,Repair shower,,,,390.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-VAD21000019,rps_lng-HDO210305,2022-02-08,2022-04-14,Bathroom Leak,,,,1626.5,0,0
+Creditor,rps_lng-HDO210002,rps_lng-HDO19002152,rps_lng-HDO210305,2021-12-08,2021-12-23,Ducted Cooling,,,,580.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-DRE19000104,rps_lng-HDO210305,2021-08-27,2021-09-08,Urgent Heating Issues,,,,2200.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-HDO19001147,rps_lng-HDO210305,2021-07-23,2021-07-28,Burst pipe,,,,462.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-VAD21000019,rps_lng-HDO210305,2021-07-14,2022-10-21,Electrical Safety Check,,,,0.0,0,0
+Tenancy,rps_lng-HDO210002,rps_lng-WES21000025,rps_lng-HDO210305,2021-06-11,2021-07-14,live wire,,,,0.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-DRE19000104,rps_lng-HDO210305,2021-04-30,2021-05-12,Ducted heating is not working,,,,350.0,0,0
+Tenancy,rps_lng-HDO210002,rps_lng-HDO19001102,rps_lng-HDO210305,2021-04-23,2021-07-14,URGENT Smoke alarms required,,,,0.0,0,0
+Creditor,rps_lng-HDO210002,rps_lng-CVA21001816,rps_lng-HDO210305,2021-04-23,2021-07-14,Handyman items,,,,363.0,0,0
+Creditor,rps_lng-HDO210031,rps_lng-DRE19000036,rps_lng-HDO210374,2022-12-12,2023-02-16,Timber Decking,,,,395.0,0,0
+Creditor,rps_lng-HDO210031,rps_lng-SAN22000052,rps_lng-HDO210374,2022-05-13,2022-05-18,Final Payment for Garage Door Repair,,,,135.0,0,0
+Creditor,rps_lng-HDO210031,rps_lng-VAD21000019,rps_lng-HDO210374,2022-04-12,2022-10-14,Gas & Electrical Compliance,,,,0.0,0,0
+Creditor,rps_lng-HDO210031,rps_lng-SAN22000052,rps_lng-HDO210374,2022-01-20,2022-02-01,Garage Door Not Opening,,,,445.0,0,0
+Creditor,rps_lng-HDO210031,rps_lng-HDO21000365,rps_lng-HDO210374,2021-09-23,2021-10-13,Dishwasher not Draining,,,,1056.0,0,0
+Tenancy,rps_lng-HDO210031,,rps_lng-HDO210374,2021-07-25,2021-10-13,Kitchen - Pipe leaking under sink,,,,0.0,0,0
+Creditor,rps_lng-HDO210036,rps_lng-HDO19001188,rps_lng-HDO210225,2023-04-04,2023-05-01,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210036,rps_lng-SAN22000095,rps_lng-HDO210225,2023-03-08,2023-05-22,Bathroom lights,,,,0.0,0,0
+Tenancy,rps_lng-HDO210036,rps_lng-HDO13000942,rps_lng-HDO210225,2021-03-03,2021-03-09,Kitchen - Water is leaking from the pipe beneath t,,,,187.0,0,0
+Creditor,rps_lng-HDO210068,rps_lng-SAN22000095,rps_lng-HDO220254,2023-03-14,2023-03-17,Toilet Light Switch,,,,0.0,0,0
+Creditor,rps_lng-HDO210068,rps_lng-CVA21002421,rps_lng-HDO220254,2022-12-21,2023-02-27,Mould & Damp Restoration,,,,863.5,0,0
+Creditor,rps_lng-HDO210068,rps_lng-HDO19001147,rps_lng-HDO220254,2022-11-30,2022-12-22,Water Leak,,,,322.93,0,0
+Creditor,rps_lng-HDO210068,rps_lng-VAD21000019,rps_lng-HDO220254,2022-04-12,2022-10-13,Gas & Electrical Compliance,,,,0.0,0,0
+Creditor,rps_lng-HDO210068,rps_lng-HDO22001491,rps_lng-HDO220254,2022-02-23,2022-04-12,Leaking shower and exhaust fan,,,,495.0,0,0
+Creditor,rps_lng-HDO210077,rps_lng-CVA21002250,rps_lng-HDO210387,2021-06-09,2021-06-23,Toilet cover seat is broken,,,,237.6,0,0
+Tenancy,rps_lng-HDO210077,rps_lng-HDO19001269,rps_lng-HDO210387,2021-04-09,2021-04-09,HWS,,,,1778.7,0,0
+Creditor,rps_lng-HDO210077,rps_lng-HDO19004377,rps_lng-HDO211009,2022-03-09,2022-03-21,Leaking Bathroom Tap,,,,169.95,0,0
+Creditor,rps_lng-HDO210078,rps_lng-VAD21000019,rps_lng-HDO210389,2021-11-22,2021-10-13,General Repairs,,,,654.5,0,0
+Creditor,rps_lng-HDO210078,rps_lng-HDO19001147,rps_lng-HDO211379,2023-05-29,2023-06-14,Water Leak Repairs,,,,215.6,0,0
+Creditor,rps_lng-HDO210078,rps_lng-HDO19001188,rps_lng-HDO211379,2023-04-04,2023-05-18,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210078,rps_lng-VAD21000019,rps_lng-HDO211379,2022-02-22,2022-02-22,Handyman Repairs,,,,143.0,0,0
+Creditor,rps_lng-HDO210078,rps_lng-VAD21000019,rps_lng-HDO211379,2021-12-01,2022-02-01,Door Repairs,,,,287.5,0,0
+Creditor,rps_lng-HDO210105,rps_lng-HDO21001673,rps_lng-HDO210717,2023-06-30,2023-07-04,Post Tenancy Cleaning,,,,385.0,0,0
+Tenancy,rps_lng-HDO210105,rps_lng-VAD21000019,rps_lng-HDO210717,2022-08-04,2022-09-15,Kitchen Cabinets,,,,194.15,0,0
+Tenancy,rps_lng-HDO210105,rps_lng-HDO19001493,rps_lng-HDO210717,2022-06-22,2022-09-19,Ducted Heating Issue,,,,0.0,0,0
+Creditor,rps_lng-HDO210119,rps_lng-HDO22001591,rps_lng-HDO210797,2022-06-08,2022-06-08,Weatherboards on rear west side of building,,,,1158.0,0,0
+Creditor,rps_lng-HDO210119,rps_lng-HDO19001147,rps_lng-HDO210797,2022-01-07,2022-01-25,Blocked Pipes / Drains,,,,435.6,0,0
+Creditor,rps_lng-HDO210119,rps_lng-HDO19002152,rps_lng-HDO210797,2021-07-15,2021-07-22,heating not working,,,,352.0,0,0
+Creditor,rps_lng-HDO210128,rps_lng-HDO21001673,rps_lng-HDO210627,2023-02-02,2023-02-10,Vacate Cleaning,,,,242.0,0,0
+Creditor,rps_lng-HDO210128,rps_lng-HDO19002152,rps_lng-HDO210627,2022-02-08,2022-05-03,Ducted Heating / Cooling,,,,215.0,0,0
+Tenancy,rps_lng-HDO210136,,rps_lng-HDO210637,2021-06-23,2021-07-01,Water leakage in all wet areas,,,,0.0,0,0
+Creditor,rps_lng-HDO210136,rps_lng-CHA20000024,rps_lng-HDO210686,2023-01-05,2023-02-13,A/C Deposit,,,,1300.0,0,0
+Creditor,rps_lng-HDO210136,rps_lng-SAN21000030,rps_lng-HDO210686,2021-09-20,2021-09-20,Shower Head & Grout Repairs,,,,4630.0,0,0
+Creditor,rps_lng-HDO210136,rps_lng-HDO19001170,rps_lng-HDO210686,2021-07-12,2021-07-12,Pest Treatment,,,,220.0,0,0
+Tenancy,rps_lng-HDO210136,rps_lng-HDO21001704,rps_lng-HDO210686,2021-06-25,2021-07-28,As per discussion,,,,0.0,0,0
+Creditor,rps_lng-HDO210145,rps_lng-VAD21000019,rps_lng-HDO210850,2021-10-29,2022-04-13,Backyard - rear fence repair,,,,214.5,0,0
+Creditor,rps_lng-HDO210146,rps_lng-SAN22000007,rps_lng-HDO210822,2022-05-10,2022-05-17,Heater not working,,,,198.0,0,0
+Tenancy,rps_lng-HDO210146,rps_lng-DRE19000036,rps_lng-HDO210822,2022-02-25,2022-03-21,Back Door Lock,,,,0.0,0,0
+Creditor,rps_lng-HDO210146,rps_lng-DRE19000036,rps_lng-HDO210822,2021-08-27,2021-10-21,Door Maintenance,,,,434.5,0,0
+Creditor,rps_lng-HDO210146,rps_lng-VAD21000019,rps_lng-HDO210822,2021-07-08,2021-08-11,Gas/Electricity checks,,,,602.8,0,0
+Creditor,rps_lng-HDO210224,rps_lng-HDO19001188,rps_lng-HDO220076,2023-04-05,2023-06-14,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210224,rps_lng-HDO22004027,rps_lng-HDO220076,2023-01-24,2023-03-30,Maintenance - Oven & Air Vent,,,,390.0,0,0
+Tenancy,rps_lng-HDO210233,rps_lng-HDO22003144,rps_lng-HDO211126,2022-09-26,2022-09-26,Oven Cleaning,,,,391.6,0,0
+Creditor,rps_lng-HDO210233,rps_lng-HDO22003145,rps_lng-HDO211126,2022-09-26,2022-09-26,Patch and paint job,,,,330.0,0,0
+Creditor,rps_lng-HDO210233,rps_lng-VAD21000019,rps_lng-HDO211126,2021-09-09,2021-09-28,Saftey Checks,,,,0.0,0,0
+Creditor,rps_lng-HDO210242,rps_lng-HDO21001704,rps_lng-HDO210895,2023-05-08,2023-06-02,Shower Hose,,,,231.0,0,0
+Creditor,rps_lng-HDO210242,rps_lng-HDO19001147,rps_lng-HDO210895,2023-03-27,2023-04-03,Leaking Kitchen Tap,,,,258.28,0,0
+Creditor,rps_lng-HDO210242,rps_lng-CVA21004419,rps_lng-HDO210895,2023-03-06,2023-05-12,Gas & Smoke alarm compliance,,,,0.0,0,0
+Creditor,rps_lng-HDO210242,rps_lng-SAN22000135,rps_lng-HDO210895,2022-03-07,2022-03-07,Leaking Toilet,,,,155.0,0,0
+Creditor,rps_lng-HDO210251,rps_lng-SAN22000095,rps_lng-HDO221803,2023-03-08,2023-06-22,Urgent Switch Board Fault,,,,352.0,0,0
+Creditor,rps_lng-HDO210254,rps_lng-HDO19001188,rps_lng-HDO211005,2023-04-04,2023-05-18,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210254,rps_lng-HDO19001147,rps_lng-HDO211005,2023-01-27,2023-02-02,Hot water tap in bathroom,,,,270.6,0,0
+Creditor,rps_lng-HDO210254,rps_lng-DRE21000027,rps_lng-HDO211005,2022-05-29,2022-06-22,Heater - Heating will not turn on,,,,225.0,0,0
+Creditor,rps_lng-HDO210254,rps_lng-HDO22001410,rps_lng-HDO211005,2022-05-25,2022-05-25,Various works blinds block out - balance,,,,652.03,0,0
+Tenancy,rps_lng-HDO210254,rps_lng-VAD21000070,rps_lng-HDO211005,2021-09-25,2021-09-30,Heating not working,,,,0.0,0,0
+Creditor,rps_lng-HDO210254,rps_lng-HDO21001446,rps_lng-HDO211005,2021-08-27,2021-09-02,Plumbing Works,,,,383.9,0,0
+Creditor,rps_lng-HDO210271,rps_lng-HDO19001147,rps_lng-HDO211079,2023-06-28,2023-06-29,Gas Leak Repairs,,,,2496.14,0,0
+Creditor,rps_lng-HDO210271,rps_lng-HDO19001147,rps_lng-HDO211079,2023-06-22,2023-06-27,Gas Leak Investigation,,,,308.0,0,0
+Creditor,rps_lng-HDO210271,rps_lng-HDO19001147,rps_lng-HDO211079,2023-04-21,2023-06-13,Repair Shower Head,,,,492.17,0,0
+Creditor,rps_lng-HDO210271,rps_lng-CVA21002500,rps_lng-HDO211079,2022-12-05,2023-01-30,Water Leak,,,,1298.0,0,0
+Creditor,rps_lng-HDO210271,rps_lng-HDO19001147,rps_lng-HDO211079,2022-06-20,2022-07-07,Burst water pipe,,,,834.19,0,0
+Creditor,rps_lng-HDO210271,rps_lng-VAD21000019,rps_lng-HDO211079,2021-09-28,2021-11-16,Electrical and Gas Safety,,,,602.8,0,0
+Creditor,rps_lng-HDO210285,rps_lng-HDO18000912,rps_lng-HDO211320,2021-10-28,2021-11-15,Pest control,,,,418.0,0,0
+Tenancy,rps_lng-HDO210285,rps_lng-VAD21000019,rps_lng-HDO211320,2021-10-18,2021-11-18,Gas Safety,,,,275.0,0,0
+Creditor,rps_lng-HDO210285,rps_lng-SAN22000095,rps_lng-HDO211433,2023-04-13,2023-06-20,Urgent Cooktop Replacement quote,,,,0.0,0,0
+Tenancy,rps_lng-HDO210285,,rps_lng-HDO211433,2022-08-04,2022-10-26,Urgent Shower Repair Quote,,,,0.0,0,0
+Creditor,rps_lng-HDO210285,rps_lng-VAD21000019,rps_lng-HDO211433,2022-06-24,2022-06-24,Plumbing works - kitchen taps,,,,349.0,0,0
+Tenancy,rps_lng-HDO210285,rps_lng-HDO19001493,rps_lng-HDO211433,2022-06-01,2022-08-04,Air Conditioner Replacement,,,,0.0,0,0
+Creditor,rps_lng-HDO210285,rps_lng-HDO19002152,rps_lng-HDO211433,2022-01-19,2022-05-18,Air-conditioning,,,,365.0,0,0
+Creditor,rps_lng-HDO210285,rps_lng-VAD21000019,rps_lng-HDO211433,2022-01-19,2022-01-24,General maintenace,,,,568.0,0,0
+Creditor,rps_lng-HDO210307,rps_lng-VAD21000019,rps_lng-HDO211214,2022-08-31,2022-09-09,Shower Door repairs,,,,0.0,0,0
+Creditor,rps_lng-HDO210307,rps_lng-VAD21000019,rps_lng-HDO211214,2021-12-20,2022-01-24,Roof Repairs,,,,204.75,0,0
+Tenancy,rps_lng-HDO210307,rps_lng-HDO21001981,rps_lng-HDO211214,2021-10-22,2021-10-25,Pad Lock Removal,,,,0.0,0,0
+Creditor,rps_lng-HDO210320,rps_lng-HDO19001188,rps_lng-HDO211130,2023-04-04,2023-06-05,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210320,rps_lng-VAD21000019,rps_lng-HDO211130,2022-04-28,2022-12-22,Oven & Kitchen Tap Repairs,,,,1891.32,0,0
+Creditor,rps_lng-HDO210327,rps_lng-DRE19000076,rps_lng-HDO211581,2023-06-23,2023-06-26,Heater not working,,,,275.0,0,0
+Tenancy,rps_lng-HDO210327,rps_lng-HDO19003549,rps_lng-HDO211581,2022-10-27,2022-12-10,Dishwasher not working,,,,1585.0,0,0
+Creditor,rps_lng-HDO210327,rps_lng-SAN22000095,rps_lng-HDO211581,2022-10-19,2023-03-21,Replace exhaust fan,,,,438.35,0,0
+Creditor,rps_lng-HDO210327,rps_lng-HDO19001147,rps_lng-HDO211581,2022-05-23,2022-07-05,Roof - Ceiling leak,,,,299.32,0,0
+Creditor,rps_lng-HDO210327,rps_lng-SAN22000007,rps_lng-HDO211581,2022-03-21,2022-03-24,Aircon not working,,,,250.25,0,0
+Creditor,rps_lng-HDO210334,rps_lng-HDO22004027,rps_lng-HDO211234,2023-06-27,2023-07-05,Gas Safety Check,,,,290.0,0,0
+Creditor,rps_lng-HDO210334,rps_lng-HDO19001188,rps_lng-HDO211234,2023-04-04,2023-04-04,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO210334,rps_lng-SAN22000063,rps_lng-HDO211234,2022-02-03,2022-02-03,Supply and Install Side gate,,,,935.0,0,0
+Creditor,rps_lng-HDO210405,rps_lng-HDO22002424,rps_lng-HDO211434,2022-08-01,2022-08-01,Cleaning,,,,737.0,0,0
+Creditor,rps_lng-HDO210405,rps_lng-HDO19003293,rps_lng-HDO221075,2022-11-15,2022-11-28,No hot water,,,,176.0,0,0
+Creditor,rps_lng-HDO210413,rps_lng-JAM20000164,rps_lng-HDO220113,2023-06-28,2023-07-10,Front Door Deadlock,,,,275.0,0,0
+Creditor,rps_lng-HDO210413,rps_lng-HDO08001895,rps_lng-HDO220113,2022-04-22,2022-06-30,Dishwasher,,,,192.5,0,0
+Creditor,rps_lng-HDO210442,rps_lng-HDO22002894,rps_lng-HDO211648,2023-06-22,2023-06-22,Change Rangehood & Rubbish Removal,,,,805.09,0,0
+Tenancy,rps_lng-HDO210442,rps_lng-HDO19001188,rps_lng-HDO211648,2023-04-17,2023-04-17,Gas and Electrical Check,,,,528.0,0,0
+Tenancy,rps_lng-HDO210442,rps_lng-HDO22002894,rps_lng-HDO211648,2023-03-01,2023-07-12,Rangehood,,,,805.09,0,0
+Creditor,rps_lng-HDO210452,rps_lng-HDO21001704,rps_lng-HDO230022,2023-04-18,2023-06-21,Toilet Seat Repair,,,,138.6,0,0
+Creditor,rps_lng-HDO210452,rps_lng-HDO21001704,rps_lng-HDO230022,2023-03-03,2023-05-04,Window Stuck Open,,,,125.4,0,0
+Creditor,rps_lng-HDO210452,rps_lng-HDO19001188,rps_lng-HDO230022,2023-02-07,2023-03-01,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO210452,rps_lng-DRE19000036,rps_lng-HDO230022,2023-01-25,2023-02-21,General Maintenance,,,,373.45,0,0
+Creditor,rps_lng-HDO210452,rps_lng-HDO19001388,rps_lng-SAN210033,2022-07-21,2022-09-12,Garage Door Service,,,,300.0,0,0
+Creditor,rps_lng-HDO210452,rps_lng-HDO19001340,rps_lng-SAN210033,2022-03-04,2022-05-09,Water Tank Leak,,,,275.0,0,0
+Creditor,rps_lng-HDO210459,rps_lng-HDO21001981,rps_lng-HDO220256,2023-06-28,2023-06-28,Electrical Certificate,,,,0.0,0,0
+Creditor,rps_lng-HDO210459,rps_lng-HDO19001493,rps_lng-HDO220256,2022-11-09,2022-11-09,Gas Ducted Heating Service,,,,258.0,0,0
+Creditor,rps_lng-HDO210459,rps_lng-HDO19001493,rps_lng-HDO220256,2022-05-23,2022-08-01,Ducted Heating Service,,,,577.5,0,0
+Creditor,rps_lng-HDO210459,rps_lng-HDO19001746,rps_lng-HDO220256,2022-05-23,2022-06-23,Back Glass - Sliding Door Quote,,,,725.0,0,0
+Tenancy,rps_lng-HDO210459,,rps_lng-HDO220256,2022-03-15,2022-10-17,Stovetop Cabinets,,,,0.0,0,0
+Creditor,rps_lng-HDO210467,rps_lng-DRE19000076,rps_lng-HDO211669,2023-06-14,2023-06-30,Duct Repairs - Heater,,,,605.0,0,0
+Creditor,rps_lng-HDO210467,rps_lng-JAM21000001,rps_lng-HDO211669,2023-05-26,2023-06-18,Urgent Rodent Control Treatment,,,,249.0,0,0
+Creditor,rps_lng-HDO210467,rps_lng-HDO19003293,rps_lng-HDO211669,2022-10-27,2022-10-27,Replacement of shower hose,,,,145.2,0,0
+Creditor,rps_lng-HDO210467,rps_lng-HDO19003293,rps_lng-HDO211669,2022-05-27,2022-06-09,Ensuite shower - No Pressure,,,,132.0,0,0
+Creditor,rps_lng-HDO210467,rps_lng-DRE19000036,rps_lng-HDO211669,2022-02-14,2022-02-14,Kitchen cabinet handles & install door stop,,,,558.8,0,0
+Creditor,rps_lng-HDO210467,rps_lng-HDO21000910,rps_lng-HDO211669,2022-01-18,2022-01-18,Cleaning,,,,580.8,0,0
+Creditor,rps_lng-HDO210467,rps_lng-VAD21000019,rps_lng-HDO211669,2022-01-13,2022-02-01,Electrical and Gas Safety,,,,602.8,0,0
+Creditor,rps_lng-HDO210486,rps_lng-CVA21002487,rps_lng-HDO220060,2022-06-07,2022-06-24,Antenna Repairs,,,,259.0,0,0
+Creditor,rps_lng-HDO210486,rps_lng-VAD21000019,rps_lng-HDO220060,2022-04-12,2022-06-29,General Maintenance,,,,240.75,0,0
+Creditor,rps_lng-HDO210486,rps_lng-VAD21000019,rps_lng-HDO220060,2022-02-18,2022-07-26,Gas & Saftey Checks,,,,0.0,0,0
+Creditor,rps_lng-HDO210498,rps_lng-HDO22001433,rps_lng-HDO220477,2022-05-26,2022-05-26,Weeds and garden beds,,,,110.0,0,0
+Creditor,rps_lng-HDO210501,rps_lng-HDO19001188,rps_lng-HDO220204,2022-12-02,2022-12-23,Gas Safety,,,,330.0,0,0
+Creditor,rps_lng-HDO210501,rps_lng-VAD21000019,rps_lng-HDO220204,2022-02-16,2022-07-12,Electrical and Gas Safety,,,,602.8,0,0
+Creditor,rps_lng-HDO210529,rps_lng-HDO19001188,rps_lng-HDO220277,2023-02-07,2023-02-28,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO210536,rps_lng-HDO17002817,rps_lng-HDO220100,2023-03-30,2023-03-30,Replacement of Ducted Heat Exchanger,,,,0.0,0,0
+Creditor,rps_lng-HDO210536,rps_lng-HDO19001188,rps_lng-HDO220100,2023-03-14,2023-04-27,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO210536,rps_lng-VAD21000019,rps_lng-HDO220100,2022-11-18,2022-11-18,Additional electrical works,,,,1211.0,0,0
+Creditor,rps_lng-HDO210536,rps_lng-SAN22000095,rps_lng-HDO220100,2022-09-28,2022-09-28,Inspect wiring subsequent to inspection report,,,,264.0,0,0
+Tenancy,rps_lng-HDO210536,rps_lng-VAD21000019,rps_lng-HDO220100,2022-04-05,2022-11-14,Gas & Electrical checks,,,,0.0,0,0
+Creditor,rps_lng-HDO210536,rps_lng-VAD21000019,rps_lng-HDO220100,2022-02-22,2022-11-02,Mailbox & Laundry Light,,,,310.49,0,0
+Creditor,rps_lng-HDO220008,rps_lng-CVA21001869,rps_lng-HDO220077,2023-03-07,2023-03-07,Install Toilet Cistern and Seat,,,,540.1,0,0
+Creditor,rps_lng-HDO220008,rps_lng-VAD21000019,rps_lng-HDO220077,2022-04-26,2022-09-12,Electrical and Gas Safety,,,,602.8,0,0
+Tenancy,rps_lng-HDO220008,,rps_lng-HDO220077,2022-04-22,2022-07-15,"Power Point, Key Safe & Chicken Coop",,,,0.0,0,0
+Creditor,rps_lng-HDO220041,rps_lng-HDO19001188,rps_lng-HDO220264,2023-04-05,2023-06-29,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO220056,rps_lng-DRE19000036,rps_lng-HDO220529,2023-04-06,2023-05-12,Gutter Cleaning,,,,241.45,0,0
+Creditor,rps_lng-HDO220056,rps_lng-HDO23000141,rps_lng-HDO220529,2023-02-13,2023-02-13,Supply Heat Fitting & Splot Light Sensor,,,,748.0,0,0
+Creditor,rps_lng-HDO220056,rps_lng-HDO23000141,rps_lng-HDO220529,2023-01-19,2023-01-19,Fit New Copper Gas Connection,,,,250.0,0,0
+Creditor,rps_lng-HDO220056,rps_lng-HDO21001673,rps_lng-HDO220529,2022-09-12,2022-09-12,Vacate cleaning &  steam cleaning of carpets,,,,440.0,0,0
+Creditor,rps_lng-HDO220056,rps_lng-DRE19000036,rps_lng-HDO220529,2022-08-26,2022-09-06,General Maintenance,,,,537.9,0,0
+Creditor,rps_lng-HDO220056,rps_lng-WES20000011,rps_lng-HDO220529,2022-06-30,2022-06-30,Mowing,,,,99.0,0,0
+Creditor,rps_lng-HDO220056,rps_lng-DRE19000036,rps_lng-HDO220529,2022-06-02,2022-06-08,General Maintenance Quote,,,,1804.1,0,0
+Tenancy,rps_lng-HDO220112,rps_lng-DRE19000036,rps_lng-SAN220057,2023-01-31,2023-05-12,General Maintenance,,,,3675.0,0,0
+Creditor,rps_lng-HDO220112,rps_lng-DRE19000090,rps_lng-SAN220057,2022-03-30,2022-05-25,"Electrical, Gas, and Smoke Alarm Safety",,,,627.0,0,0
+Creditor,rps_lng-HDO220133,rps_lng-HDO22003692,rps_lng-SAN220077,2022-05-06,2022-08-03,Septic tank repairs,,,,175.0,0,0
+Creditor,rps_lng-HDO220143,rps_lng-HDO19001188,rps_lng-HDO220585,2023-03-20,2023-04-03,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO220153,rps_lng-HDO23000360,rps_lng-HDO220758,2023-05-23,2023-06-26, Bathroom Exhaust/Light Repairs,,,,286.0,0,0
+Creditor,rps_lng-HDO220153,rps_lng-VAD21000019,rps_lng-HDO220758,2022-08-04,2022-12-08,Various Items,,,,0.0,0,0
+Creditor,rps_lng-HDO220183,rps_lng-VAD21000019,rps_lng-HDO220851,2022-06-28,2022-09-13,Electrical and Gas Safety,,,,602.8,0,0
+Creditor,rps_lng-HDO220225,rps_lng-DRE19000036,rps_lng-HDO221042,2023-01-13,2023-01-30,Door Handle,,,,249.7,0,0
+Creditor,rps_lng-HDO220232,rps_lng-SAN22000095,rps_lng-HDO220814,2023-03-21,2023-03-21,Replacement of Oven Door,,,,351.32,0,0
+Creditor,rps_lng-HDO220232,rps_lng-SAN22000095,rps_lng-HDO220814,2023-02-13,2023-02-23,Electrical Work,,,,351.32,0,0
+Creditor,rps_lng-HDO220232,rps_lng-HDO13002453,rps_lng-HDO220814,2022-08-22,2022-09-16,Bathroom Door Painting,,,,236.5,0,0
+Creditor,rps_lng-HDO220273,rps_lng-DRE19000036,rps_lng-HDO221112,2023-04-11,2023-04-11,Fence Repairs,,,,492.5,0,0
+Creditor,rps_lng-HDO220273,rps_lng-HDO19004445,rps_lng-HDO221112,2023-01-23,2023-02-28,Possible Burst Pipe,,,,462.0,0,0
+Creditor,rps_lng-HDO220304,rps_lng-HDO21001673,rps_lng-HDO220977,2022-08-19,2022-08-26,Entry Clean,,,,192.5,0,0
+Creditor,rps_lng-HDO220337,rps_lng-DRE19000076,rps_lng-HDO220922,2022-09-08,2022-09-12,A/C Service,,,,286.0,0,0
+Creditor,rps_lng-HDO220337,rps_lng-HDO19001147,rps_lng-HDO220922,2022-07-07,2022-08-01,Leaking shower and leaking windows,,,,371.8,0,0
+Creditor,rps_lng-HDO220337,rps_lng-HDO19001188,rps_lng-HDO221462,2023-04-05,2023-06-28,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO220383,rps_lng-HDO19001188,rps_lng-HDO230094,2023-04-05,2023-05-29,Gas and Electrical Check,,,,528.0,0,0
+Creditor,rps_lng-HDO220471,rps_lng-HDO19001188,rps_lng-HDO221537,2023-02-03,2023-03-14,Combined electrical and gas safety certificates,,,,528.0,0,0
+Creditor,rps_lng-HDO220482,rps_lng-DRE20000094,rps_lng-HDO221519,2022-11-30,2022-11-30,House Maintenance,,,,495.0,0,0
+Creditor,rps_lng-HDO220594,rps_lng-HDO22003952,rps_lng-HDO221743,2023-01-13,2023-01-13,General Surface Clean,,,,231.0,0,0
+Creditor,rps_lng-HDO220703,rps_lng-HDO22004315,rps_lng-HDO230091,2023-02-10,2023-04-05,Roof Leak Inspection,,,,108.9,0,0
+Creditor,rps_lng-HDO220707,rps_lng-WES20000011,rps_lng-HDO230182,2023-02-23,2023-02-23,Garden Clean Up,,,,110.0,0,0
+Creditor,rps_lng-HDO230051,rps_lng-HDO19001202,rps_lng-JAM230002,2023-06-06,2023-06-06,Order 1x Key - Paid vic CC Essential Keys Vic,,,,47.3,0,0
+Creditor,rps_lng-HDO230051,rps_lng-HDO19001790,rps_lng-JAM230002,2023-05-10,2023-05-10,Lot 409E_1x FOBs,,,,55.0,0,0
+Creditor,rps_lng-HDO230056,rps_lng-HDO19001147,rps_lng-HDO230173,2023-04-13,2023-05-02,Kitchen Leak Investigation,,,,283.09,0,0
+Creditor,rps_lng-HDO230064,rps_lng-HDO19001147,rps_lng-HDO230204,2023-05-25,2023-06-13,Fix Shower Leak,,,,282.7,0,0
+Creditor,rps_lng-HDO230064,rps_lng-HDO15002945,rps_lng-HDO230204,2023-04-17,2023-04-19,Wasp Nest Removal,,,,275.0,0,0
+Creditor,rps_lng-HDO230065,rps_lng-DRE19000076,rps_lng-HDO230200,2023-06-29,2023-07-04,Serviced Rinnai Gas Wall Heater,,,,275.0,0,0
+Creditor,rps_lng-HDO230065,rps_lng-HDO21001704,rps_lng-HDO230200,2023-05-01,2023-05-13,Back Door Repairs,,,,171.6,0,0
+Creditor,rps_lng-HDO230065,rps_lng-HDO18000912,rps_lng-HDO230200,2023-03-17,2023-07-11,Wasp Nest Removal,,,,286.0,0,0
+Creditor,rps_lng-HDO230086,rps_lng-HDO23001438,rps_lng-HDO230380,2023-05-02,2023-05-10,General Pest & Mice Control,,,,638.0,0,0
+Creditor,rps_lng-HDO230187,rps_lng-CVA21002238,rps_lng-JAM230003,2023-05-17,2023-05-30,Gas Safety Check,,,,385.0,0,0
+Creditor,rps_lng-HDO230187,rps_lng-DRE22000009,rps_lng-JAM230003,2023-05-17,2023-05-24,Electrical Safety Check,,,,203.5,0,0

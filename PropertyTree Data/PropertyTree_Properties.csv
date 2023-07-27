@@ -1,0 +1,4 @@
+property_id,ownership_id,property_type,unit,street_no,street_1,street_2,suburb,state,postcode,bedrooms,bathrooms,car_spaces,lot_no,area,authority_start,authority_end,gained,gained_reason,rent_account,rent_description,rent_amount,rent_period,outgoings_[n]_account,outgoings_[n]_description,outgoings_[n]_amount,tag_[group name],fee_[fee id]
+rps_lng-HDO130077,rps_lng-RPT130077,Residential_House,15,15,Derwent Lane,,Sandhurst,Vic,3977,4,2,2,,0,,,2023-03-09T15:09:39+00:00,,,,550.0274,Monthly,,,,,
+rps_lng-HDO180011,rps_lng-RPT180011,Residential_House,3,3,Millicent Parade,,Officer,Vic,3809,3,2,2,,0,,,2023-04-24T09:10:39+01:00,,,,440.0,Weekly,,,,,
+rps_lng-HDO180018,rps_lng-RPT180034,Residential_House,10,10,Tara Boulevard,,Officer,VIC,3809,3,2,2,,0,2022-03-24T15:02:26+00:00,,2023-05-11T10:31:10+01:00,,,,400.0,Weekly,,,,,
