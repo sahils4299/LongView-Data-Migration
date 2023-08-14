@@ -1,0 +1,941 @@
+property_id,compliance category,compliance_type,managed_by,authority_form,service_by_creditor,expiry_date,last_serviced,next_service,frequency,reminder,notes
+rps_lng-CVA210023,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210023,Electrical,General,Agent,Recieved,,2023-10-07,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210023,Gas,General,Agent,Recieved,,2023-10-15,,,,,Gas Check :Valid
+rps_lng-CVA210023,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-20,,,,,Certificate Provided :Yes
+rps_lng-HDO160007,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO160007,Electrical,General,Agent,Recieved,,2025-06-28,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO160007,Gas,General,Agent,Recieved,,2025-04-27,,,,,Gas Check :Valid
+rps_lng-HDO160007,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-28,,,,,Certificate Provided :Yes
+rps_lng-CVA210032,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210032,Electrical,General,Agent,Recieved,,2024-12-22,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210032,Gas,General,Agent,Recieved,,2025-03-07,,,,,Gas Check :Valid
+rps_lng-CVA210032,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-22,,,,,Certificate Provided :Yes
+rps_lng-CVA210032,LL Insurance,General,Agent,Recieved,,2024-03-08,,,,,"LL Policy # :TS0090204LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO190995,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190995,Electrical,General,Agent,Recieved,,2025-04-18,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190995,Gas,General,Agent,Recieved,,2025-07-21,,,,,Gas Check :Valid
+rps_lng-HDO190995,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-18,,,,,Certificate Provided :Yes
+rps_lng-HDO190995,Building Insurance,General,Agent,Recieved,,2023-11-01,,,,,"Policy # :HOM 669 010 259, RACV EHA :none, Insurer :RACV Insurance"
+rps_lng-HDO190995,LL Insurance,General,Agent,Recieved,,2023-11-20,,,,,"LL Policy # :TS1583110LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-CVA210067,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-CVA210067,Electrical,General,Agent,Recieved,,2025-05-26,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210067,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210067,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-26,,,,,Certificate Provided :Yes
+rps_lng-CVA210067,LL Insurance,General,Agent,Recieved,,2023-08-01,,,,,"LL Policy # :1144225/007, Insurer :EBM Insurance Brokers"
+rps_lng-CVA210068,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210068,Electrical,General,Agent,Recieved,,2024-04-26,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210068,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-CVA210068,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-11,,,,,Certificate Provided :Yes
+rps_lng-CVA210068,LL Insurance,General,Agent,Recieved,,2024-05-01,,,,,"LL Policy # :0710639/017, Insurer :EBM Insurance Brokers"
+rps_lng-CVA210071,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210071,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-CVA210071,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-03,,,,,Certificate Provided :Yes
+rps_lng-CVA210072,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210072,Electrical,General,Agent,Recieved,,2024-09-08,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210072,Gas,General,Agent,Recieved,,2024-09-15,,,,,Gas Check :Valid
+rps_lng-CVA210072,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-11,,,,,Certificate Provided :Yes
+rps_lng-CVA210073,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210073,Gas,General,Agent,Recieved,,2025-04-27,,,,,Gas Check :Valid
+rps_lng-CVA210073,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-26,,,,,Certificate Provided :Yes
+rps_lng-CVA210073,LL Insurance,General,Agent,Recieved,,2023-07-02,,,,,"LL Policy # :20583, Insurer :Property Insurance Plus, ABA"
+rps_lng-HDO191279,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO191279,Electrical,General,Agent,Recieved,,2025-02-15,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO191279,Gas,General,Agent,Recieved,,2025-07-26,,,,,Gas Check :Valid
+rps_lng-HDO191279,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-03,,,,,Certificate Provided :Yes
+rps_lng-HDO200300,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO200300,Electrical,General,Agent,Recieved,,2025-04-27,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO200300,Gas,General,Agent,Recieved,,2025-07-10,,,,,Gas Check :Valid
+rps_lng-HDO200300,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-27,,,,,Certificate Provided :Yes
+rps_lng-CVA210117,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210117,Gas,General,Agent,Recieved,,2023-08-02,,,,,Gas Check :Expired
+rps_lng-CVA210117,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-29,,,,,Certificate Provided :Yes
+rps_lng-CVA210117,LL Insurance,General,Agent,Recieved,,2023-06-01,,,,,"LL Policy # :HPL005429280, Insurer :AAMI Insurance"
+rps_lng-CVA210118,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210118,Electrical,General,Agent,Recieved,,2024-08-17,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210118,Gas,General,Agent,Recieved,,2024-01-24,,,,,Gas Check :Valid
+rps_lng-CVA210118,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-08-04,,,,,Certificate Provided :Yes
+rps_lng-CVA210118,LL Insurance,General,Agent,Recieved,,2023-12-01,,,,,"LL Policy # :HPL027644727, Insurer :AAMI Insurance"
+rps_lng-HDO210467,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210467,Electrical,General,Agent,Recieved,,2024-01-17,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO210467,Gas,General,Agent,Recieved,,2024-01-31,,,,,Gas Check :Valid
+rps_lng-HDO210467,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-12,,,,,Certificate Provided :Yes
+rps_lng-HDO220146,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO220146,Electrical,General,Agent,Recieved,,2025-07-19,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220146,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-19,,,,,Certificate Provided :Yes
+rps_lng-CVA210153,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210153,Gas,General,Agent,Recieved,,2025-05-01,,,,,Gas Check :Valid
+rps_lng-CVA210153,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-15,,,,,Certificate Provided :Yes
+rps_lng-CVA210153,LL Insurance,General,Agent,Recieved,,2024-02-01,,,,,"LL Policy # :0783558/015, Insurer :EBM Insurance Brokers"
+rps_lng-HDO220157,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220157,Electrical,General,Agent,Recieved,,2024-03-28,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220157,Gas,General,Agent,Recieved,,2024-03-28,,,,,Gas Check :Valid
+rps_lng-HDO220157,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-28,,,,,Certificate Provided :Yes
+rps_lng-CVA210167,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210167,Electrical,General,Agent,Recieved,,2024-08-10,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-CVA210167,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-16,,,,,Certificate Provided :No
+rps_lng-CVA210167,LL Insurance,General,Agent,Recieved,,2023-10-08,,,,,"LL Policy # :15991, Insurer :Property Insurance Plus, ABA"
+rps_lng-CVA210171,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210171,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210171,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-18,,,,,Certificate Provided :Yes
+rps_lng-CVA210171,LL Insurance,General,Agent,Recieved,,2023-11-28,,,,,"LL Policy # :P016727, Insurer :Property Insurance Plus, ABA"
+rps_lng-CVA210180,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210180,Electrical,General,Agent,Recieved,,2024-06-15,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210180,Gas,General,Agent,Recieved,,2024-08-22,,,,,Gas Check :Valid
+rps_lng-CVA210180,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-03,,,,,Certificate Provided :Yes
+rps_lng-CVA210180,LL Insurance,General,Agent,Recieved,,2024-01-07,,,,,"LL Policy # :P017364, Insurer :Property Insurance Plus, ABA"
+rps_lng-CVA210185,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210185,Electrical,General,Agent,Recieved,,2024-08-05,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210185,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210185,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-08-01,,,,,Certificate Provided :Yes
+rps_lng-CVA210185,LL Insurance,General,Agent,Recieved,,2023-12-04,,,,,"LL Policy # :P079727, Insurer :Property Insurance Plus, ABA"
+rps_lng-CVA210194,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210194,Electrical,General,Agent,Recieved,,2024-03-01,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210194,Gas,General,Agent,Recieved,,2024-03-01,,,,,Gas Check :Valid
+rps_lng-CVA210194,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-28,,,,,Certificate Provided :Yes
+rps_lng-CVA210194,LL Insurance,General,Agent,Recieved,,2024-04-11,,,,,"LL Policy # :P048542, Insurer :Property Insurance Plus, BPAY"
+rps_lng-CVA210231,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210231,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210272,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210272,Electrical,General,Agent,Recieved,,2024-09-15,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210272,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-30,,,,,Certificate Provided :No
+rps_lng-CVA210383,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210383,Gas,General,Agent,Recieved,,2025-03-09,,,,,Gas Check :Valid
+rps_lng-CVA210383,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-10,,,,,Certificate Provided :No
+rps_lng-CVA210383,LL Insurance,General,Agent,Recieved,,2023-08-01,,,,,"LL Policy # :nan, Insurer :Property Insurance Plus, BPAY"
+rps_lng-CVA210384,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-CVA210384,Gas,General,Agent,Recieved,,2025-06-29,,,,,Gas Check :Valid
+rps_lng-CVA210384,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-07,,,,,Certificate Provided :No
+rps_lng-CVA210384,LL Insurance,General,Agent,Recieved,,2023-08-01,,,,,"LL Policy # :43455, Insurer :Property Insurance Plus, ABA"
+rps_lng-CVA210385,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210385,Electrical,General,Agent,Recieved,,2025-04-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210385,Gas,General,Agent,Recieved,,2025-03-02,,,,,Gas Check :Valid
+rps_lng-CVA210385,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-24,,,,,Certificate Provided :Yes
+rps_lng-CVA210385,LL Insurance,General,Agent,Recieved,,2023-08-01,,,,,"LL Policy # :43456, Insurer :Property Insurance Plus, ABA"
+rps_lng-CVA210389,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-CVA210389,Gas,General,Agent,Recieved,,2025-05-08,,,,,Gas Check :Valid
+rps_lng-CVA210389,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-10,,,,,Certificate Provided :Yes
+rps_lng-CVA210389,LL Insurance,General,Agent,Recieved,,2023-08-24,,,,,"LL Policy # :TS0212204LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-CVA210391,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Gas emailed"
+rps_lng-CVA210391,Electrical,General,Agent,Recieved,,2025-03-04,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210391,Gas,General,Agent,Recieved,,2025-06-29,,,,,Gas Check :Valid
+rps_lng-CVA210391,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-04,,,,,Certificate Provided :Yes
+rps_lng-CVA210401,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210401,Electrical,General,Agent,Recieved,,2025-02-15,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210401,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-CVA210401,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-07,,,,,Certificate Provided :No
+rps_lng-CVA210406,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210406,Electrical,General,Agent,Recieved,,2023-11-17,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210406,Gas,General,Agent,Recieved,,2023-11-16,,,,,Gas Check :Valid
+rps_lng-CVA210406,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2022-11-17,,,,,Certificate Provided :Yes
+rps_lng-CVA210411,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210411,Electrical,General,Agent,Recieved,,2024-06-03,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-CVA210411,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-CVA210411,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2022-10-28,,,,,Certificate Provided :No
+rps_lng-CVA210417,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-CVA210417,Electrical,General,Agent,Recieved,,2025-05-15,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210417,Gas,General,Agent,Recieved,,2025-05-17,,,,,Gas Check :Valid
+rps_lng-CVA210417,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-15,,,,,Certificate Provided :Yes
+rps_lng-CVA210417,LL Insurance,General,Agent,Recieved,,2023-09-17,,,,,"LL Policy # :TS0249797LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-CVA210429,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-CVA210429,Electrical,General,Agent,Recieved,,2025-07-22,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210429,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210429,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-22,,,,,Certificate Provided :Yes
+rps_lng-CVA210429,LL Insurance,General,Agent,Recieved,,2023-07-15,,,,,"LL Policy # :nan, Insurer :AAMI Insurance"
+rps_lng-CVA210435,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210435,Electrical,General,Agent,Recieved,,2023-12-13,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210435,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210435,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-02,,,,,Certificate Provided :No
+rps_lng-CVA210435,LL Insurance,General,Agent,Recieved,,2023-09-25,,,,,"LL Policy # :HPL015489545, Insurer :AAMI Insurance"
+rps_lng-CVA210436,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210436,Electrical,General,Agent,Recieved,,2023-11-09,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210436,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-CVA210436,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-13,,,,,Certificate Provided :Yes
+rps_lng-CVA210439,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210439,Electrical,General,Agent,Recieved,,2024-05-27,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210439,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-CVA210439,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-29,,,,,Certificate Provided :No
+rps_lng-CVA210465,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210465,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-12,,,,,Certificate Provided :Yes
+rps_lng-CVA210491,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210491,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210491,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-05-09,,,,,Certificate Provided :No
+rps_lng-CVA210507,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210507,Electrical,General,Agent,Recieved,,2023-11-10,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210507,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-10,,,,,Certificate Provided :No
+rps_lng-CVA210513,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210513,Electrical,General,Agent,Recieved,,2024-08-25,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210513,Gas,General,Agent,Recieved,,2024-08-25,,,,,Gas Check :Valid
+rps_lng-CVA210513,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-04,,,,,Certificate Provided :Yes
+rps_lng-CVA210542,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210542,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-CVA210542,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-04-30,,,,,Certificate Provided :No
+rps_lng-CVA210579,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-CVA210579,Gas,General,Agent,Recieved,,2025-06-01,,,,,Gas Check :Valid
+rps_lng-CVA210579,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-12,,,,,Certificate Provided :No
+rps_lng-CVA210610,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-CVA210610,Electrical,General,Agent,Recieved,,2024-03-09,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-CVA210610,Gas,General,Agent,Recieved,,2024-03-04,,,,,Gas Check :Valid
+rps_lng-CVA210610,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-14,,,,,Certificate Provided :Yes
+rps_lng-CVA210616,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210616,Electrical,General,Agent,Recieved,,2024-04-22,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-CVA210616,Gas,General,Agent,Recieved,,2025-04-22,,,,,Gas Check :Valid
+rps_lng-CVA210616,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-06,,,,,Certificate Provided :Yes
+rps_lng-CVA210616,LL Insurance,General,Agent,Recieved,,2024-02-14,,,,,"LL Policy # :P096202, Insurer :Property Insurance Plus, BPAY"
+rps_lng-CVA210647,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-CVA210647,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-CVA210647,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-15,,,,,Certificate Provided :Yes
+rps_lng-HDO080004,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO080004,Electrical,General,Agent,Recieved,,2025-05-09,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO080004,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO080004,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-09,,,,,Certificate Provided :Yes
+rps_lng-HDO080019,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO080019,Electrical,General,Agent,Recieved,,2025-06-28,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO080019,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO080019,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-28,,,,,Certificate Provided :Yes
+rps_lng-HDO080019,LL Insurance,General,Agent,Recieved,,2023-07-06,,,,,"LL Policy # :0781160/014, Insurer :EBM Insurance Brokers"
+rps_lng-HDO090003,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO090003,Electrical,General,Agent,Recieved,,2025-06-28,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO090003,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO090003,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-28,,,,,Certificate Provided :Yes
+rps_lng-HDO090003,LL Insurance,General,Agent,Recieved,,2023-10-25,,,,,"LL Policy # :1299717/004, Insurer :EBM Insurance Brokers"
+rps_lng-HDO090030,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Gas emailed"
+rps_lng-HDO090030,Electrical,General,Agent,Recieved,,2025-01-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO090030,Gas,General,Agent,Recieved,,2025-07-25,,,,,Gas Check :Valid
+rps_lng-HDO090030,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-31,,,,,Certificate Provided :Yes
+rps_lng-HDO100024,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO100024,Electrical,General,Agent,Recieved,,2025-06-14,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO100024,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO100024,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-14,,,,,Certificate Provided :Yes
+rps_lng-HDO110042,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO110042,Gas,General,Agent,Recieved,,2025-07-27,,,,,Gas Check :Valid
+rps_lng-HDO110042,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-31,,,,,Certificate Provided :Yes
+rps_lng-HDO110042,LL Insurance,General,Agent,Recieved,,2024-06-01,,,,,"LL Policy # :0804386/014, Insurer :EBM Insurance Brokers"
+rps_lng-HDO110043,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO110043,Electrical,General,Agent,Recieved,,2025-08-01,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO110043,Gas,General,Agent,Recieved,,2025-05-08,,,,,Gas Check :Valid
+rps_lng-HDO110043,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-07,,,,,Certificate Provided :Yes
+rps_lng-HDO110043,LL Insurance,General,Agent,Recieved,,2023-08-01,,,,,"LL Policy # :0819138/013, Insurer :Smoke Alarms Australia"
+rps_lng-HDO120044,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO120044,Gas,General,Agent,Recieved,,2025-05-23,,,,,Gas Check :Valid
+rps_lng-HDO120044,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-21,,,,,Certificate Provided :Yes
+rps_lng-HDO120056,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO120056,Electrical,General,Agent,Recieved,,2025-02-17,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO120056,Gas,General,Agent,Recieved,,2025-07-10,,,,,Gas Check :Valid
+rps_lng-HDO120056,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-22,,,,,Certificate Provided :Yes
+rps_lng-HDO120056,LL Insurance,General,Agent,Recieved,,2024-07-09,,,,,"LL Policy # :0877419/012, Insurer :EBM Insurance Brokers"
+rps_lng-HDO120064,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO120064,Electrical,General,Agent,Recieved,,2025-02-28,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO120064,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-11,,,,,Certificate Provided :Yes
+rps_lng-HDO120067,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO120067,Electrical,General,Agent,Recieved,,2025-06-07,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO120067,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO120067,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-07,,,,,Certificate Provided :Yes
+rps_lng-HDO120067,LL Insurance,General,Agent,Recieved,,2023-08-01,,,,,"LL Policy # :0877907/012, Insurer :EBM Insurance Brokers"
+rps_lng-HDO120069,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO120069,Electrical,General,Agent,Recieved,,2025-07-04,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO120069,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO120069,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-10-18,,,,,Certificate Provided :No
+rps_lng-HDO120074,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO120074,Gas,General,Agent,Recieved,,2025-07-10,,,,,Gas Check :Valid
+rps_lng-HDO120074,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-04-19,,,,,Certificate Provided :Yes
+rps_lng-HDO120111,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO120111,Gas,General,Agent,Recieved,,2025-07-06,,,,,Gas Check :Valid
+rps_lng-HDO120111,Smoke,SmokeAlarm_Unknown,Owner,Recieved,,2024-07-06,,,,,Certificate Provided :Yes
+rps_lng-HDO120111,LL Insurance,General,Agent,Recieved,,2023-07-21,,,,,"LL Policy # :1486925/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO120207,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO120207,Electrical,General,Agent,Recieved,,2024-12-20,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO120207,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO120207,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-01,,,,,Certificate Provided :Yes
+rps_lng-HDO120207,LL Insurance,General,Agent,Recieved,,2023-12-02,,,,,"LL Policy # :TS0160451LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO120330,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO120330,Gas,General,Agent,Recieved,,2023-09-13,,,,,Gas Check :Valid
+rps_lng-HDO120330,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-15,,,,,Certificate Provided :Yes
+rps_lng-HDO120453,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO120453,Electrical,General,Agent,Recieved,,2024-02-11,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO120453,Gas,General,Agent,Recieved,,2024-02-11,,,,,Gas Check :Valid
+rps_lng-HDO120453,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-15,,,,,Certificate Provided :Yes
+rps_lng-HDO130045,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO130045,Electrical,General,Agent,Recieved,,2024-04-19,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO130045,Gas,General,Agent,Recieved,,2024-04-19,,,,,Gas Check :Valid
+rps_lng-HDO130045,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-08,,,,,Certificate Provided :Yes
+rps_lng-HDO130045,LL Insurance,General,Agent,Recieved,,2023-07-31,,,,,"LL Policy # :1003515/009, Insurer :EBM Insurance Brokers"
+rps_lng-HDO130049,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO130049,Electrical,General,Agent,Recieved,,2025-04-21,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO130049,Gas,General,Agent,Recieved,,2025-07-12,,,,,Gas Check :Valid
+rps_lng-HDO130049,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-11,,,,,Certificate Provided :Yes
+rps_lng-HDO130248,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO130248,Electrical,General,Agent,Recieved,,2024-06-01,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO130248,Gas,General,Agent,Recieved,,2024-05-31,,,,,Gas Check :Valid
+rps_lng-HDO130248,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-01,,,,,Certificate Provided :Yes
+rps_lng-HDO130248,LL Insurance,General,Agent,Recieved,,2023-06-18,,,,,"LL Policy # :0932062/011, Insurer :EBM Insurance Brokers"
+rps_lng-HDO140009,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-HDO140009,Electrical,General,Agent,Recieved,,2025-06-23,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO140009,Gas,General,Agent,Recieved,,2025-05-23,,,,,Gas Check :Valid
+rps_lng-HDO140009,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-23,,,,,Certificate Provided :Yes
+rps_lng-HDO140026,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO140026,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO140026,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-01,,,,,Certificate Provided :Yes
+rps_lng-HDO140041,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO140041,Electrical,General,Agent,Recieved,,2025-02-20,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO140041,Gas,General,Agent,Recieved,,2025-05-01,,,,,Gas Check :Valid
+rps_lng-HDO140041,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-19,,,,,Certificate Provided :Yes
+rps_lng-HDO140044,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO140044,Electrical,General,Agent,Recieved,,2025-07-21,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO140044,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO140044,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-21,,,,,Certificate Provided :Yes
+rps_lng-HDO150004,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Both emailed"
+rps_lng-HDO150004,Electrical,General,Agent,Recieved,,2025-06-26,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO150004,Gas,General,Agent,Recieved,,2025-07-06,,,,,Gas Check :Valid
+rps_lng-HDO150004,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-17,,,,,Certificate Provided :No
+rps_lng-HDO150011,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO150011,Electrical,General,Agent,Recieved,,2025-05-02,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO150011,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO150011,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-02,,,,,Certificate Provided :Yes
+rps_lng-HDO150017,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO150017,Electrical,General,Agent,Recieved,,2025-05-11,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO150017,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO150017,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-11,,,,,Certificate Provided :Yes
+rps_lng-HDO150022,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO150022,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO150022,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-27,,,,,Certificate Provided :Yes
+rps_lng-HDO150030,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO150030,Electrical,General,Agent,Recieved,,2025-03-18,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO150030,Gas,General,Agent,Recieved,,2025-05-08,,,,,Gas Check :Valid
+rps_lng-HDO150030,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-18,,,,,Certificate Provided :Yes
+rps_lng-HDO150030,Building Insurance,General,Agent,Recieved,,2023-12-16,,,,,"Policy # :1299759/004, RACV EHA :none, Insurer :EBM Insurance Brokers"
+rps_lng-HDO150038,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO150038,Gas,General,Agent,Recieved,,2025-04-28,,,,,Gas Check :Valid
+rps_lng-HDO150038,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-07-06,,,,,Certificate Provided :No
+rps_lng-HDO150046,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO150046,Electrical,General,Agent,Recieved,,2024-12-21,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO150046,Gas,General,Agent,Recieved,,2024-12-19,,,,,Gas Check :Valid
+rps_lng-HDO150046,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-15,,,,,Certificate Provided :Yes
+rps_lng-HDO150053,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO150053,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO150053,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-23,,,,,Certificate Provided :No
+rps_lng-HDO150063,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO150063,Electrical,General,Agent,Recieved,,2025-03-03,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO150063,Gas,General,Agent,Recieved,,2025-03-03,,,,,Gas Check :Valid
+rps_lng-HDO150063,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-03,,,,,Certificate Provided :Yes
+rps_lng-HDO150063,LL Insurance,General,Agent,Recieved,,2023-07-09,,,,,"LL Policy # :1068854/009, Insurer :EBM Insurance Brokers"
+rps_lng-HDO160004,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO160004,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO160004,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-06,,,,,Certificate Provided :Yes
+rps_lng-HDO160004,LL Insurance,General,Agent,Recieved,,2024-03-15,,,,,"LL Policy # :TS0741627LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO160020,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO160020,Electrical,General,Agent,Recieved,,2024-12-09,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO160020,Gas,General,Agent,Recieved,,2024-12-09,,,,,Gas Check :Valid
+rps_lng-HDO160020,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-06,,,,,Certificate Provided :Yes
+rps_lng-HDO160024,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO160024,Electrical,General,Agent,Recieved,,2025-07-01,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO160024,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO160024,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-01,,,,,Certificate Provided :Yes
+rps_lng-HDO160048,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO160048,Gas,General,Agent,Recieved,,2025-07-25,,,,,Gas Check :Valid
+rps_lng-HDO160048,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-25,,,,,Certificate Provided :Yes
+rps_lng-HDO170001,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO170001,Electrical,General,Agent,Recieved,,2024-05-10,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO170001,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO170001,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-26,,,,,Certificate Provided :Yes
+rps_lng-HDO170004,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO170004,Electrical,General,Agent,Recieved,,2025-03-08,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO170004,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO170004,Smoke,SmokeAlarm_Unknown,Owner,Recieved,,2024-03-08,,,,,Certificate Provided :Yes
+rps_lng-HDO170020,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO170020,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO170020,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-18,,,,,Certificate Provided :No
+rps_lng-HDO170028,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO170028,Electrical,General,Agent,Recieved,,2025-02-21,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO170028,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO170028,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-17,,,,,Certificate Provided :Yes
+rps_lng-HDO170073,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO170073,Electrical,General,Agent,Recieved,,2025-03-02,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO170073,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO170073,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-22,,,,,Certificate Provided :No
+rps_lng-HDO170074,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO170074,Electrical,General,Agent,Recieved,,2025-04-04,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO170074,Gas,General,Agent,Recieved,,2025-07-04,,,,,Gas Check :Valid
+rps_lng-HDO170074,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-04,,,,,Certificate Provided :Yes
+rps_lng-HDO230056,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO230056,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO170231,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO170231,Electrical,General,Agent,Recieved,,2025-06-30,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO170231,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO170231,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-30,,,,,Certificate Provided :Yes
+rps_lng-HDO170231,LL Insurance,General,Agent,Recieved,,2023-12-17,,,,,"LL Policy # :1460616/002, Insurer :EBM Insurance Brokers"
+rps_lng-HDO170235,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO170235,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO170235,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-05-02,,,,,Certificate Provided :No
+rps_lng-HDO180001,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO180001,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO180001,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-02,,,,,Certificate Provided :No
+rps_lng-HDO180001,LL Insurance,General,Agent,Recieved,,2024-01-11,,,,,"LL Policy # :TS1328367LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO180003,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Gas emailed"
+rps_lng-HDO180003,Electrical,General,Agent,Recieved,,2024-05-02,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO180003,Gas,General,Agent,Recieved,,2025-03-15,,,,,Gas Check :Valid
+rps_lng-HDO180003,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-16,,,,,Certificate Provided :Yes
+rps_lng-HDO180003,LL Insurance,General,Agent,Recieved,,2023-05-23,,,,,"LL Policy # :1340853/003, Insurer :EBM Insurance Brokers"
+rps_lng-HDO180012,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO180012,Electrical,General,Agent,Recieved,,2024-05-02,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO180012,Gas,General,Agent,Recieved,,2024-05-02,,,,,Gas Check :Valid
+rps_lng-HDO180012,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-20,,,,,Certificate Provided :Yes
+rps_lng-HDO180028,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO180028,Electrical,General,Agent,Recieved,,2025-07-05,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO180028,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO180028,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-05,,,,,Certificate Provided :Yes
+rps_lng-HDO180030,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Gas emailed"
+rps_lng-HDO180030,Electrical,General,Agent,Recieved,,2025-01-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO180030,Gas,General,Agent,Recieved,,2025-07-22,,,,,Gas Check :Valid
+rps_lng-HDO180030,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-24,,,,,Certificate Provided :Yes
+rps_lng-HDO180055,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO180055,Electrical,General,Agent,Recieved,,2025-02-09,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO180055,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO180055,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-09,,,,,Certificate Provided :No
+rps_lng-HDO180135,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO180135,Electrical,General,Agent,Recieved,,2025-06-07,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO180135,Gas,General,Agent,Recieved,,2025-07-07,,,,,Gas Check :Valid
+rps_lng-HDO180135,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-07,,,,,Certificate Provided :Yes
+rps_lng-HDO190007,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190007,Electrical,General,Agent,Recieved,,2025-06-26,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190007,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190007,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-27,,,,,Certificate Provided :Yes
+rps_lng-HDO190063,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-HDO190063,Electrical,General,Agent,Recieved,,2025-06-09,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190063,Gas,General,Agent,Recieved,,2025-07-12,,,,,Gas Check :Valid
+rps_lng-HDO190063,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-09,,,,,Certificate Provided :Yes
+rps_lng-HDO190066,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190066,Electrical,General,Agent,Recieved,,2024-01-28,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190066,Gas,General,Agent,Recieved,,2024-01-28,,,,,Gas Check :Valid
+rps_lng-HDO190066,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-13,,,,,Certificate Provided :Yes
+rps_lng-HDO190067,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190067,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190067,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2022-03-05,,,,,Certificate Provided :No
+rps_lng-HDO190075,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190075,Electrical,General,Agent,Recieved,,2024-05-19,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190075,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO190075,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-08,,,,,Certificate Provided :Yes
+rps_lng-HDO190076,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190076,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO190076,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-06,,,,,Certificate Provided :Yes
+rps_lng-HDO190083,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190083,Electrical,General,Agent,Recieved,,2025-06-01,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190083,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190083,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-01,,,,,Certificate Provided :Yes
+rps_lng-HDO190083,LL Insurance,General,Agent,Recieved,,2024-03-16,,,,,"LL Policy # :TS0141332LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO190091,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190091,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190091,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-18,,,,,Certificate Provided :Yes
+rps_lng-HDO190115,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190115,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190115,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-05-17,,,,,Certificate Provided :No
+rps_lng-HDO190122,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190122,Gas,General,Agent,Recieved,,2025-02-24,,,,,Gas Check :Valid
+rps_lng-HDO190122,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-18,,,,,Certificate Provided :Yes
+rps_lng-HDO190126,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190126,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190126,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-31,,,,,Certificate Provided :Yes
+rps_lng-HDO190133,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Electric emailed"
+rps_lng-HDO190133,Electrical,General,Agent,Recieved,,2025-06-16,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190133,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190133,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-16,,,,,Certificate Provided :Yes
+rps_lng-HDO190134,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190134,Electrical,General,Agent,Recieved,,2025-07-14,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190134,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190134,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-14,,,,,Certificate Provided :Yes
+rps_lng-HDO190134,LL Insurance,General,Agent,Recieved,,2024-03-19,,,,,"LL Policy # :1400814/003, Insurer :EBM Insurance Brokers"
+rps_lng-HDO190140,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190140,Electrical,General,Agent,Recieved,,2025-02-16,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190140,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO190140,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-11,,,,,Certificate Provided :Yes
+rps_lng-HDO190172,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190172,Electrical,General,Agent,Recieved,,2023-11-26,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO190172,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190172,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-23,,,,,Certificate Provided :No
+rps_lng-HDO190174,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO190174,Gas,General,Agent,Recieved,,2025-07-26,,,,,Gas Check :Valid
+rps_lng-HDO190174,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-13,,,,,Certificate Provided :Yes
+rps_lng-HDO190175,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190175,Electrical,General,Agent,Recieved,,2024-02-21,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO190175,Gas,General,Agent,Recieved,,2024-02-21,,,,,Gas Check :Valid
+rps_lng-HDO190175,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-02-21,,,,,Certificate Provided :Yes
+rps_lng-HDO190182,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190182,Electrical,General,Agent,Recieved,,2025-02-14,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190182,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190182,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-02,,,,,Certificate Provided :No
+rps_lng-HDO190184,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190184,Electrical,General,Agent,Recieved,,2025-02-08,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190184,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190184,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-28,,,,,Certificate Provided :No
+rps_lng-HDO190201,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190201,Electrical,General,Agent,Recieved,,2025-05-29,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190201,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO190201,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-29,,,,,Certificate Provided :Yes
+rps_lng-HDO190208,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190208,Electrical,General,Agent,Recieved,,2025-06-16,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190208,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190208,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-16,,,,,Certificate Provided :Yes
+rps_lng-HDO190208,LL Insurance,General,Agent,Recieved,,2023-12-21,,,,,"LL Policy # :1512207/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO190214,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190214,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO190214,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-05,,,,,Certificate Provided :Yes
+rps_lng-HDO190229,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190229,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190229,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-16,,,,,Certificate Provided :No
+rps_lng-HDO190264,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190264,Electrical,General,Agent,Recieved,,2025-05-26,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190264,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190264,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-26,,,,,Certificate Provided :Yes
+rps_lng-HDO190265,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190265,Electrical,General,Agent,Recieved,,2024-01-21,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190265,Gas,General,Agent,Recieved,,2024-01-24,,,,,Gas Check :Valid
+rps_lng-HDO190265,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-19,,,,,Certificate Provided :No
+rps_lng-HDO190265,LL Insurance,General,Agent,Recieved,,2023-08-09,,,,,"LL Policy # :TS0678653LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO190267,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190267,Electrical,General,Agent,Recieved,,2024-04-12,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO190267,Gas,General,Agent,Recieved,,2024-04-12,,,,,Gas Check :Valid
+rps_lng-HDO190267,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-29,,,,,Certificate Provided :Yes
+rps_lng-HDO190289,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190289,Electrical,General,Agent,Recieved,,2025-07-06,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190289,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190289,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-06,,,,,Certificate Provided :Yes
+rps_lng-HDO190320,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-HDO190320,Electrical,General,Agent,Recieved,,2025-07-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190320,Gas,General,Agent,Recieved,,2025-07-26,,,,,Gas Check :Valid
+rps_lng-HDO190320,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-24,,,,,Certificate Provided :Yes
+rps_lng-HDO190321,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190321,Electrical,General,Agent,Recieved,,2023-09-21,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO190321,Gas,General,Agent,Recieved,,2023-09-21,,,,,Gas Check :Valid
+rps_lng-HDO190321,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-08,,,,,Certificate Provided :No
+rps_lng-HDO190329,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO190329,Electrical,General,Agent,Recieved,,2025-02-16,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190329,Gas,General,Agent,Recieved,,2025-07-26,,,,,Gas Check :Valid
+rps_lng-HDO190329,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-16,,,,,Certificate Provided :Yes
+rps_lng-HDO190329,Building Insurance,General,Agent,Recieved,,2023-10-28,,,,,"Policy # :60TS20275HPK, RACV EHA :none, Insurer :Terri Scheer Insurance Pty Ltd"
+rps_lng-HDO190329,LL Insurance,General,Agent,Recieved,,2023-10-28,,,,,"LL Policy # :TS0158536LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO190398,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190398,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO190398,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-11,,,,,Certificate Provided :Yes
+rps_lng-HDO190507,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190507,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190507,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-26,,,,,Certificate Provided :No
+rps_lng-HDO190507,LL Insurance,General,Agent,Recieved,,2023-08-30,,,,,"LL Policy # :TS0289022LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO190510,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190510,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190510,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-07,,,,,Certificate Provided :No
+rps_lng-HDO190529,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190529,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-06,,,,,Certificate Provided :Yes
+rps_lng-HDO190529,LL Insurance,General,Agent,Recieved,,2024-02-04,,,,,"LL Policy # :P040611, Insurer :Property Insurance Plus, BPAY"
+rps_lng-HDO190539,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190539,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-28,,,,,Certificate Provided :Yes
+rps_lng-HDO190542,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190542,Electrical,General,Agent,Recieved,,2023-10-25,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190542,Gas,General,Agent,Recieved,,2023-10-25,,,,,Gas Check :Valid
+rps_lng-HDO190542,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-07,,,,,Certificate Provided :Yes
+rps_lng-HDO190542,LL Insurance,General,Agent,Recieved,,2023-12-05,,,,,"LL Policy # :1320369323LLP, Insurer :Marsh Advantage  Insurance"
+rps_lng-HDO190540,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190540,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190540,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-09,,,,,Certificate Provided :Yes
+rps_lng-HDO190540,LL Insurance,General,Agent,Recieved,,2023-12-05,,,,,"LL Policy # :1320369321LLP, Insurer :Marsh Advantage  Insurance"
+rps_lng-HDO190548,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190548,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190548,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-21,,,,,Certificate Provided :Yes
+rps_lng-HDO190552,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190552,Gas,General,Agent,Recieved,,2025-07-04,,,,,Gas Check :Valid
+rps_lng-HDO190552,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-13,,,,,Certificate Provided :Yes
+rps_lng-HDO190581,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190581,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190581,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-10,,,,,Certificate Provided :Yes
+rps_lng-HDO190587,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190587,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190587,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-14,,,,,Certificate Provided :No
+rps_lng-HDO190592,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO190592,Electrical,General,Agent,Recieved,,2025-05-03,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190592,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190592,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-03,,,,,Certificate Provided :Yes
+rps_lng-HDO190608,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190608,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190608,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-03,,,,,Certificate Provided :No
+rps_lng-HDO190628,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190628,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190628,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-05-19,,,,,Certificate Provided :No
+rps_lng-HDO190630,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190630,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190630,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-14,,,,,Certificate Provided :Yes
+rps_lng-HDO190630,LL Insurance,General,Agent,Recieved,,2023-11-01,,,,,"LL Policy # :P038659, Insurer :Property Insurance Plus, ABA"
+rps_lng-HDO190634,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190634,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO190634,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-03,,,,,Certificate Provided :No
+rps_lng-HDO190685,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190685,Gas,General,Agent,Recieved,,2025-05-17,,,,,Gas Check :Valid
+rps_lng-HDO190685,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-08-03,,,,,Certificate Provided :Yes
+rps_lng-HDO190685,LL Insurance,General,Agent,Recieved,,2024-03-24,,,,,"LL Policy # :TS1697782LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO190917,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190917,Electrical,General,Agent,Recieved,,2025-05-09,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO190917,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190917,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-09,,,,,Certificate Provided :Yes
+rps_lng-HDO190952,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO190952,Gas,General,Agent,Recieved,,2025-03-04,,,,,Gas Check :Valid
+rps_lng-HDO190952,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-18,,,,,Certificate Provided :Yes
+rps_lng-HDO190959,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO190959,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO190959,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-16,,,,,Certificate Provided :Yes
+rps_lng-HDO191014,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Both emailed"
+rps_lng-HDO191014,Electrical,General,Agent,Recieved,,2025-05-25,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO191014,Gas,General,Agent,Recieved,,2025-07-11,,,,,Gas Check :Valid
+rps_lng-HDO191014,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-25,,,,,Certificate Provided :Yes
+rps_lng-HDO191133,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO191133,Electrical,General,Agent,Recieved,,2025-04-05,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO191133,Gas,General,Agent,Recieved,,2025-02-23,,,,,Gas Check :Valid
+rps_lng-HDO191133,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-05,,,,,Certificate Provided :Yes
+rps_lng-HDO191133,LL Insurance,General,Agent,Recieved,,2023-12-17,,,,,"LL Policy # :1460623/002, Insurer :EBM Insurance Brokers"
+rps_lng-HDO191134,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO191134,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-26,,,,,Certificate Provided :Yes
+rps_lng-HDO191147,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-HDO191147,Electrical,General,Agent,Recieved,,2025-05-11,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO191147,Gas,General,Agent,Recieved,,2025-05-17,,,,,Gas Check :Valid
+rps_lng-HDO191147,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-11,,,,,Certificate Provided :Yes
+rps_lng-HDO191147,LL Insurance,General,Agent,Recieved,,2023-07-25,,,,,"LL Policy # :TS0243599LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO191230,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Gas emailed"
+rps_lng-HDO191230,Electrical,General,Agent,Recieved,,2025-05-31,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO191230,Gas,General,Agent,Recieved,,2025-07-11,,,,,Gas Check :Valid
+rps_lng-HDO191230,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-31,,,,,Certificate Provided :Yes
+rps_lng-HDO191230,LL Insurance,General,Agent,Recieved,,2023-11-13,,,,,"LL Policy # :TS0970495LPP, Insurer :Terri  Scheer Insurance Pty Ltd"
+rps_lng-HDO191272,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO191272,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO191272,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-05,,,,,Certificate Provided :Yes
+rps_lng-HDO191272,LL Insurance,General,Agent,Recieved,,2023-08-06,,,,,"LL Policy # :06L 7362153 15, Insurer :CGU Insurance"
+rps_lng-HDO200014,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200014,Electrical,General,Agent,Recieved,,2024-05-16,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO200014,Gas,General,Agent,Recieved,,2024-05-11,,,,,Gas Check :Valid
+rps_lng-HDO200014,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-20,,,,,Certificate Provided :Yes
+rps_lng-HDO200075,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO200075,Gas,General,Agent,Recieved,,2025-07-26,,,,,Gas Check :Valid
+rps_lng-HDO200075,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-01,,,,,Certificate Provided :Yes
+rps_lng-HDO200076,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO200076,Electrical,General,Agent,Recieved,,2024-05-10,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO200076,Gas,General,Agent,Recieved,,2024-09-02,,,,,Gas Check :Valid
+rps_lng-HDO200076,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-06,,,,,Certificate Provided :No
+rps_lng-HDO200113,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-HDO200113,Electrical,General,Agent,Recieved,,2025-05-31,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO200113,Gas,General,Agent,Recieved,,2025-05-23,,,,,Gas Check :Valid
+rps_lng-HDO200113,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-31,,,,,Certificate Provided :Yes
+rps_lng-HDO200164,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200164,Electrical,General,Agent,Recieved,,2025-01-18,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO200164,Gas,General,Agent,Recieved,,2025-01-18,,,,,Gas Check :Valid
+rps_lng-HDO200164,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-09,,,,,Certificate Provided :No
+rps_lng-HDO200164,LL Insurance,General,Agent,Recieved,,2023-04-06,,,,,"LL Policy # :1477279/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO200296,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200296,Electrical,General,Agent,Recieved,,2024-05-10,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO200296,Gas,General,Agent,Recieved,,2024-07-15,,,,,Gas Check :Valid
+rps_lng-HDO200296,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-15,,,,,Certificate Provided :Yes
+rps_lng-HDO200325,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200325,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO200325,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2021-11-06,,,,,Certificate Provided :No
+rps_lng-HDO200325,LL Insurance,General,Agent,Recieved,,2023-12-16,,,,,"LL Policy # :1511286/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO200391,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200391,Electrical,General,Agent,Recieved,,2025-05-08,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO200391,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO200391,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-08,,,,,Certificate Provided :Yes
+rps_lng-HDO200430,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200430,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO200430,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2022-03-02,,,,,Certificate Provided :No
+rps_lng-HDO200430,LL Insurance,General,Agent,Recieved,,2024-02-04,,,,,"LL Policy # :1460667/002, Insurer :EBM Insurance Brokers"
+rps_lng-HDO200434,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO200434,Gas,General,Agent,Recieved,,2025-05-31,,,,,Gas Check :Valid
+rps_lng-HDO200434,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-09,,,,,Certificate Provided :No
+rps_lng-HDO200434,LL Insurance,General,Agent,Recieved,,2023-04-25,,,,,"LL Policy # :11287733301, Insurer :Auto & General Insurance Company Limited"
+rps_lng-HDO210031,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210031,Electrical,General,Agent,Recieved,,2024-05-16,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO210031,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210031,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-07-11,,,,,Certificate Provided :No
+rps_lng-HDO210031,Building Insurance,General,Agent,Recieved,,2024-03-12,,,,,"Policy # :1517883/004, RACV EHA :none, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210031,LL Insurance,General,Agent,Recieved,,2023-03-12,,,,,"LL Policy # :1464117/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210036,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210036,Electrical,General,Agent,Recieved,,2025-04-29,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210036,Gas,General,Agent,Recieved,,2025-04-26,,,,,Gas Check :Valid
+rps_lng-HDO210036,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-29,,,,,Certificate Provided :Yes
+rps_lng-HDO210068,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210068,Electrical,General,Agent,Recieved,,2024-05-10,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210068,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO210068,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-07-19,,,,,Certificate Provided :No
+rps_lng-HDO210068,LL Insurance,General,Agent,Recieved,,2024-02-16,,,,,"LL Policy # :P096645, Insurer :Property Insurance Plus, BPAY"
+rps_lng-HDO210078,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO210078,Gas,General,Agent,Recieved,,2025-05-10,,,,,Gas Check :Valid
+rps_lng-HDO210078,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-07-06,,,,,Certificate Provided :Yes
+rps_lng-HDO210112,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210112,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-16,,,,,Certificate Provided :Yes
+rps_lng-HDO210112,LL Insurance,General,Agent,Recieved,,2023-04-19,,,,,"LL Policy # :1469768/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210218,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210218,Electrical,General,Agent,Recieved,,2024-06-23,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210218,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210218,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-07-15,,,,,Certificate Provided :Yes
+rps_lng-HDO210224,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO210224,Gas,General,Agent,Recieved,,2025-07-25,,,,,Gas Check :Valid
+rps_lng-HDO210224,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-30,,,,,Certificate Provided :Yes
+rps_lng-HDO210224,LL Insurance,General,Agent,Recieved,,2023-08-09,,,,,"LL Policy # :1489893/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210226,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210226,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210226,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-31,,,,,Certificate Provided :No
+rps_lng-HDO210242,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210242,Electrical,General,Agent,Recieved,,2025-04-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210242,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO210242,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-24,,,,,Certificate Provided :Yes
+rps_lng-HDO210271,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210271,Electrical,General,Agent,Recieved,,2023-10-07,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210271,Gas,General,Agent,Recieved,,2023-11-12,,,,,Gas Check :Valid
+rps_lng-HDO210271,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-19,,,,,Certificate Provided :No
+rps_lng-HDO210271,LL Insurance,General,Agent,Recieved,,2023-08-09,,,,,"LL Policy # :1489791/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210307,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO210307,Electrical,General,Agent,Recieved,,2023-09-23,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO210307,Gas,General,Agent,Recieved,,2023-09-23,,,,,Gas Check :Valid
+rps_lng-HDO210307,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-30,,,,,Certificate Provided :Yes
+rps_lng-HDO210320,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210320,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210320,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-04-26,,,,,Certificate Provided :No
+rps_lng-HDO210327,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210327,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210327,LL Insurance,General,Agent,Recieved,,2024-01-04,,,,,"LL Policy # :1510344/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210330,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210330,Electrical,General,Agent,Recieved,,2023-09-21,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO210330,Gas,General,Agent,Recieved,,2023-09-21,,,,,Gas Check :Valid
+rps_lng-HDO210330,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-12,,,,,Certificate Provided :Yes
+rps_lng-HDO210330,LL Insurance,General,Agent,Recieved,,2023-12-23,,,,,"LL Policy # :1511849/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210334,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO210334,Gas,General,Agent,Recieved,,2025-07-04,,,,,Gas Check :Valid
+rps_lng-HDO210334,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-06,,,,,Certificate Provided :No
+rps_lng-HDO210354,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210354,Electrical,General,Agent,Recieved,,2023-10-20,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210354,Gas,General,Agent,Recieved,,2023-10-20,,,,,Gas Check :Valid
+rps_lng-HDO210354,Pool,General,Agent,Recieved,,,,,,,Pool Check :nan
+rps_lng-HDO210354,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-21,,,,,Certificate Provided :Yes
+rps_lng-HDO210408,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210408,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210408,LL Insurance,General,Agent,Recieved,,2023-12-21,,,,,"LL Policy # :1512207/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210413,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210413,Electrical,General,Agent,Recieved,,2023-12-14,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210413,Gas,General,Agent,Recieved,,2023-12-22,,,,,Gas Check :Valid
+rps_lng-HDO210436,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210436,Electrical,General,Agent,Recieved,,2023-11-05,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO210436,Gas,General,Agent,Recieved,,2023-11-29,,,,,Gas Check :Valid
+rps_lng-HDO210436,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2022-11-05,,,,,Certificate Provided :Yes
+rps_lng-HDO210436,LL Insurance,General,Agent,Recieved,,2024-03-31,,,,,"LL Policy # :1527176/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210442,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Electric emailed"
+rps_lng-HDO210442,Electrical,General,Agent,Recieved,,2025-06-08,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210442,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO210442,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-08,,,,,Certificate Provided :Yes
+rps_lng-HDO210452,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210452,Electrical,General,Agent,Recieved,,2025-02-14,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210452,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO210452,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-06,,,,,Certificate Provided :Yes
+rps_lng-HDO210459,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO210459,Electrical,General,Agent,Recieved,,2024-02-16,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210459,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO210459,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-02-14,,,,,Certificate Provided :Yes
+rps_lng-HDO210459,LL Insurance,General,Agent,Recieved,,2024-01-24,,,,,"LL Policy # :1515720/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210486,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210486,Electrical,General,Agent,Recieved,,2024-05-05,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210486,Gas,General,Agent,Recieved,,2024-05-05,,,,,Gas Check :Valid
+rps_lng-HDO210486,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-22,,,,,Certificate Provided :Yes
+rps_lng-HDO210487,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210498,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210498,Electrical,General,Agent,Recieved,,2024-01-20,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO210498,Gas,General,Agent,Recieved,,2024-02-14,,,,,Gas Check :Valid
+rps_lng-HDO210498,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-01-20,,,,,Certificate Provided :Yes
+rps_lng-HDO210501,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210501,Electrical,General,Agent,Recieved,,2025-01-03,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210501,Gas,General,Agent,Recieved,,2024-12-12,,,,,Gas Check :Valid
+rps_lng-HDO210501,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-02-18,,,,,Certificate Provided :Yes
+rps_lng-HDO210526,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210526,Electrical,General,Agent,Recieved,,2024-02-07,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210526,Gas,General,Agent,Recieved,,2024-02-07,,,,,Gas Check :Valid
+rps_lng-HDO210526,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-03,,,,,Certificate Provided :Yes
+rps_lng-HDO210526,LL Insurance,General,Agent,Recieved,,2024-01-27,,,,,"LL Policy # :1516192/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO210536,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO210536,Electrical,General,Agent,Recieved,,2025-04-05,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO210536,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO210536,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-10,,,,,Certificate Provided :Yes
+rps_lng-HDO220008,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220008,Electrical,General,Agent,Recieved,,2024-05-05,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220008,Gas,General,Agent,Recieved,,2024-07-14,,,,,Gas Check :Valid
+rps_lng-HDO220008,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-01,,,,,Certificate Provided :Yes
+rps_lng-HDO220041,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Both emailed"
+rps_lng-HDO220041,Electrical,General,Agent,Recieved,,2025-06-16,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220041,Gas,General,Agent,Recieved,,2025-07-22,,,,,Gas Check :Valid
+rps_lng-HDO220041,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-16,,,,,Certificate Provided :Yes
+rps_lng-HDO220041,LL Insurance,General,Agent,Recieved,,2024-02-16,,,,,"LL Policy # :1520279/001, Insurer :EBM Insurance Brokers"
+rps_lng-HDO220056,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220056,Electrical,General,Agent,Recieved,,2024-11-23,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220056,Gas,General,Agent,Recieved,,2024-11-29,,,,,Gas Check :Valid
+rps_lng-HDO220112,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220112,Electrical,General,Agent,Recieved,,2024-04-04,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220112,Gas,General,Agent,Recieved,,2024-05-04,,,,,Gas Check :Valid
+rps_lng-HDO220112,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-04-04,,,,,Certificate Provided :Yes
+rps_lng-HDO220112,Building Insurance,General,Agent,Recieved,,2023-10-14,,,,,"Policy # :HPL122755276, RACV EHA :none, Insurer :AAMI Insurance"
+rps_lng-HDO220131,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220131,Electrical,General,Agent,Recieved,,2024-05-04,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220131,Gas,General,Agent,Recieved,,2024-05-31,,,,,Gas Check :Valid
+rps_lng-HDO220131,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-26,,,,,Certificate Provided :No
+rps_lng-HDO220143,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220143,Electrical,General,Agent,Recieved,,2025-03-30,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220143,Gas,General,Agent,Recieved,,2025-03-28,,,,,Gas Check :Valid
+rps_lng-HDO220143,Pool,General,Agent,Recieved,,,,,,,Pool Check :nan
+rps_lng-HDO220143,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-22,,,,,Certificate Provided :Yes
+rps_lng-HDO220153,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220153,Electrical,General,Agent,Recieved,,2024-09-09,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220153,Gas,General,Agent,Recieved,,2024-08-12,,,,,Gas Check :Valid
+rps_lng-HDO220153,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-17,,,,,Certificate Provided :Yes
+rps_lng-HDO220153,Building Insurance,General,Agent,Recieved,,2023-04-04,,,,,"Policy # :P04042200147, RACV EHA :none, Insurer :nan"
+rps_lng-HDO220183,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220183,Electrical,General,Agent,Recieved,,2024-07-29,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220183,Gas,General,Agent,Recieved,,2024-08-03,,,,,Gas Check :Valid
+rps_lng-HDO220217,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220217,Electrical,General,Agent,Recieved,,2024-04-11,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220217,Gas,General,Agent,Recieved,,2024-04-04,,,,,Gas Check :Valid
+rps_lng-HDO220217,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-04-11,,,,,Certificate Provided :Yes
+rps_lng-HDO220224,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220224,Electrical,General,Agent,Recieved,,2024-03-10,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220224,Gas,General,Agent,Recieved,,2024-04-07,,,,,Gas Check :Valid
+rps_lng-HDO220224,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-10,,,,,Certificate Provided :Yes
+rps_lng-HDO220224,LL Insurance,General,Agent,Recieved,,2023-05-30,,,,,"LL Policy # :34-PL26127-HHH, Insurer :QBE Insurance Aus Pty Ltd"
+rps_lng-HDO220225,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220225,Electrical,General,Agent,Recieved,,2024-04-20,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220225,Gas,General,Agent,Recieved,,2024-03-22,,,,,Gas Check :Valid
+rps_lng-HDO220225,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-22,,,,,Certificate Provided :Yes
+rps_lng-HDO220225,LL Insurance,General,Agent,Recieved,,2023-05-31,,,,,"LL Policy # :34-PL26127-HHH, Insurer :EBM Insurance Brokers"
+rps_lng-HDO220250,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220250,Electrical,General,Agent,Recieved,,2024-10-25,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220250,Gas,General,Agent,Recieved,,2024-10-25,,,,,Gas Check :Valid
+rps_lng-HDO220250,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-10-25,,,,,Certificate Provided :Yes
+rps_lng-HDO220251,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220251,Gas,General,Agent,Recieved,,2024-02-01,,,,,Gas Check :Valid
+rps_lng-HDO220251,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-29,,,,,Certificate Provided :Yes
+rps_lng-HDO220268,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220268,Electrical,General,Agent,Recieved,,2024-11-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220268,Gas,General,Agent,Recieved,,2024-11-03,,,,,Gas Check :Valid
+rps_lng-HDO220268,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-02-03,,,,,Certificate Provided :Yes
+rps_lng-HDO220268,LL Insurance,General,Agent,Recieved,,2023-08-24,,,,,"LL Policy # :1554453/000, Insurer :EBM Insurance Brokers"
+rps_lng-HDO220273,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220273,Gas,General,Agent,Recieved,,2024-07-01,,,,,Gas Check :Valid
+rps_lng-HDO220296,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220296,Electrical,General,Agent,Recieved,,2024-03-02,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220296,Gas,General,Agent,Recieved,,2024-03-21,,,,,Gas Check :Valid
+rps_lng-HDO220296,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-03-02,,,,,Certificate Provided :Yes
+rps_lng-HDO220304,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220304,Electrical,General,Agent,Recieved,,2024-04-22,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220304,Gas,General,Agent,Recieved,,2024-03-17,,,,,Gas Check :Valid
+rps_lng-HDO220304,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-04-22,,,,,Certificate Provided :Yes
+rps_lng-HDO220337,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Both emailed"
+rps_lng-HDO220337,Electrical,General,Agent,Recieved,,2025-06-21,,,,,"Electrical Check :Valid, Ordered :Yes"
+rps_lng-HDO220337,Gas,General,Agent,Recieved,,2025-07-21,,,,,Gas Check :Valid
+rps_lng-HDO220337,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-06-21,,,,,Certificate Provided :Yes
+rps_lng-HDO220363,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220363,Electrical,General,Agent,Recieved,,2024-10-13,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220363,Gas,General,Agent,Recieved,,2024-12-02,,,,,Gas Check :Valid
+rps_lng-HDO220363,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-08-01,,,,,Certificate Provided :Yes
+rps_lng-HDO220383,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :Gas emailed"
+rps_lng-HDO220383,Gas,General,Agent,Recieved,,2025-05-25,,,,,Gas Check :Valid
+rps_lng-HDO220383,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-20,,,,,Certificate Provided :No
+rps_lng-HDO220384,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220384,Electrical,General,Agent,Recieved,,2024-02-18,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220384,Gas,General,Agent,Recieved,,2024-02-11,,,,,Gas Check :Valid
+rps_lng-HDO220408,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO220408,Electrical,General,Agent,Recieved,,2025-04-19,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220408,Gas,General,Agent,Recieved,,2025-07-25,,,,,Gas Check :Valid
+rps_lng-HDO220408,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-19,,,,,Certificate Provided :Yes
+rps_lng-HDO220465,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220465,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO220465,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-02,,,,,Certificate Provided :Yes
+rps_lng-HDO220468,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220468,Electrical,General,Agent,Recieved,,2024-07-01,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220468,Gas,General,Agent,Recieved,,2024-06-15,,,,,Gas Check :Valid
+rps_lng-HDO220468,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-10-20,,,,,Certificate Provided :No
+rps_lng-HDO220471,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220471,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO220471,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-03-02,,,,,Certificate Provided :Yes
+rps_lng-HDO220479,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220479,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO220482,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220482,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO220483,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220483,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO220483,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-03,,,,,Certificate Provided :No
+rps_lng-HDO220483,LL Insurance,General,Agent,Recieved,,2023-05-31,,,,,"LL Policy # :118802999, Insurer :Budget Direct"
+rps_lng-HDO220504,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220504,Electrical,General,Agent,Recieved,,2024-09-07,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220504,Gas,General,Agent,Recieved,,2024-08-01,,,,,Gas Check :Valid
+rps_lng-HDO220504,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-07,,,,,Certificate Provided :Yes
+rps_lng-HDO220524,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220524,Electrical,General,Agent,Recieved,,2024-12-02,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220524,Gas,General,Agent,Recieved,,2024-12-02,,,,,Gas Check :Valid
+rps_lng-HDO220524,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-02,,,,,Certificate Provided :Yes
+rps_lng-HDO220537,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220537,Electrical,General,Agent,Recieved,,2024-10-03,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220537,Gas,General,Agent,Recieved,,2024-08-31,,,,,Gas Check :Valid
+rps_lng-HDO220537,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-31,,,,,Certificate Provided :Yes
+rps_lng-HDO220543,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220543,Gas,General,Agent,Recieved,,,,,,,Gas Check :nan
+rps_lng-HDO220543,LL Insurance,General,Agent,Recieved,,2023-10-24,,,,,"LL Policy # :1564585/000, Insurer :EBM Insurance Brokers"
+rps_lng-HDO220578,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220578,Electrical,General,Agent,Recieved,,2024-09-08,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220578,Gas,General,Agent,Recieved,,2024-09-20,,,,,Gas Check :Valid
+rps_lng-HDO220578,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-09-08,,,,,Certificate Provided :Yes
+rps_lng-HDO220585,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220585,Electrical,General,Agent,Recieved,,2024-10-24,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO220585,Gas,General,Agent,Recieved,,2024-02-08,,,,,Gas Check :Valid
+rps_lng-HDO220585,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-10-24,,,,,Certificate Provided :Yes
+rps_lng-HDO220594,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220594,Electrical,General,Agent,Recieved,,2025-01-06,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220594,Gas,General,Agent,Recieved,,2025-02-10,,,,,Gas Check :Valid
+rps_lng-HDO220594,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-06,,,,,Certificate Provided :Yes
+rps_lng-HDO220669,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220669,Electrical,General,Agent,Recieved,,2024-01-20,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220669,Gas,General,Agent,Recieved,,2024-01-20,,,,,Gas Check :Valid
+rps_lng-HDO220669,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-01-24,,,,,Certificate Provided :No
+rps_lng-HDO220671,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220671,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-04-13,,,,,Certificate Provided :No
+rps_lng-HDO220702,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO220702,Electrical,General,Agent,Recieved,,2024-08-08,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220702,Gas,General,Agent,Recieved,,,,,,,Gas Check :Ordered
+rps_lng-HDO220707,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220707,Electrical,General,Agent,Recieved,,2024-12-05,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220707,Gas,General,Agent,Recieved,,2024-11-29,,,,,Gas Check :Valid
+rps_lng-HDO220707,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-05,,,,,Certificate Provided :Yes
+rps_lng-HDO220708,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO220708,Electrical,General,Agent,Recieved,,2024-12-05,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220708,Gas,General,Agent,Recieved,,2024-11-29,,,,,Gas Check :Valid
+rps_lng-HDO220708,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-05,,,,,Certificate Provided :Yes
+rps_lng-HDO230011,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO230011,Electrical,General,Agent,Recieved,,2024-12-05,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO230011,Gas,General,Agent,Recieved,,2024-11-28,,,,,Gas Check :Valid
+rps_lng-HDO230011,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-05,,,,,Certificate Provided :Yes
+rps_lng-HDO220703,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO220703,Electrical,General,Agent,Recieved,,2024-08-09,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO220703,Gas,General,Agent,Recieved,,2025-07-12,,,,,Gas Check :Valid
+rps_lng-HDO230040,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO230040,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO230040,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-24,,,,,Certificate Provided :Yes
+rps_lng-HDO230065,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO230065,Electrical,General,Agent,Recieved,,2024-04-05,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO230065,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO230064,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO230064,Electrical,General,Agent,Recieved,,2024-05-12,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO230064,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-08-08,,,,,Certificate Provided :Yes
+rps_lng-HDO230086,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO230086,Electrical,General,Agent,Recieved,,2024-11-11,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO230086,Gas,General,Agent,Recieved,,2024-12-01,,,,,Gas Check :Valid
+rps_lng-HDO230086,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-11-11,,,,,Certificate Provided :Yes
+rps_lng-HDO230072,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :nan"
+rps_lng-HDO230072,Gas,General,Agent,Recieved,,2025-05-29,,,,,Gas Check :Valid
+rps_lng-HDO230072,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-05-29,,,,,Certificate Provided :Yes
+rps_lng-HDO230187,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO230187,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO230195,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :Completed, Certificates :nan"
+rps_lng-HDO230195,Electrical,General,Agent,Recieved,,2024-12-02,,,,,"Electrical Check :Valid, Ordered :nan"
+rps_lng-HDO230195,Gas,General,Agent,Recieved,,,,,,,Gas Check :Failed
+rps_lng-HDO230195,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2023-12-02,,,,,Certificate Provided :No
+rps_lng-HDO130025,Minimum Standards,General,Agent,Recieved,,,,,,,"Min Standards :None Recorded, Certificates :Gas emailed"
+rps_lng-HDO130025,Electrical,General,Agent,Recieved,,2025-07-10,,,,,"Electrical Check :Valid, Ordered :Completed"
+rps_lng-HDO130025,Gas,General,Agent,Recieved,,2025-06-27,,,,,Gas Check :Valid
+rps_lng-HDO130025,Smoke,SmokeAlarm_Unknown,Agent,Recieved,,2024-07-10,,,,,Certificate Provided :Yes
+rps_lng-HDO130025,Building Insurance,General,Agent,Recieved,,2023-10-02,,,,,"Policy # :1299735/008, RACV EHA :none, Insurer :EBM Insurance Brokers"
