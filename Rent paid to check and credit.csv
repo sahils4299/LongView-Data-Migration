@@ -1,0 +1,1016 @@
+tenancy_id,ID,DateTime,Type,Category,Description,IsCredit,IsDebit,Gross,Net,Balance,VAT,Unallocated,PaymentType,Rent_paid_to,Rent_credit
+rps_lng-CHA190010,rps_lng-HDO23326711,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 1/1A Teague Avenue,False,True,2303.0,2303.0,,,,,31/08/2023,
+rps_lng-CHA190010,rps_lng-HDO23324551,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33137936,True,False,2303.0,2303.0,2303.0,,,,,2303.0
+rps_lng-CHA190047,rps_lng-HDO23331541,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 4/96 Northumberland Road,False,True,2129.0,2129.0,-2129.0,,,,03/09/2023,
+rps_lng-CHA190047,rps_lng-HDO23345113,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 4/96NORTHUMBERLA-1,True,False,2129.0,2129.0,,,,,,0.0
+rps_lng-CVA210047,rps_lng-HDO23327592,2023-07-26T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 16GOWRIESTREET-1,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-CVA210047,rps_lng-HDO23317845,2023-07-26T00:00:00+01:00,Invoice,Rent,Rent from 26/07/2023 to 25/08/2023 for 16 Gowrie Street,False,True,1955.0,1955.0,-1955.0,,,,25/08/2023,
+rps_lng-CVA210051,rps_lng-HDO21135617,2021-04-20T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,2310.0,2310.0,,,,,,0.0
+rps_lng-CVA210051,rps_lng-HDO21065043,2021-03-01T00:00:00+00:00,Invoice,Rent,Rent from 01/03/2021 to 05/03/2021 for 6/23 Edgar Street,False,True,289.32,289.32,-289.32,,,,05/03/2021,
+rps_lng-CVA210061,rps_lng-HDO21419806,2021-11-01T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15/11THEAVENUE-2,True,False,1554.25,1554.25,,,,,,0.0
+rps_lng-CVA210061,rps_lng-HDO21407532,2021-11-01T00:00:00+00:00,Invoice,Rent,Rent from 01/11/2021 to 25/11/2021 for 15/11 The Avenue,False,True,1554.25,1554.25,-1554.25,,,,25/11/2021,
+rps_lng-CVA210063,rps_lng-HDO21116841,2021-04-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1194285,True,False,2564.0,2564.0,,,,,,0.0
+rps_lng-CVA210063,rps_lng-HDO21106052,2021-04-01T00:00:00+01:00,Invoice,Rent,Rent from 01/04/2021 to 30/04/2021 for 1801/1 William Street,False,True,2564.0,2564.0,-2564.0,,,,30/04/2021,
+rps_lng-CVA210069,rps_lng-HDO23316358,2023-07-20T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 7/9DENBIGHROAD,False,True,1738.0,1738.0,-25.0,,,,,0.0
+rps_lng-CVA210069,rps_lng-HDO23354861,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 7/9 Denbigh Road,False,True,1738.0,1738.0,-1763.0,,1738.0,,17/09/2023,
+rps_lng-CVA210093,rps_lng-HDO23337205,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1213381,True,False,2781.0,2781.0,,,,,,0.0
+rps_lng-CVA210093,rps_lng-HDO23325659,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 904/1 Roy Street,False,True,2781.0,2781.0,-2781.0,,,,31/08/2023,
+rps_lng-CVA210098,rps_lng-HDO23337203,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1215799,True,False,1413.0,1413.0,,,,,,0.0
+rps_lng-CVA210098,rps_lng-HDO23325941,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 1/67 Auburn Road,False,True,1413.0,1413.0,-1413.0,,,,31/08/2023,
+rps_lng-CVA210099,rps_lng-HDO23337201,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1215800,True,False,1413.0,1413.0,,,,,,0.0
+rps_lng-CVA210099,rps_lng-HDO23325950,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 2/67 Auburn Road,False,True,1413.0,1413.0,-1413.0,,,,31/08/2023,
+rps_lng-CVA210100,rps_lng-HDO23318330,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 3/67AUBURNROAD,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-CVA210100,rps_lng-HDO23357639,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 3/67 Auburn Road,False,True,1651.0,1651.0,-1651.0,,1651.0,,19/09/2023,
+rps_lng-CVA210102,rps_lng-HDO23337199,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1215806,True,False,1478.0,1478.0,,,,,,0.0
+rps_lng-CVA210102,rps_lng-HDO23325956,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 18/19a Ellesmere Road,False,True,1478.0,1478.0,-1478.0,,,,31/08/2023,
+rps_lng-CVA210105,rps_lng-HDO21465274,2021-12-03T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,2064.0,2064.0,,,,,,0.0
+rps_lng-CVA210105,rps_lng-HDO21141654,2021-05-01T00:00:00+01:00,Invoice,Rent,Rent from 01/05/2021 to 31/05/2021 for 66a Fawkner Street,False,True,2064.0,2064.0,-2064.0,,,,31/05/2021,
+rps_lng-CVA210106,rps_lng-HDO22083511,2022-03-01T00:00:00+00:00,Invoice,Rent,Rent from 01/03/2022 to 10/03/2022 for 1/512 Toorak Road,False,True,1080.0,1080.0,-1080.0,,,,10/03/2022,
+rps_lng-CVA210106,rps_lng-HDO22090751,2022-03-01T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1215819,True,False,1080.0,1080.0,,,,,,0.0
+rps_lng-CVA210108,rps_lng-HDO23345008,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42776450,True,False,2825.0,2825.0,2605.0,,,,,2605.0
+rps_lng-CVA210108,rps_lng-HDO23330963,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 401/69 Victoria Street,False,True,2825.0,2825.0,-220.0,,,,04/09/2023,
+rps_lng-CVA210114,rps_lng-HDO23325932,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 1419/18 Mt Alexander Road,False,True,1870.0,1870.0,-1870.0,,,,31/08/2023,
+rps_lng-CVA210114,rps_lng-HDO23337191,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1419/18MTALEXAND-2,True,False,1870.0,1870.0,,,,,,0.0
+rps_lng-CVA210120,rps_lng-HDO23346850,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33511155,True,False,2695.0,2695.0,-50.0,,,,,0.0
+rps_lng-CVA210120,rps_lng-HDO23326069,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 52 Freeman Street,False,True,2695.0,2695.0,-25.0,,,,31/08/2023,
+rps_lng-CVA210145,rps_lng-HDO23337171,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1217527,True,False,1348.0,1348.0,,,,,,0.0
+rps_lng-CVA210145,rps_lng-HDO23325801,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 3/835 Plenty Road,False,True,1348.0,1348.0,-1348.0,,,,31/08/2023,
+rps_lng-CVA210156,rps_lng-HDO21240277,2021-07-05T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 819/38-70MTALEXA-2,False,True,1630.0,1630.0,-1630.0,,,,,0.0
+rps_lng-CVA210156,rps_lng-HDO21247877,2021-07-08T00:00:00+01:00,Credit Note,Rent,TT vacated,True,False,1630.0,1630.0,,,,,,
+rps_lng-CVA210164,rps_lng-HDO23337059,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1223747,True,False,1738.0,1738.0,-104.53,,,,,0.0
+rps_lng-CVA210164,rps_lng-HDO23325727,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 19/88 Franklin Street,False,True,1738.0,1738.0,-1842.53,,,,31/08/2023,
+rps_lng-CVA210191,rps_lng-HDO23360539,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43130855,True,False,1825.0,1825.0,1825.0,,,,,1825.0
+rps_lng-CVA210191,rps_lng-HDO23354977,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 400/8 Waterview Walk,False,True,1825.0,1825.0,,,,,16/09/2023,
+rps_lng-CVA210207,rps_lng-HDO23242144,2023-06-05T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,150.0,150.0,,,,,,0.0
+rps_lng-CVA210207,rps_lng-HDO23111592,2023-03-18T00:00:00+00:00,Invoice,Rent,Rent from 18/03/2023 to 01/04/2023 for 801/673 La Trobe Street,False,True,803.34,803.34,,,,,01/04/2023,
+rps_lng-CVA210209,rps_lng-HDO23354921,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 902/288 Albert Street,False,True,1912.0,1912.0,-1912.0,,1912.0,,16/09/2023,
+rps_lng-CVA210209,rps_lng-HDO23346623,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 45567062,True,False,398.24,398.24,,,,,,0.0
+rps_lng-CVA210213,rps_lng-HDO23251895,2023-06-18T00:00:00+01:00,Invoice,Rent,Rent from 18/06/2023 to 17/07/2023 for 601/7 Katherine Place,False,True,1521.0,1521.0,-1521.0,,,,17/07/2023,
+rps_lng-CVA210213,rps_lng-HDO23358156,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47260799,True,False,1521.0,1521.0,1521.0,,1521.0,,,1521.0
+rps_lng-CVA210234,rps_lng-HDO21272100,2021-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2021 to 27/08/2021 for 3/27 Kensington Road,False,True,1627.17,1627.17,-1627.17,,,,27/08/2021,
+rps_lng-CVA210234,rps_lng-HDO21282028,2021-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1248037,True,False,1627.17,1627.17,,,,,,0.0
+rps_lng-CVA210240,rps_lng-HDO21141775,2021-05-01T00:00:00+01:00,Invoice,Rent,Rent from 01/05/2021 to 14/05/2021 for 15/43 Caroline Street,False,True,720.33,720.33,,,,,14/05/2021,
+rps_lng-CVA210240,rps_lng-HDO21135139,2021-04-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34914622,True,False,720.33,720.33,720.33,,,,,720.33
+rps_lng-CVA210243,rps_lng-HDO23337025,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1249661,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-CVA210243,rps_lng-HDO23325744,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 14/470 Punt Road,False,True,1673.0,1673.0,-1673.0,,,,31/08/2023,
+rps_lng-CVA210247,rps_lng-HDO23325668,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 121 Holden Street,False,True,4280.0,4280.0,-4520.0,,20.0,,31/08/2023,
+rps_lng-CVA210247,rps_lng-HDO23338906,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34914804,True,False,4280.0,4280.0,-240.0,,,,,0.0
+rps_lng-CVA210254,rps_lng-HDO23325965,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 1106/18 Mt Alexander Road,False,True,1673.0,1673.0,-1673.0,,,,31/08/2023,
+rps_lng-CVA210254,rps_lng-HDO23337069,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1251764,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-CVA210270,rps_lng-HDO21237845,2021-07-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1254878,True,False,300.0,300.0,,,,,,0.0
+rps_lng-CVA210270,rps_lng-HDO21226917,2021-07-01T00:00:00+01:00,Invoice,Rent,Rent from 01/07/2021 to 05/07/2021 for 103/2 Tweed Street,False,True,300.0,300.0,-300.0,,,,05/07/2021,
+rps_lng-CVA210282,rps_lng-HDO21226450,2021-07-01T00:00:00+01:00,Invoice,Rent,Rent from 01/07/2021 to 31/07/2021 for 206/539 St Kilda Road,False,True,2303.0,2303.0,-2303.0,,,,31/07/2021,
+rps_lng-CVA210282,rps_lng-HDO21237641,2021-07-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 206/539STKILDARO-2,True,False,2303.0,2303.0,,,,,,0.0
+rps_lng-CVA210286,rps_lng-HDO23326066,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 2407/60 Kavanagh Street,False,True,2086.0,2086.0,-2086.0,,,,31/08/2023,
+rps_lng-CVA210286,rps_lng-HDO23337111,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1256949,True,False,2086.0,2086.0,,,,,,0.0
+rps_lng-CVA210315,rps_lng-HDO21142746,2021-05-01T00:00:00+01:00,Invoice,Rent,Rent from 01/05/2021 to 03/05/2021 for 13/33 Sutherland Road,False,True,169.35,169.35,-169.35,,,,03/05/2021,
+rps_lng-CVA210315,rps_lng-HDO21154858,2021-05-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1262138,True,False,169.35,169.35,,,,,,0.0
+rps_lng-CVA210320,rps_lng-HDO23350291,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 814/338 Kings Way,False,True,2390.0,2390.0,1180.0,,30.0,,14/09/2023,
+rps_lng-CVA210320,rps_lng-HDO23362729,2023-08-17T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 814/338KINGSWAY-2,False,True,2390.0,2390.0,-30.0,,,,,0.0
+rps_lng-CVA210356,rps_lng-HDO23357660,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 17/32 East Esplanade,False,True,1434.0,1434.0,-1434.0,,1434.0,,19/09/2023,
+rps_lng-CVA210356,rps_lng-HDO23318302,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 17/32EASTESPLANADE,True,False,1434.0,1434.0,,,,,,0.0
+rps_lng-CVA210364,rps_lng-HDO23079830,2023-02-21T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46861118,True,False,4733.07,4733.07,1257.07,,,,,1257.07
+rps_lng-CVA210364,rps_lng-HDO23076555,2023-02-26T00:00:00+00:00,Invoice,Rent,Rent from 26/02/2023 to 08/03/2023 for 75 Morang Road,False,True,1257.07,1257.07,,,,,08/03/2023,
+rps_lng-CVA210401,rps_lng-HDO23322875,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2/101VICTORIAROAD,True,False,2064.0,2064.0,,,,,,0.0
+rps_lng-CVA210401,rps_lng-HDO23311792,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 2/101 Victoria Road,False,True,2064.0,2064.0,-2064.0,,,,22/08/2023,
+rps_lng-CVA210402,rps_lng-HDO21039898,2021-02-04T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,1956.0,1956.0,,,,,,0.0
+rps_lng-CVA210408,rps_lng-HDO23176967,2023-05-01T00:00:00+01:00,Invoice,Rent,Rent from 01/05/2023 to 31/05/2023 for 1/30 Clive Road,False,True,2020.0,2020.0,-2020.0,,,,31/05/2023,
+rps_lng-CVA210408,rps_lng-HDO23190265,2023-05-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1270926,True,False,2020.0,2020.0,,,,,,0.0
+rps_lng-CVA210414,rps_lng-HDO23337073,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1271180,True,False,3542.0,3542.0,,,,,,0.0
+rps_lng-CVA210414,rps_lng-HDO23325665,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 47 Gillies Street,False,True,3542.0,3542.0,-3542.0,,,,31/08/2023,
+rps_lng-CVA210416,rps_lng-HDO23337211,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1271188,True,False,1412.0,1412.0,-104.53,,,,,0.0
+rps_lng-CVA210416,rps_lng-HDO23325642,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 52/88 Franklin Street,False,True,1412.0,1412.0,-1516.53,,,,31/08/2023,
+rps_lng-CVA210449,rps_lng-HDO23330896,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 17/88 Franklin Street,False,True,1782.0,1782.0,-1782.0,,,,04/09/2023,
+rps_lng-CVA210449,rps_lng-HDO23347269,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 17/88FRANKLINSTR-1,True,False,1782.0,1782.0,,,,,,0.0
+rps_lng-CVA210481,rps_lng-HDO21460259,2021-12-01T00:00:00+00:00,Invoice,Rent,Rent from 01/12/2021 to 13/12/2021 for 4/155 Power Street,False,True,706.06,706.06,-706.06,,,,13/12/2021,
+rps_lng-CVA210481,rps_lng-HDO21462784,2021-12-01T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1275641,True,False,706.06,706.06,,,,,,0.0
+rps_lng-CVA210487,rps_lng-HDO22334956,2022-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,428.71,428.71,,,,,,0.0
+rps_lng-CVA210487,rps_lng-HDO22331024,2022-08-09T00:00:00+01:00,Credit Note,Rent,TT vacated 13/8/22,True,False,428.71,428.71,428.71,,,,,
+rps_lng-CVA210514,rps_lng-HDO21401642,2021-10-22T00:00:00+01:00,Credit Note,Rent,Overpaid Rent Refund,True,False,1302.97,1302.97,1302.97,,,,,
+rps_lng-CVA210514,rps_lng-HDO21406143,2021-10-26T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,1302.97,1302.97,,,,,,0.0
+rps_lng-CVA210520,rps_lng-HDO23316363,2023-07-20T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 50/88FRANKLINSTR-2,False,True,1782.0,1782.0,,,,,,0.0
+rps_lng-CVA210520,rps_lng-HDO23354880,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 50/88 Franklin Street,False,True,2216.0,2216.0,-2216.0,,2216.0,,17/09/2023,
+rps_lng-CVA210531,rps_lng-HDO23337319,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1280066,True,False,1999.0,1999.0,,,,,,0.0
+rps_lng-CVA210531,rps_lng-HDO23325989,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 536/63 Spencer Street,False,True,1999.0,1999.0,-1999.0,,,,31/08/2023,
+rps_lng-CVA210537,rps_lng-HDO23325755,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 22/08/2023 for 3/21 Lisson Grove,False,True,2278.36,2278.36,-4428.36,,2000.0,,22/08/2023,
+rps_lng-CVA210537,rps_lng-HDO23350895,2023-08-09T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 36809655,True,False,1278.36,1278.36,-2000.0,,,,,0.0
+rps_lng-CVA210538,rps_lng-HDO23325690,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 124 Leicester Street,False,True,3086.0,3086.0,-3086.0,,,,31/08/2023,
+rps_lng-CVA210538,rps_lng-HDO23337317,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 124LEICESTERSTRE-2,True,False,3086.0,3086.0,,,,,,0.0
+rps_lng-CVA210558,rps_lng-HDO21407561,2021-11-01T00:00:00+00:00,Invoice,Rent,Rent from 01/11/2021 to 04/11/2021 for 6/24 Hawksburn Road,False,True,160.04,160.04,-160.04,,,,04/11/2021,
+rps_lng-CVA210558,rps_lng-HDO21420003,2021-11-01T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1282813,True,False,160.04,160.04,,,,,,0.0
+rps_lng-CVA210576,rps_lng-HDO23326054,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 4/185 Auburn Road,False,True,1956.0,1956.0,-1956.0,,,,31/08/2023,
+rps_lng-CVA210576,rps_lng-HDO23337360,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: OC1283780,True,False,1956.0,1956.0,,,,,,0.0
+rps_lng-CVA210584,rps_lng-HDO23336080,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 110 Kangaroo Road,False,True,2694.0,2694.0,-2694.0,,,,06/09/2023,
+rps_lng-CVA210584,rps_lng-HDO23347221,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 110KANGAROOROAD-1,True,False,2694.0,2694.0,,,,,,0.0
+rps_lng-CVA210612,rps_lng-HDO23337376,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 606/65COVENTRYST-2,True,False,1586.0,1586.0,,,,,,0.0
+rps_lng-CVA210612,rps_lng-HDO23325968,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 606/65 Coventry Street,False,True,1586.0,1586.0,-1586.0,,,,31/08/2023,
+rps_lng-HDO190002,rps_lng-HDO23319991,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 3 Sundial Boulevard,False,True,2390.0,2390.0,-2360.0,,,,26/08/2023,
+rps_lng-HDO190002,rps_lng-HDO23340940,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39759816,True,False,2390.0,2390.0,30.0,,30.0,,,30.0
+rps_lng-HDO190003,rps_lng-HDO21158946,2021-05-05T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 35597004,True,False,1201.74,1201.74,1201.74,,0.1,,,1201.74
+rps_lng-HDO190003,rps_lng-HDO21152143,2021-05-08T00:00:00+01:00,Invoice,Rent,Rent from 08/05/2021 to 24/05/2021 for 605/255 Racecourse Road,False,True,1201.64,1201.64,0.1,,,,24/05/2021,
+rps_lng-HDO190008,rps_lng-HDO23349849,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Adjust assignment of: Tenancy Receipt Ref: HOMETIME          HOMETIME GROUP P,False,True,2620.99,2620.99,,,,,,0.0
+rps_lng-HDO190029,rps_lng-HDO22192527,2022-05-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 36199743,True,False,200.0,200.0,1200.0,,17.03,,,1200.0
+rps_lng-HDO190029,rps_lng-HDO22185601,2022-05-11T00:00:00+01:00,Invoice,Rent,Rent from 11/05/2022 to 28/05/2022 for 63A Rowan Drive,False,True,1182.97,1182.97,17.03,,,,28/05/2022,
+rps_lng-HDO190051,rps_lng-HDO23311776,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 39 Laurence Way,False,True,1738.0,1738.0,-839.37,,,,22/08/2023,
+rps_lng-HDO190051,rps_lng-HDO23324474,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34886564,True,False,850.0,850.0,10.63,,10.63,,,10.63
+rps_lng-HDO190076,rps_lng-HDO23356307,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43399393,True,False,1955.0,1955.0,-815.0,,,,,0.0
+rps_lng-HDO190076,rps_lng-HDO23338478,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 4 Calita Avenue,False,True,1955.0,1955.0,-2770.0,,815.0,,07/09/2023,
+rps_lng-HDO190097,rps_lng-HDO23350474,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 1/59 Pakington Street,False,True,2216.0,2216.0,-2312.95,,,,14/09/2023,
+rps_lng-HDO190097,rps_lng-HDO23360756,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1/59PAKINGTONSTREE,True,False,2216.0,2216.0,-96.95,,,,,0.0
+rps_lng-HDO190107,rps_lng-HDO22244039,2022-06-15T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014410038-15074645RTBA,30 DALZIEL",True,False,117.17,117.17,,,,,,0.0
+rps_lng-HDO190107,rps_lng-HDO22217744,2022-06-04T00:00:00+01:00,Invoice,Rent,Rent from 04/06/2022 to 05/06/2022 for 30 Dalziel Drive,False,True,117.17,117.17,-117.17,,,,05/06/2022,
+rps_lng-HDO190124,rps_lng-HDO23324509,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42353649,True,False,1738.0,1738.0,831.0,,,,,831.0
+rps_lng-HDO190124,rps_lng-HDO23326848,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 15 Edge View,False,True,1695.0,1695.0,-864.0,,864.0,,31/08/2023,
+rps_lng-HDO190215,rps_lng-HDO23344087,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 187 Victoria Parade,False,True,3063.0,3063.0,-74.29,,,,10/09/2023,
+rps_lng-HDO190215,rps_lng-HDO23353130,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 16143950,True,False,1200.0,1200.0,2988.71,,,,,2988.71
+rps_lng-HDO190387,rps_lng-HDO23362198,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 57 Rowan Drive,False,True,1912.0,1912.0,-1937.0,,1912.0,,21/09/2023,
+rps_lng-HDO190387,rps_lng-HDO23322702,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT I/Tfr 0037402005,True,False,1912.0,1912.0,-25.0,,,,,0.0
+rps_lng-HDO190414,rps_lng-HDO23357850,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 38 Tambo Crescent,False,True,2173.0,2173.0,-2173.0,,2173.0,,19/09/2023,
+rps_lng-HDO190414,rps_lng-HDO23334095,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402625,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO190418,rps_lng-HDO23322252,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 30 Prominence Boulevard,False,True,1717.0,1717.0,-1767.0,,,,29/08/2023,
+rps_lng-HDO190418,rps_lng-HDO23348986,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729370,True,False,1792.0,1792.0,,,,,,0.0
+rps_lng-HDO190421,rps_lng-HDO23085815,2023-03-01T00:00:00+00:00,Invoice,Rent,Rent from 01/03/2023 to 31/03/2023 for 22 Whitebark Street,False,True,1738.0,1738.0,-1738.0,,,,31/03/2023,
+rps_lng-HDO190421,rps_lng-HDO23101082,2023-03-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402278,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO190423,rps_lng-HDO23362436,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402302,True,False,456.25,456.25,-588.25,,,,,0.0
+rps_lng-HDO190423,rps_lng-HDO23320049,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 20 Stoneyfell Road,False,True,1825.0,1825.0,-1957.0,,588.25,,26/08/2023,
+rps_lng-HDO190464,rps_lng-HDO23329168,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 24 Monarma Walk,False,True,2173.0,2173.0,-2173.0,,,,01/09/2023,
+rps_lng-HDO190464,rps_lng-HDO23338953,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 24MONARMAWALK,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO190584,rps_lng-HDO23346368,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 55 Crefden Street,False,True,2216.0,2216.0,-2216.0,,,,12/09/2023,
+rps_lng-HDO190584,rps_lng-HDO23358365,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 55CREFDENSTREET-2,True,False,2216.0,2216.0,,,,,,0.0
+rps_lng-HDO190599,rps_lng-HDO23282959,2023-07-28T00:00:00+01:00,Invoice,Rent,Rent from 28/07/2023 to 27/08/2023 for 17 Cortona Grange,False,True,1760.0,1760.0,,,,,27/08/2023,
+rps_lng-HDO190599,rps_lng-HDO23254674,2023-06-13T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40821472,True,False,1760.0,1760.0,5131.0,,,,,5131.0
+rps_lng-HDO190706,rps_lng-HDO23343996,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 71A Rowan Drive,False,True,1695.0,1695.0,,,,,11/09/2023,
+rps_lng-HDO190706,rps_lng-HDO23340848,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39757968,True,False,847.5,847.5,1695.0,,,,,1695.0
+rps_lng-HDO190718,rps_lng-HDO23344156,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 2 Oxbow Walk,False,True,1652.0,1652.0,-1652.0,,,,10/09/2023,
+rps_lng-HDO190718,rps_lng-HDO23356273,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37690146,True,False,1652.0,1652.0,,,,,,0.0
+rps_lng-HDO190783,rps_lng-HDO23329105,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 13 Washington Street,False,True,1521.0,1521.0,-1521.0,,,,01/09/2023,
+rps_lng-HDO190783,rps_lng-HDO23338929,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 13WASHINGTONSTREET,True,False,1521.0,1521.0,,,,,,0.0
+rps_lng-HDO190784,rps_lng-HDO23266024,2023-06-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 9/2-10MONCKTONPLAC,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO190784,rps_lng-HDO23256651,2023-06-20T00:00:00+01:00,Invoice,Rent,Rent from 20/06/2023 to 19/07/2023 for 9/2-10 Monckton Place,False,True,1673.0,1673.0,-1673.0,,,,19/07/2023,
+rps_lng-HDO190799,rps_lng-HDO23355470,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 44 Boronia Avenue,False,True,1673.0,1673.0,-1673.0,,1673.0,,17/09/2023,
+rps_lng-HDO190799,rps_lng-HDO23314569,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 44BORONIAAVENUE,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO190843,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-HDO190843,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-HDO190844,rps_lng-HDO23130534,2023-03-24T00:00:00+00:00,Credit Note,Rent,Lost Management,True,False,313.05,313.05,,,,,,
+rps_lng-HDO190844,rps_lng-HDO22476851,2022-11-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37761806,True,False,1587.0,1587.0,-500.0,,,,,0.0
+rps_lng-HDO190847,rps_lng-HDO23105331,2023-03-07T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,768.35,768.35,,,,,,0.0
+rps_lng-HDO190847,rps_lng-HDO23092922,2023-03-06T00:00:00+00:00,Invoice,Rent,Rent from 03/03/2023 to 12/03/2023 for 12 Southdown Rise,False,True,390.08,390.08,768.35,,,,12/03/2023,
+rps_lng-HDO190910,rps_lng-HDO23235882,2023-05-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49682461,True,False,4260.0,4260.0,5434.0,,,,,5434.0
+rps_lng-HDO190910,rps_lng-HDO23245295,2023-06-03T00:00:00+01:00,Invoice,Rent,Rent from 03/06/2023 to 02/07/2023 for 2 Harslett Street,False,True,2130.0,2130.0,3304.0,,,,02/07/2023,
+rps_lng-HDO190944,rps_lng-HDO23332190,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39309695,True,False,2216.0,2216.0,2638.0,,465.0,,,2638.0
+rps_lng-HDO190944,rps_lng-HDO23320265,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 9/6-8 Brentwood Avenue,False,True,2173.0,2173.0,465.0,,,,28/08/2023,
+rps_lng-HDO190953,rps_lng-HDO23282462,2023-06-29T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 48729610    059879SJ Higgins PL,True,False,1716.0,1716.0,,,,,,0.0
+rps_lng-HDO190953,rps_lng-HDO23240035,2023-06-09T00:00:00+01:00,Invoice,Rent,Rent from 09/06/2023 to 08/07/2023 for 10/2 Monckton Place,False,True,1716.0,1716.0,-1716.0,,,,08/07/2023,
+rps_lng-HDO191007,rps_lng-HDO23324705,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43WILLIAMSLANDIN-1,True,False,2042.0,2042.0,,,,,,0.0
+rps_lng-HDO191007,rps_lng-HDO23315837,2023-07-25T00:00:00+01:00,Invoice,Rent,Rent from 25/07/2023 to 24/08/2023 for 43 Williams Landing Boulevard,False,True,2042.0,2042.0,-2042.0,,,,24/08/2023,
+rps_lng-HDO191065,rps_lng-HDO23360625,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37692225,True,False,3020.0,3020.0,30.0,,30.0,,,30.0
+rps_lng-HDO191065,rps_lng-HDO23348688,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 8D/29 Queens Road,False,True,3020.0,3020.0,-2990.0,,,,13/09/2023,
+rps_lng-HDO191101,rps_lng-HDO23332182,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39310883,True,False,2107.0,2107.0,2152.8,,45.8,,,2152.8
+rps_lng-HDO191101,rps_lng-HDO23357874,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 1713/18 Mt Alexander Road,False,True,2107.0,2107.0,45.8,,,,19/09/2023,
+rps_lng-HDO191196,rps_lng-HDO23331119,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 5 Crystal Road,False,True,1651.0,1651.0,-1651.0,,,,02/09/2023,
+rps_lng-HDO191196,rps_lng-HDO23340891,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37691037,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO191216,rps_lng-HDO23320072,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 15 Attunga Grove,False,True,1630.0,1630.0,-1630.0,,,,28/08/2023,
+rps_lng-HDO191216,rps_lng-HDO23334385,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ATTUNGAGROVE,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO191247,rps_lng-HDO23335344,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 18 Stoneyfell Road,False,True,2260.0,2260.0,2260.0,,,,28/08/2023,
+rps_lng-HDO191247,rps_lng-HDO23316219,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675291,True,False,4520.0,4520.0,4520.0,,,,,4520.0
+rps_lng-HDO200022,rps_lng-HDO23346810,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39314364,True,False,2260.0,2260.0,1.0,,1.0,,,1.0
+rps_lng-HDO200022,rps_lng-HDO23333685,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 106/109 Anderson Street,False,True,2260.0,2260.0,-2259.0,,,,05/09/2023,
+rps_lng-HDO200026,rps_lng-HDO23329482,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 25CRESSYSTREET-1,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-HDO200026,rps_lng-HDO23320113,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 25 Cressy Street,False,True,1955.0,1955.0,-1955.0,,,,26/08/2023,
+rps_lng-HDO200062,rps_lng-HDO22241753,2022-06-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42137398,True,False,1304.0,1304.0,,,,,,0.0
+rps_lng-HDO200062,rps_lng-HDO22232106,2022-06-12T00:00:00+01:00,Invoice,Rent,Rent from 12/06/2022 to 11/07/2022 for 1/20 Duke Street,False,True,1304.0,1304.0,-1304.0,,,,11/07/2022,
+rps_lng-HDO200134,rps_lng-HDO23347190,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43KURRALICRESCEN-1,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO200134,rps_lng-HDO23336375,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 43 Kurrali Crescent,False,True,1825.0,1825.0,-1825.0,,,,06/09/2023,
+rps_lng-HDO200181,rps_lng-HDO23349849,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Adjust assignment of: Tenancy Receipt Ref: HOMETIME          HOMETIME GROUP P,False,True,2620.99,2620.99,,,,,,0.0
+rps_lng-HDO200233,rps_lng-HDO23358092,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39758404,True,False,361.0,361.0,560.57,,,,,560.57
+rps_lng-HDO200233,rps_lng-HDO23350458,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 2/41 Latham Street,False,True,1564.0,1564.0,-1003.43,,1003.43,,14/09/2023,
+rps_lng-HDO200265,rps_lng-HDO23340848,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39757968,True,False,847.5,847.5,1695.0,,,,,1695.0
+rps_lng-HDO200265,rps_lng-HDO23343996,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 71A Rowan Drive,False,True,1695.0,1695.0,,,,,11/09/2023,
+rps_lng-HDO200294,rps_lng-HDO23256651,2023-06-20T00:00:00+01:00,Invoice,Rent,Rent from 20/06/2023 to 19/07/2023 for 9/2-10 Monckton Place,False,True,1673.0,1673.0,-1673.0,,,,19/07/2023,
+rps_lng-HDO200294,rps_lng-HDO23266024,2023-06-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 9/2-10MONCKTONPLAC,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO200327,rps_lng-HDO23304321,2023-07-17T00:00:00+01:00,Invoice,Rent,Rent from 17/07/2023 to 16/08/2023 for 3/222 Keilor Road,False,True,1739.0,1739.0,-1035.75,,,,16/08/2023,
+rps_lng-HDO200327,rps_lng-HDO23316138,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411514,True,False,1827.0,1827.0,791.25,,791.25,,,791.25
+rps_lng-HDO200358,rps_lng-HDO23299359,2023-07-09T00:00:00+01:00,Credit Note,Rent,No longer manage/Resider Real Estate,True,False,264.0,264.0,,,,,,
+rps_lng-HDO200358,rps_lng-HDO23267916,2023-06-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411837,True,False,1717.0,1717.0,1453.0,,,,,1453.0
+rps_lng-HDO200373,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-HDO200373,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-HDO200504,rps_lng-HDO23324509,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42353649,True,False,1738.0,1738.0,831.0,,,,,831.0
+rps_lng-HDO200504,rps_lng-HDO23326848,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 15 Edge View,False,True,1695.0,1695.0,-864.0,,864.0,,31/08/2023,
+rps_lng-HDO200511,rps_lng-HDO22210871,2022-05-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40412025,True,False,1390.0,1390.0,,,,,,0.0
+rps_lng-HDO200511,rps_lng-HDO22276390,2022-07-05T00:00:00+01:00,Credit Note,Rent,No longer manage,True,False,1390.0,1390.0,,,,,,
+rps_lng-HDO200517,rps_lng-HDO23334087,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397645,True,False,2086.0,2086.0,1955.0,,,,,1955.0
+rps_lng-HDO200517,rps_lng-HDO23331246,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 20 Stoneleigh Circuit,False,True,2086.0,2086.0,-131.0,,131.0,,03/09/2023,
+rps_lng-HDO200582,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-HDO200582,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-HDO200612,rps_lng-HDO23320274,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 7 Mossop Road,False,True,1738.0,1738.0,-1738.0,,,,26/08/2023,
+rps_lng-HDO200612,rps_lng-HDO23329532,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 7MOSSOPROAD-2,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO200614,rps_lng-HDO23283079,2023-07-12T00:00:00+01:00,Invoice,Rent,Rent from 12/07/2023 to 11/08/2023 for 28 Holbrook Crescent,False,True,1716.0,1716.0,,,,,11/08/2023,
+rps_lng-HDO200614,rps_lng-HDO23318092,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT I/CCd VD 0040822348,True,False,716.0,716.0,716.0,,,,,716.0
+rps_lng-HDO200630,rps_lng-HDO23282959,2023-07-28T00:00:00+01:00,Invoice,Rent,Rent from 28/07/2023 to 27/08/2023 for 17 Cortona Grange,False,True,1760.0,1760.0,,,,,27/08/2023,
+rps_lng-HDO200630,rps_lng-HDO23254674,2023-06-13T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40821472,True,False,1760.0,1760.0,5131.0,,,,,5131.0
+rps_lng-HDO200638,rps_lng-HDO23344458,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 6 Aintree Street,False,True,2390.0,2390.0,-2390.0,,,,09/09/2023,
+rps_lng-HDO200638,rps_lng-HDO23353318,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6AINTREESTREET-1,True,False,2390.0,2390.0,,,,,,0.0
+rps_lng-HDO200641,rps_lng-HDO23355473,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 303/81 Queens Road,False,True,1434.0,1434.0,-1584.0,,1434.0,,17/09/2023,
+rps_lng-HDO200641,rps_lng-HDO23316109,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40821647,True,False,1282.0,1282.0,-150.0,,,,,0.0
+rps_lng-HDO200656,rps_lng-HDO22251242,2022-06-21T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,100.0,100.0,,,,,,0.0
+rps_lng-HDO200656,rps_lng-HDO21320793,2021-09-04T00:00:00+01:00,Invoice,Rent,Rent from 04/09/2021 to 06/09/2021 for 17 Old Course Crescent,False,True,160.67,160.67,-1353.67,,,,06/09/2021,
+rps_lng-HDO200677,rps_lng-HDO23332232,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2BBURTONSTREET,True,False,1695.0,1695.0,,,,,,0.0
+rps_lng-HDO200677,rps_lng-HDO23320477,2023-07-28T00:00:00+01:00,Invoice,Rent,Rent from 28/07/2023 to 27/08/2023 for 2B Burton Street,False,True,1695.0,1695.0,-1695.0,,,,27/08/2023,
+rps_lng-HDO200768,rps_lng-HDO23332198,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40823833,True,False,2390.0,2390.0,2390.0,,,,,2390.0
+rps_lng-HDO200768,rps_lng-HDO23319969,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 22/106 Southbank Boulevard,False,True,2390.0,2390.0,,,,,28/08/2023,
+rps_lng-HDO200807,rps_lng-HDO22484968,2022-11-08T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,924.0,924.0,,,,,,0.0
+rps_lng-HDO200807,rps_lng-HDO22402593,2022-09-24T00:00:00+01:00,Invoice,Rent,Rent from 24/09/2022 to 23/10/2022 for 15 Windmill Way,False,True,1629.0,1629.0,924.0,,,,23/10/2022,
+rps_lng-HDO200808,rps_lng-HDO23321114,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 44FEWSTERCIRCUIT,True,False,1477.0,1477.0,,,,,,0.0
+rps_lng-HDO200808,rps_lng-HDO23360293,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 44 Fewster Circuit,False,True,1477.0,1477.0,-1477.0,,1477.0,,20/09/2023,
+rps_lng-HDO200831,rps_lng-HDO23360518,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41411604,True,False,1600.0,1600.0,1701.0,,101.0,,,1701.0
+rps_lng-HDO200831,rps_lng-HDO23352828,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 805/108 Flinders Street,False,True,1600.0,1600.0,101.0,,,,15/09/2023,
+rps_lng-HDO200832,rps_lng-HDO23332123,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41411612,True,False,1565.0,1565.0,1892.0,,327.0,,,1892.0
+rps_lng-HDO200832,rps_lng-HDO23329100,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 3/11 Troward Harvey Way,False,True,1565.0,1565.0,327.0,,,,01/09/2023,
+rps_lng-HDO200840,rps_lng-HDO23358365,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 55CREFDENSTREET-2,True,False,2216.0,2216.0,,,,,,0.0
+rps_lng-HDO200840,rps_lng-HDO23346368,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 55 Crefden Street,False,True,2216.0,2216.0,-2216.0,,,,12/09/2023,
+rps_lng-HDO200843,rps_lng-HDO23334087,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397645,True,False,2086.0,2086.0,1955.0,,,,,1955.0
+rps_lng-HDO200843,rps_lng-HDO23331246,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 20 Stoneleigh Circuit,False,True,2086.0,2086.0,-131.0,,131.0,,03/09/2023,
+rps_lng-HDO200846,rps_lng-HDO23285091,2023-07-07T00:00:00+01:00,Invoice,Rent,Rent from 07/07/2023 to 06/08/2023 for 51 Rowan Drive,False,True,1738.0,1738.0,-100.0,,,,06/08/2023,
+rps_lng-HDO200846,rps_lng-HDO23329376,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41411752,True,False,1738.0,1738.0,1638.0,,1638.0,,,1638.0
+rps_lng-HDO200885,rps_lng-HDO23346266,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 16 Winona Circuit,False,True,1825.0,1825.0,-1825.0,,,,12/09/2023,
+rps_lng-HDO200885,rps_lng-HDO23358195,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41412099,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO200956,rps_lng-HDO23353148,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT I/Tfr 0041410309,True,False,1608.0,1608.0,1608.0,,,,,1608.0
+rps_lng-HDO200956,rps_lng-HDO23344134,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 28/14 Bell Street,False,True,1608.0,1608.0,,,,,11/09/2023,
+rps_lng-HDO200958,rps_lng-HDO22349497,2022-08-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41410325,True,False,507.78,507.78,-533.55,,,,,0.0
+rps_lng-HDO200958,rps_lng-HDO22429987,2022-10-05T00:00:00+01:00,Credit Note,Rent,Tenant vacated 6/8/22,True,False,56.38,56.38,,,,,,
+rps_lng-HDO200970,rps_lng-HDO23357796,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 28 Fellows Street,False,True,1586.0,1586.0,-1586.0,,1586.0,,19/09/2023,
+rps_lng-HDO200970,rps_lng-HDO23318298,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 28FELLOWSSTREET-1,True,False,1586.0,1586.0,,,,,,0.0
+rps_lng-HDO200977,rps_lng-HDO23346461,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 22 Timbarra Chase,False,True,1630.0,1630.0,-1630.0,,,,12/09/2023,
+rps_lng-HDO200977,rps_lng-HDO23358363,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22TIMBARRACHASE-1,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO200984,rps_lng-HDO23331551,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 2/59 Doherty Street,False,True,1673.0,1673.0,,,,,03/09/2023,
+rps_lng-HDO200984,rps_lng-HDO23362470,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48731459,True,False,1673.0,1673.0,1673.0,,1673.0,,,1673.0
+rps_lng-HDO201013,rps_lng-HDO23315837,2023-07-25T00:00:00+01:00,Invoice,Rent,Rent from 25/07/2023 to 24/08/2023 for 43 Williams Landing Boulevard,False,True,2042.0,2042.0,-2042.0,,,,24/08/2023,
+rps_lng-HDO201013,rps_lng-HDO23324705,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43WILLIAMSLANDIN-1,True,False,2042.0,2042.0,,,,,,0.0
+rps_lng-HDO201019,rps_lng-HDO23355369,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 17 Stoneyfell Road,False,True,1782.0,1782.0,-1611.27,,1611.27,,17/09/2023,
+rps_lng-HDO201019,rps_lng-HDO23322678,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41410820,True,False,1782.0,1782.0,170.73,,,,,170.73
+rps_lng-HDO201029,rps_lng-HDO21396989,2021-10-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41410911,True,False,1651.0,1651.0,3.0,,3.0,,,3.0
+rps_lng-HDO201029,rps_lng-HDO21386431,2021-10-16T00:00:00+01:00,Invoice,Rent,Rent from 16/10/2021 to 15/11/2021 for 30 Little Windrock Lane,False,True,1651.0,1651.0,-1648.0,,,,15/11/2021,
+rps_lng-HDO201070,rps_lng-HDO22135736,2022-04-04T00:00:00+01:00,Credit Note,Rent,No Longer Manage,True,False,102.0,102.0,,,,,,
+rps_lng-HDO201070,rps_lng-HDO22134239,2022-04-01T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014337247-14954901RTBA,7 GUAVA STR",True,False,1738.0,1738.0,-102.0,,,,,0.0
+rps_lng-HDO210018,rps_lng-HDO23362162,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 407/1 Roy Street,False,True,2086.0,2086.0,-2260.0,,2086.0,,21/09/2023,
+rps_lng-HDO210018,rps_lng-HDO23322731,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42135756,True,False,1999.0,1999.0,-174.0,,,,,0.0
+rps_lng-HDO210098,rps_lng-HDO23354929,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 12/35 Tulip Grove,False,True,1847.0,1847.0,-1847.0,,1847.0,,17/09/2023,
+rps_lng-HDO210098,rps_lng-HDO23312301,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48731418,True,False,1847.0,1847.0,1847.0,,,,,1847.0
+rps_lng-HDO210106,rps_lng-HDO23333050,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 10 Lakewood Boulevard,False,True,1608.0,1608.0,,,,,28/08/2023,
+rps_lng-HDO210106,rps_lng-HDO23312469,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49680598,True,False,3216.0,3216.0,3216.0,,,,,3216.0
+rps_lng-HDO210133,rps_lng-HDO23354828,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 31/88 Franklin Street,False,True,1868.0,1868.0,-1868.0,,1868.0,,17/09/2023,
+rps_lng-HDO210133,rps_lng-HDO23314605,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 31/88FRANKLINSTREE,True,False,1868.0,1868.0,,,,,,0.0
+rps_lng-HDO210181,rps_lng-HDO22241753,2022-06-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42137398,True,False,1304.0,1304.0,,,,,,0.0
+rps_lng-HDO210181,rps_lng-HDO22232106,2022-06-12T00:00:00+01:00,Invoice,Rent,Rent from 12/06/2022 to 11/07/2022 for 1/20 Duke Street,False,True,1304.0,1304.0,-1304.0,,,,11/07/2022,
+rps_lng-HDO210182,rps_lng-HDO23160067,2023-04-12T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46465746,True,False,1700.0,1700.0,544.63,,40.0,,,544.63
+rps_lng-HDO210182,rps_lng-HDO23149758,2023-04-11T00:00:00+01:00,Invoice,Rent,Rent from 11/04/2023 to 10/05/2023 for 7 Finn Street,False,True,1695.0,1695.0,-1155.37,,,,10/05/2023,
+rps_lng-HDO210202,rps_lng-HDO23360043,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 33/88 Franklin Street,False,True,1521.0,1521.0,,,,,20/09/2023,
+rps_lng-HDO210202,rps_lng-HDO23336500,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46464541,True,False,1521.0,1521.0,1521.0,,,,,1521.0
+rps_lng-HDO210209,rps_lng-HDO23051737,2023-02-08T00:00:00+00:00,Invoice,Rent,Rent from 08/02/2023 to 07/03/2023 for 15/88 Franklin Street,False,True,1434.0,1434.0,-1434.0,,,,07/03/2023,
+rps_lng-HDO210209,rps_lng-HDO23061245,2023-02-08T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15/88FRANKLINSTREE,True,False,1434.0,1434.0,,,,,,0.0
+rps_lng-HDO210225,rps_lng-HDO23336495,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42354407,True,False,1434.0,1434.0,,,,,,0.0
+rps_lng-HDO210225,rps_lng-HDO23320465,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 204/165-167 Gladstone Street,False,True,1434.0,1434.0,-1434.0,,,,26/08/2023,
+rps_lng-HDO210227,rps_lng-HDO23346695,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42354423,True,False,1564.0,1564.0,1.0,,1.0,,,1.0
+rps_lng-HDO210227,rps_lng-HDO23333629,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 15 Bandon Road,False,True,1564.0,1564.0,-1563.0,,,,05/09/2023,
+rps_lng-HDO210254,rps_lng-HDO23094178,2023-03-26T00:00:00+00:00,Invoice,Rent,Rent from 26/03/2023 to 04/04/2023 for 3/15 Holt Street,False,True,504.41,504.41,-174.41,,,,04/04/2023,
+rps_lng-HDO210254,rps_lng-HDO23090972,2023-02-27T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42355685,True,False,1477.0,1477.0,,,,,,0.0
+rps_lng-HDO210305,rps_lng-HDO22508471,2022-11-24T00:00:00+00:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014569337-15017551RTBA,62 GRACE ST",True,False,650.0,650.0,-750.0,,,,,0.0
+rps_lng-HDO210305,rps_lng-HDO22446965,2022-10-22T00:00:00+01:00,Invoice,Rent,Rent from 22/10/2022 to 28/10/2022 for 62 Grace Street South,False,True,375.0,375.0,-1500.0,,375.0,,28/10/2022,
+rps_lng-HDO210319,rps_lng-HDO23349849,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Adjust assignment of: Tenancy Receipt Ref: HOMETIME          HOMETIME GROUP P,False,True,2620.99,2620.99,,,,,,0.0
+rps_lng-HDO210324,rps_lng-HDO23324337,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 1907/7 Riverside Quay,False,True,3259.0,3259.0,198.0,,,,30/08/2023,
+rps_lng-HDO210324,rps_lng-HDO23327509,2023-07-26T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42354894,True,False,3259.0,3259.0,3457.0,,198.0,,,3457.0
+rps_lng-HDO210334,rps_lng-HDO23355537,2023-08-19T00:00:00+01:00,Invoice,Rent,Rent from 19/08/2023 to 18/09/2023 for 4105/7 Riverside Quay,False,True,3911.0,3911.0,-3911.0,,3911.0,,18/09/2023,
+rps_lng-HDO210334,rps_lng-HDO23316217,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42354993,True,False,3911.0,3911.0,,,,,,0.0
+rps_lng-HDO210356,rps_lng-HDO23240546,2023-06-10T00:00:00+01:00,Invoice,Rent,Rent from 10/06/2023 to 03/07/2023 for 3 Norwood Avenue,False,True,1130.7,1130.7,,,,,03/07/2023,
+rps_lng-HDO210356,rps_lng-HDO23324465,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014816923-15019584RTBA,3 NORWOOD A",True,False,250.0,250.0,,,,,,0.0
+rps_lng-HDO210366,rps_lng-HDO23334385,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ATTUNGAGROVE,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO210366,rps_lng-HDO23320072,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 15 Attunga Grove,False,True,1630.0,1630.0,-1630.0,,,,28/08/2023,
+rps_lng-HDO210374,rps_lng-HDO23356288,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42355404,True,False,1912.0,1912.0,195.0,,195.0,,,195.0
+rps_lng-HDO210374,rps_lng-HDO23326911,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 9 Autumn Fields Circuit,False,True,2085.0,2085.0,-2547.0,,,,31/08/2023,
+rps_lng-HDO210387,rps_lng-HDO22283913,2022-07-14T00:00:00+01:00,Invoice,Rent,Rent from 14/07/2022 to 13/08/2022 for 18 Turva Avenue,False,True,1608.0,1608.0,-1608.0,,,,13/08/2022,
+rps_lng-HDO210387,rps_lng-HDO22293959,2022-07-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43131630,True,False,1608.0,1608.0,,,,,,0.0
+rps_lng-HDO210389,rps_lng-HDO23334363,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43CAMELOTDRIVE-1,True,False,1782.0,1782.0,-452.09,,,,,0.0
+rps_lng-HDO210389,rps_lng-HDO23322385,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 43 Camelot Drive,False,True,1782.0,1782.0,-2234.09,,,,29/08/2023,
+rps_lng-HDO210460,rps_lng-HDO23316219,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675291,True,False,4520.0,4520.0,4520.0,,,,,4520.0
+rps_lng-HDO210460,rps_lng-HDO23335344,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 18 Stoneyfell Road,False,True,2260.0,2260.0,2260.0,,,,28/08/2023,
+rps_lng-HDO210515,rps_lng-HDO23356271,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42775825,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO210515,rps_lng-HDO23344326,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 17 Houston Drive,False,True,1651.0,1651.0,-1651.0,,,,09/09/2023,
+rps_lng-HDO210532,rps_lng-HDO23350971,2023-08-09T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49681752,True,False,2824.0,2824.0,,,,,,0.0
+rps_lng-HDO210532,rps_lng-HDO23336161,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 1914/50 Albert Road,False,True,2824.0,2824.0,-2824.0,,,,06/09/2023,
+rps_lng-HDO210541,rps_lng-HDO23344458,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 6 Aintree Street,False,True,2390.0,2390.0,-2390.0,,,,09/09/2023,
+rps_lng-HDO210541,rps_lng-HDO23353318,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6AINTREESTREET-1,True,False,2390.0,2390.0,,,,,,0.0
+rps_lng-HDO210580,rps_lng-HDO23345008,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42776450,True,False,2825.0,2825.0,2605.0,,,,,2605.0
+rps_lng-HDO210580,rps_lng-HDO23330963,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 401/69 Victoria Street,False,True,2825.0,2825.0,-220.0,,,,04/09/2023,
+rps_lng-HDO210581,rps_lng-HDO23355221,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 103/42-44 Harrison Street,False,True,1716.0,1716.0,,,,,16/09/2023,
+rps_lng-HDO210581,rps_lng-HDO23353151,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42776468,True,False,1716.0,1716.0,1716.0,,,,,1716.0
+rps_lng-HDO210593,rps_lng-HDO23346461,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 22 Timbarra Chase,False,True,1630.0,1630.0,-1630.0,,,,12/09/2023,
+rps_lng-HDO210593,rps_lng-HDO23358363,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22TIMBARRACHASE-1,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO210597,rps_lng-HDO23324325,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 1/68 Conquest Drive,False,True,1651.0,1651.0,-1651.0,,,,30/08/2023,
+rps_lng-HDO210597,rps_lng-HDO23334025,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42773622,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO210627,rps_lng-HDO23344297,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 12 Paramount Boulevard,False,True,1630.0,1630.0,-1630.0,,1630.0,,10/09/2023,
+rps_lng-HDO210627,rps_lng-HDO23358711,2023-08-15T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 12PARAMOUNTBOULE-1,False,True,1630.0,1630.0,-1655.0,,,,,0.0
+rps_lng-HDO210637,rps_lng-HDO23322694,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397892,True,False,1847.0,1847.0,-216.0,,,,,0.0
+rps_lng-HDO210637,rps_lng-HDO23314247,2023-07-24T00:00:00+01:00,Invoice,Rent,Rent from 24/07/2023 to 23/08/2023 for 14 Armstrong Street,False,True,1955.0,1955.0,-2063.0,,216.0,,23/08/2023,
+rps_lng-HDO210649,rps_lng-HDO23358156,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47260799,True,False,1521.0,1521.0,1521.0,,1521.0,,,1521.0
+rps_lng-HDO210649,rps_lng-HDO23251895,2023-06-18T00:00:00+01:00,Invoice,Rent,Rent from 18/06/2023 to 17/07/2023 for 601/7 Katherine Place,False,True,1521.0,1521.0,-1521.0,,,,17/07/2023,
+rps_lng-HDO210661,rps_lng-HDO23331246,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 20 Stoneleigh Circuit,False,True,2086.0,2086.0,-131.0,,131.0,,03/09/2023,
+rps_lng-HDO210661,rps_lng-HDO23334087,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397645,True,False,2086.0,2086.0,1955.0,,,,,1955.0
+rps_lng-HDO210686,rps_lng-HDO23322694,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397892,True,False,1847.0,1847.0,-216.0,,,,,0.0
+rps_lng-HDO210686,rps_lng-HDO23314247,2023-07-24T00:00:00+01:00,Invoice,Rent,Rent from 24/07/2023 to 23/08/2023 for 14 Armstrong Street,False,True,1955.0,1955.0,-2063.0,,216.0,,23/08/2023,
+rps_lng-HDO210698,rps_lng-HDO22217744,2022-06-04T00:00:00+01:00,Invoice,Rent,Rent from 04/06/2022 to 05/06/2022 for 30 Dalziel Drive,False,True,117.17,117.17,-117.17,,,,05/06/2022,
+rps_lng-HDO210698,rps_lng-HDO22244039,2022-06-15T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014410038-15074645RTBA,30 DALZIEL",True,False,117.17,117.17,,,,,,0.0
+rps_lng-HDO210717,rps_lng-HDO23302515,2023-07-10T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014798624-15078882RTBA,48 AMBERLEA",True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO210717,rps_lng-HDO23275857,2023-06-20T00:00:00+01:00,Invoice,Rent,Rent from 20/06/2023 to 26/06/2023 for 48 Amberlea Circuit,False,True,414.94,414.94,-822.16,,,,26/06/2023,
+rps_lng-HDO210764,rps_lng-HDO23256651,2023-06-20T00:00:00+01:00,Invoice,Rent,Rent from 20/06/2023 to 19/07/2023 for 9/2-10 Monckton Place,False,True,1673.0,1673.0,-1673.0,,,,19/07/2023,
+rps_lng-HDO210764,rps_lng-HDO23266024,2023-06-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 9/2-10MONCKTONPLAC,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO210795,rps_lng-HDO23336525,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT I/Tfr 0043399005,True,False,1738.0,1738.0,1738.0,,,,,1738.0
+rps_lng-HDO210795,rps_lng-HDO23333538,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 107/63-69 Rouse Street,False,True,2086.0,2086.0,-348.0,,348.0,,05/09/2023,
+rps_lng-HDO210797,rps_lng-HDO23329173,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 6 Beamish Street,False,True,1695.0,1695.0,-1674.0,,,,01/09/2023,
+rps_lng-HDO210797,rps_lng-HDO23346709,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43399021,True,False,1695.0,1695.0,21.0,,21.0,,,21.0
+rps_lng-HDO210822,rps_lng-HDO23338917,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 46WYNDHAMSTREET-1,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO210822,rps_lng-HDO23329189,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 46 Wyndham Street,False,True,1825.0,1825.0,-1825.0,,,,01/09/2023,
+rps_lng-HDO210836,rps_lng-HDO23338478,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 4 Calita Avenue,False,True,1955.0,1955.0,-2770.0,,815.0,,07/09/2023,
+rps_lng-HDO210836,rps_lng-HDO23356307,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43399393,True,False,1955.0,1955.0,-815.0,,,,,0.0
+rps_lng-HDO210850,rps_lng-HDO23320940,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43130715,True,False,1629.0,1629.0,,,,,,0.0
+rps_lng-HDO210850,rps_lng-HDO23352888,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 41 Aurich Street,False,True,1869.0,1869.0,-1869.0,,1869.0,,15/09/2023,
+rps_lng-HDO210857,rps_lng-HDO23323008,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6LAFAYETTECRESCE-1,True,False,2086.0,2086.0,,,,,,0.0
+rps_lng-HDO210857,rps_lng-HDO23362298,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 6 Lafayette Crescent,False,True,2086.0,2086.0,-2086.0,,2086.0,,21/09/2023,
+rps_lng-HDO210859,rps_lng-HDO23283095,2023-07-11T00:00:00+01:00,Invoice,Rent,Rent from 11/07/2023 to 10/08/2023 for 9 Alfred Road,False,True,2260.0,2260.0,,,,,10/08/2023,
+rps_lng-HDO210859,rps_lng-HDO23274440,2023-06-23T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46859260,True,False,2060.0,2060.0,2060.0,,,,,2060.0
+rps_lng-HDO210865,rps_lng-HDO23360539,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43130855,True,False,1825.0,1825.0,1825.0,,,,,1825.0
+rps_lng-HDO210865,rps_lng-HDO23354977,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 400/8 Waterview Walk,False,True,1825.0,1825.0,,,,,16/09/2023,
+rps_lng-HDO210895,rps_lng-HDO23336287,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 1 Third Avenue,False,True,1564.0,1564.0,-1628.0,,,,06/09/2023,
+rps_lng-HDO210895,rps_lng-HDO23358148,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43131101,True,False,1430.0,1430.0,1.0,,1.0,,,1.0
+rps_lng-HDO210935,rps_lng-HDO23330896,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 17/88 Franklin Street,False,True,1782.0,1782.0,-1782.0,,,,04/09/2023,
+rps_lng-HDO210935,rps_lng-HDO23347269,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 17/88FRANKLINSTR-1,True,False,1782.0,1782.0,,,,,,0.0
+rps_lng-HDO210938,rps_lng-HDO23348732,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 32 Tundra Esplanade,False,True,1782.0,1782.0,-1782.0,,,,13/09/2023,
+rps_lng-HDO210938,rps_lng-HDO23358185,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43131507,True,False,1782.0,1782.0,,,,,,0.0
+rps_lng-HDO211005,rps_lng-HDO23258448,2023-06-21T00:00:00+01:00,Invoice,Rent,Rent from 21/06/2023 to 20/07/2023 for 38 Wedge Street,False,True,1673.0,1673.0,-1673.0,,,,20/07/2023,
+rps_lng-HDO211005,rps_lng-HDO23268155,2023-06-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 38WEDGESTREET-2,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO211009,rps_lng-HDO22283913,2022-07-14T00:00:00+01:00,Invoice,Rent,Rent from 14/07/2022 to 13/08/2022 for 18 Turva Avenue,False,True,1608.0,1608.0,-1608.0,,,,13/08/2022,
+rps_lng-HDO211009,rps_lng-HDO22293959,2022-07-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43131630,True,False,1608.0,1608.0,,,,,,0.0
+rps_lng-HDO211010,rps_lng-HDO23346461,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 22 Timbarra Chase,False,True,1630.0,1630.0,-1630.0,,,,12/09/2023,
+rps_lng-HDO211010,rps_lng-HDO23358363,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22TIMBARRACHASE-1,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO211030,rps_lng-HDO23329532,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 7MOSSOPROAD-2,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO211030,rps_lng-HDO23320274,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 7 Mossop Road,False,True,1738.0,1738.0,-1738.0,,,,26/08/2023,
+rps_lng-HDO211034,rps_lng-HDO23358040,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 15 Alderney Street,False,True,1695.0,1695.0,-1695.0,,1695.0,,19/09/2023,
+rps_lng-HDO211034,rps_lng-HDO23318338,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ALDERNEYSTREET-1,True,False,1695.0,1695.0,,,,,,0.0
+rps_lng-HDO211079,rps_lng-HDO23342807,2023-08-04T00:00:00+01:00,Credit Note,Rent,Refund for Plumbing invoice,True,False,939.9,939.9,-1484.1,,,,,
+rps_lng-HDO211079,rps_lng-HDO23247541,2023-06-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43132141,True,False,1374.0,1374.0,270.0,,,,,270.0
+rps_lng-HDO211126,rps_lng-HDO22314282,2022-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2022 to 02/09/2022 for 1407/50 Albert Road,False,True,1738.0,1738.0,-1738.0,,,,02/09/2022,
+rps_lng-HDO211126,rps_lng-HDO22419942,2022-09-28T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014515973-15135621RTBA,1407/50 ALB",True,False,721.6,721.6,391.6,,,,,391.6
+rps_lng-HDO211130,rps_lng-HDO23205145,2023-05-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43396969,True,False,2108.0,2108.0,5.0,,,,,5.0
+rps_lng-HDO211130,rps_lng-HDO23242509,2023-05-30T00:00:00+01:00,Invoice,Rent,Rent from 30/05/2023 to 06/06/2023 for 40 Banbury Street,False,True,554.43,554.43,-549.43,,549.43,,06/06/2023,
+rps_lng-HDO211172,rps_lng-HDO23344343,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 503/18 Hoff Boulevard,False,True,3476.0,3476.0,-3476.0,,,,09/09/2023,
+rps_lng-HDO211172,rps_lng-HDO23353308,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 503/18HOFFBOULEV-1,True,False,3476.0,3476.0,,,,,,0.0
+rps_lng-HDO211182,rps_lng-HDO23336523,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42353565,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO211182,rps_lng-HDO23320663,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 19 Nuttall Street,False,True,1738.0,1738.0,-1738.0,,,,28/08/2023,
+rps_lng-HDO211190,rps_lng-HDO23324509,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42353649,True,False,1738.0,1738.0,831.0,,,,,831.0
+rps_lng-HDO211190,rps_lng-HDO23326848,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 15 Edge View,False,True,1695.0,1695.0,-864.0,,864.0,,31/08/2023,
+rps_lng-HDO211214,rps_lng-HDO23358103,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48328967,True,False,479.89,479.89,,,,,,0.0
+rps_lng-HDO211214,rps_lng-HDO23344627,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 6 Peers Street,False,True,2607.0,2607.0,-3086.89,,,,10/09/2023,
+rps_lng-HDO211234,rps_lng-HDO23339011,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 33BANGLISSSTREET-2,True,False,3085.0,3085.0,,,,,,0.0
+rps_lng-HDO211234,rps_lng-HDO23329178,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 33b Angliss Street,False,True,3085.0,3085.0,-3085.0,,,,01/09/2023,
+rps_lng-HDO211235,rps_lng-HDO23336506,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44814549,True,False,1608.0,1608.0,3216.0,,1608.0,,,3216.0
+rps_lng-HDO211235,rps_lng-HDO23338428,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 11 Bandon Road,False,True,1608.0,1608.0,1608.0,,,,07/09/2023,
+rps_lng-HDO211264,rps_lng-HDO23310425,2023-07-14T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014804776-15155690RTBA,13 CHAPEL S",True,False,250.0,250.0,,,,,,0.0
+rps_lng-HDO211264,rps_lng-HDO23248778,2023-06-14T00:00:00+01:00,Invoice,Rent,Rent from 14/06/2023 to 13/07/2023 for 13 Chapel Street,False,True,1695.0,1695.0,-1695.0,,,,13/07/2023,
+rps_lng-HDO211277,rps_lng-HDO23352904,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 17 Northam Street,False,True,1782.0,1782.0,-11731.0,,1782.0,,15/09/2023,
+rps_lng-HDO211277,rps_lng-HDO23110152,2023-03-09T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44814861,True,False,1000.0,1000.0,-1039.0,,,,,0.0
+rps_lng-HDO211301,rps_lng-HDO23344910,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: Pension 190M6669555133648KCTRLINK PENSIO,True,False,639.01,639.01,241.05,,241.05,,,241.05
+rps_lng-HDO211301,rps_lng-HDO23311877,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 16 Kurrali Crescent,False,True,1477.0,1477.0,-397.96,,,,22/08/2023,
+rps_lng-HDO211320,rps_lng-HDO23353245,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49674179,True,False,3780.0,3780.0,3780.0,,1890.0,,,3780.0
+rps_lng-HDO211320,rps_lng-HDO23302242,2023-07-16T00:00:00+01:00,Invoice,Rent,Rent from 16/07/2023 to 15/08/2023 for 53 Sanders Avenue,False,True,1521.0,1521.0,-1521.0,,,,15/08/2023,
+rps_lng-HDO211377,rps_lng-HDO23336706,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 35ACAMERONSTREET,True,False,2151.0,2151.0,-50.0,,,,,0.0
+rps_lng-HDO211377,rps_lng-HDO23325590,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 35A Cameron Street,False,True,2151.0,2151.0,-2201.0,,,,31/08/2023,
+rps_lng-HDO211379,rps_lng-HDO23334363,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43CAMELOTDRIVE-1,True,False,1782.0,1782.0,-452.09,,,,,0.0
+rps_lng-HDO211379,rps_lng-HDO23322385,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 43 Camelot Drive,False,True,1782.0,1782.0,-2234.09,,,,29/08/2023,
+rps_lng-HDO211384,rps_lng-HDO22484369,2022-11-11T00:00:00+00:00,Invoice,Rent,Rent from 11/11/2022 to 21/11/2022 for 35 Gyrfalcon Way,False,True,644.45,644.45,-644.45,,,,21/11/2022,
+rps_lng-HDO211384,rps_lng-HDO22513005,2022-11-25T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44815983,True,False,644.45,644.45,,,,,,0.0
+rps_lng-HDO211433,rps_lng-HDO23302242,2023-07-16T00:00:00+01:00,Invoice,Rent,Rent from 16/07/2023 to 15/08/2023 for 53 Sanders Avenue,False,True,1521.0,1521.0,-1521.0,,,,15/08/2023,
+rps_lng-HDO211433,rps_lng-HDO23353245,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49674179,True,False,3780.0,3780.0,3780.0,,1890.0,,,3780.0
+rps_lng-HDO211434,rps_lng-HDO23349182,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 20PARAMOUNTBOULE-2,False,True,1625.0,1625.0,-1650.0,,,,,0.0
+rps_lng-HDO211434,rps_lng-HDO23333766,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 20 Paramount Boulevard,False,True,1625.0,1625.0,-1625.0,,1625.0,,05/09/2023,
+rps_lng-HDO211510,rps_lng-HDO23350291,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 814/338 Kings Way,False,True,2390.0,2390.0,1180.0,,30.0,,14/09/2023,
+rps_lng-HDO211510,rps_lng-HDO23362729,2023-08-17T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 814/338KINGSWAY-2,False,True,2390.0,2390.0,-30.0,,,,,0.0
+rps_lng-HDO211581,rps_lng-HDO23331682,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 4 Curzon Place,False,True,2998.0,2998.0,-2998.0,,,,03/09/2023,
+rps_lng-HDO211581,rps_lng-HDO23345059,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 4CURZONPLACE-1,True,False,2998.0,2998.0,,,,,,0.0
+rps_lng-HDO211592,rps_lng-HDO23354921,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 902/288 Albert Street,False,True,1912.0,1912.0,-1912.0,,1912.0,,16/09/2023,
+rps_lng-HDO211592,rps_lng-HDO23346623,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 45567062,True,False,398.24,398.24,,,,,,0.0
+rps_lng-HDO211594,rps_lng-HDO23242144,2023-06-05T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,150.0,150.0,,,,,,0.0
+rps_lng-HDO211594,rps_lng-HDO23111592,2023-03-18T00:00:00+00:00,Invoice,Rent,Rent from 18/03/2023 to 01/04/2023 for 801/673 La Trobe Street,False,True,803.34,803.34,,,,,01/04/2023,
+rps_lng-HDO211643,rps_lng-HDO23321114,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 44FEWSTERCIRCUIT,True,False,1477.0,1477.0,,,,,,0.0
+rps_lng-HDO211643,rps_lng-HDO23360293,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 44 Fewster Circuit,False,True,1477.0,1477.0,-1477.0,,1477.0,,20/09/2023,
+rps_lng-HDO211648,rps_lng-HDO23321047,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 518/199WILLIAMSTRE,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO211648,rps_lng-HDO23360424,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 518/199 William Street,False,True,1651.0,1651.0,-1651.0,,1651.0,,20/09/2023,
+rps_lng-HDO211669,rps_lng-HDO23358598,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 18MANNIKINSWAY-2,True,False,2086.0,2086.0,,,,,,0.0
+rps_lng-HDO211669,rps_lng-HDO23348783,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 18 Mannikins Way,False,True,2086.0,2086.0,-2086.0,,,,13/09/2023,
+rps_lng-HDO220011,rps_lng-HDO23358562,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 108/23-25CLAPHAM-1,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO220011,rps_lng-HDO23344380,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 108/23-25 Clapham Street,False,True,1651.0,1651.0,-1651.0,,,,11/09/2023,
+rps_lng-HDO220023,rps_lng-HDO23344372,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 6 Florence Place,False,True,2042.0,2042.0,-2237.0,,,,11/09/2023,
+rps_lng-HDO220023,rps_lng-HDO23358582,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6FLORENCEPLACE-3,True,False,2042.0,2042.0,-195.0,,,,,0.0
+rps_lng-HDO220060,rps_lng-HDO23341025,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 3/12FAWKNERROAD-1,True,False,1869.0,1869.0,,,,,,0.0
+rps_lng-HDO220060,rps_lng-HDO23331712,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 3/12 Fawkner Road,False,True,1869.0,1869.0,-1869.0,,,,02/09/2023,
+rps_lng-HDO220076,rps_lng-HDO23323008,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6LAFAYETTECRESCE-1,True,False,2086.0,2086.0,,,,,,0.0
+rps_lng-HDO220076,rps_lng-HDO23362298,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 6 Lafayette Crescent,False,True,2086.0,2086.0,-2086.0,,2086.0,,21/09/2023,
+rps_lng-HDO220077,rps_lng-HDO23341070,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 114MORRISSTREET-1,True,False,2021.0,2021.0,,,,,,0.0
+rps_lng-HDO220077,rps_lng-HDO23332029,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 114 Morris Street,False,True,2021.0,2021.0,-2021.0,,,,02/09/2023,
+rps_lng-HDO220098,rps_lng-HDO23060996,2023-02-08T00:00:00+00:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014645257-15237179RTBA,3 CRYSTAL R",True,False,500.0,500.0,,,,,,0.0
+rps_lng-HDO220098,rps_lng-HDO23024707,2023-01-22T00:00:00+00:00,Invoice,Rent,Rent from 22/01/2023 to 24/01/2023 for 3 Crystal Road,False,True,165.01,165.01,-2013.01,,,,24/01/2023,
+rps_lng-HDO220100,rps_lng-HDO23314255,2023-07-24T00:00:00+01:00,Invoice,Rent,Rent from 24/07/2023 to 23/08/2023 for 4 Solo Street,False,True,2086.0,2086.0,-2086.0,,,,23/08/2023,
+rps_lng-HDO220100,rps_lng-HDO23322903,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 4SOLOSTREET-2,True,False,2086.0,2086.0,,,,,,0.0
+rps_lng-HDO220102,rps_lng-HDO23362010,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 503/11 David Street,False,True,2499.0,2499.0,-2499.0,,2499.0,,21/09/2023,
+rps_lng-HDO220102,rps_lng-HDO23323084,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 503/11DAVIDSTREE-2,True,False,2499.0,2499.0,,,,,,0.0
+rps_lng-HDO220113,rps_lng-HDO23345057,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 19CHELMSFORDSTRE-2,True,False,2690.0,2690.0,,,,,,0.0
+rps_lng-HDO220113,rps_lng-HDO23331706,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 19 Chelmsford Street,False,True,3042.0,3042.0,-2690.0,,,,03/09/2023,
+rps_lng-HDO220146,rps_lng-HDO23346368,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 55 Crefden Street,False,True,2216.0,2216.0,-2216.0,,,,12/09/2023,
+rps_lng-HDO220146,rps_lng-HDO23358365,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 55CREFDENSTREET-2,True,False,2216.0,2216.0,,,,,,0.0
+rps_lng-HDO220186,rps_lng-HDO23240842,2023-06-10T00:00:00+01:00,Invoice,Rent,Rent from 10/06/2023 to 09/07/2023 for 46 Fewster Circuit,False,True,1630.0,1630.0,-1630.0,,,,09/07/2023,
+rps_lng-HDO220186,rps_lng-HDO23255028,2023-06-13T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 46FEWSTERCIRCUIT,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO220190,rps_lng-HDO23311890,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 32 Boronia Avenue,False,True,1673.0,1673.0,-1673.0,,,,22/08/2023,
+rps_lng-HDO220190,rps_lng-HDO23336513,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49023237,True,False,1673.0,1673.0,-25.0,,,,,0.0
+rps_lng-HDO220196,rps_lng-HDO23355391,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 2 Blossom Lane,False,True,1738.0,1738.0,-1738.0,,1738.0,,16/09/2023,
+rps_lng-HDO220196,rps_lng-HDO23312731,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2BLOSSOMLANE-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO220204,rps_lng-HDO23355805,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 6 Reginato Court,False,True,1890.0,1890.0,-1905.0,,1890.0,,16/09/2023,
+rps_lng-HDO220204,rps_lng-HDO23312729,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6REGINATOCOURT-2,True,False,1890.0,1890.0,-15.0,,,,,0.0
+rps_lng-HDO220209,rps_lng-HDO23129025,2023-03-23T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,410.06,410.06,,,,,,0.0
+rps_lng-HDO220209,rps_lng-HDO23087527,2023-02-24T00:00:00+00:00,Credit Note,Rent,Tenant vacated 06/02/23,True,False,410.06,410.06,410.06,,,,,
+rps_lng-HDO220250,rps_lng-HDO23355650,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 2a Crampton Crescent,False,True,1999.0,1999.0,-1999.0,,1999.0,,17/09/2023,
+rps_lng-HDO220250,rps_lng-HDO23314589,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2ACRAMPTONCRESCE-2,True,False,1999.0,1999.0,,,,,,0.0
+rps_lng-HDO220254,rps_lng-HDO23362235,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 2/64 Snell Grove,False,True,1716.0,1716.0,-1716.0,,1716.0,,21/09/2023,
+rps_lng-HDO220254,rps_lng-HDO23322905,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2/64SNELLGROVE-2,True,False,1716.0,1716.0,,,,,,0.0
+rps_lng-HDO220256,rps_lng-HDO23315939,2023-07-25T00:00:00+01:00,Invoice,Rent,Rent from 25/07/2023 to 24/08/2023 for 35 Spring Street,False,True,1934.0,1934.0,200.0,,,,24/08/2023,
+rps_lng-HDO220256,rps_lng-HDO23358126,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46463360,True,False,1100.0,1100.0,56.0,,56.0,,,56.0
+rps_lng-HDO220264,rps_lng-HDO23318025,2023-07-26T00:00:00+01:00,Invoice,Rent,Rent from 26/07/2023 to 25/08/2023 for 30 Marriot Boulevard,False,True,1825.0,1825.0,-1825.0,,,,25/08/2023,
+rps_lng-HDO220264,rps_lng-HDO23327572,2023-07-26T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 30MARRIOTBOULEVA-1,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO220277,rps_lng-HDO23128330,2023-03-28T00:00:00+01:00,Invoice,Rent,Rent from 28/03/2023 to 29/03/2023 for 12 Riverine Street,False,True,125.72,125.72,-125.72,,,,29/03/2023,
+rps_lng-HDO220277,rps_lng-HDO23137939,2023-03-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 12RIVERINESTREET-1,True,False,125.72,125.72,,,,,,0.0
+rps_lng-HDO220335,rps_lng-HDO23051737,2023-02-08T00:00:00+00:00,Invoice,Rent,Rent from 08/02/2023 to 07/03/2023 for 15/88 Franklin Street,False,True,1434.0,1434.0,-1434.0,,,,07/03/2023,
+rps_lng-HDO220335,rps_lng-HDO23061245,2023-02-08T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15/88FRANKLINSTREE,True,False,1434.0,1434.0,,,,,,0.0
+rps_lng-HDO220375,rps_lng-HDO23336500,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46464541,True,False,1521.0,1521.0,1521.0,,,,,1521.0
+rps_lng-HDO220375,rps_lng-HDO23360043,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 33/88 Franklin Street,False,True,1521.0,1521.0,,,,,20/09/2023,
+rps_lng-HDO220419,rps_lng-HDO23356277,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46465019,True,False,1807.0,1807.0,,,,,,0.0
+rps_lng-HDO220419,rps_lng-HDO23319964,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 6 Hidden Valley Drive,False,True,1782.0,1782.0,-1782.0,,,,28/08/2023,
+rps_lng-HDO220441,rps_lng-HDO23334321,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 14BIGHORNROAD-1,True,False,1912.0,1912.0,,,,,,0.0
+rps_lng-HDO220441,rps_lng-HDO23324404,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 14 Bighorn Road,False,True,1912.0,1912.0,-1912.0,,,,30/08/2023,
+rps_lng-HDO220477,rps_lng-HDO23341023,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 7FARRIERROAD-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO220477,rps_lng-HDO23331787,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 7 Farrier Road,False,True,1738.0,1738.0,-1738.0,,,,02/09/2023,
+rps_lng-HDO220489,rps_lng-HDO23149758,2023-04-11T00:00:00+01:00,Invoice,Rent,Rent from 11/04/2023 to 10/05/2023 for 7 Finn Street,False,True,1695.0,1695.0,-1155.37,,,,10/05/2023,
+rps_lng-HDO220489,rps_lng-HDO23160067,2023-04-12T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46465746,True,False,1700.0,1700.0,544.63,,40.0,,,544.63
+rps_lng-HDO220506,rps_lng-HDO23274440,2023-06-23T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46859260,True,False,2060.0,2060.0,2060.0,,,,,2060.0
+rps_lng-HDO220506,rps_lng-HDO23283095,2023-07-11T00:00:00+01:00,Invoice,Rent,Rent from 11/07/2023 to 10/08/2023 for 9 Alfred Road,False,True,2260.0,2260.0,,,,,10/08/2023,
+rps_lng-HDO220516,rps_lng-HDO23347075,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1/6MAUDEAVENUE,True,False,2129.0,2129.0,,,,,,0.0
+rps_lng-HDO220516,rps_lng-HDO23333661,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 1/6 Maude Avenue,False,True,2129.0,2129.0,-2129.0,,,,05/09/2023,
+rps_lng-HDO220529,rps_lng-HDO23321074,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 5MUIRHEADCRESCENT,True,False,1303.0,1303.0,-25.0,,,,,0.0
+rps_lng-HDO220529,rps_lng-HDO23360389,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 5 Muirhead Crescent,False,True,1303.0,1303.0,-1328.0,,1303.0,,20/09/2023,
+rps_lng-HDO220561,rps_lng-HDO23347190,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43KURRALICRESCEN-1,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO220561,rps_lng-HDO23336375,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 43 Kurrali Crescent,False,True,1825.0,1825.0,-1825.0,,,,06/09/2023,
+rps_lng-HDO220585,rps_lng-HDO23340778,2023-08-09T00:00:00+01:00,Invoice,Rent,Rent from 09/08/2023 to 08/09/2023 for 1310/8 Hallenstein Street,False,True,1955.0,1955.0,-1955.0,,,,08/09/2023,
+rps_lng-HDO220585,rps_lng-HDO23353122,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46860144,True,False,977.5,977.5,,,,,,0.0
+rps_lng-HDO220587,rps_lng-HDO23320072,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 15 Attunga Grove,False,True,1630.0,1630.0,-1630.0,,,,28/08/2023,
+rps_lng-HDO220587,rps_lng-HDO23334385,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ATTUNGAGROVE,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO220640,rps_lng-HDO23336918,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1/57EGLINTONSTRE-1,True,False,2303.0,2303.0,,,,,,0.0
+rps_lng-HDO220640,rps_lng-HDO23325792,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 1/57 Eglinton Street,False,True,2303.0,2303.0,-2303.0,,,,31/08/2023,
+rps_lng-HDO220649,rps_lng-HDO23314298,2023-07-24T00:00:00+01:00,Invoice,Rent,Rent from 24/07/2023 to 23/08/2023 for 83 Madisons Avenue,False,True,2390.0,2390.0,-2390.0,,,,23/08/2023,
+rps_lng-HDO220649,rps_lng-HDO23322979,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 83MADISONSAVENUE-2,True,False,2390.0,2390.0,,,,,,0.0
+rps_lng-HDO220684,rps_lng-HDO23320477,2023-07-28T00:00:00+01:00,Invoice,Rent,Rent from 28/07/2023 to 27/08/2023 for 2B Burton Street,False,True,1695.0,1695.0,-1695.0,,,,27/08/2023,
+rps_lng-HDO220684,rps_lng-HDO23332232,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2BBURTONSTREET,True,False,1695.0,1695.0,,,,,,0.0
+rps_lng-HDO220686,rps_lng-HDO23076555,2023-02-26T00:00:00+00:00,Invoice,Rent,Rent from 26/02/2023 to 08/03/2023 for 75 Morang Road,False,True,1257.07,1257.07,,,,,08/03/2023,
+rps_lng-HDO220686,rps_lng-HDO23079830,2023-02-21T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46861118,True,False,4733.07,4733.07,1257.07,,,,,1257.07
+rps_lng-HDO220740,rps_lng-HDO23111592,2023-03-18T00:00:00+00:00,Invoice,Rent,Rent from 18/03/2023 to 01/04/2023 for 801/673 La Trobe Street,False,True,803.34,803.34,,,,,01/04/2023,
+rps_lng-HDO220740,rps_lng-HDO23242144,2023-06-05T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,150.0,150.0,,,,,,0.0
+rps_lng-HDO220758,rps_lng-HDO23345785,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 34 Chirnside Street,False,True,3368.0,3368.0,,,,,03/09/2023,
+rps_lng-HDO220758,rps_lng-HDO23321042,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675234,True,False,6736.0,6736.0,6736.0,,,,,6736.0
+rps_lng-HDO220814,rps_lng-HDO23333922,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 328/20 Shamrock Street,False,True,1999.0,1999.0,-1999.0,,,,05/09/2023,
+rps_lng-HDO220814,rps_lng-HDO23347257,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 328/20SHAMROCKST-1,True,False,1999.0,1999.0,,,,,,0.0
+rps_lng-HDO220827,rps_lng-HDO23320578,2023-07-28T00:00:00+01:00,Invoice,Rent,Rent from 28/07/2023 to 27/08/2023 for 5/8 Murray Street,False,True,1847.0,1847.0,-1847.0,,,,27/08/2023,
+rps_lng-HDO220827,rps_lng-HDO23332298,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 5/8MURRAYSTREET-1,True,False,1847.0,1847.0,,,,,,0.0
+rps_lng-HDO220851,rps_lng-HDO23327010,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 5 Vista Drive,False,True,1673.0,1673.0,-1673.0,,,,31/08/2023,
+rps_lng-HDO220851,rps_lng-HDO23337009,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 5VISTADRIVE-1,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO220882,rps_lng-HDO23329105,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 13 Washington Street,False,True,1521.0,1521.0,-1521.0,,,,01/09/2023,
+rps_lng-HDO220882,rps_lng-HDO23338929,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 13WASHINGTONSTREET,True,False,1521.0,1521.0,,,,,,0.0
+rps_lng-HDO220891,rps_lng-HDO23358156,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47260799,True,False,1521.0,1521.0,1521.0,,1521.0,,,1521.0
+rps_lng-HDO220891,rps_lng-HDO23251895,2023-06-18T00:00:00+01:00,Invoice,Rent,Rent from 18/06/2023 to 17/07/2023 for 601/7 Katherine Place,False,True,1521.0,1521.0,-1521.0,,,,17/07/2023,
+rps_lng-HDO220913,rps_lng-HDO23213635,2023-05-22T00:00:00+01:00,Invoice,Rent,Rent from 22/05/2023 to 21/06/2023 for 405/320-322 St Kilda Road,False,True,1739.0,1739.0,-1739.0,,,,21/06/2023,
+rps_lng-HDO220913,rps_lng-HDO23298115,2023-07-06T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014795875-15360783RTBA,405/320 ST",True,False,564.14,564.14,,,,,,0.0
+rps_lng-HDO220916,rps_lng-HDO23356460,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 8HANSONSTREET,True,False,1608.0,1608.0,,,,,,0.0
+rps_lng-HDO220916,rps_lng-HDO23344509,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 8 Hanson Street,False,True,1608.0,1608.0,-1608.0,,,,10/09/2023,
+rps_lng-HDO220922,rps_lng-HDO23334243,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: G13/358MORELANDR-1,True,False,1825.0,1825.0,-462.0,,,,,0.0
+rps_lng-HDO220922,rps_lng-HDO23320565,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for G13/358 Moreland Road,False,True,1825.0,1825.0,-2287.0,,,,28/08/2023,
+rps_lng-HDO220927,rps_lng-HDO23312894,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 50SELBOURNESTREET,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-HDO220927,rps_lng-HDO23355897,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 50 Selbourne Street,False,True,1781.0,1781.0,-1781.0,,1781.0,,16/09/2023,
+rps_lng-HDO220933,rps_lng-HDO23360825,2023-08-16T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 23HOUSTONDRIVE,False,True,1673.0,1673.0,-24.5,,,,,0.0
+rps_lng-HDO220933,rps_lng-HDO23346512,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 23 Houston Drive,False,True,1673.0,1673.0,-1697.5,,,,12/09/2023,
+rps_lng-HDO220935,rps_lng-HDO23256651,2023-06-20T00:00:00+01:00,Invoice,Rent,Rent from 20/06/2023 to 19/07/2023 for 9/2-10 Monckton Place,False,True,1673.0,1673.0,-1673.0,,,,19/07/2023,
+rps_lng-HDO220935,rps_lng-HDO23266024,2023-06-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 9/2-10MONCKTONPLAC,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO220977,rps_lng-HDO23336916,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 45LYNWOODDRIVE-2,True,False,1630.0,1630.0,300.0,,,,,300.0
+rps_lng-HDO220977,rps_lng-HDO23327075,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 45 Lynwood Drive,False,True,1630.0,1630.0,-1330.0,,,,31/08/2023,
+rps_lng-HDO220998,rps_lng-HDO23315837,2023-07-25T00:00:00+01:00,Invoice,Rent,Rent from 25/07/2023 to 24/08/2023 for 43 Williams Landing Boulevard,False,True,2042.0,2042.0,-2042.0,,,,24/08/2023,
+rps_lng-HDO220998,rps_lng-HDO23324705,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 43WILLIAMSLANDIN-1,True,False,2042.0,2042.0,,,,,,0.0
+rps_lng-HDO221031,rps_lng-HDO23322875,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2/101VICTORIAROAD,True,False,2064.0,2064.0,,,,,,0.0
+rps_lng-HDO221031,rps_lng-HDO23311792,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 2/101 Victoria Road,False,True,2064.0,2064.0,-2064.0,,,,22/08/2023,
+rps_lng-HDO221039,rps_lng-HDO23339003,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 61/195BEACONSFIE-1,True,False,2346.0,2346.0,,,,,,0.0
+rps_lng-HDO221039,rps_lng-HDO23329137,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 61/195 Beaconsfield Parade,False,True,2346.0,2346.0,-2346.0,,,,01/09/2023,
+rps_lng-HDO221042,rps_lng-HDO23334412,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 19THRUMSROAD-2,True,False,1695.0,1695.0,,,,,,0.0
+rps_lng-HDO221042,rps_lng-HDO23322508,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 19 Thrums Road,False,True,1695.0,1695.0,-1695.0,,,,29/08/2023,
+rps_lng-HDO221063,rps_lng-HDO23336983,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 7PERIVALECRESCEN-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO221063,rps_lng-HDO23326988,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 7 Perivale Crescent,False,True,1738.0,1738.0,-1738.0,,,,31/08/2023,
+rps_lng-HDO221070,rps_lng-HDO23330896,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 17/88 Franklin Street,False,True,1782.0,1782.0,-1782.0,,,,04/09/2023,
+rps_lng-HDO221070,rps_lng-HDO23347269,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 17/88FRANKLINSTR-1,True,False,1782.0,1782.0,,,,,,0.0
+rps_lng-HDO221075,rps_lng-HDO23333766,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 20 Paramount Boulevard,False,True,1625.0,1625.0,-1625.0,,1625.0,,05/09/2023,
+rps_lng-HDO221075,rps_lng-HDO23349182,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 20PARAMOUNTBOULE-2,False,True,1625.0,1625.0,-1650.0,,,,,0.0
+rps_lng-HDO221106,rps_lng-HDO23321110,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 35GALLAXUSAVENUE-1,True,False,1565.0,1565.0,,,,,,0.0
+rps_lng-HDO221106,rps_lng-HDO23360343,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 35 Gallaxus Avenue,False,True,1565.0,1565.0,-1565.0,,1565.0,,20/09/2023,
+rps_lng-HDO221112,rps_lng-HDO23358165,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47590492,True,False,1608.0,1608.0,,,,,,0.0
+rps_lng-HDO221112,rps_lng-HDO23350671,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 63 Loyola Road,False,True,1608.0,1608.0,-1608.0,,,,11/09/2023,
+rps_lng-HDO221153,rps_lng-HDO23316363,2023-07-20T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 50/88FRANKLINSTR-2,False,True,1782.0,1782.0,,,,,,0.0
+rps_lng-HDO221153,rps_lng-HDO23354880,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 50/88 Franklin Street,False,True,2216.0,2216.0,-2216.0,,2216.0,,17/09/2023,
+rps_lng-HDO221154,rps_lng-HDO23213451,2023-05-22T00:00:00+01:00,Invoice,Rent,Rent from 22/05/2023 to 21/06/2023 for 304/74 Queens Road,False,True,1825.0,1825.0,,,,,21/06/2023,
+rps_lng-HDO221154,rps_lng-HDO23179237,2023-04-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47590906,True,False,1825.0,1825.0,1825.0,,,,,1825.0
+rps_lng-HDO221193,rps_lng-HDO23317845,2023-07-26T00:00:00+01:00,Invoice,Rent,Rent from 26/07/2023 to 25/08/2023 for 16 Gowrie Street,False,True,1955.0,1955.0,-1955.0,,,,25/08/2023,
+rps_lng-HDO221193,rps_lng-HDO23327592,2023-07-26T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 16GOWRIESTREET-1,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-HDO221194,rps_lng-HDO23338917,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 46WYNDHAMSTREET-1,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO221194,rps_lng-HDO23329189,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 46 Wyndham Street,False,True,1825.0,1825.0,-1825.0,,,,01/09/2023,
+rps_lng-HDO221236,rps_lng-HDO23331787,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 7 Farrier Road,False,True,1738.0,1738.0,-1738.0,,,,02/09/2023,
+rps_lng-HDO221236,rps_lng-HDO23341023,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 7FARRIERROAD-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO221242,rps_lng-HDO23333778,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 306/74 Queens Road,False,True,1673.0,1673.0,-1673.0,,,,05/09/2023,
+rps_lng-HDO221242,rps_lng-HDO23347291,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 306/74QUEENSROAD-1,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO221263,rps_lng-HDO23353318,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6AINTREESTREET-1,True,False,2390.0,2390.0,,,,,,0.0
+rps_lng-HDO221263,rps_lng-HDO23344458,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 6 Aintree Street,False,True,2390.0,2390.0,-2390.0,,,,09/09/2023,
+rps_lng-HDO221271,rps_lng-HDO23360756,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1/59PAKINGTONSTREE,True,False,2216.0,2216.0,-96.95,,,,,0.0
+rps_lng-HDO221271,rps_lng-HDO23350474,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 1/59 Pakington Street,False,True,2216.0,2216.0,-2312.95,,,,14/09/2023,
+rps_lng-HDO221273,rps_lng-HDO23358624,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2/26-28BROADWAY,True,False,1738.0,1738.0,-25.0,,,,,0.0
+rps_lng-HDO221273,rps_lng-HDO23343652,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 2/26-28 Broadway,False,True,1738.0,1738.0,-1763.0,,,,11/09/2023,
+rps_lng-HDO221288,rps_lng-HDO23348600,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 30 Park Avenue,False,True,2173.0,2173.0,-2173.0,,,,13/09/2023,
+rps_lng-HDO221288,rps_lng-HDO23358634,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 30PARKAVENUE-1,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO221292,rps_lng-HDO23280662,2023-06-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49681372,True,False,5388.0,5388.0,5388.0,,,,,5388.0
+rps_lng-HDO221292,rps_lng-HDO23354918,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 1104/50 Albert Road,False,True,2694.0,2694.0,-2694.0,,2694.0,,16/09/2023,
+rps_lng-HDO221299,rps_lng-HDO23352795,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 142 Sandhurst Boulevard,False,True,2955.0,2955.0,-2955.0,,,,15/09/2023,
+rps_lng-HDO221299,rps_lng-HDO23362695,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 142SANDHURSTBOUL-2,True,False,2955.0,2955.0,,,,,,0.0
+rps_lng-HDO221339,rps_lng-HDO23327187,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 66 Kingdom Boulevard,False,True,1608.0,1608.0,-50.0,,,,31/08/2023,
+rps_lng-HDO221339,rps_lng-HDO23344950,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48329023,True,False,1608.0,1608.0,-75.0,,,,,0.0
+rps_lng-HDO221343,rps_lng-HDO23336419,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 150 Park Drive,False,True,2825.0,2825.0,,,,,06/09/2023,
+rps_lng-HDO221343,rps_lng-HDO23340954,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47965769,True,False,2825.0,2825.0,2825.0,,,,,2825.0
+rps_lng-HDO221349,rps_lng-HDO23349056,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49357353,True,False,4000.0,4000.0,3975.0,,629.0,,,3975.0
+rps_lng-HDO221349,rps_lng-HDO23331497,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 909/35 Malcolm Street,False,True,3346.0,3346.0,3346.0,,,,02/09/2023,
+rps_lng-HDO221419,rps_lng-HDO23336080,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 110 Kangaroo Road,False,True,2694.0,2694.0,-2694.0,,,,06/09/2023,
+rps_lng-HDO221419,rps_lng-HDO23347221,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 110KANGAROOROAD-1,True,False,2694.0,2694.0,,,,,,0.0
+rps_lng-HDO221462,rps_lng-HDO23320565,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for G13/358 Moreland Road,False,True,1825.0,1825.0,-2287.0,,,,28/08/2023,
+rps_lng-HDO221462,rps_lng-HDO23334243,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: G13/358MORELANDR-1,True,False,1825.0,1825.0,-462.0,,,,,0.0
+rps_lng-HDO221469,rps_lng-HDO23358053,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 125/28 Southgate Avenue,False,True,3520.0,3520.0,-3520.0,,3520.0,,19/09/2023,
+rps_lng-HDO221469,rps_lng-HDO23318242,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 125/28SOUTHGATEAVE,True,False,3520.0,3520.0,,,,,,0.0
+rps_lng-HDO221519,rps_lng-HDO23344648,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 6A Butler Street,False,True,3324.0,3324.0,-3349.0,,,,09/09/2023,
+rps_lng-HDO221519,rps_lng-HDO23356344,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47967443,True,False,3324.0,3324.0,-25.0,,,,,0.0
+rps_lng-HDO221537,rps_lng-HDO23324422,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 44 Moorna Drive,False,True,2933.0,2933.0,-75.0,,,,30/08/2023,
+rps_lng-HDO221537,rps_lng-HDO23338889,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48328884,True,False,2933.0,2933.0,-100.0,,,,,0.0
+rps_lng-HDO221539,rps_lng-HDO23324361,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 27 Chapel Mews,False,True,2346.0,2346.0,-2346.0,,,,30/08/2023,
+rps_lng-HDO221539,rps_lng-HDO23334223,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 27CHAPELMEWS,True,False,2346.0,2346.0,,,,,,0.0
+rps_lng-HDO221546,rps_lng-HDO23358103,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48328967,True,False,479.89,479.89,,,,,,0.0
+rps_lng-HDO221546,rps_lng-HDO23344627,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 6 Peers Street,False,True,2607.0,2607.0,-3086.89,,,,10/09/2023,
+rps_lng-HDO221557,rps_lng-HDO23316358,2023-07-20T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 7/9DENBIGHROAD,False,True,1738.0,1738.0,-25.0,,,,,0.0
+rps_lng-HDO221557,rps_lng-HDO23354861,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 7/9 Denbigh Road,False,True,1738.0,1738.0,-1763.0,,1738.0,,17/09/2023,
+rps_lng-HDO221578,rps_lng-HDO23350544,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 8/29-31 Brighton Road,False,True,1955.0,1955.0,-1955.0,,,,14/09/2023,
+rps_lng-HDO221578,rps_lng-HDO23360660,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 8/29-31BRIGHTONROA,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-HDO221581,rps_lng-HDO23344428,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 501/199 William Street,False,True,2173.0,2173.0,-2173.0,,,,10/09/2023,
+rps_lng-HDO221581,rps_lng-HDO23356385,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 501/199WILLIAMST-3,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO221599,rps_lng-HDO23356361,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 9CROWNSTREET-1,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-HDO221599,rps_lng-HDO23344183,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 9 Crown Street,False,True,1825.0,1825.0,-1825.0,,,,10/09/2023,
+rps_lng-HDO221620,rps_lng-HDO23322808,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48329650,True,False,3042.0,3042.0,252.0,,,,,252.0
+rps_lng-HDO221620,rps_lng-HDO23362327,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 610/18 Hoff Boulevard,False,True,3042.0,3042.0,-2790.0,,2790.0,,21/09/2023,
+rps_lng-HDO221625,rps_lng-HDO23331087,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 102/42-44 Harrison Street,False,True,1695.0,1695.0,-1695.0,,,,04/09/2023,
+rps_lng-HDO221625,rps_lng-HDO23346944,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 102/42-44HARRISONS,True,False,1695.0,1695.0,,,,,,0.0
+rps_lng-HDO221631,rps_lng-HDO23278289,2023-06-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48329734,True,False,7300.0,7300.0,5475.0,,1825.0,,,5475.0
+rps_lng-HDO221631,rps_lng-HDO23355400,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 109/9 Hewitt Avenue,False,True,1825.0,1825.0,1825.0,,,,17/09/2023,
+rps_lng-HDO221643,rps_lng-HDO23350291,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 814/338 Kings Way,False,True,2390.0,2390.0,1180.0,,30.0,,14/09/2023,
+rps_lng-HDO221643,rps_lng-HDO23362729,2023-08-17T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 814/338KINGSWAY-2,False,True,2390.0,2390.0,-30.0,,,,,0.0
+rps_lng-HDO221692,rps_lng-HDO23344611,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 3006A/260 Spencer Street,False,True,2173.0,2173.0,-2173.0,,,,11/09/2023,
+rps_lng-HDO221692,rps_lng-HDO23358261,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48330328,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO221693,rps_lng-HDO23360293,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 44 Fewster Circuit,False,True,1477.0,1477.0,-1477.0,,1477.0,,20/09/2023,
+rps_lng-HDO221693,rps_lng-HDO23321114,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 44FEWSTERCIRCUIT,True,False,1477.0,1477.0,,,,,,0.0
+rps_lng-HDO221743,rps_lng-HDO23356032,2023-08-19T00:00:00+01:00,Invoice,Rent,Rent from 19/08/2023 to 18/09/2023 for 200 Station Street,False,True,2824.0,2824.0,-2849.0,,2824.0,,18/09/2023,
+rps_lng-HDO221743,rps_lng-HDO23316330,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 200STATIONSTREET-2,True,False,2824.0,2824.0,-25.0,,,,,0.0
+rps_lng-HDO221772,rps_lng-HDO23360346,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 58 Meander Road,False,True,1999.0,1999.0,-1999.0,,1999.0,,20/09/2023,
+rps_lng-HDO221772,rps_lng-HDO23321080,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 58MEANDERROAD-1,True,False,1999.0,1999.0,,,,,,0.0
+rps_lng-HDO221802,rps_lng-HDO23322298,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 64 Brownlow Drive,False,True,1999.0,1999.0,-1999.0,,,,29/08/2023,
+rps_lng-HDO221802,rps_lng-HDO23334191,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 64BROWNLOWDRIVE-1,True,False,1999.0,1999.0,,,,,,0.0
+rps_lng-HDO221803,rps_lng-HDO23358040,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 15 Alderney Street,False,True,1695.0,1695.0,-1695.0,,1695.0,,19/09/2023,
+rps_lng-HDO221803,rps_lng-HDO23318338,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ALDERNEYSTREET-1,True,False,1695.0,1695.0,,,,,,0.0
+rps_lng-HDO221820,rps_lng-HDO23348986,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729370,True,False,1792.0,1792.0,,,,,,0.0
+rps_lng-HDO221820,rps_lng-HDO23322252,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 30 Prominence Boulevard,False,True,1717.0,1717.0,-1767.0,,,,29/08/2023,
+rps_lng-HDO221822,rps_lng-HDO23353092,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729396,True,False,188.81,188.81,-50.0,,,,,0.0
+rps_lng-HDO221822,rps_lng-HDO23312082,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 41 Kasai Walk,False,True,1825.0,1825.0,-238.81,,,,22/08/2023,
+rps_lng-HDO221848,rps_lng-HDO23282462,2023-06-29T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 48729610    059879SJ Higgins PL,True,False,1716.0,1716.0,,,,,,0.0
+rps_lng-HDO221848,rps_lng-HDO23240035,2023-06-09T00:00:00+01:00,Invoice,Rent,Rent from 09/06/2023 to 08/07/2023 for 10/2 Monckton Place,False,True,1716.0,1716.0,-1716.0,,,,08/07/2023,
+rps_lng-HDO221857,rps_lng-HDO23338953,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 24MONARMAWALK,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO221857,rps_lng-HDO23329168,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 24 Monarma Walk,False,True,2173.0,2173.0,-2173.0,,,,01/09/2023,
+rps_lng-HDO221870,rps_lng-HDO23349058,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729826,True,False,4258.0,4258.0,4258.0,,,,,4258.0
+rps_lng-HDO221870,rps_lng-HDO23340612,2023-08-09T00:00:00+01:00,Invoice,Rent,Rent from 09/08/2023 to 08/09/2023 for 4207/7 Riverside Quay,False,True,4258.0,4258.0,,,,,08/09/2023,
+rps_lng-HDO230011,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-HDO230011,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-HDO230018,rps_lng-HDO23357796,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 28 Fellows Street,False,True,1586.0,1586.0,-1586.0,,1586.0,,19/09/2023,
+rps_lng-HDO230018,rps_lng-HDO23318298,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 28FELLOWSSTREET-1,True,False,1586.0,1586.0,,,,,,0.0
+rps_lng-HDO230022,rps_lng-HDO23344474,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 94 Waverley Street,False,True,3259.0,3259.0,-3259.0,,,,11/09/2023,
+rps_lng-HDO230022,rps_lng-HDO23358355,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 94WAVERLEYSTREET,True,False,3259.0,3259.0,,,,,,0.0
+rps_lng-HDO230024,rps_lng-HDO23346368,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 55 Crefden Street,False,True,2216.0,2216.0,-2216.0,,,,12/09/2023,
+rps_lng-HDO230024,rps_lng-HDO23358365,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 55CREFDENSTREET-2,True,False,2216.0,2216.0,,,,,,0.0
+rps_lng-HDO230029,rps_lng-HDO23358363,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22TIMBARRACHASE-1,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-HDO230029,rps_lng-HDO23346461,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 22 Timbarra Chase,False,True,1630.0,1630.0,-1630.0,,,,12/09/2023,
+rps_lng-HDO230035,rps_lng-HDO23358379,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 4/4ORANGESTREET,True,False,1782.0,1782.0,,,,,,0.0
+rps_lng-HDO230035,rps_lng-HDO23348906,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 4/4 Orange Street,False,True,1782.0,1782.0,-1782.0,,,,13/09/2023,
+rps_lng-HDO230048,rps_lng-HDO23329482,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 25CRESSYSTREET-1,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-HDO230048,rps_lng-HDO23320113,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 25 Cressy Street,False,True,1955.0,1955.0,-1955.0,,,,26/08/2023,
+rps_lng-HDO230052,rps_lng-HDO23318302,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 17/32EASTESPLANADE,True,False,1434.0,1434.0,,,,,,0.0
+rps_lng-HDO230052,rps_lng-HDO23357660,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 17/32 East Esplanade,False,True,1434.0,1434.0,-1434.0,,1434.0,,19/09/2023,
+rps_lng-HDO230055,rps_lng-HDO23360354,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 1/37 Staley Street,False,True,2055.0,2055.0,-2055.0,,2055.0,,20/09/2023,
+rps_lng-HDO230055,rps_lng-HDO23316167,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48730485,True,False,2055.0,2055.0,2055.0,,,,,2055.0
+rps_lng-HDO230089,rps_lng-HDO23329477,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 215CHILDSROAD-3,True,False,2607.0,2607.0,,,,,,0.0
+rps_lng-HDO230089,rps_lng-HDO23320617,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 215 Childs Road,False,True,2607.0,2607.0,-2607.0,,,,26/08/2023,
+rps_lng-HDO230090,rps_lng-HDO23302625,2023-07-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48730808,True,False,2520.0,2520.0,2520.0,,,,,2520.0
+rps_lng-HDO230090,rps_lng-HDO23356071,2023-08-19T00:00:00+01:00,Invoice,Rent,Rent from 19/08/2023 to 18/09/2023 for 37 The Avenue,False,True,2520.0,2520.0,-2740.0,,2520.0,,18/09/2023,
+rps_lng-HDO230091,rps_lng-HDO23257124,2023-06-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48730816,True,False,3339.0,3339.0,3339.0,,,,,3339.0
+rps_lng-HDO230091,rps_lng-HDO23251677,2023-06-15T00:00:00+01:00,Invoice,Rent,Rent from 15/06/2023 to 14/07/2023 for 8 Barak Court,False,True,3389.0,3389.0,-50.0,,50.0,,14/07/2023,
+rps_lng-HDO230094,rps_lng-HDO23321110,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 35GALLAXUSAVENUE-1,True,False,1565.0,1565.0,,,,,,0.0
+rps_lng-HDO230094,rps_lng-HDO23360343,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 35 Gallaxus Avenue,False,True,1565.0,1565.0,-1565.0,,1565.0,,20/09/2023,
+rps_lng-HDO230148,rps_lng-HDO23312301,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48731418,True,False,1847.0,1847.0,1847.0,,,,,1847.0
+rps_lng-HDO230148,rps_lng-HDO23354929,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 12/35 Tulip Grove,False,True,1847.0,1847.0,-1847.0,,1847.0,,17/09/2023,
+rps_lng-HDO230152,rps_lng-HDO23362470,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48731459,True,False,1673.0,1673.0,1673.0,,1673.0,,,1673.0
+rps_lng-HDO230152,rps_lng-HDO23331551,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 2/59 Doherty Street,False,True,1673.0,1673.0,,,,,03/09/2023,
+rps_lng-HDO230153,rps_lng-HDO23314587,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 70CONSERVATORYDR-1,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO230153,rps_lng-HDO23356113,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 70 Conservatory Drive,False,True,1651.0,1651.0,-1651.0,,1651.0,,17/09/2023,
+rps_lng-HDO230160,rps_lng-HDO23344297,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 12 Paramount Boulevard,False,True,1630.0,1630.0,-1630.0,,1630.0,,10/09/2023,
+rps_lng-HDO230160,rps_lng-HDO23358711,2023-08-15T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 12PARAMOUNTBOULE-1,False,True,1630.0,1630.0,-1655.0,,,,,0.0
+rps_lng-HDO230169,rps_lng-HDO23250629,2023-06-15T00:00:00+01:00,Invoice,Rent,Rent from 15/06/2023 to 14/07/2023 for 11 Furlong Street,False,True,1912.0,1912.0,-1912.0,,,,14/07/2023,
+rps_lng-HDO230169,rps_lng-HDO23258914,2023-06-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 11FURLONGSTREET-2,True,False,1912.0,1912.0,,,,,,0.0
+rps_lng-HDO230182,rps_lng-HDO23344689,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 68 Conservatory Drive,False,True,1651.0,1651.0,-1284.0,,524.0,,10/09/2023,
+rps_lng-HDO230182,rps_lng-HDO23362441,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49022544,True,False,760.0,760.0,-524.0,,,,,0.0
+rps_lng-HDO230197,rps_lng-HDO23314585,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 56CONSERVATORYDR-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-HDO230197,rps_lng-HDO23356178,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 56 Conservatory Drive,False,True,1738.0,1738.0,-1738.0,,1738.0,,17/09/2023,
+rps_lng-HDO230209,rps_lng-HDO23343814,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for B207/460 Victoria Street,False,True,2260.0,2260.0,-2260.0,,,,09/09/2023,
+rps_lng-HDO230209,rps_lng-HDO23353280,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: B207/460VICTORIAST,True,False,2260.0,2260.0,,,,,,0.0
+rps_lng-HDO230214,rps_lng-HDO23355470,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 44 Boronia Avenue,False,True,1673.0,1673.0,-1673.0,,1673.0,,17/09/2023,
+rps_lng-HDO230214,rps_lng-HDO23314569,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 44BORONIAAVENUE,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-HDO230234,rps_lng-HDO23362151,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 201/9 Hewitt Avenue,False,True,1955.0,1955.0,-1955.0,,1955.0,,21/09/2023,
+rps_lng-HDO230234,rps_lng-HDO23323028,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 201/9HEWITTAVENU-2,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-HDO230249,rps_lng-HDO23336513,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49023237,True,False,1673.0,1673.0,-25.0,,,,,0.0
+rps_lng-HDO230249,rps_lng-HDO23311890,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 32 Boronia Avenue,False,True,1673.0,1673.0,-1673.0,,,,22/08/2023,
+rps_lng-HDO230253,rps_lng-HDO23333766,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 20 Paramount Boulevard,False,True,1625.0,1625.0,-1625.0,,1625.0,,05/09/2023,
+rps_lng-HDO230253,rps_lng-HDO23349182,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 20PARAMOUNTBOULE-2,False,True,1625.0,1625.0,-1650.0,,,,,0.0
+rps_lng-HDO230271,rps_lng-HDO23336848,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 6WESTWOODWAY,True,False,2303.0,2303.0,,,,,,0.0
+rps_lng-HDO230271,rps_lng-HDO23327347,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 6 Westwood Way,False,True,2303.0,2303.0,-2303.0,,,,31/08/2023,
+rps_lng-HDO230303,rps_lng-HDO23314605,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 31/88FRANKLINSTREE,True,False,1868.0,1868.0,,,,,,0.0
+rps_lng-HDO230303,rps_lng-HDO23354828,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 31/88 Franklin Street,False,True,1868.0,1868.0,-1868.0,,1868.0,,17/09/2023,
+rps_lng-HDO230311,rps_lng-HDO23345113,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 4/96NORTHUMBERLA-1,True,False,2129.0,2129.0,,,,,,0.0
+rps_lng-HDO230311,rps_lng-HDO23331541,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 4/96 Northumberland Road,False,True,2129.0,2129.0,-2129.0,,,,03/09/2023,
+rps_lng-HDO230332,rps_lng-HDO23358488,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 327/40HALLSTREET-1,True,False,2433.0,2433.0,,,,,,0.0
+rps_lng-HDO230332,rps_lng-HDO23348870,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 327/40 Hall Street,False,True,2433.0,2433.0,-2433.0,,,,13/09/2023,
+rps_lng-HDO230380,rps_lng-HDO23320743,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 45 Listowel Grove,False,True,1912.0,1912.0,-1912.0,,300.0,,26/08/2023,
+rps_lng-HDO230380,rps_lng-HDO23336508,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49024458,True,False,1612.0,1612.0,-300.0,,,,,0.0
+rps_lng-HDO230383,rps_lng-HDO23336916,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 45LYNWOODDRIVE-2,True,False,1630.0,1630.0,300.0,,,,,300.0
+rps_lng-HDO230383,rps_lng-HDO23327075,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 45 Lynwood Drive,False,True,1630.0,1630.0,-1330.0,,,,31/08/2023,
+rps_lng-HDO230527,rps_lng-HDO23321076,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 51MORNINGSIDEDRIVE,True,False,1825.0,1825.0,1825.0,,,,,1825.0
+rps_lng-HDO230527,rps_lng-HDO23360335,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 51 Morningside Drive,False,True,1825.0,1825.0,,,1825.0,,20/09/2023,
+rps_lng-HDO230565,rps_lng-HDO23331894,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 04/09/2023 for 54/398 Latrobe Street,False,True,3910.0,3910.0,-3910.0,,,,04/09/2023,
+rps_lng-HDO230565,rps_lng-HDO23347063,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 54/398LATROBESTR-2,True,False,3910.0,3910.0,,,,,,0.0
+rps_lng-HDO230567,rps_lng-HDO23333661,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 1/6 Maude Avenue,False,True,2129.0,2129.0,-2129.0,,,,05/09/2023,
+rps_lng-HDO230567,rps_lng-HDO23347075,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1/6MAUDEAVENUE,True,False,2129.0,2129.0,,,,,,0.0
+rps_lng-HDO230625,rps_lng-HDO23325792,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 1/57 Eglinton Street,False,True,2303.0,2303.0,-2303.0,,,,31/08/2023,
+rps_lng-HDO230625,rps_lng-HDO23336918,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 1/57EGLINTONSTRE-1,True,False,2303.0,2303.0,,,,,,0.0
+rps_lng-HDO230649,rps_lng-HDO23357807,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 40 Conquest Drive,False,True,1955.0,1955.0,-1955.0,,1955.0,,19/09/2023,
+rps_lng-HDO230649,rps_lng-HDO23318310,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 40CONQUESTDRIVE-2,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-HDO230654,rps_lng-HDO23334140,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49357247,True,False,2824.0,2824.0,-49.62,,,,,0.0
+rps_lng-HDO230654,rps_lng-HDO23320697,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 68 St Boswells Avenue,False,True,2824.0,2824.0,-24.62,,,,26/08/2023,
+rps_lng-HDO230664,rps_lng-HDO23329168,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 24 Monarma Walk,False,True,2173.0,2173.0,-2173.0,,,,01/09/2023,
+rps_lng-HDO230664,rps_lng-HDO23338953,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 24MONARMAWALK,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO230665,rps_lng-HDO23331497,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 909/35 Malcolm Street,False,True,3346.0,3346.0,3346.0,,,,02/09/2023,
+rps_lng-HDO230665,rps_lng-HDO23349056,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49357353,True,False,4000.0,4000.0,3975.0,,629.0,,,3975.0
+rps_lng-HDO230678,rps_lng-HDO23339007,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 29ARUBAAVENUE-1,True,False,2260.0,2260.0,,,,,,0.0
+rps_lng-HDO230678,rps_lng-HDO23329257,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 29 Aruba Avenue,False,True,2260.0,2260.0,-2260.0,,,,01/09/2023,
+rps_lng-HDO230693,rps_lng-HDO23320044,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 32 Hemsley Drive,False,True,2042.0,2042.0,-2042.0,,,,28/08/2023,
+rps_lng-HDO230693,rps_lng-HDO23334279,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 32HEMSLEYDRIVE-1,True,False,2042.0,2042.0,,,,,,0.0
+rps_lng-HDO230724,rps_lng-HDO23245295,2023-06-03T00:00:00+01:00,Invoice,Rent,Rent from 03/06/2023 to 02/07/2023 for 2 Harslett Street,False,True,2130.0,2130.0,3304.0,,,,02/07/2023,
+rps_lng-HDO230724,rps_lng-HDO23235882,2023-05-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49682461,True,False,4260.0,4260.0,5434.0,,,,,5434.0
+rps_lng-HDO230725,rps_lng-HDO23322979,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 83MADISONSAVENUE-2,True,False,2390.0,2390.0,,,,,,0.0
+rps_lng-HDO230725,rps_lng-HDO23314298,2023-07-24T00:00:00+01:00,Invoice,Rent,Rent from 24/07/2023 to 23/08/2023 for 83 Madisons Avenue,False,True,2390.0,2390.0,-2390.0,,,,23/08/2023,
+rps_lng-HDO230746,rps_lng-HDO23318330,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 3/67AUBURNROAD,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-HDO230746,rps_lng-HDO23357639,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 3/67 Auburn Road,False,True,1651.0,1651.0,-1651.0,,1651.0,,19/09/2023,
+rps_lng-HDO230795,rps_lng-HDO23350971,2023-08-09T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49681752,True,False,2824.0,2824.0,,,,,,0.0
+rps_lng-HDO230795,rps_lng-HDO23336161,2023-08-07T00:00:00+01:00,Invoice,Rent,Rent from 07/08/2023 to 06/09/2023 for 1914/50 Albert Road,False,True,2824.0,2824.0,-2824.0,,,,06/09/2023,
+rps_lng-HDO230831,rps_lng-HDO23353308,2023-08-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 503/18HOFFBOULEV-1,True,False,3476.0,3476.0,,,,,,0.0
+rps_lng-HDO230831,rps_lng-HDO23344343,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 503/18 Hoff Boulevard,False,True,3476.0,3476.0,-3476.0,,,,09/09/2023,
+rps_lng-HDO230832,rps_lng-HDO23354918,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 1104/50 Albert Road,False,True,2694.0,2694.0,-2694.0,,2694.0,,16/09/2023,
+rps_lng-HDO230832,rps_lng-HDO23280662,2023-06-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49681372,True,False,5388.0,5388.0,5388.0,,,,,5388.0
+rps_lng-HDO230884,rps_lng-HDO23312491,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49680887,True,False,23464.0,23464.0,23464.0,,,,,23464.0
+rps_lng-HDO230884,rps_lng-HDO23335265,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 2801/8 Kavanagh Street,False,True,11732.0,11732.0,,,,,31/08/2023,
+rps_lng-HDO230885,rps_lng-HDO23350647,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 19/79-89 Lancefield Drive,False,True,2173.0,2173.0,-2173.0,,,,14/09/2023,
+rps_lng-HDO230885,rps_lng-HDO23360726,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 19/79-89LANCEFIELD,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-HDO230886,rps_lng-HDO23350291,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 814/338 Kings Way,False,True,2390.0,2390.0,1180.0,,30.0,,14/09/2023,
+rps_lng-HDO230886,rps_lng-HDO23362729,2023-08-17T00:00:00+01:00,Debit Adjustment,Tenant Payment,Dishonoured Direct Debit: Tenancy Receipt Ref: 814/338KINGSWAY-2,False,True,2390.0,2390.0,-30.0,,,,,0.0
+rps_lng-HDO230889,rps_lng-HDO23348936,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 15 Centenary Drive,False,True,2150.0,2150.0,-2150.0,,,,13/09/2023,
+rps_lng-HDO230889,rps_lng-HDO23358460,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15CENTENARYDRIVE,True,False,2150.0,2150.0,,,,,,0.0
+rps_lng-HDO230913,rps_lng-HDO23333050,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 10 Lakewood Boulevard,False,True,1608.0,1608.0,,,,,28/08/2023,
+rps_lng-HDO230913,rps_lng-HDO23312469,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49680598,True,False,3216.0,3216.0,3216.0,,,,,3216.0
+rps_lng-HDO230933,rps_lng-HDO23316213,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675408,True,False,3390.0,3390.0,3390.0,,,,,3390.0
+rps_lng-HDO230933,rps_lng-HDO23352178,2023-08-10T00:00:00+01:00,Invoice,Rent,Rent from 10/08/2023 to 09/09/2023 for 10 Samuel Road,False,True,1695.0,1695.0,,,,,09/09/2023,
+rps_lng-HDO230944,rps_lng-HDO23335344,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 18 Stoneyfell Road,False,True,2260.0,2260.0,2260.0,,,,28/08/2023,
+rps_lng-HDO230944,rps_lng-HDO23316219,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675291,True,False,4520.0,4520.0,4520.0,,,,,4520.0
+rps_lng-HDO230950,rps_lng-HDO23345785,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 34 Chirnside Street,False,True,3368.0,3368.0,,,,,03/09/2023,
+rps_lng-HDO230950,rps_lng-HDO23321042,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675234,True,False,6736.0,6736.0,6736.0,,,,,6736.0
+rps_lng-HDO230965,rps_lng-HDO23349332,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 38 Queen Street,False,True,3259.0,3259.0,,,,,03/09/2023,
+rps_lng-HDO230965,rps_lng-HDO23327517,2023-07-26T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675085,True,False,6518.0,6518.0,6518.0,,,,,6518.0
+rps_lng-JAM200013,rps_lng-HDO23360263,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 9 Thoresby Street,False,True,1868.0,1868.0,-1868.0,,1868.0,,20/09/2023,
+rps_lng-JAM200013,rps_lng-HDO23320965,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39758529,True,False,1868.0,1868.0,,,,,,0.0
+rps_lng-JAM200014,rps_lng-HDO23348732,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 32 Tundra Esplanade,False,True,1782.0,1782.0,-1782.0,,,,13/09/2023,
+rps_lng-JAM200014,rps_lng-HDO23358185,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43131507,True,False,1782.0,1782.0,,,,,,0.0
+rps_lng-JAM220004,rps_lng-HDO23358165,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 47590492,True,False,1608.0,1608.0,,,,,,0.0
+rps_lng-JAM220004,rps_lng-HDO23350671,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 63 Loyola Road,False,True,1608.0,1608.0,-1608.0,,,,11/09/2023,
+rps_lng-JAM230002,rps_lng-HDO23360581,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 49022593          RUVIMBO SHAMU,True,False,2303.0,2303.0,,,,,,0.0
+rps_lng-JAM230002,rps_lng-HDO23348855,2023-08-14T00:00:00+01:00,Invoice,Rent,Rent from 14/08/2023 to 13/09/2023 for 410/18 Hoff Boulevard,False,True,2303.0,2303.0,-2303.0,,,,13/09/2023,
+rps_lng-JAM230003,rps_lng-HDO23321137,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2/9BRONTEAVENUE-2,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-JAM230003,rps_lng-HDO23360414,2023-08-21T00:00:00+01:00,Invoice,Rent,Rent from 21/08/2023 to 20/09/2023 for 2/9 Bronte Avenue,False,True,1955.0,1955.0,-1955.0,,1955.0,,20/09/2023,
+rps_lng-RPT190009,rps_lng-HDO21152143,2021-05-08T00:00:00+01:00,Invoice,Rent,Rent from 08/05/2021 to 24/05/2021 for 605/255 Racecourse Road,False,True,1201.64,1201.64,0.1,,,,24/05/2021,
+rps_lng-RPT190009,rps_lng-HDO21158946,2021-05-05T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 35597004,True,False,1201.74,1201.74,1201.74,,0.1,,,1201.74
+rps_lng-RPT190027,rps_lng-HDO21436905,2021-11-12T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay - 28412526 4511,True,False,825.0,825.0,1620.88,,,,,1620.88
+rps_lng-RPT190027,rps_lng-HDO21472857,2021-12-07T00:00:00+00:00,Credit Note,Rent,No longer manage,True,False,73.76,73.76,,,,,,
+rps_lng-RPT190045,rps_lng-HDO23320889,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31306251,True,False,1200.0,1200.0,-528.0,,,,,0.0
+rps_lng-RPT190045,rps_lng-HDO23357737,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 2/3 Pardy Street,False,True,1738.0,1738.0,-2266.0,,1738.0,,19/09/2023,
+rps_lng-RPT190055,rps_lng-HDO23348986,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729370,True,False,1792.0,1792.0,,,,,,0.0
+rps_lng-RPT190055,rps_lng-HDO23322252,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 30 Prominence Boulevard,False,True,1717.0,1717.0,-1767.0,,,,29/08/2023,
+rps_lng-RPT190064,rps_lng-HDO23319991,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 3 Sundial Boulevard,False,True,2390.0,2390.0,-2360.0,,,,26/08/2023,
+rps_lng-RPT190064,rps_lng-HDO23340940,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39759816,True,False,2390.0,2390.0,30.0,,30.0,,,30.0
+rps_lng-RPT190065,rps_lng-HDO23282959,2023-07-28T00:00:00+01:00,Invoice,Rent,Rent from 28/07/2023 to 27/08/2023 for 17 Cortona Grange,False,True,1760.0,1760.0,,,,,27/08/2023,
+rps_lng-RPT190065,rps_lng-HDO23254674,2023-06-13T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40821472,True,False,1760.0,1760.0,5131.0,,,,,5131.0
+rps_lng-RPT190089,rps_lng-HDO23240546,2023-06-10T00:00:00+01:00,Invoice,Rent,Rent from 10/06/2023 to 03/07/2023 for 3 Norwood Avenue,False,True,1130.7,1130.7,,,,,03/07/2023,
+rps_lng-RPT190089,rps_lng-HDO23324465,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014816923-15019584RTBA,3 NORWOOD A",True,False,250.0,250.0,,,,,,0.0
+rps_lng-RPT190138,rps_lng-HDO23356247,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 26623058,True,False,900.0,900.0,-177.0,,,,,0.0
+rps_lng-RPT190138,rps_lng-HDO23346248,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 6 Foyle Crescent,False,True,1782.0,1782.0,-1959.0,,1782.0,,12/09/2023,
+rps_lng-RPT190145,rps_lng-HDO23332498,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,659.17,659.17,,,,,,0.0
+rps_lng-RPT190145,rps_lng-HDO23304863,2023-07-12T00:00:00+01:00,Credit Note,Rent,Overpaid rent/Tenant vacate 28/06/23,True,False,644.45,644.45,659.17,,,,,
+rps_lng-RPT190163,rps_lng-HDO23085815,2023-03-01T00:00:00+00:00,Invoice,Rent,Rent from 01/03/2023 to 31/03/2023 for 22 Whitebark Street,False,True,1738.0,1738.0,-1738.0,,,,31/03/2023,
+rps_lng-RPT190163,rps_lng-HDO23101082,2023-03-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402278,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-RPT190168,rps_lng-HDO23324474,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34886564,True,False,850.0,850.0,10.63,,10.63,,,10.63
+rps_lng-RPT190168,rps_lng-HDO23311776,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 39 Laurence Way,False,True,1738.0,1738.0,-839.37,,,,22/08/2023,
+rps_lng-RPT190175,rps_lng-HDO23314569,2023-07-18T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 44BORONIAAVENUE,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-RPT190175,rps_lng-HDO23355470,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 44 Boronia Avenue,False,True,1673.0,1673.0,-1673.0,,1673.0,,17/09/2023,
+rps_lng-RPT190184,rps_lng-HDO23358092,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39758404,True,False,361.0,361.0,560.57,,,,,560.57
+rps_lng-RPT190184,rps_lng-HDO23350458,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 2/41 Latham Street,False,True,1564.0,1564.0,-1003.43,,1003.43,,14/09/2023,
+rps_lng-RPT190192,rps_lng-HDO22549328,2022-12-27T00:00:00+00:00,Invoice,Rent,Rent from 27/12/2022 to 26/01/2023 for 17 Woodland Drive,False,True,1564.0,1564.0,-1564.0,,,,26/01/2023,
+rps_lng-RPT190192,rps_lng-HDO22558124,2022-12-28T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33137803,True,False,1564.0,1564.0,,,,,,0.0
+rps_lng-RPT190209,rps_lng-HDO23355226,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 24 O'Loghlen Drive,False,True,1520.0,1520.0,4.0,,,,17/09/2023,
+rps_lng-RPT190209,rps_lng-HDO23358155,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 22498687,True,False,1520.0,1520.0,1524.0,,4.0,,,1524.0
+rps_lng-RPT190217,rps_lng-HDO23334087,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397645,True,False,2086.0,2086.0,1955.0,,,,,1955.0
+rps_lng-RPT190217,rps_lng-HDO23331246,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 20 Stoneleigh Circuit,False,True,2086.0,2086.0,-131.0,,131.0,,03/09/2023,
+rps_lng-RPT190222,rps_lng-HDO23333170,2023-08-05T00:00:00+01:00,Invoice,Rent,Rent from 05/08/2023 to 05/08/2023 for 34 Hemsley Drive,False,True,57.86,57.86,1702.14,,,,05/08/2023,
+rps_lng-RPT190222,rps_lng-HDO23340898,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31049737,True,False,1760.0,1760.0,1760.0,,1702.14,,,1760.0
+rps_lng-RPT190228,rps_lng-HDO23362444,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31306038,True,False,900.0,900.0,4363.78,,900.0,,,4363.78
+rps_lng-RPT190228,rps_lng-HDO23355237,2023-08-19T00:00:00+01:00,Invoice,Rent,Rent from 19/08/2023 to 01/09/2023 for 29 Heddle Parade,False,True,899.84,899.84,3463.94,,,,01/09/2023,
+rps_lng-RPT190229,rps_lng-HDO23333050,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 10 Lakewood Boulevard,False,True,1608.0,1608.0,,,,,28/08/2023,
+rps_lng-RPT190229,rps_lng-HDO23312469,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49680598,True,False,3216.0,3216.0,3216.0,,,,,3216.0
+rps_lng-RPT190235,rps_lng-HDO23332123,2023-07-28T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41411612,True,False,1565.0,1565.0,1892.0,,327.0,,,1892.0
+rps_lng-RPT190235,rps_lng-HDO23329100,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 3/11 Troward Harvey Way,False,True,1565.0,1565.0,327.0,,,,01/09/2023,
+rps_lng-RPT190260,rps_lng-HDO23248778,2023-06-14T00:00:00+01:00,Invoice,Rent,Rent from 14/06/2023 to 13/07/2023 for 13 Chapel Street,False,True,1695.0,1695.0,-1695.0,,,,13/07/2023,
+rps_lng-RPT190260,rps_lng-HDO23310425,2023-07-14T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014804776-15155690RTBA,13 CHAPEL S",True,False,250.0,250.0,,,,,,0.0
+rps_lng-RPT190271,rps_lng-HDO23346368,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 55 Crefden Street,False,True,2216.0,2216.0,-2216.0,,,,12/09/2023,
+rps_lng-RPT190271,rps_lng-HDO23358365,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 55CREFDENSTREET-2,True,False,2216.0,2216.0,,,,,,0.0
+rps_lng-RPT190280,rps_lng-HDO23358195,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41412099,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-RPT190280,rps_lng-HDO23346266,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 16 Winona Circuit,False,True,1825.0,1825.0,-1825.0,,,,12/09/2023,
+rps_lng-RPT190289,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-RPT190289,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-RPT190296,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-RPT190296,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-RPT190305,rps_lng-HDO23336506,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44814549,True,False,1608.0,1608.0,3216.0,,1608.0,,,3216.0
+rps_lng-RPT190305,rps_lng-HDO23338428,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 11 Bandon Road,False,True,1608.0,1608.0,1608.0,,,,07/09/2023,
+rps_lng-RPT190311,rps_lng-HDO23320044,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 32 Hemsley Drive,False,True,2042.0,2042.0,-2042.0,,,,28/08/2023,
+rps_lng-RPT190311,rps_lng-HDO23334279,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 32HEMSLEYDRIVE-1,True,False,2042.0,2042.0,,,,,,0.0
+rps_lng-RPT190316,rps_lng-HDO22402593,2022-09-24T00:00:00+01:00,Invoice,Rent,Rent from 24/09/2022 to 23/10/2022 for 15 Windmill Way,False,True,1629.0,1629.0,924.0,,,,23/10/2022,
+rps_lng-RPT190316,rps_lng-HDO22484968,2022-11-08T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,924.0,924.0,,,,,,0.0
+rps_lng-RPT190318,rps_lng-HDO23322252,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 30 Prominence Boulevard,False,True,1717.0,1717.0,-1767.0,,,,29/08/2023,
+rps_lng-RPT190318,rps_lng-HDO23348986,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729370,True,False,1792.0,1792.0,,,,,,0.0
+rps_lng-RPT190359,rps_lng-HDO23350647,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 19/79-89 Lancefield Drive,False,True,2173.0,2173.0,-2173.0,,,,14/09/2023,
+rps_lng-RPT190359,rps_lng-HDO23360726,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 19/79-89LANCEFIELD,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-RPT190363,rps_lng-HDO23346695,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42354423,True,False,1564.0,1564.0,1.0,,1.0,,,1.0
+rps_lng-RPT190363,rps_lng-HDO23333629,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 15 Bandon Road,False,True,1564.0,1564.0,-1563.0,,,,05/09/2023,
+rps_lng-RPT190370,rps_lng-HDO23362695,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 142SANDHURSTBOUL-2,True,False,2955.0,2955.0,,,,,,0.0
+rps_lng-RPT190370,rps_lng-HDO23352795,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 142 Sandhurst Boulevard,False,True,2955.0,2955.0,-2955.0,,,,15/09/2023,
+rps_lng-RPT190374,rps_lng-HDO23266024,2023-06-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 9/2-10MONCKTONPLAC,True,False,1673.0,1673.0,,,,,,0.0
+rps_lng-RPT190374,rps_lng-HDO23256651,2023-06-20T00:00:00+01:00,Invoice,Rent,Rent from 20/06/2023 to 19/07/2023 for 9/2-10 Monckton Place,False,True,1673.0,1673.0,-1673.0,,,,19/07/2023,
+rps_lng-RPT190386,rps_lng-HDO23344911,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29540655,True,False,680.0,680.0,2385.0,,680.0,,,2385.0
+rps_lng-RPT190386,rps_lng-HDO23357655,2023-08-31T00:00:00+01:00,Invoice,Rent,Rent from 31/08/2023 to 13/09/2023 for 13 Edenvale Street,False,True,680.0,680.0,1025.0,,,,13/09/2023,
+rps_lng-RPT190428,rps_lng-HDO23318310,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 40CONQUESTDRIVE-2,True,False,1955.0,1955.0,,,,,,0.0
+rps_lng-RPT190428,rps_lng-HDO23357807,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 40 Conquest Drive,False,True,1955.0,1955.0,-1955.0,,1955.0,,19/09/2023,
+rps_lng-RPT190439,rps_lng-HDO23362198,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 57 Rowan Drive,False,True,1912.0,1912.0,-1937.0,,1912.0,,21/09/2023,
+rps_lng-RPT190439,rps_lng-HDO23322702,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT I/Tfr 0037402005,True,False,1912.0,1912.0,-25.0,,,,,0.0
+rps_lng-RPT190440,rps_lng-HDO23130534,2023-03-24T00:00:00+00:00,Credit Note,Rent,Lost Management,True,False,313.05,313.05,,,,,,
+rps_lng-RPT190440,rps_lng-HDO22476851,2022-11-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37761806,True,False,1587.0,1587.0,-500.0,,,,,0.0
+rps_lng-RPT190454,rps_lng-HDO23316219,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675291,True,False,4520.0,4520.0,4520.0,,,,,4520.0
+rps_lng-RPT190454,rps_lng-HDO23335344,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 18 Stoneyfell Road,False,True,2260.0,2260.0,2260.0,,,,28/08/2023,
+rps_lng-RPT190465,rps_lng-HDO23357737,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 2/3 Pardy Street,False,True,1738.0,1738.0,-2266.0,,1738.0,,19/09/2023,
+rps_lng-RPT190465,rps_lng-HDO23320889,2023-07-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31306251,True,False,1200.0,1200.0,-528.0,,,,,0.0
+rps_lng-RPT190473,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-RPT190473,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-RPT190498,rps_lng-HDO23319964,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 6 Hidden Valley Drive,False,True,1782.0,1782.0,-1782.0,,,,28/08/2023,
+rps_lng-RPT190498,rps_lng-HDO23356277,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46465019,True,False,1807.0,1807.0,,,,,,0.0
+rps_lng-RPT190509,rps_lng-HDO23320049,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 20 Stoneyfell Road,False,True,1825.0,1825.0,-1957.0,,588.25,,26/08/2023,
+rps_lng-RPT190509,rps_lng-HDO23362436,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402302,True,False,456.25,456.25,-588.25,,,,,0.0
+rps_lng-RPT190513,rps_lng-HDO23282462,2023-06-29T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 48729610    059879SJ Higgins PL,True,False,1716.0,1716.0,,,,,,0.0
+rps_lng-RPT190513,rps_lng-HDO23240035,2023-06-09T00:00:00+01:00,Invoice,Rent,Rent from 09/06/2023 to 08/07/2023 for 10/2 Monckton Place,False,True,1716.0,1716.0,-1716.0,,,,08/07/2023,
+rps_lng-RPT190515,rps_lng-HDO23336513,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49023237,True,False,1673.0,1673.0,-25.0,,,,,0.0
+rps_lng-RPT190515,rps_lng-HDO23311890,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 32 Boronia Avenue,False,True,1673.0,1673.0,-1673.0,,,,22/08/2023,
+rps_lng-RPT190516,rps_lng-HDO23318298,2023-07-20T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 28FELLOWSSTREET-1,True,False,1586.0,1586.0,,,,,,0.0
+rps_lng-RPT190516,rps_lng-HDO23357796,2023-08-20T00:00:00+01:00,Invoice,Rent,Rent from 20/08/2023 to 19/09/2023 for 28 Fellows Street,False,True,1586.0,1586.0,-1586.0,,1586.0,,19/09/2023,
+rps_lng-RPT190546,rps_lng-HDO23240035,2023-06-09T00:00:00+01:00,Invoice,Rent,Rent from 09/06/2023 to 08/07/2023 for 10/2 Monckton Place,False,True,1716.0,1716.0,-1716.0,,,,08/07/2023,
+rps_lng-RPT190546,rps_lng-HDO23282462,2023-06-29T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 48729610    059879SJ Higgins PL,True,False,1716.0,1716.0,,,,,,0.0
+rps_lng-RPT190554,rps_lng-HDO23324509,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42353649,True,False,1738.0,1738.0,831.0,,,,,831.0
+rps_lng-RPT190554,rps_lng-HDO23326848,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 15 Edge View,False,True,1695.0,1695.0,-864.0,,864.0,,31/08/2023,
+rps_lng-RPT190555,rps_lng-HDO23338478,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 4 Calita Avenue,False,True,1955.0,1955.0,-2770.0,,815.0,,07/09/2023,
+rps_lng-RPT190555,rps_lng-HDO23356307,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43399393,True,False,1955.0,1955.0,-815.0,,,,,0.0
+rps_lng-RPT190642,rps_lng-HDO20287336,2020-10-24T00:00:00+01:00,Invoice,Rent,Rent from 24/10/2020 to 06/11/2020 for 2/68 Conquest Drive,False,True,700.08,700.08,-0.08,,,,06/11/2020,
+rps_lng-RPT190642,rps_lng-HDO20308891,2020-11-09T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31050289,True,False,350.0,350.0,,,,,,0.0
+rps_lng-RPT190649,rps_lng-HDO22331032,2022-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2022 to 31/08/2022 for 8 Foyle Crescent,False,True,660.0,660.0,,,,,31/08/2022,
+rps_lng-RPT190649,rps_lng-HDO22322642,2022-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 22498703,True,False,660.0,660.0,670.0,,,,,670.0
+rps_lng-RPT190654,rps_lng-HDO23362426,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33136698,True,False,400.0,400.0,800.0,,400.0,,,800.0
+rps_lng-RPT190654,rps_lng-HDO23355047,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 23/08/2023 for 18 Cadell Avenue,False,True,400.0,400.0,400.0,,,,23/08/2023,
+rps_lng-RPT190655,rps_lng-HDO23340891,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37691037,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-RPT190655,rps_lng-HDO23331119,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 5 Crystal Road,False,True,1651.0,1651.0,-1651.0,,,,02/09/2023,
+rps_lng-RPT190690,rps_lng-HDO22251242,2022-06-21T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,100.0,100.0,,,,,,0.0
+rps_lng-RPT190690,rps_lng-HDO21320793,2021-09-04T00:00:00+01:00,Invoice,Rent,Rent from 04/09/2021 to 06/09/2021 for 17 Old Course Crescent,False,True,160.67,160.67,-1353.67,,,,06/09/2021,
+rps_lng-RPT190693,rps_lng-HDO22484968,2022-11-08T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,924.0,924.0,,,,,,0.0
+rps_lng-RPT190693,rps_lng-HDO22402593,2022-09-24T00:00:00+01:00,Invoice,Rent,Rent from 24/09/2022 to 23/10/2022 for 15 Windmill Way,False,True,1629.0,1629.0,924.0,,,,23/10/2022,
+rps_lng-RPT190694,rps_lng-HDO23316162,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29540549,True,False,2021.0,2021.0,1825.0,,,,,1825.0
+rps_lng-RPT190694,rps_lng-HDO23311858,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 4 Lakshmi Street,False,True,2021.0,2021.0,-196.0,,196.0,,22/08/2023,
+rps_lng-RPT190706,rps_lng-HDO23332498,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,659.17,659.17,,,,,,0.0
+rps_lng-RPT190706,rps_lng-HDO23304863,2023-07-12T00:00:00+01:00,Credit Note,Rent,Overpaid rent/Tenant vacate 28/06/23,True,False,644.45,644.45,659.17,,,,,
+rps_lng-RPT190712,rps_lng-HDO23322678,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41410820,True,False,1782.0,1782.0,170.73,,,,,170.73
+rps_lng-RPT190712,rps_lng-HDO23355369,2023-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2023 to 17/09/2023 for 17 Stoneyfell Road,False,True,1782.0,1782.0,-1611.27,,1611.27,,17/09/2023,
+rps_lng-RPT190730,rps_lng-HDO23085815,2023-03-01T00:00:00+00:00,Invoice,Rent,Rent from 01/03/2023 to 31/03/2023 for 22 Whitebark Street,False,True,1738.0,1738.0,-1738.0,,,,31/03/2023,
+rps_lng-RPT190730,rps_lng-HDO23101082,2023-03-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402278,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-RPT190732,rps_lng-HDO23355405,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 23/08/2023 for 56 Hemsley Drive,False,True,429.9,429.9,1320.3,,,,23/08/2023,
+rps_lng-RPT190732,rps_lng-HDO23362487,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31049703,True,False,1868.0,1868.0,1750.2,,1320.3,,,1750.2
+rps_lng-RPT190737,rps_lng-HDO23324474,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34886564,True,False,850.0,850.0,10.63,,10.63,,,10.63
+rps_lng-RPT190737,rps_lng-HDO23311776,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 39 Laurence Way,False,True,1738.0,1738.0,-839.37,,,,22/08/2023,
+rps_lng-RPT190743,rps_lng-HDO23360726,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 19/79-89LANCEFIELD,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-RPT190743,rps_lng-HDO23350647,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 19/79-89 Lancefield Drive,False,True,2173.0,2173.0,-2173.0,,,,14/09/2023,
+rps_lng-RPT190766,rps_lng-HDO23356230,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29540911,True,False,420.0,420.0,-370.52,,,,,0.0
+rps_lng-RPT190766,rps_lng-HDO23355055,2023-08-19T00:00:00+01:00,Invoice,Rent,Rent from 19/08/2023 to 25/08/2023 for 5 Prairie Place,False,True,375.12,375.12,-1120.76,,375.12,,25/08/2023,
+rps_lng-RPT190782,rps_lng-HDO23322747,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 26083378,True,False,2173.0,2173.0,1763.69,,,,,1763.69
+rps_lng-RPT190782,rps_lng-HDO23315737,2023-07-25T00:00:00+01:00,Invoice,Rent,Rent from 25/07/2023 to 24/08/2023 for 9/14-16 Maroona Road,False,True,2390.0,2390.0,-626.31,,626.31,,24/08/2023,
+rps_lng-RPT190796,rps_lng-HDO23101082,2023-03-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402278,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-RPT190796,rps_lng-HDO23085815,2023-03-01T00:00:00+00:00,Invoice,Rent,Rent from 01/03/2023 to 31/03/2023 for 22 Whitebark Street,False,True,1738.0,1738.0,-1738.0,,,,31/03/2023,
+rps_lng-RPT190814,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-RPT190814,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-RPT190821,rps_lng-HDO22429987,2022-10-05T00:00:00+01:00,Credit Note,Rent,Tenant vacated 6/8/22,True,False,56.38,56.38,,,,,,
+rps_lng-RPT190821,rps_lng-HDO22349497,2022-08-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41410325,True,False,507.78,507.78,-533.55,,,,,0.0
+rps_lng-RPT190831,rps_lng-HDO23346266,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 16 Winona Circuit,False,True,1825.0,1825.0,-1825.0,,,,12/09/2023,
+rps_lng-RPT190831,rps_lng-HDO23358195,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41412099,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-RPT190835,rps_lng-HDO23338929,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 13WASHINGTONSTREET,True,False,1521.0,1521.0,,,,,,0.0
+rps_lng-RPT190835,rps_lng-HDO23329105,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 13 Washington Street,False,True,1521.0,1521.0,-1521.0,,,,01/09/2023,
+rps_lng-RPT190852,rps_lng-HDO23355047,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 23/08/2023 for 18 Cadell Avenue,False,True,400.0,400.0,400.0,,,,23/08/2023,
+rps_lng-RPT190852,rps_lng-HDO23362426,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33136698,True,False,400.0,400.0,800.0,,400.0,,,800.0
+rps_lng-RPT190888,rps_lng-HDO23329714,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 52504298          DFFH VIC,True,False,1782.0,1782.0,1793.16,,11.16,,,1793.16
+rps_lng-RPT190888,rps_lng-HDO23326782,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 9 Pascoe Court,False,True,1782.0,1782.0,11.16,,,,31/08/2023,
+rps_lng-RPT190896,rps_lng-HDO22331032,2022-08-18T00:00:00+01:00,Invoice,Rent,Rent from 18/08/2022 to 31/08/2022 for 8 Foyle Crescent,False,True,660.0,660.0,,,,,31/08/2022,
+rps_lng-RPT190896,rps_lng-HDO22322642,2022-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 22498703,True,False,660.0,660.0,670.0,,,,,670.0
+rps_lng-RPT190899,rps_lng-HDO23361744,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 10 Eva Avenue,False,True,2390.0,2390.0,,,,,15/09/2023,
+rps_lng-RPT190899,rps_lng-HDO23345029,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49674500,True,False,4780.0,4780.0,4780.0,,,,,4780.0
+rps_lng-RPT190928,rps_lng-HDO23248778,2023-06-14T00:00:00+01:00,Invoice,Rent,Rent from 14/06/2023 to 13/07/2023 for 13 Chapel Street,False,True,1695.0,1695.0,-1695.0,,,,13/07/2023,
+rps_lng-RPT190928,rps_lng-HDO23310425,2023-07-14T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014804776-15155690RTBA,13 CHAPEL S",True,False,250.0,250.0,,,,,,0.0
+rps_lng-RPT190929,rps_lng-HDO23356247,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 26623058,True,False,900.0,900.0,-177.0,,,,,0.0
+rps_lng-RPT190929,rps_lng-HDO23346248,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 6 Foyle Crescent,False,True,1782.0,1782.0,-1959.0,,1782.0,,12/09/2023,
+rps_lng-RPT190936,rps_lng-HDO23334191,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 64BROWNLOWDRIVE-1,True,False,1999.0,1999.0,,,,,,0.0
+rps_lng-RPT190936,rps_lng-HDO23322298,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 64 Brownlow Drive,False,True,1999.0,1999.0,-1999.0,,,,29/08/2023,
+rps_lng-RPT190993,rps_lng-HDO23331246,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 20 Stoneleigh Circuit,False,True,2086.0,2086.0,-131.0,,131.0,,03/09/2023,
+rps_lng-RPT190993,rps_lng-HDO23334087,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397645,True,False,2086.0,2086.0,1955.0,,,,,1955.0
+rps_lng-RPT191015,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-RPT191015,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-RPT191025,rps_lng-HDO22192527,2022-05-10T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 36199743,True,False,200.0,200.0,1200.0,,17.03,,,1200.0
+rps_lng-RPT191025,rps_lng-HDO22185601,2022-05-11T00:00:00+01:00,Invoice,Rent,Rent from 11/05/2022 to 28/05/2022 for 63A Rowan Drive,False,True,1182.97,1182.97,17.03,,,,28/05/2022,
+rps_lng-RPT191033,rps_lng-HDO22436887,2022-10-15T00:00:00+01:00,Invoice,Rent,Rent from 15/10/2022 to 14/11/2022 for 6/5-7 Hosken Street,False,True,1868.0,1868.0,-1868.0,,,,14/11/2022,
+rps_lng-RPT191033,rps_lng-HDO22449137,2022-10-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31049539,True,False,1868.0,1868.0,,,,,,0.0
+rps_lng-RPT191037,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-RPT191037,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-RPT191066,rps_lng-HDO23344910,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: Pension 190M6669555133648KCTRLINK PENSIO,True,False,639.01,639.01,241.05,,241.05,,,241.05
+rps_lng-RPT191066,rps_lng-HDO23311877,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 16 Kurrali Crescent,False,True,1477.0,1477.0,-397.96,,,,22/08/2023,
+rps_lng-RPT191067,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-RPT191067,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-RPT191090,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-RPT191090,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-RPT191093,rps_lng-HDO23331119,2023-08-03T00:00:00+01:00,Invoice,Rent,Rent from 03/08/2023 to 02/09/2023 for 5 Crystal Road,False,True,1651.0,1651.0,-1651.0,,,,02/09/2023,
+rps_lng-RPT191093,rps_lng-HDO23340891,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37691037,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-RPT191098,rps_lng-HDO21436905,2021-11-12T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay - 28412526 4511,True,False,825.0,825.0,1620.88,,,,,1620.88
+rps_lng-RPT191098,rps_lng-HDO21472857,2021-12-07T00:00:00+00:00,Credit Note,Rent,No longer manage,True,False,73.76,73.76,,,,,,
+rps_lng-RPT191104,rps_lng-HDO23362437,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 16284325,True,False,490.0,490.0,1368.0,,490.0,,,1368.0
+rps_lng-RPT191104,rps_lng-HDO23338415,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 117 Penrose Promenade,False,True,1912.0,1912.0,878.0,,,,07/09/2023,
+rps_lng-RPT191108,rps_lng-HDO23346266,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 16 Winona Circuit,False,True,1825.0,1825.0,-1825.0,,,,12/09/2023,
+rps_lng-RPT191108,rps_lng-HDO23358195,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41412099,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-RPT191113,rps_lng-HDO23312246,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29541299,True,False,1564.0,1564.0,,,,,,0.0
+rps_lng-RPT191113,rps_lng-HDO23280231,2023-07-04T00:00:00+01:00,Invoice,Rent,Rent from 04/07/2023 to 03/08/2023 for 9 Norwood Avenue,False,True,1564.0,1564.0,-1564.0,,,,03/08/2023,
+rps_lng-RPT191115,rps_lng-HDO21436905,2021-11-12T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay - 28412526 4511,True,False,825.0,825.0,1620.88,,,,,1620.88
+rps_lng-RPT191115,rps_lng-HDO21472857,2021-12-07T00:00:00+00:00,Credit Note,Rent,No longer manage,True,False,73.76,73.76,,,,,,
+rps_lng-RPT191165,rps_lng-HDO21320793,2021-09-04T00:00:00+01:00,Invoice,Rent,Rent from 04/09/2021 to 06/09/2021 for 17 Old Course Crescent,False,True,160.67,160.67,-1353.67,,,,06/09/2021,
+rps_lng-RPT191165,rps_lng-HDO22251242,2022-06-21T00:00:00+01:00,Payment,Tenant Payment,Tenant repayment,False,True,100.0,100.0,,,,,,0.0
+rps_lng-RPT191170,rps_lng-HDO23335344,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 18 Stoneyfell Road,False,True,2260.0,2260.0,2260.0,,,,28/08/2023,
+rps_lng-RPT191170,rps_lng-HDO23316219,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675291,True,False,4520.0,4520.0,4520.0,,,,,4520.0
+rps_lng-RPT191177,rps_lng-HDO23311776,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 39 Laurence Way,False,True,1738.0,1738.0,-839.37,,,,22/08/2023,
+rps_lng-RPT191177,rps_lng-HDO23324474,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34886564,True,False,850.0,850.0,10.63,,10.63,,,10.63
+rps_lng-RPT191192,rps_lng-HDO23248778,2023-06-14T00:00:00+01:00,Invoice,Rent,Rent from 14/06/2023 to 13/07/2023 for 13 Chapel Street,False,True,1695.0,1695.0,-1695.0,,,,13/07/2023,
+rps_lng-RPT191192,rps_lng-HDO23310425,2023-07-14T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014804776-15155690RTBA,13 CHAPEL S",True,False,250.0,250.0,,,,,,0.0
+rps_lng-RPT191227,rps_lng-HDO23362141,2023-08-22T00:00:00+01:00,Invoice,Rent,Rent from 22/08/2023 to 21/09/2023 for 8 Vacation Way,False,True,1912.0,1912.0,-1794.0,,1794.0,,21/09/2023,
+rps_lng-RPT191227,rps_lng-HDO23322704,2023-07-24T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29541638,True,False,1916.0,1916.0,118.0,,,,,118.0
+rps_lng-RPT191230,rps_lng-HDO23357655,2023-08-31T00:00:00+01:00,Invoice,Rent,Rent from 31/08/2023 to 13/09/2023 for 13 Edenvale Street,False,True,680.0,680.0,1025.0,,,,13/09/2023,
+rps_lng-RPT191230,rps_lng-HDO23344911,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29540655,True,False,680.0,680.0,2385.0,,680.0,,,2385.0
+rps_lng-RPT191243,rps_lng-HDO23333629,2023-08-06T00:00:00+01:00,Invoice,Rent,Rent from 06/08/2023 to 05/09/2023 for 15 Bandon Road,False,True,1564.0,1564.0,-1563.0,,,,05/09/2023,
+rps_lng-RPT191243,rps_lng-HDO23346695,2023-08-07T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42354423,True,False,1564.0,1564.0,1.0,,1.0,,,1.0
+rps_lng-RPT191262,rps_lng-HDO23324465,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014816923-15019584RTBA,3 NORWOOD A",True,False,250.0,250.0,,,,,,0.0
+rps_lng-RPT191262,rps_lng-HDO23240546,2023-06-10T00:00:00+01:00,Invoice,Rent,Rent from 10/06/2023 to 03/07/2023 for 3 Norwood Avenue,False,True,1130.7,1130.7,,,,,03/07/2023,
+rps_lng-RPT191278,rps_lng-HDO23333050,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 10 Lakewood Boulevard,False,True,1608.0,1608.0,,,,,28/08/2023,
+rps_lng-RPT191278,rps_lng-HDO23312469,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49680598,True,False,3216.0,3216.0,3216.0,,,,,3216.0
+rps_lng-RPT191280,rps_lng-HDO23362436,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402302,True,False,456.25,456.25,-588.25,,,,,0.0
+rps_lng-RPT191280,rps_lng-HDO23320049,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 20 Stoneyfell Road,False,True,1825.0,1825.0,-1957.0,,588.25,,26/08/2023,
+rps_lng-RPT191284,rps_lng-HDO23248778,2023-06-14T00:00:00+01:00,Invoice,Rent,Rent from 14/06/2023 to 13/07/2023 for 13 Chapel Street,False,True,1695.0,1695.0,-1695.0,,,,13/07/2023,
+rps_lng-RPT191284,rps_lng-HDO23310425,2023-07-14T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014804776-15155690RTBA,13 CHAPEL S",True,False,250.0,250.0,,,,,,0.0
+rps_lng-RPT191294,rps_lng-HDO23362681,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 22PRAIRIEPLACE,True,False,1781.0,1781.0,,,,,,0.0
+rps_lng-RPT191294,rps_lng-HDO23352656,2023-08-16T00:00:00+01:00,Invoice,Rent,Rent from 16/08/2023 to 15/09/2023 for 22 Prairie Place,False,True,1781.0,1781.0,-1781.0,,,,15/09/2023,
+rps_lng-RPT191362,rps_lng-HDO23356247,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 26623058,True,False,900.0,900.0,-177.0,,,,,0.0
+rps_lng-RPT191362,rps_lng-HDO23346248,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 6 Foyle Crescent,False,True,1782.0,1782.0,-1959.0,,1782.0,,12/09/2023,
+rps_lng-RPT191372,rps_lng-HDO23362425,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 26622944,True,False,400.0,400.0,-217.0,,,,,0.0
+rps_lng-RPT191372,rps_lng-HDO23324298,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 71 Longtree Drive,False,True,1652.0,1652.0,-1417.0,,217.0,,30/08/2023,
+rps_lng-RPT191377,rps_lng-HDO23344910,2023-08-04T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: Pension 190M6669555133648KCTRLINK PENSIO,True,False,639.01,639.01,241.05,,241.05,,,241.05
+rps_lng-RPT191377,rps_lng-HDO23311877,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 16 Kurrali Crescent,False,True,1477.0,1477.0,-397.96,,,,22/08/2023,
+rps_lng-RPT191381,rps_lng-HDO23324325,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 1/68 Conquest Drive,False,True,1651.0,1651.0,-1651.0,,,,30/08/2023,
+rps_lng-RPT191381,rps_lng-HDO23334025,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42773622,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-RPT191394,rps_lng-HDO22513005,2022-11-25T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44815983,True,False,644.45,644.45,,,,,,0.0
+rps_lng-RPT191394,rps_lng-HDO22484369,2022-11-11T00:00:00+00:00,Invoice,Rent,Rent from 11/11/2022 to 21/11/2022 for 35 Gyrfalcon Way,False,True,644.45,644.45,-644.45,,,,21/11/2022,
+rps_lng-RPT191411,rps_lng-HDO21436905,2021-11-12T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay - 28412526 4511,True,False,825.0,825.0,1620.88,,,,,1620.88
+rps_lng-RPT191411,rps_lng-HDO21472857,2021-12-07T00:00:00+00:00,Credit Note,Rent,No longer manage,True,False,73.76,73.76,,,,,,
+rps_lng-RPT191414,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-RPT191414,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-RPT191419,rps_lng-HDO23358195,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41412099,True,False,1825.0,1825.0,,,,,,0.0
+rps_lng-RPT191419,rps_lng-HDO23346266,2023-08-13T00:00:00+01:00,Invoice,Rent,Rent from 13/08/2023 to 12/09/2023 for 16 Winona Circuit,False,True,1825.0,1825.0,-1825.0,,,,12/09/2023,
+rps_lng-RPT191448,rps_lng-HDO23336506,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44814549,True,False,1608.0,1608.0,3216.0,,1608.0,,,3216.0
+rps_lng-RPT191448,rps_lng-HDO23338428,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 11 Bandon Road,False,True,1608.0,1608.0,1608.0,,,,07/09/2023,
+rps_lng-RPT191455,rps_lng-HDO23336545,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 26083667,True,False,1955.0,1955.0,1955.0,,,,,1955.0
+rps_lng-RPT191455,rps_lng-HDO23331169,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 23 Borboleta Street,False,True,1955.0,1955.0,,,,,03/09/2023,
+rps_lng-RPT191460,rps_lng-HDO23355391,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 2 Blossom Lane,False,True,1738.0,1738.0,-1738.0,,1738.0,,16/09/2023,
+rps_lng-RPT191460,rps_lng-HDO23312731,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2BLOSSOMLANE-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-RPT191461,rps_lng-HDO23362436,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37402302,True,False,456.25,456.25,-588.25,,,,,0.0
+rps_lng-RPT191461,rps_lng-HDO23320049,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 20 Stoneyfell Road,False,True,1825.0,1825.0,-1957.0,,588.25,,26/08/2023,
+rps_lng-RPT191462,rps_lng-HDO23338953,2023-08-02T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 24MONARMAWALK,True,False,2173.0,2173.0,,,,,,0.0
+rps_lng-RPT191462,rps_lng-HDO23329168,2023-08-02T00:00:00+01:00,Invoice,Rent,Rent from 02/08/2023 to 01/09/2023 for 24 Monarma Walk,False,True,2173.0,2173.0,-2173.0,,,,01/09/2023,
+rps_lng-RPT191466,rps_lng-HDO23316162,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 29540549,True,False,2021.0,2021.0,1825.0,,,,,1825.0
+rps_lng-RPT191466,rps_lng-HDO23311858,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 4 Lakshmi Street,False,True,2021.0,2021.0,-196.0,,196.0,,22/08/2023,
+rps_lng-RPT191479,rps_lng-HDO23355047,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 23/08/2023 for 18 Cadell Avenue,False,True,400.0,400.0,400.0,,,,23/08/2023,
+rps_lng-RPT191479,rps_lng-HDO23362426,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33136698,True,False,400.0,400.0,800.0,,400.0,,,800.0
+rps_lng-RPT191491,rps_lng-HDO23322252,2023-07-30T00:00:00+01:00,Invoice,Rent,Rent from 30/07/2023 to 29/08/2023 for 30 Prominence Boulevard,False,True,1717.0,1717.0,-1767.0,,,,29/08/2023,
+rps_lng-RPT191491,rps_lng-HDO23348986,2023-08-08T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 48729370,True,False,1792.0,1792.0,,,,,,0.0
+rps_lng-RPT191492,rps_lng-HDO23336506,2023-08-01T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 44814549,True,False,1608.0,1608.0,3216.0,,1608.0,,,3216.0
+rps_lng-RPT191492,rps_lng-HDO23338428,2023-08-08T00:00:00+01:00,Invoice,Rent,Rent from 08/08/2023 to 07/09/2023 for 11 Bandon Road,False,True,1608.0,1608.0,1608.0,,,,07/09/2023,
+rps_lng-RPT191514,rps_lng-HDO23320072,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 15 Attunga Grove,False,True,1630.0,1630.0,-1630.0,,,,28/08/2023,
+rps_lng-RPT191514,rps_lng-HDO23334385,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ATTUNGAGROVE,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-RPT191515,rps_lng-HDO23092922,2023-03-06T00:00:00+00:00,Invoice,Rent,Rent from 03/03/2023 to 12/03/2023 for 12 Southdown Rise,False,True,390.08,390.08,768.35,,,,12/03/2023,
+rps_lng-RPT191515,rps_lng-HDO23105331,2023-03-07T00:00:00+00:00,Payment,Tenant Payment,Tenant repayment,False,True,768.35,768.35,,,,,,0.0
+rps_lng-RPT191524,rps_lng-HDO23324474,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 34886564,True,False,850.0,850.0,10.63,,10.63,,,10.63
+rps_lng-RPT191524,rps_lng-HDO23311776,2023-07-23T00:00:00+01:00,Invoice,Rent,Rent from 23/07/2023 to 22/08/2023 for 39 Laurence Way,False,True,1738.0,1738.0,-839.37,,,,22/08/2023,
+rps_lng-RPT191532,rps_lng-HDO23334073,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411985,True,False,1998.0,1998.0,2303.0,,326.0,,,2303.0
+rps_lng-RPT191532,rps_lng-HDO23326598,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 20 Delias Road,False,True,1977.0,1977.0,326.0,,,,31/08/2023,
+rps_lng-RPT191536,rps_lng-HDO22476851,2022-11-03T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 37761806,True,False,1587.0,1587.0,-500.0,,,,,0.0
+rps_lng-RPT191536,rps_lng-HDO23130534,2023-03-24T00:00:00+00:00,Credit Note,Rent,Lost Management,True,False,313.05,313.05,,,,,,
+rps_lng-RPT191538,rps_lng-HDO23316219,2023-07-19T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 49675291,True,False,4520.0,4520.0,4520.0,,,,,4520.0
+rps_lng-RPT191538,rps_lng-HDO23335344,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 18 Stoneyfell Road,False,True,2260.0,2260.0,2260.0,,,,28/08/2023,
+rps_lng-RPT191547,rps_lng-HDO23312731,2023-07-17T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2BLOSSOMLANE-1,True,False,1738.0,1738.0,,,,,,0.0
+rps_lng-RPT191547,rps_lng-HDO23355391,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 16/09/2023 for 2 Blossom Lane,False,True,1738.0,1738.0,-1738.0,,1738.0,,16/09/2023,
+rps_lng-RPT191548,rps_lng-HDO23356264,2023-08-11T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31049992,True,False,1608.0,1608.0,,,,,,0.0
+rps_lng-RPT191548,rps_lng-HDO23344075,2023-08-11T00:00:00+01:00,Invoice,Rent,Rent from 11/08/2023 to 10/09/2023 for 1/12 Gibralter Gardens,False,True,1608.0,1608.0,-1608.0,,,,10/09/2023,
+rps_lng-RPT191549,rps_lng-HDO23299359,2023-07-09T00:00:00+01:00,Credit Note,Rent,No longer manage/Resider Real Estate,True,False,264.0,264.0,,,,,,
+rps_lng-RPT191549,rps_lng-HDO23267916,2023-06-21T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 40411837,True,False,1717.0,1717.0,1453.0,,,,,1453.0
+rps_lng-RPT191551,rps_lng-HDO23362444,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 31306038,True,False,900.0,900.0,4363.78,,900.0,,,4363.78
+rps_lng-RPT191551,rps_lng-HDO23355237,2023-08-19T00:00:00+01:00,Invoice,Rent,Rent from 19/08/2023 to 01/09/2023 for 29 Heddle Parade,False,True,899.84,899.84,3463.94,,,,01/09/2023,
+rps_lng-RPT191562,rps_lng-HDO23285091,2023-07-07T00:00:00+01:00,Invoice,Rent,Rent from 07/07/2023 to 06/08/2023 for 51 Rowan Drive,False,True,1738.0,1738.0,-100.0,,,,06/08/2023,
+rps_lng-RPT191562,rps_lng-HDO23329376,2023-07-27T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 41411752,True,False,1738.0,1738.0,1638.0,,1638.0,,,1638.0
+rps_lng-RPT191570,rps_lng-HDO23334385,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 15ATTUNGAGROVE,True,False,1630.0,1630.0,,,,,,0.0
+rps_lng-RPT191570,rps_lng-HDO23320072,2023-07-29T00:00:00+01:00,Invoice,Rent,Rent from 29/07/2023 to 28/08/2023 for 15 Attunga Grove,False,True,1630.0,1630.0,-1630.0,,,,28/08/2023,
+rps_lng-RPT191624,rps_lng-HDO23334025,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42773622,True,False,1651.0,1651.0,,,,,,0.0
+rps_lng-RPT191624,rps_lng-HDO23324325,2023-07-31T00:00:00+01:00,Invoice,Rent,Rent from 31/07/2023 to 30/08/2023 for 1/68 Conquest Drive,False,True,1651.0,1651.0,-1651.0,,,,30/08/2023,
+rps_lng-RPT191626,rps_lng-HDO23331246,2023-08-04T00:00:00+01:00,Invoice,Rent,Rent from 04/08/2023 to 03/09/2023 for 20 Stoneleigh Circuit,False,True,2086.0,2086.0,-131.0,,131.0,,03/09/2023,
+rps_lng-RPT191626,rps_lng-HDO23334087,2023-07-31T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 43397645,True,False,2086.0,2086.0,1955.0,,,,,1955.0
+rps_lng-RPT191633,rps_lng-HDO23355047,2023-08-17T00:00:00+01:00,Invoice,Rent,Rent from 17/08/2023 to 23/08/2023 for 18 Cadell Avenue,False,True,400.0,400.0,400.0,,,,23/08/2023,
+rps_lng-RPT191633,rps_lng-HDO23362426,2023-08-16T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 33136698,True,False,400.0,400.0,800.0,,400.0,,,800.0
+rps_lng-RPT193202,rps_lng-HDO23349849,2023-08-09T00:00:00+01:00,Debit Adjustment,Tenant Payment,Adjust assignment of: Tenancy Receipt Ref: HOMETIME          HOMETIME GROUP P,False,True,2620.99,2620.99,,,,,,0.0
+rps_lng-RPT193273,rps_lng-HDO22244039,2022-06-15T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014410038-15074645RTBA,30 DALZIEL",True,False,117.17,117.17,,,,,,0.0
+rps_lng-RPT193273,rps_lng-HDO22217744,2022-06-04T00:00:00+01:00,Invoice,Rent,Rent from 04/06/2022 to 05/06/2022 for 30 Dalziel Drive,False,True,117.17,117.17,-117.17,,,,05/06/2022,
+rps_lng-RPT193274,rps_lng-HDO23340848,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39757968,True,False,847.5,847.5,1695.0,,,,,1695.0
+rps_lng-RPT193274,rps_lng-HDO23343996,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 71A Rowan Drive,False,True,1695.0,1695.0,,,,,11/09/2023,
+rps_lng-RPT193414,rps_lng-HDO22232106,2022-06-12T00:00:00+01:00,Invoice,Rent,Rent from 12/06/2022 to 11/07/2022 for 1/20 Duke Street,False,True,1304.0,1304.0,-1304.0,,,,11/07/2022,
+rps_lng-RPT193414,rps_lng-HDO22241753,2022-06-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 42137398,True,False,1304.0,1304.0,,,,,,0.0
+rps_lng-SAN210008,rps_lng-HDO23350629,2023-08-15T00:00:00+01:00,Invoice,Rent,Rent from 15/08/2023 to 14/09/2023 for 2901/8 Kavanagh Street,False,True,10428.0,10428.0,-10462.8,,,,14/09/2023,
+rps_lng-SAN210008,rps_lng-HDO23360716,2023-08-15T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 2901/8KAVANAGHSTRE,True,False,10428.0,10428.0,-34.8,,,,,0.0
+rps_lng-SAN210021,rps_lng-HDO22215949,2022-05-26T00:00:00+01:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014391690-14700988RTBA,4 BANQUET D",True,False,53.42,53.42,,,,,,0.0
+rps_lng-SAN210021,rps_lng-HDO22188682,2022-05-14T00:00:00+01:00,Invoice,Rent,Rent from 14/05/2022 to 14/05/2022 for 4 Banquet Drive,False,True,56.42,56.42,-653.42,,,,14/05/2022,
+rps_lng-SAN210033,rps_lng-HDO23344474,2023-08-12T00:00:00+01:00,Invoice,Rent,Rent from 12/08/2023 to 11/09/2023 for 94 Waverley Street,False,True,3259.0,3259.0,-3259.0,,,,11/09/2023,
+rps_lng-SAN210033,rps_lng-HDO23358355,2023-08-14T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: 94WAVERLEYSTREET,True,False,3259.0,3259.0,,,,,,0.0
+rps_lng-SAN220057,rps_lng-HDO23324531,2023-07-25T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 46465456,True,False,1999.0,1999.0,1739.0,,,,,1739.0
+rps_lng-SAN220057,rps_lng-HDO23327225,2023-08-01T00:00:00+01:00,Invoice,Rent,Rent from 01/08/2023 to 31/08/2023 for 16 Serene Street,False,True,2064.0,2064.0,-325.0,,325.0,,31/08/2023,
+rps_lng-SAN220077,rps_lng-HDO23103616,2023-03-06T00:00:00+00:00,Credit Note,Rent,Tenant vacated 10/06/22,True,False,3380.0,3380.0,,,,,,
+rps_lng-SAN220077,rps_lng-HDO23046192,2023-01-30T00:00:00+00:00,Payment,Tenant Payment,Tenancy Receipt Ref: 430RACECOURSEROA-2,True,False,3042.0,3042.0,-3480.53,,,,,0.0
+rps_lng-WES200024,rps_lng-HDO23024707,2023-01-22T00:00:00+00:00,Invoice,Rent,Rent from 22/01/2023 to 24/01/2023 for 3 Crystal Road,False,True,165.01,165.01,-2013.01,,,,24/01/2023,
+rps_lng-WES200024,rps_lng-HDO23060996,2023-02-08T00:00:00+00:00,Payment,Tenant Payment,"Tenancy Receipt Ref: 014645257-15237179RTBA,3 CRYSTAL R",True,False,500.0,500.0,,,,,,0.0
+rps_lng-WES200030,rps_lng-HDO23319991,2023-07-27T00:00:00+01:00,Invoice,Rent,Rent from 27/07/2023 to 26/08/2023 for 3 Sundial Boulevard,False,True,2390.0,2390.0,-2360.0,,,,26/08/2023,
+rps_lng-WES200030,rps_lng-HDO23340940,2023-08-03T00:00:00+01:00,Payment,Tenant Payment,Tenancy Receipt Ref: DEFT Bpay 39759816,True,False,2390.0,2390.0,30.0,,30.0,,,30.0
