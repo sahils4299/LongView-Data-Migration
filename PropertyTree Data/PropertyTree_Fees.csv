@@ -2,7 +2,7 @@ fee_id,name,fee_type,account_code,applies_to,applies_to_new,amount,include_gst
 1,Management Fee,Property_Percent_RentReceipted,300004,Residential,Residential,6.6,1
 2,Leasing Fee,Property_Percent_NewTenancy,300005,Residential,Residential,2.2,1
 3,Advertising Fee,Property_Flat_NewTenancy,300003,Residential,Residential,400.0,1
-4,Management Renewal Fee,Property_Percent_LeaseRenewal,300010,Residential,Residential,220.0,1
+4,Management Renewal Fee,Property_Flat_LeaseRenewal,300010,Residential,Residential,220.0,1
 5,Tenant Transfer Fee,Tenancy_Flat_Manual,300019,Residential,Residential,5.5,1
 6,Accounts Admin Fee,Property_Flat_Manual,100007,Residential,Residential,5.5,1
 7,EOFY Statement Fee,Property_Flat_Manual,300001,Residential,Residential,30.0,1
